@@ -237,7 +237,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:44 00:00:51 tt-3887 MF017_1959_EP_SU2011_AD_08 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:44 00:00:51 tt-3888 MF017_1959_EP_SU2011_AD_08 
+	"suyo" Pronoun PPO Singular lang:es 00:00:44 00:00:51 tt-3888 MF017_1959_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<época>"
 	"época" Noun NC Singular lang:es 00:00:44 00:00:51 tt-3889 MF017_1959_EP_SU2011_AD_08 
 "<,>"
@@ -245,7 +245,7 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:44 00:00:51 tt-3891 MF017_1959_EP_SU2011_AD_08 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:44 00:00:51 tt-3892 MF017_1959_EP_SU2011_AD_08 
+	"mío" Pronoun PPO Singular lang:es 00:00:44 00:00:51 tt-3892 MF017_1959_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:44 00:00:51 tt-3893 MF017_1959_EP_SU2011_AD_08 
 "<falleció>"
@@ -261,7 +261,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:44 00:00:51 tt-3899 MF017_1959_EP_SU2011_AD_08 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:44 00:00:51 tt-3900 MF017_1959_EP_SU2011_AD_08 
+	"suyo" Pronoun PPO Singular lang:es 00:00:44 00:00:51 tt-3900 MF017_1959_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<lado>"
 	"lado" Noun NC Singular lang:es 00:00:44 00:00:51 tt-3901 MF017_1959_EP_SU2011_AD_08 
 "<,>"
@@ -514,7 +514,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:35 00:01:42 tt-4015 MF017_1959_EP_SU2011_AD_08 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:35 00:01:42 tt-4016 MF017_1959_EP_SU2011_AD_08 
+	"al" Preposition PAL lang:es 00:01:35 00:01:42 tt-4016 MF017_1959_EP_SU2011_AD_08 @Gram:Prep 
 "<último>"
 	"último" Adjective ADJ Singular lang:es 00:01:35 00:01:42 tt-4017 MF017_1959_EP_SU2011_AD_08 
 "<sí>"
@@ -727,7 +727,7 @@
 "<todas>"
 	"todo" Determiner QU lang:es 00:02:16 00:02:22 tt-4116 MF017_1959_EP_SU2011_AD_08 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:02:16 00:02:22 tt-4117 MF017_1959_EP_SU2011_AD_08 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:02:16 00:02:22 tt-4117 MF017_1959_EP_SU2011_AD_08 @Gram:SerEstar:Ser 
 "<ya>"
 	"ya" Adverb ADV lang:es 00:02:16 00:02:22 tt-4118 MF017_1959_EP_SU2011_AD_08 
 "<en>"
@@ -759,7 +759,7 @@
 "<ir>"
 	"ir" Verb VLinf Infinitive lang:es 00:02:16 00:02:22 tt-4132 MF017_1959_EP_SU2011_AD_08 
 "<al>"
-	"al" Preposition PAL lang:es 00:02:16 00:02:22 tt-4133 MF017_1959_EP_SU2011_AD_08 
+	"al" Preposition PAL lang:es 00:02:16 00:02:22 tt-4133 MF017_1959_EP_SU2011_AD_08 @Gram:Prep 
 "<centro>"
 	"centro" Noun NC Singular lang:es 00:02:22 00:02:26 tt-4134 MF017_1959_EP_SU2011_AD_08 
 "<de>"

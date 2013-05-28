@@ -11,9 +11,9 @@
 "<cuál>"
 	"cuál" Pronoun INT Singular lang:es 00:00:00 00:00:07 tt-155 AF050_1955_GV_FA2011_JT_02 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-156 AF050_1955_GV_FA2011_JT_02 ID:6 R:Gram:PerfPerif:7 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-156 AF050_1955_GV_FA2011_JT_02 ID:6 R:Gram:SerEstar:Ser:7 R:Gram:Aux:Haber:7 R:Gram:PerfPerif:7 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:00 00:00:07 tt-157 AF050_1955_GV_FA2011_JT_02 @Gram:SerEstar:Ser ID:7 
+	"ser" Verb VSadj Participle lang:es 00:00:00 00:00:07 tt-157 AF050_1955_GV_FA2011_JT_02 ID:7 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-158 AF050_1955_GV_FA2011_JT_02 
 "<momento>"
@@ -23,7 +23,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-161 AF050_1955_GV_FA2011_JT_02 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-162 AF050_1955_GV_FA2011_JT_02 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-162 AF050_1955_GV_FA2011_JT_02 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:00 00:00:07 tt-163 AF050_1955_GV_FA2011_JT_02 
 "<$.>"
@@ -120,7 +120,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:20 00:00:27 tt-208 AF050_1955_GV_FA2011_JT_02 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:20 00:00:27 tt-209 AF050_1955_GV_FA2011_JT_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:20 00:00:27 tt-209 AF050_1955_GV_FA2011_JT_02 @Gram:Det:Pos 
 "<mente>"
 	"mente" Noun NC Singular lang:es 00:00:20 00:00:27 tt-210 AF050_1955_GV_FA2011_JT_02 
 "<ahorita>"

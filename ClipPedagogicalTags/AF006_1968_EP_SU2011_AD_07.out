@@ -9,7 +9,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:00 00:00:06 tt-687 AF006_1968_EP_SU2011_AD_07 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:06 tt-688 AF006_1968_EP_SU2011_AD_07 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:06 tt-688 AF006_1968_EP_SU2011_AD_07 
 "<esposo>"
 	"esposar" Verb VLfin Pres Indi Sing 1st lang:es 00:00:00 00:00:06 tt-689 AF006_1968_EP_SU2011_AD_07 
 "<$?>"
@@ -37,7 +37,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:06 00:00:13 tt-700 AF006_1968_EP_SU2011_AD_07 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:06 00:00:13 tt-701 AF006_1968_EP_SU2011_AD_07 
+	"suyo" Pronoun PPO Singular lang:es 00:00:06 00:00:13 tt-701 AF006_1968_EP_SU2011_AD_07 @Gram:Det:Pos 
 "<hermano>"
 	"hermano" Noun NC Singular lang:es 00:00:06 00:00:13 tt-702 AF006_1968_EP_SU2011_AD_07 
 "<,>"
@@ -282,7 +282,7 @@
 	"." Punctuation FS lang:es 00:01:08 00:01:12 tt-828 AF006_1968_EP_SU2011_AD_07 
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:08 00:01:12 tt-829 AF006_1968_EP_SU2011_AD_07 
+	"mío" Pronoun PPO Singular lang:es 00:01:08 00:01:12 tt-829 AF006_1968_EP_SU2011_AD_07 @Gram:Det:Pos 
 "<suegro>"
 	"suegro" Noun NC Singular lang:es 00:01:08 00:01:12 tt-830 AF006_1968_EP_SU2011_AD_07 
 "<estaba>"
@@ -330,7 +330,7 @@
 "<pedir>"
 	"pedir" Verb VLinf Pres Command Plural 2nd lang:es 00:01:19 00:01:24 tt-854 AF006_1968_EP_SU2011_AD_07 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:01:19 00:01:24 tt-855 AF006_1968_EP_SU2011_AD_07 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:01:19 00:01:24 tt-855 AF006_1968_EP_SU2011_AD_07 @Gram:Det:Pos 
 "<mano>"
 	"mano" Noun NC Singular lang:es 00:01:19 00:01:24 tt-856 AF006_1968_EP_SU2011_AD_07 
 "<$.>"

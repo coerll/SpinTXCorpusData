@@ -46,7 +46,7 @@
 "<año>"
 	"año" Noun NC Singular lang:es 00:00:09 00:00:16 tt-1884 MF034_1970_CT_SU2011_VA_03 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:09 00:00:16 tt-1885 MF034_1970_CT_SU2011_VA_03 
+	"del" Preposition PDEL lang:es 00:00:09 00:00:16 tt-1885 MF034_1970_CT_SU2011_VA_03 @Gram:Prep 
 "<dos>"
 	"dos" Determiner CARD Plural lang:es 00:00:09 00:00:16 tt-1886 MF034_1970_CT_SU2011_VA_03 
 "<mil>"
@@ -88,9 +88,9 @@
 "<el>"
 	"el" Determiner ART Singular lang:es 00:00:17 00:00:24 tt-1905 MF034_1970_CT_SU2011_VA_03 @Gram:Det:Art 
 "<estar>"
-	"estar" Verb VEinf Infinitive lang:es 00:00:17 00:00:24 tt-1906 MF034_1970_CT_SU2011_VA_03 @Gram:SerEstar:Estar 
+	"estar" Verb VEinf Infinitive lang:es 00:00:17 00:00:24 tt-1906 MF034_1970_CT_SU2011_VA_03 @Gram:SerEstar:Estar ID:44 R:Gram:SerEstar:EstarAux:45 
 "<trabajando>"
-	"trabajar" Verb VLger lang:es 00:00:17 00:00:24 tt-1907 MF034_1970_CT_SU2011_VA_03 
+	"trabajar" Verb VLger lang:es 00:00:17 00:00:24 tt-1907 MF034_1970_CT_SU2011_VA_03 ID:45 
 "<en>"
 	"en" Preposition PREP lang:es 00:00:17 00:00:24 tt-1908 MF034_1970_CT_SU2011_VA_03 @Gram:Prep 
 "<esta>"
@@ -174,9 +174,9 @@
 "<dueña>"
 	"dueño" Noun NC Singular lang:es 00:00:32 00:00:37 tt-1949 MF034_1970_CT_SU2011_VA_03 
 "<estaba>"
-	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:32 00:00:37 tt-1950 MF034_1970_CT_SU2011_VA_03 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:32 00:00:37 tt-1950 MF034_1970_CT_SU2011_VA_03 @Gram:Imperf @Gram:SerEstar:Estar ID:86 R:Gram:SerEstar:EstarAux:87 
 "<buscando>"
-	"buscar" Verb VLger lang:es 00:00:32 00:00:37 tt-1951 MF034_1970_CT_SU2011_VA_03 
+	"buscar" Verb VLger lang:es 00:00:32 00:00:37 tt-1951 MF034_1970_CT_SU2011_VA_03 ID:87 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:32 00:00:37 tt-1952 MF034_1970_CT_SU2011_VA_03 @Gram:Prep 
 "<alguien>"
@@ -186,7 +186,7 @@
 "<pero>"
 	"pero" Conjunction CCAD lang:es 00:00:37 00:00:43 tt-1955 MF034_1970_CT_SU2011_VA_03 @Prag:MarcadoresDisc:Revision 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:37 00:00:43 tt-1956 MF034_1970_CT_SU2011_VA_03 
+	"al" Preposition PAL lang:es 00:00:37 00:00:43 tt-1956 MF034_1970_CT_SU2011_VA_03 @Gram:Prep 
 "<final>"
 	"final" Adjective ADJ Singular lang:es 00:00:37 00:00:43 tt-1957 MF034_1970_CT_SU2011_VA_03 
 "<me>"
@@ -217,9 +217,9 @@
 "<bastante>"
 	"bastante" Adverb ADV lang:es 00:00:37 00:00:43 tt-1970 MF034_1970_CT_SU2011_VA_03 
 "<estar>"
-	"estar" Verb VEinf Infinitive lang:es 00:00:37 00:00:43 tt-1971 MF034_1970_CT_SU2011_VA_03 @Gram:SerEstar:Estar 
+	"estar" Verb VEinf Infinitive lang:es 00:00:37 00:00:43 tt-1971 MF034_1970_CT_SU2011_VA_03 @Gram:SerEstar:Estar ID:107 R:Gram:SerEstar:EstarAux:108 
 "<trabajando>"
-	"trabajar" Verb VLger lang:es 00:00:43 00:00:47 tt-1972 MF034_1970_CT_SU2011_VA_03 
+	"trabajar" Verb VLger lang:es 00:00:43 00:00:47 tt-1972 MF034_1970_CT_SU2011_VA_03 ID:108 
 "<ahí>"
 	"ahí" Adverb ADV lang:es 00:00:43 00:00:47 tt-1973 MF034_1970_CT_SU2011_VA_03 
 "<,>"
@@ -251,7 +251,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:43 00:00:47 tt-1987 MF034_1970_CT_SU2011_VA_03 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:43 00:00:47 tt-1988 MF034_1970_CT_SU2011_VA_03 
+	"UNK" Noun NC Plural lang:es 00:00:43 00:00:47 tt-1988 MF034_1970_CT_SU2011_VA_03 @Gram:Det:Pos 
 "<hijas>"
 	"hijo" Noun NC Plural lang:es 00:00:43 00:00:47 tt-1989 MF034_1970_CT_SU2011_VA_03 
 "<$.>"
@@ -262,7 +262,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:47 00:00:54 tt-1992 MF034_1970_CT_SU2011_VA_03 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:47 00:00:54 tt-1993 MF034_1970_CT_SU2011_VA_03 ID:129 R:Gram:PerfPerif:130 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:47 00:00:54 tt-1993 MF034_1970_CT_SU2011_VA_03 ID:129 R:Gram:Aux:Haber:130 R:Gram:PerfPerif:130 
 "<gustado>"
 	"gustar" Verb VLadj lang:es 00:00:47 00:00:54 tt-1994 MF034_1970_CT_SU2011_VA_03 ID:130 
 "<a>"
@@ -304,7 +304,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:54 00:01:01 tt-2013 MF034_1970_CT_SU2011_VA_03 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:54 00:01:01 tt-2014 MF034_1970_CT_SU2011_VA_03 
+	"mío" Pronoun PPO Singular lang:es 00:00:54 00:01:01 tt-2014 MF034_1970_CT_SU2011_VA_03 @Gram:Det:Pos 
 "<horario>"
 	"horario" Noun NC Singular lang:es 00:00:54 00:01:01 tt-2015 MF034_1970_CT_SU2011_VA_03 
 "<era>"
@@ -320,7 +320,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:54 00:01:01 tt-2021 MF034_1970_CT_SU2011_VA_03 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:54 00:01:01 tt-2022 MF034_1970_CT_SU2011_VA_03 
+	"mío" Pronoun PPO Singular lang:es 00:00:54 00:01:01 tt-2022 MF034_1970_CT_SU2011_VA_03 @Gram:Det:Pos 
 "<casa>"
 	"casa" Noun NC Singular lang:es 00:00:54 00:01:01 tt-2023 MF034_1970_CT_SU2011_VA_03 
 "<a>"
@@ -382,7 +382,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:09 00:01:16 tt-2052 MF034_1970_CT_SU2011_VA_03 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:09 00:01:16 tt-2053 MF034_1970_CT_SU2011_VA_03 
+	"mío" Pronoun PPO Singular lang:es 00:01:09 00:01:16 tt-2053 MF034_1970_CT_SU2011_VA_03 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:01:09 00:01:16 tt-2054 MF034_1970_CT_SU2011_VA_03 
 "<$.>"
@@ -411,7 +411,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:09 00:01:16 tt-2066 MF034_1970_CT_SU2011_VA_03 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:01:09 00:01:16 tt-2067 MF034_1970_CT_SU2011_VA_03 
+	"UNK" Noun NC Plural lang:es 00:01:09 00:01:16 tt-2067 MF034_1970_CT_SU2011_VA_03 @Gram:Det:Pos 
 "<hijas>"
 	"hijo" Noun NC Plural lang:es 00:01:09 00:01:16 tt-2068 MF034_1970_CT_SU2011_VA_03 
 "<no>"

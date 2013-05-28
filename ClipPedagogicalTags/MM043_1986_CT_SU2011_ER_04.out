@@ -28,7 +28,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:04 00:00:11 tt-690 MM043_1986_CT_SU2011_ER_04 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:04 00:00:11 tt-691 MM043_1986_CT_SU2011_ER_04 ID:14 R:Gram:PerfPerif:15 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:04 00:00:11 tt-691 MM043_1986_CT_SU2011_ER_04 ID:14 R:Gram:Aux:Haber:15 R:Gram:PerfPerif:15 
 "<pasado>"
 	"pasar" Verb VLadj lang:es 00:00:04 00:00:11 tt-692 MM043_1986_CT_SU2011_ER_04 ID:15 
 "<este>"
@@ -48,7 +48,7 @@
 "<hasta>"
 	"hasta" Preposition PREP lang:es 00:00:04 00:00:11 tt-700 MM043_1986_CT_SU2011_ER_04 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:04 00:00:11 tt-701 MM043_1986_CT_SU2011_ER_04 
+	"mío" Pronoun PPO Singular lang:es 00:00:04 00:00:11 tt-701 MM043_1986_CT_SU2011_ER_04 @Gram:Det:Pos 
 "<padre>"
 	"padre" Noun NC Singular lang:es 00:00:04 00:00:11 tt-702 MM043_1986_CT_SU2011_ER_04 
 "<que>"
@@ -278,7 +278,7 @@
 "<regresar>"
 	"regresar" Verb VLinf Infinitive lang:es 00:00:45 00:00:52 tt-815 MM043_1986_CT_SU2011_ER_04 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:45 00:00:52 tt-816 MM043_1986_CT_SU2011_ER_04 
+	"al" Preposition PAL lang:es 00:00:45 00:00:52 tt-816 MM043_1986_CT_SU2011_ER_04 @Gram:Prep 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:45 00:00:52 tt-817 MM043_1986_CT_SU2011_ER_04 
 "<y>"

@@ -29,7 +29,7 @@
 "<resolver>"
 	"resolver" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-4389 MF025_1967_CT_SU2011_VA_07 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:00 00:00:07 tt-4390 MF025_1967_CT_SU2011_VA_07 
+	"UNK" Noun NC Plural lang:es 00:00:00 00:00:07 tt-4390 MF025_1967_CT_SU2011_VA_07 @Gram:Det:Pos 
 "<problemas>"
 	"problema" Noun NC Plural lang:es 00:00:00 00:00:07 tt-4391 MF025_1967_CT_SU2011_VA_07 
 "<$.>"
@@ -133,7 +133,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:20 00:00:27 tt-4440 MF025_1967_CT_SU2011_VA_07 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:20 00:00:27 tt-4441 MF025_1967_CT_SU2011_VA_07 
+	"mío" Pronoun PPO Singular lang:es 00:00:20 00:00:27 tt-4441 MF025_1967_CT_SU2011_VA_07 @Gram:Det:Pos 
 "<madre>"
 	"madre" Noun NC Singular lang:es 00:00:20 00:00:27 tt-4442 MF025_1967_CT_SU2011_VA_07 
 "<me>"
@@ -227,7 +227,7 @@
 "<para>"
 	"para" Preposition PREP lang:es 00:00:42 00:00:49 tt-4487 MF025_1967_CT_SU2011_VA_07 @Gram:Prep:Para 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:42 00:00:49 tt-4488 MF025_1967_CT_SU2011_VA_07 
+	"UNK" Noun NC Plural lang:es 00:00:42 00:00:49 tt-4488 MF025_1967_CT_SU2011_VA_07 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:42 00:00:49 tt-4489 MF025_1967_CT_SU2011_VA_07 
 "<,>"
@@ -323,7 +323,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:00 00:01:07 tt-4534 MF025_1967_CT_SU2011_VA_07 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:00 00:01:07 tt-4535 MF025_1967_CT_SU2011_VA_07 
+	"mío" Pronoun PPO Singular lang:es 00:01:00 00:01:07 tt-4535 MF025_1967_CT_SU2011_VA_07 @Gram:Det:Pos 
 "<hogar>"
 	"hogar" Noun NC Singular lang:es 00:01:00 00:01:07 tt-4536 MF025_1967_CT_SU2011_VA_07 
 "<y>"
@@ -343,7 +343,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:07 00:01:14 tt-4544 MF025_1967_CT_SU2011_VA_07 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:07 00:01:14 tt-4545 MF025_1967_CT_SU2011_VA_07 
+	"mío" Pronoun PPO Singular lang:es 00:01:07 00:01:14 tt-4545 MF025_1967_CT_SU2011_VA_07 @Gram:Det:Pos 
 "<hogar>"
 	"hogar" Noun NC Singular lang:es 00:01:07 00:01:14 tt-4546 MF025_1967_CT_SU2011_VA_07 
 "<,>"
@@ -391,7 +391,7 @@
 "<o>"
 	"o" Conjunction CC lang:es 00:01:15 00:01:22 tt-4568 MF025_1967_CT_SU2011_VA_07 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:01:15 00:01:22 tt-4569 MF025_1967_CT_SU2011_VA_07 
+	"UNK" Noun NC Plural lang:es 00:01:15 00:01:22 tt-4569 MF025_1967_CT_SU2011_VA_07 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:01:15 00:01:22 tt-4570 MF025_1967_CT_SU2011_VA_07 
 "<fallan>"
@@ -428,9 +428,9 @@
 "<ni>"
 	"ni" Conjunction CCNEG lang:es 00:01:22 00:01:29 tt-4586 MF025_1967_CT_SU2011_VA_07 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:01:22 00:01:29 tt-4587 MF025_1967_CT_SU2011_VA_07 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:01:22 00:01:29 tt-4587 MF025_1967_CT_SU2011_VA_07 @Gram:SerEstar:Estar ID:212 R:Gram:SerEstar:EstarAux:213 
 "<tratando>"
-	"tratar" Verb VLger lang:es 00:01:22 00:01:29 tt-4588 MF025_1967_CT_SU2011_VA_07 
+	"tratar" Verb VLger lang:es 00:01:22 00:01:29 tt-4588 MF025_1967_CT_SU2011_VA_07 ID:213 
 "<de>"
 	"de" Conjunction CSUBI lang:es 00:01:22 00:01:29 tt-4589 MF025_1967_CT_SU2011_VA_07 
 "<decir>"
@@ -465,7 +465,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:31 00:01:38 tt-4604 MF025_1967_CT_SU2011_VA_07 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:31 00:01:38 tt-4605 MF025_1967_CT_SU2011_VA_07 
+	"mío" Pronoun PPO Singular lang:es 00:01:31 00:01:38 tt-4605 MF025_1967_CT_SU2011_VA_07 @Gram:Det:Pos 
 "<esposo>"
 	"esposo" Noun NC Singular lang:es 00:01:31 00:01:38 tt-4606 MF025_1967_CT_SU2011_VA_07 
 "<y>"
@@ -527,7 +527,7 @@
 "<nos>"
 	"nosotros" Pronoun PPX Plural lang:es 00:01:39 00:01:46 tt-4635 MF025_1967_CT_SU2011_VA_07 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:39 00:01:46 tt-4636 MF025_1967_CT_SU2011_VA_07 ID:261 R:Gram:PerfPerif:262 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:39 00:01:46 tt-4636 MF025_1967_CT_SU2011_VA_07 ID:261 R:Gram:Aux:Haber:262 R:Gram:PerfPerif:262 
 "<levantado>"
 	"levantar" Verb VLadj lang:es 00:01:39 00:01:46 tt-4637 MF025_1967_CT_SU2011_VA_07 ID:262 
 "<y>"
@@ -572,7 +572,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:01:55 00:02:02 tt-4657 MF025_1967_CT_SU2011_VA_07 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:55 00:02:02 tt-4658 MF025_1967_CT_SU2011_VA_07 
+	"mío" Pronoun PPO Singular lang:es 00:01:55 00:02:02 tt-4658 MF025_1967_CT_SU2011_VA_07 @Gram:Det:Pos 
 "<hogar>"
 	"hogar" Noun NC Singular lang:es 00:01:55 00:02:02 tt-4659 MF025_1967_CT_SU2011_VA_07 
 "<,>"
@@ -689,7 +689,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:02:21 00:02:28 tt-4715 MF025_1967_CT_SU2011_VA_07 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:21 00:02:28 tt-4716 MF025_1967_CT_SU2011_VA_07 
+	"UNK" Noun NC Plural lang:es 00:02:21 00:02:28 tt-4716 MF025_1967_CT_SU2011_VA_07 @Gram:Det:Pos 
 "<padres>"
 	"padre" Noun NC Plural lang:es 00:02:21 00:02:28 tt-4717 MF025_1967_CT_SU2011_VA_07 
 "<regresaron>"
@@ -745,7 +745,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:02:28 00:02:34 tt-4743 MF025_1967_CT_SU2011_VA_07 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:28 00:02:34 tt-4744 MF025_1967_CT_SU2011_VA_07 
+	"UNK" Noun NC Plural lang:es 00:02:28 00:02:34 tt-4744 MF025_1967_CT_SU2011_VA_07 @Gram:Det:Pos 
 "<hermanos>"
 	"hermano" Noun NC Plural lang:es 00:02:28 00:02:34 tt-4745 MF025_1967_CT_SU2011_VA_07 
 "<están>"
@@ -778,7 +778,7 @@
 "<para>"
 	"para" Preposition PREP lang:es 00:02:34 00:02:41 tt-4759 MF025_1967_CT_SU2011_VA_07 @Gram:Prep:Para 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:34 00:02:41 tt-4760 MF025_1967_CT_SU2011_VA_07 
+	"UNK" Noun NC Plural lang:es 00:02:34 00:02:41 tt-4760 MF025_1967_CT_SU2011_VA_07 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:02:34 00:02:41 tt-4761 MF025_1967_CT_SU2011_VA_07 
 "<y>"
@@ -871,9 +871,9 @@
 "<aunque>"
 	"aunque" Conjunction CSUBX lang:es 00:02:56 00:03:02 tt-4805 MF025_1967_CT_SU2011_VA_07 @Prag:MarcadoresDisc:Revision 
 "<está>"
-	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:02:56 00:03:02 tt-4806 MF025_1967_CT_SU2011_VA_07 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:02:56 00:03:02 tt-4806 MF025_1967_CT_SU2011_VA_07 @Gram:SerEstar:Estar ID:431 R:Gram:SerEstar:EstarAux:432 
 "<pasando>"
-	"pasar" Verb VLger lang:es 00:02:56 00:03:02 tt-4807 MF025_1967_CT_SU2011_VA_07 
+	"pasar" Verb VLger lang:es 00:02:56 00:03:02 tt-4807 MF025_1967_CT_SU2011_VA_07 ID:432 
 "<por>"
 	"por" Preposition PREP lang:es 00:02:56 00:03:02 tt-4808 MF025_1967_CT_SU2011_VA_07 @Gram:Prep:Por 
 "<una>"
@@ -1006,7 +1006,7 @@
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:03:22 00:03:29 tt-4872 MF025_1967_CT_SU2011_VA_07 @Gram:Pron:Sujeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:03:22 00:03:29 tt-4873 MF025_1967_CT_SU2011_VA_07 ID:498 R:Gram:PerfPerif:499 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:03:22 00:03:29 tt-4873 MF025_1967_CT_SU2011_VA_07 ID:498 R:Gram:Aux:Haber:499 R:Gram:PerfPerif:499 
 "<encontrado>"
 	"encontrar" Verb VLadj lang:es 00:03:22 00:03:29 tt-4874 MF025_1967_CT_SU2011_VA_07 ID:499 
 "<aquí>"
@@ -1018,7 +1018,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:03:22 00:03:29 tt-4878 MF025_1967_CT_SU2011_VA_07 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:03:22 00:03:29 tt-4879 MF025_1967_CT_SU2011_VA_07 ID:504 R:Gram:PerfPerif:505 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:03:22 00:03:29 tt-4879 MF025_1967_CT_SU2011_VA_07 ID:504 R:Gram:Aux:Haber:505 R:Gram:PerfPerif:505 
 "<encontrado>"
 	"encontrar" Verb VLadj lang:es 00:03:22 00:03:29 tt-4880 MF025_1967_CT_SU2011_VA_07 ID:505 
 "<personas>"
@@ -1032,13 +1032,13 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:03:30 00:03:37 tt-4885 MF025_1967_CT_SU2011_VA_07 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:03:30 00:03:37 tt-4886 MF025_1967_CT_SU2011_VA_07 
+	"mío" Pronoun PPO Singular lang:es 00:03:30 00:03:37 tt-4886 MF025_1967_CT_SU2011_VA_07 @Gram:Det:Pos 
 "<lado>"
 	"lado" Noun NC Singular lang:es 00:03:30 00:03:37 tt-4887 MF025_1967_CT_SU2011_VA_07 
 "<como>"
 	"como" Conjunction CSUBX lang:es 00:03:30 00:03:37 tt-4888 MF025_1967_CT_SU2011_VA_07 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:03:30 00:03:37 tt-4889 MF025_1967_CT_SU2011_VA_07 
+	"UNK" Noun NC Plural lang:es 00:03:30 00:03:37 tt-4889 MF025_1967_CT_SU2011_VA_07 @Gram:Det:Pos 
 "<hermanas>"
 	"hermano" Noun NC Plural lang:es 00:03:30 00:03:37 tt-4890 MF025_1967_CT_SU2011_VA_07 
 "<,>"
@@ -1056,7 +1056,7 @@
 "<como>"
 	"como" Conjunction CSUBX lang:es 00:03:30 00:03:37 tt-4897 MF025_1967_CT_SU2011_VA_07 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:03:30 00:03:37 tt-4898 MF025_1967_CT_SU2011_VA_07 
+	"UNK" Noun NC Plural lang:es 00:03:30 00:03:37 tt-4898 MF025_1967_CT_SU2011_VA_07 @Gram:Det:Pos 
 "<padres>"
 	"padre" Noun NC Plural lang:es 00:03:30 00:03:37 tt-4899 MF025_1967_CT_SU2011_VA_07 
 "<$.>"
@@ -1121,7 +1121,7 @@
 "<llenan>"
 	"llenar" Verb VLfin Pres Indi Plural 3rd lang:es 00:03:44 00:03:51 tt-4929 MF025_1967_CT_SU2011_VA_07 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:03:44 00:03:51 tt-4930 MF025_1967_CT_SU2011_VA_07 
+	"mío" Pronoun PPO Singular lang:es 00:03:44 00:03:51 tt-4930 MF025_1967_CT_SU2011_VA_07 @Gram:Det:Pos 
 "<corazón>"
 	"corazón" Noun NC Singular lang:es 00:03:44 00:03:51 tt-4931 MF025_1967_CT_SU2011_VA_07 
 "<y>"

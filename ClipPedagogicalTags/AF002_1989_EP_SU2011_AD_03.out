@@ -25,7 +25,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:07 00:00:14 tt-524 AF002_1989_EP_SU2011_AD_03 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:07 00:00:14 tt-525 AF002_1989_EP_SU2011_AD_03 ID:11 R:Gram:PerfPerif:12 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:07 00:00:14 tt-525 AF002_1989_EP_SU2011_AD_03 ID:11 R:Gram:Aux:Haber:12 R:Gram:PerfPerif:12 
 "<gustado>"
 	"gustar" Verb VLadj lang:es 00:00:07 00:00:14 tt-526 AF002_1989_EP_SU2011_AD_03 ID:12 
 "<,>"
@@ -327,7 +327,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:52 00:00:59 tt-670 AF002_1989_EP_SU2011_AD_03 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:52 00:00:59 tt-671 AF002_1989_EP_SU2011_AD_03 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:52 00:00:59 tt-671 AF002_1989_EP_SU2011_AD_03 @Gram:Det:Pos 
 "<educación>"
 	"educación" Noun NC Singular lang:es 00:00:52 00:00:59 tt-672 AF002_1989_EP_SU2011_AD_03 
 "<,>"
@@ -337,9 +337,9 @@
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:52 00:00:59 tt-675 AF002_1989_EP_SU2011_AD_03 
 "<estás>"
-	"estar" Verb VEfin Pres Indi Sing 2nd lang:es 00:00:52 00:00:59 tt-676 AF002_1989_EP_SU2011_AD_03 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 2nd lang:es 00:00:52 00:00:59 tt-676 AF002_1989_EP_SU2011_AD_03 @Gram:SerEstar:Estar ID:162 R:Gram:SerEstar:EstarAux:163 
 "<haciendo>"
-	"hacer" Verb VLger lang:es 00:00:52 00:00:59 tt-677 AF002_1989_EP_SU2011_AD_03 
+	"hacer" Verb VLger lang:es 00:00:52 00:00:59 tt-677 AF002_1989_EP_SU2011_AD_03 ID:163 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:52 00:00:59 tt-678 AF002_1989_EP_SU2011_AD_03 
 </speaker>
@@ -356,7 +356,7 @@
 "<empecé>"
 	"empezar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:59 00:01:06 tt-684 AF002_1989_EP_SU2011_AD_03 @Gram:Indefinido 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:59 00:01:06 tt-685 AF002_1989_EP_SU2011_AD_03 
+	"mío" Pronoun PPO Singular lang:es 00:00:59 00:01:06 tt-685 AF002_1989_EP_SU2011_AD_03 @Gram:Det:Pos 
 "<maestría>"
 	"maestría" Noun NC Singular lang:es 00:00:59 00:01:06 tt-686 AF002_1989_EP_SU2011_AD_03 
 "<$.>"
@@ -417,13 +417,13 @@
 "<empecé>"
 	"empezar" Verb VLfin Pret Indi Sing 1st lang:es 00:01:06 00:01:13 tt-714 AF002_1989_EP_SU2011_AD_03 @Gram:Indefinido 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:14 00:01:21 tt-715 AF002_1989_EP_SU2011_AD_03 
+	"mío" Pronoun PPO Singular lang:es 00:01:14 00:01:21 tt-715 AF002_1989_EP_SU2011_AD_03 @Gram:Det:Pos 
 "<maestría>"
 	"maestría" Noun NC Singular lang:es 00:01:14 00:01:21 tt-716 AF002_1989_EP_SU2011_AD_03 
 "<porque>"
 	"porque" Conjunction CSUBX lang:es 00:01:14 00:01:21 tt-717 AF002_1989_EP_SU2011_AD_03 @Prag:MarcadoresDisc:Causa 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:14 00:01:21 tt-718 AF002_1989_EP_SU2011_AD_03 
+	"mío" Pronoun PPO Singular lang:es 00:01:14 00:01:21 tt-718 AF002_1989_EP_SU2011_AD_03 @Gram:Det:Pos 
 "<carrera>"
 	"carrera" Noun NC Singular lang:es 00:01:14 00:01:21 tt-719 AF002_1989_EP_SU2011_AD_03 
 "<más>"
@@ -463,7 +463,7 @@
 "<entonces>"
 	"entonces" Adverb ADV lang:es 00:01:22 00:01:28 tt-737 AF002_1989_EP_SU2011_AD_03 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:22 00:01:28 tt-738 AF002_1989_EP_SU2011_AD_03 
+	"mío" Pronoun PPO Singular lang:es 00:01:22 00:01:28 tt-738 AF002_1989_EP_SU2011_AD_03 @Gram:Det:Pos 
 "<maestría>"
 	"maestría" Noun NC Singular lang:es 00:01:22 00:01:28 tt-739 AF002_1989_EP_SU2011_AD_03 
 "<ahorita>"
@@ -471,9 +471,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:22 00:01:28 tt-741 AF002_1989_EP_SU2011_AD_03 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:01:22 00:01:28 tt-742 AF002_1989_EP_SU2011_AD_03 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:01:22 00:01:28 tt-742 AF002_1989_EP_SU2011_AD_03 @Gram:SerEstar:Estar ID:227 R:Gram:SerEstar:EstarAux:228 
 "<tomando>"
-	"tomar" Verb VLger lang:es 00:01:22 00:01:28 tt-743 AF002_1989_EP_SU2011_AD_03 
+	"tomar" Verb VLger lang:es 00:01:22 00:01:28 tt-743 AF002_1989_EP_SU2011_AD_03 ID:228 
 "<se>"
 	"se" Other SE lang:es 00:01:22 00:01:28 tt-744 AF002_1989_EP_SU2011_AD_03 
 "<llama>"

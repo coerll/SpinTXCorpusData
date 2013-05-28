@@ -24,7 +24,7 @@
 "<eres>"
 	"ser" Verb VSfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:04 tt-26 AM041_1990_CT_SU2011_ER_01 @Gram:SerEstar:Ser 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:04 tt-27 AM041_1990_CT_SU2011_ER_01 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:04 tt-27 AM041_1990_CT_SU2011_ER_01 @Gram:Pron:Sujeto 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:00 00:00:04 tt-28 AM041_1990_CT_SU2011_ER_01 
 
@@ -145,7 +145,7 @@
 "<años>"
 	"año" Noun NC Plural lang:es 00:00:18 00:00:21 tt-84 AM041_1990_CT_SU2011_ER_01 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:18 00:00:21 tt-85 AM041_1990_CT_SU2011_ER_01 ID:65 R:Gram:PerfPerif:66 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:18 00:00:21 tt-85 AM041_1990_CT_SU2011_ER_01 ID:65 R:Gram:Aux:Haber:66 R:Gram:PerfPerif:66 
 "<vivido>"
 	"vivir" Verb VLadj lang:es 00:00:18 00:00:21 tt-86 AM041_1990_CT_SU2011_ER_01 ID:66 
 "<ahí>"
@@ -181,7 +181,7 @@
 "<son>"
 	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:00:22 00:00:26 tt-102 AM041_1990_CT_SU2011_ER_01 @Gram:SerEstar:Ser 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:22 00:00:26 tt-103 AM041_1990_CT_SU2011_ER_01 
+	"UNK" Noun NC Plural lang:es 00:00:22 00:00:26 tt-103 AM041_1990_CT_SU2011_ER_01 @Gram:Det:Pos 
 "<padres>"
 	"padre" Noun NC Plural lang:es 00:00:22 00:00:26 tt-104 AM041_1990_CT_SU2011_ER_01 
 "<$?>"
@@ -192,7 +192,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:26 00:00:29 tt-107 AM041_1990_CT_SU2011_ER_01 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:26 00:00:29 tt-108 AM041_1990_CT_SU2011_ER_01 
+	"UNK" Noun NC Plural lang:es 00:00:26 00:00:29 tt-108 AM041_1990_CT_SU2011_ER_01 @Gram:Det:Pos 
 "<padres>"
 	"padre" Noun NC Plural lang:es 00:00:26 00:00:29 tt-109 AM041_1990_CT_SU2011_ER_01 
 "<son>"
@@ -244,7 +244,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:34 00:00:41 tt-132 AM041_1990_CT_SU2011_ER_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:34 00:00:41 tt-133 AM041_1990_CT_SU2011_ER_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:34 00:00:41 tt-133 AM041_1990_CT_SU2011_ER_01 @Gram:Det:Pos 
 "<ma>"
 	"ma" Noun NC Singular lang:es 00:00:34 00:00:41 tt-134 AM041_1990_CT_SU2011_ER_01 
 "<...>"
@@ -268,7 +268,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:34 00:00:41 tt-145 AM041_1990_CT_SU2011_ER_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:34 00:00:41 tt-146 AM041_1990_CT_SU2011_ER_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:34 00:00:41 tt-146 AM041_1990_CT_SU2011_ER_01 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:34 00:00:41 tt-147 AM041_1990_CT_SU2011_ER_01 
 "<tuvo>"
@@ -314,7 +314,7 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:47 00:00:51 tt-167 AM041_1990_CT_SU2011_ER_01 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:47 00:00:51 tt-168 AM041_1990_CT_SU2011_ER_01 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:47 00:00:51 tt-168 AM041_1990_CT_SU2011_ER_01 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:47 00:00:51 tt-169 AM041_1990_CT_SU2011_ER_01 
 "<era>"
@@ -391,11 +391,11 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:58 00:01:04 tt-202 AM041_1990_CT_SU2011_ER_01 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:58 00:01:04 tt-203 AM041_1990_CT_SU2011_ER_01 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:58 00:01:04 tt-203 AM041_1990_CT_SU2011_ER_01 @Gram:Det:Pos 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:58 00:01:04 tt-204 AM041_1990_CT_SU2011_ER_01 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:58 00:01:04 tt-205 AM041_1990_CT_SU2011_ER_01 
+	"UNK" Noun NC Plural lang:es 00:00:58 00:01:04 tt-205 AM041_1990_CT_SU2011_ER_01 @Gram:Det:Pos 
 "<padres>"
 	"padre" Noun NC Plural lang:es 00:00:58 00:01:04 tt-206 AM041_1990_CT_SU2011_ER_01 
 "<se>"
@@ -407,7 +407,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:58 00:01:04 tt-210 AM041_1990_CT_SU2011_ER_01 
 "<Tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:58 00:01:04 tt-211 AM041_1990_CT_SU2011_ER_01 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:58 00:01:04 tt-211 AM041_1990_CT_SU2011_ER_01 @Gram:Det:Pos 
 "<madre>"
 	"madre" Noun NC Singular lang:es 00:00:58 00:01:04 tt-212 AM041_1990_CT_SU2011_ER_01 
 "<se>"
@@ -561,7 +561,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:25 00:01:30 tt-282 AM041_1990_CT_SU2011_ER_01 
 "<eras>"
-	"erar|ser" Verb VLfin Past Subj Sing 2nd lang:es 00:01:25 00:01:30 tt-283 AM041_1990_CT_SU2011_ER_01 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Sing 2nd lang:es 00:01:25 00:01:30 tt-283 AM041_1990_CT_SU2011_ER_01 @Gram:SerEstar:Ser 
 "<niño>"
 	"niño" Noun NC Singular lang:es 00:01:25 00:01:30 tt-284 AM041_1990_CT_SU2011_ER_01 
 "<ya>"
@@ -629,7 +629,7 @@
 "<fue>"
 	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:01:34 00:01:36 tt-314 AM041_1990_CT_SU2011_ER_01 @Gram:SerEstar:Ser 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:01:34 00:01:36 tt-315 AM041_1990_CT_SU2011_ER_01 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:01:34 00:01:36 tt-315 AM041_1990_CT_SU2011_ER_01 @Gram:Det:Pos 
 "<primer>"
 	"primero" Adjective ORD Singular lang:es 00:01:34 00:01:36 tt-316 AM041_1990_CT_SU2011_ER_01 
 "<idioma>"
@@ -661,7 +661,7 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:01:40 00:01:47 tt-329 AM041_1990_CT_SU2011_ER_01 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:40 00:01:47 tt-330 AM041_1990_CT_SU2011_ER_01 
+	"tú" Pronoun PPX Singular lang:es 00:01:40 00:01:47 tt-330 AM041_1990_CT_SU2011_ER_01 @Gram:Pron:Sujeto 
 "<crees>"
 	"crear|creer" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:40 00:01:47 tt-331 AM041_1990_CT_SU2011_ER_01 
 "<que>"
@@ -885,7 +885,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:02:24 00:02:30 tt-436 AM041_1990_CT_SU2011_ER_01 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:24 00:02:30 tt-437 AM041_1990_CT_SU2011_ER_01 
+	"UNK" Noun NC Plural lang:es 00:02:24 00:02:30 tt-437 AM041_1990_CT_SU2011_ER_01 @Gram:Det:Pos 
 "<niños>"
 	"niño" Noun NC Plural lang:es 00:02:24 00:02:30 tt-438 AM041_1990_CT_SU2011_ER_01 
 "<y>"

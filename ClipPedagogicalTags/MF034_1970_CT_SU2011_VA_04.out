@@ -34,7 +34,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-2109 MF034_1970_CT_SU2011_VA_04 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-2110 MF034_1970_CT_SU2011_VA_04 ID:17 R:Gram:PerfPerif:18 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-2110 MF034_1970_CT_SU2011_VA_04 ID:17 R:Gram:Aux:Haber:18 R:Gram:PerfPerif:18 
 "<hecho>"
 	"hacer" Verb VLadj lang:es 00:00:00 00:00:07 tt-2111 MF034_1970_CT_SU2011_VA_04 ID:18 
 "<últimamente>"
@@ -78,7 +78,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:18 00:00:25 tt-2131 MF034_1970_CT_SU2011_VA_04 
 "<mis>"
-	"UNK" Verb VLfin Error1 lang:es 00:00:18 00:00:25 tt-2132 MF034_1970_CT_SU2011_VA_04 
+	"UNK" Verb VLfin Error1 lang:es 00:00:18 00:00:25 tt-2132 MF034_1970_CT_SU2011_VA_04 @Gram:Det:Pos 
 "<compañeros>"
 	"compañero" Noun NC Plural lang:es 00:00:18 00:00:25 tt-2133 MF034_1970_CT_SU2011_VA_04 
 "<de>"
@@ -94,7 +94,7 @@
 "<Francisco>"
 	"Francisco" Noun NP Singular lang:es 00:00:18 00:00:25 tt-2139 MF034_1970_CT_SU2011_VA_04 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:18 00:00:25 tt-2140 MF034_1970_CT_SU2011_VA_04 
+	"del" Preposition PDEL lang:es 00:00:18 00:00:25 tt-2140 MF034_1970_CT_SU2011_VA_04 @Gram:Prep 
 "<Oro>"
 	"oro" Noun NC Singular lang:es 00:00:18 00:00:25 tt-2141 MF034_1970_CT_SU2011_VA_04 
 "<,>"
@@ -108,9 +108,9 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:18 00:00:25 tt-2146 MF034_1970_CT_SU2011_VA_04 @Gram:Pron:Objeto 
 "<estaban>"
-	"estar" Verb VEfin Imp Indi Plural 3rd lang:es 00:00:18 00:00:25 tt-2147 MF034_1970_CT_SU2011_VA_04 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Plural 3rd lang:es 00:00:18 00:00:25 tt-2147 MF034_1970_CT_SU2011_VA_04 @Gram:Imperf @Gram:SerEstar:Estar ID:54 R:Gram:SerEstar:EstarAux:55 
 "<buscando>"
-	"buscar" Verb VLger lang:es 00:00:26 00:00:33 tt-2148 MF034_1970_CT_SU2011_VA_04 
+	"buscar" Verb VLger lang:es 00:00:26 00:00:33 tt-2148 MF034_1970_CT_SU2011_VA_04 ID:55 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:26 00:00:33 tt-2149 MF034_1970_CT_SU2011_VA_04 
 
@@ -176,7 +176,7 @@
 "<añadieron>"
 	"añadir" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:34 00:00:40 tt-2179 MF034_1970_CT_SU2011_VA_04 @Gram:Indefinido 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:34 00:00:40 tt-2180 MF034_1970_CT_SU2011_VA_04 
+	"al" Preposition PAL lang:es 00:00:34 00:00:40 tt-2180 MF034_1970_CT_SU2011_VA_04 @Gram:Prep 
 "<grupo>"
 	"grupo" Noun NC Singular lang:es 00:00:34 00:00:40 tt-2181 MF034_1970_CT_SU2011_VA_04 
 "<y>"
@@ -302,7 +302,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:01:00 00:01:07 tt-2241 MF034_1970_CT_SU2011_VA_04 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:01:00 00:01:07 tt-2242 MF034_1970_CT_SU2011_VA_04 
+	"suyo" Pronoun PPO Singular lang:es 00:01:00 00:01:07 tt-2242 MF034_1970_CT_SU2011_VA_04 @Gram:Det:Pos 
 "<casa>"
 	"casa" Noun NC Singular lang:es 00:01:00 00:01:07 tt-2243 MF034_1970_CT_SU2011_VA_04 
 "<,>"
@@ -396,9 +396,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:13 00:01:18 tt-2287 MF034_1970_CT_SU2011_VA_04 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:01:13 00:01:18 tt-2288 MF034_1970_CT_SU2011_VA_04 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:01:13 00:01:18 tt-2288 MF034_1970_CT_SU2011_VA_04 @Gram:SerEstar:Ser 
 "<nuestros>"
-	"UNK" Noun NC Plural lang:es 00:01:13 00:01:18 tt-2289 MF034_1970_CT_SU2011_VA_04 
+	"UNK" Noun NC Plural lang:es 00:01:13 00:01:18 tt-2289 MF034_1970_CT_SU2011_VA_04 @Gram:Det:Pos 
 "<mejores>"
 	"bueno" Adjective ADJ Plural lang:es 00:01:13 00:01:18 tt-2290 MF034_1970_CT_SU2011_VA_04 
 "<amigos>"
@@ -466,7 +466,7 @@
 	"." Punctuation FS lang:es 00:01:24 00:01:30 tt-2321 MF034_1970_CT_SU2011_VA_04 
 
 "<Su>"
-	"suyo" Pronoun PPO Singular lang:es 00:01:24 00:01:30 tt-2322 MF034_1970_CT_SU2011_VA_04 
+	"suyo" Pronoun PPO Singular lang:es 00:01:24 00:01:30 tt-2322 MF034_1970_CT_SU2011_VA_04 @Gram:Det:Pos 
 "<esposo>"
 	"esposo" Noun NC Singular lang:es 00:01:24 00:01:30 tt-2323 MF034_1970_CT_SU2011_VA_04 
 "<es>"
@@ -492,9 +492,9 @@
 "<pero>"
 	"pero" Conjunction CCAD lang:es 00:01:30 00:01:37 tt-2334 MF034_1970_CT_SU2011_VA_04 @Prag:MarcadoresDisc:Revision 
 "<están>"
-	"estar" Verb VEfin Pres Indi Plural 3rd lang:es 00:01:30 00:01:37 tt-2335 MF034_1970_CT_SU2011_VA_04 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Plural 3rd lang:es 00:01:30 00:01:37 tt-2335 MF034_1970_CT_SU2011_VA_04 @Gram:SerEstar:Estar ID:242 R:Gram:SerEstar:EstarAux:243 
 "<trabajando>"
-	"trabajar" Verb VLger lang:es 00:01:30 00:01:37 tt-2336 MF034_1970_CT_SU2011_VA_04 
+	"trabajar" Verb VLger lang:es 00:01:30 00:01:37 tt-2336 MF034_1970_CT_SU2011_VA_04 ID:243 
 "<allá>"
 	"allá" Adverb ADV lang:es 00:01:30 00:01:37 tt-2337 MF034_1970_CT_SU2011_VA_04 
 "<en>"
@@ -504,7 +504,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:01:30 00:01:37 tt-2340 MF034_1970_CT_SU2011_VA_04 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:30 00:01:37 tt-2341 MF034_1970_CT_SU2011_VA_04 ID:248 R:Gram:PerfPerif:249 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:30 00:01:37 tt-2341 MF034_1970_CT_SU2011_VA_04 ID:248 R:Gram:Aux:Haber:249 R:Gram:PerfPerif:249 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:01:30 00:01:37 tt-2342 MF034_1970_CT_SU2011_VA_04 ID:249 
 "<la>"
@@ -1001,11 +1001,11 @@
 "<,>"
 	"," Punctuation CM lang:es 00:02:53 00:02:59 tt-2584 MF034_1970_CT_SU2011_VA_04 
 "<a>"
-	"a" Preposition PDEL lang:es 00:02:53 00:02:59 tt-2585 MF034_1970_CT_SU2011_VA_04 
+	"a" Preposition PDEL lang:es 00:02:53 00:02:59 tt-2585 MF034_1970_CT_SU2011_VA_04 @Gram:Prep 
 "<través>"
-	"través" Preposition PDEL lang:es 00:02:53 00:02:59 tt-2586 MF034_1970_CT_SU2011_VA_04 
+	"través" Preposition PDEL lang:es 00:02:53 00:02:59 tt-2586 MF034_1970_CT_SU2011_VA_04 @Gram:Prep 
 "<del>"
-	"del" Preposition PDEL lang:es 00:02:53 00:02:59 tt-2587 MF034_1970_CT_SU2011_VA_04 
+	"del" Preposition PDEL lang:es 00:02:53 00:02:59 tt-2587 MF034_1970_CT_SU2011_VA_04 @Gram:Prep 
 "<facebook>"
 	"UNK" Noun NC Singular lang:es 00:02:59 00:03:06 tt-2588 MF034_1970_CT_SU2011_VA_04 
 "<$.>"
@@ -1030,11 +1030,11 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:02:59 00:03:06 tt-2598 MF034_1970_CT_SU2011_VA_04 @Gram:Pron:Objeto 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:02:59 00:03:06 tt-2599 MF034_1970_CT_SU2011_VA_04 ID:506 R:Gram:PerfPerif:507 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:02:59 00:03:06 tt-2599 MF034_1970_CT_SU2011_VA_04 ID:506 R:Gram:Aux:Haber:507 R:Gram:PerfPerif:507 
 "<dado>"
 	"dar" Verb VLadj lang:es 00:02:59 00:03:06 tt-2600 MF034_1970_CT_SU2011_VA_04 ID:507 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:02:59 00:03:06 tt-2601 MF034_1970_CT_SU2011_VA_04 
+	"suyo" Pronoun PPO Plural lang:es 00:02:59 00:03:06 tt-2601 MF034_1970_CT_SU2011_VA_04 @Gram:Det:Pos 
 "<números>"
 	"número" Noun NC Plural lang:es 00:02:59 00:03:06 tt-2602 MF034_1970_CT_SU2011_VA_04 
 "<,>"
@@ -1107,7 +1107,7 @@
 "<Francisco>"
 	"Francisco" Noun NP Singular lang:es 00:03:15 00:03:20 tt-2636 MF034_1970_CT_SU2011_VA_04 
 "<del>"
-	"del" Preposition PDEL lang:es 00:03:15 00:03:20 tt-2637 MF034_1970_CT_SU2011_VA_04 
+	"del" Preposition PDEL lang:es 00:03:15 00:03:20 tt-2637 MF034_1970_CT_SU2011_VA_04 @Gram:Prep 
 "<Oro>"
 	"oro" Noun NC Singular lang:es 00:03:15 00:03:20 tt-2638 MF034_1970_CT_SU2011_VA_04 
 "<,>"
@@ -1125,9 +1125,9 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:03:20 00:03:26 tt-2645 MF034_1970_CT_SU2011_VA_04 @Gram:Pron:Objeto 
 "<esté>"
-	"estar" Verb VEfin Pres Subj Sing 1st_or_3rd lang:es 00:03:20 00:03:26 tt-2646 MF034_1970_CT_SU2011_VA_04 @Gram:MSub:Pres @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Subj Sing 1st_or_3rd lang:es 00:03:20 00:03:26 tt-2646 MF034_1970_CT_SU2011_VA_04 @Gram:MSub:Pres @Gram:SerEstar:Estar ID:553 R:Gram:SerEstar:EstarAux:554 
 "<contando>"
-	"contar" Verb VLger lang:es 00:03:20 00:03:26 tt-2647 MF034_1970_CT_SU2011_VA_04 
+	"contar" Verb VLger lang:es 00:03:20 00:03:26 tt-2647 MF034_1970_CT_SU2011_VA_04 ID:554 
 "<y>"
 	"y" Conjunction CC lang:es 00:03:20 00:03:26 tt-2648 MF034_1970_CT_SU2011_VA_04 
 "<$¿>"
@@ -1137,7 +1137,7 @@
 "<acuerdas>"
 	"acordar" Verb VLfin Pres Indi Sing 2nd lang:es 00:03:20 00:03:26 tt-2651 MF034_1970_CT_SU2011_VA_04 
 "<del>"
-	"del" Preposition PDEL lang:es 00:03:20 00:03:26 tt-2652 MF034_1970_CT_SU2011_VA_04 
+	"del" Preposition PDEL lang:es 00:03:20 00:03:26 tt-2652 MF034_1970_CT_SU2011_VA_04 @Gram:Prep 
 "<señor>"
 	"señor" Noun NC Singular lang:es 00:03:20 00:03:26 tt-2653 MF034_1970_CT_SU2011_VA_04 
 "<de>"
@@ -1158,7 +1158,7 @@
 "<acuerdas>"
 	"acordar" Verb VLfin Pres Indi Sing 2nd lang:es 00:03:20 00:03:26 tt-2662 MF034_1970_CT_SU2011_VA_04 
 "<del>"
-	"del" Preposition PDEL lang:es 00:03:20 00:03:26 tt-2663 MF034_1970_CT_SU2011_VA_04 
+	"del" Preposition PDEL lang:es 00:03:20 00:03:26 tt-2663 MF034_1970_CT_SU2011_VA_04 @Gram:Prep 
 "<sastre>"
 	"sastre" Noun NC Singular lang:es 00:03:26 00:03:31 tt-2664 MF034_1970_CT_SU2011_VA_04 
 "<$?>"
@@ -1175,7 +1175,7 @@
 "<acuerdas>"
 	"acordar" Verb VLfin Pres Indi Sing 2nd lang:es 00:03:26 00:03:31 tt-2670 MF034_1970_CT_SU2011_VA_04 
 "<del>"
-	"del" Preposition PDEL lang:es 00:03:26 00:03:31 tt-2671 MF034_1970_CT_SU2011_VA_04 
+	"del" Preposition PDEL lang:es 00:03:26 00:03:31 tt-2671 MF034_1970_CT_SU2011_VA_04 @Gram:Prep 
 "<señor>"
 	"señor" Noun NC Singular lang:es 00:03:26 00:03:31 tt-2672 MF034_1970_CT_SU2011_VA_04 
 "<que>"
@@ -1277,7 +1277,7 @@
 "<lindas>"
 	"lindar" Verb VLfin Pres Indi Sing 2nd lang:es 00:03:42 00:03:47 tt-2722 MF034_1970_CT_SU2011_VA_04 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:03:42 00:03:47 tt-2723 MF034_1970_CT_SU2011_VA_04 
+	"suyo" Pronoun PPO Plural lang:es 00:03:42 00:03:47 tt-2723 MF034_1970_CT_SU2011_VA_04 @Gram:Det:Pos 
 "<niñas>"
 	"niño" Noun NC Plural lang:es 00:03:42 00:03:47 tt-2724 MF034_1970_CT_SU2011_VA_04 
 "<,>"
@@ -1329,7 +1329,7 @@
 "<vino>"
 	"venir" Verb VLfin Pres Indi Sing 1st lang:es 00:03:52 00:03:59 tt-2749 MF034_1970_CT_SU2011_VA_04 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:03:52 00:03:59 tt-2750 MF034_1970_CT_SU2011_VA_04 
+	"mío" Pronoun PPO Singular lang:es 00:03:52 00:03:59 tt-2750 MF034_1970_CT_SU2011_VA_04 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:03:52 00:03:59 tt-2751 MF034_1970_CT_SU2011_VA_04 
 "<,>"
@@ -1362,13 +1362,13 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:04:00 00:04:06 tt-2766 MF034_1970_CT_SU2011_VA_04 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:04:00 00:04:06 tt-2767 MF034_1970_CT_SU2011_VA_04 ID:669 R:Gram:PerfPerif:670 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:04:00 00:04:06 tt-2767 MF034_1970_CT_SU2011_VA_04 ID:669 R:Gram:Aux:Haber:670 R:Gram:PerfPerif:670 
 "<sacado>"
 	"sacar" Verb VLadj lang:es 00:04:00 00:04:06 tt-2768 MF034_1970_CT_SU2011_VA_04 ID:670 
 "<a>"
 	"a" Preposition PREP lang:es 00:04:00 00:04:06 tt-2769 MF034_1970_CT_SU2011_VA_04 @Gram:Prep 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:04:00 00:04:06 tt-2770 MF034_1970_CT_SU2011_VA_04 
+	"suyo" Pronoun PPO Plural lang:es 00:04:00 00:04:06 tt-2770 MF034_1970_CT_SU2011_VA_04 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:04:00 00:04:06 tt-2771 MF034_1970_CT_SU2011_VA_04 
 "<con>"
@@ -1398,7 +1398,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:04:06 00:04:12 tt-2784 MF034_1970_CT_SU2011_VA_04 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:04:06 00:04:12 tt-2785 MF034_1970_CT_SU2011_VA_04 
+	"suyo" Pronoun PPO Singular lang:es 00:04:06 00:04:12 tt-2785 MF034_1970_CT_SU2011_VA_04 @Gram:Det:Pos 
 "<historia>"
 	"historia" Noun NC Singular lang:es 00:04:06 00:04:12 tt-2786 MF034_1970_CT_SU2011_VA_04 
 "<y>"
@@ -1415,7 +1415,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:04:06 00:04:12 tt-2792 MF034_1970_CT_SU2011_VA_04 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:04:06 00:04:12 tt-2793 MF034_1970_CT_SU2011_VA_04 
+	"UNK" Noun NC Plural lang:es 00:04:06 00:04:12 tt-2793 MF034_1970_CT_SU2011_VA_04 @Gram:Det:Pos 
 "<compañeros>"
 	"compañero" Noun NC Plural lang:es 00:04:06 00:04:12 tt-2794 MF034_1970_CT_SU2011_VA_04 
 "<vive>"

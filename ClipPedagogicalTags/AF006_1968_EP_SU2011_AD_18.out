@@ -3,7 +3,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:07 tt-3122 AF006_1968_EP_SU2011_AD_18 
 "<Tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-3123 AF006_1968_EP_SU2011_AD_18 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-3123 AF006_1968_EP_SU2011_AD_18 @Gram:Pron:Sujeto 
 "<conoces>"
 	"conocer" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-3124 AF006_1968_EP_SU2011_AD_18 
 "<alguna>"
@@ -132,7 +132,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:27 00:00:32 tt-3190 AF006_1968_EP_SU2011_AD_18 
 "<Ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:27 00:00:32 tt-3191 AF006_1968_EP_SU2011_AD_18 ID:63 R:Gram:PerfPerif:64 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:27 00:00:32 tt-3191 AF006_1968_EP_SU2011_AD_18 ID:63 R:Gram:Aux:Haber:64 R:Gram:PerfPerif:64 
 "<cambiado>"
 	"cambiar" Verb VLadj lang:es 00:00:27 00:00:32 tt-3192 AF006_1968_EP_SU2011_AD_18 ID:64 
 "<mucho>"
@@ -146,11 +146,11 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:27 00:00:32 tt-3197 AF006_1968_EP_SU2011_AD_18 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:27 00:00:32 tt-3198 AF006_1968_EP_SU2011_AD_18 
+	"tú" Pronoun PPX Singular lang:es 00:00:27 00:00:32 tt-3198 AF006_1968_EP_SU2011_AD_18 @Gram:Pron:Sujeto 
 "<estabas>"
-	"estar" Verb VEfin Imp Indi Sing 2nd lang:es 00:00:27 00:00:32 tt-3199 AF006_1968_EP_SU2011_AD_18 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Sing 2nd lang:es 00:00:27 00:00:32 tt-3199 AF006_1968_EP_SU2011_AD_18 @Gram:Imperf @Gram:SerEstar:Estar ID:71 R:Gram:SerEstar:EstarAux:72 
 "<creciendo>"
-	"crecer" Verb VLger lang:es 00:00:27 00:00:32 tt-3200 AF006_1968_EP_SU2011_AD_18 
+	"crecer" Verb VLger lang:es 00:00:27 00:00:32 tt-3200 AF006_1968_EP_SU2011_AD_18 ID:72 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:27 00:00:32 tt-3201 AF006_1968_EP_SU2011_AD_18 
 </speaker>
@@ -275,7 +275,7 @@
 "<está>"
 	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:00:47 00:00:54 tt-3258 AF006_1968_EP_SU2011_AD_18 @Gram:SerEstar:Estar 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:47 00:00:54 tt-3259 AF006_1968_EP_SU2011_AD_18 
+	"mío" Pronoun PPO Singular lang:es 00:00:47 00:00:54 tt-3259 AF006_1968_EP_SU2011_AD_18 @Gram:Det:Pos 
 "<casa>"
 	"casa" Noun NC Singular lang:es 00:00:47 00:00:54 tt-3260 AF006_1968_EP_SU2011_AD_18 
 "<$!>"
@@ -302,9 +302,9 @@
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:00:55 00:00:59 tt-3271 AF006_1968_EP_SU2011_AD_18 
 "<está>"
-	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:00:55 00:00:59 tt-3272 AF006_1968_EP_SU2011_AD_18 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:00:55 00:00:59 tt-3272 AF006_1968_EP_SU2011_AD_18 @Gram:SerEstar:Estar ID:143 R:Gram:SerEstar:EstarAux:144 
 "<creciendo>"
-	"crecer" Verb VLger lang:es 00:00:55 00:00:59 tt-3273 AF006_1968_EP_SU2011_AD_18 
+	"crecer" Verb VLger lang:es 00:00:55 00:00:59 tt-3273 AF006_1968_EP_SU2011_AD_18 ID:144 
 "<la>"
 	"el" Determiner ART Singular lang:es 00:00:55 00:00:59 tt-3274 AF006_1968_EP_SU2011_AD_18 @Gram:Det:Art 
 "<ciudad>"
@@ -437,7 +437,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:01:25 00:01:28 tt-3339 AF006_1968_EP_SU2011_AD_18 
 "<Tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:25 00:01:28 tt-3340 AF006_1968_EP_SU2011_AD_18 
+	"tú" Pronoun PPX Singular lang:es 00:01:25 00:01:28 tt-3340 AF006_1968_EP_SU2011_AD_18 @Gram:Pron:Sujeto 
 "<viajas>"
 	"viajar" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:25 00:01:28 tt-3341 AF006_1968_EP_SU2011_AD_18 
 "<a>"
@@ -487,7 +487,7 @@
 "<Cómo>"
 	"cómo" Adverb ADV lang:es 00:01:33 00:01:40 tt-3363 AF006_1968_EP_SU2011_AD_18 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:33 00:01:40 tt-3364 AF006_1968_EP_SU2011_AD_18 ID:230 R:Gram:PerfPerif:231 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:33 00:01:40 tt-3364 AF006_1968_EP_SU2011_AD_18 ID:230 R:Gram:Aux:Haber:231 R:Gram:PerfPerif:231 
 "<cambiado>"
 	"cambiar" Verb VLadj lang:es 00:01:33 00:01:40 tt-3365 AF006_1968_EP_SU2011_AD_18 ID:231 
 "<desde>"
@@ -495,9 +495,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:33 00:01:40 tt-3367 AF006_1968_EP_SU2011_AD_18 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:33 00:01:40 tt-3368 AF006_1968_EP_SU2011_AD_18 
+	"tú" Pronoun PPX Singular lang:es 00:01:33 00:01:40 tt-3368 AF006_1968_EP_SU2011_AD_18 @Gram:Pron:Sujeto 
 "<eras>"
-	"erar|ser" Verb VLfin Past Subj Sing 2nd lang:es 00:01:33 00:01:40 tt-3369 AF006_1968_EP_SU2011_AD_18 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Sing 2nd lang:es 00:01:33 00:01:40 tt-3369 AF006_1968_EP_SU2011_AD_18 @Gram:SerEstar:Ser 
 "<más>"
 	"más" Adverb ADV lang:es 00:01:33 00:01:40 tt-3370 AF006_1968_EP_SU2011_AD_18 
 "<joven>"
@@ -583,7 +583,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:45 00:01:50 tt-3411 AF006_1968_EP_SU2011_AD_18 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:01:45 00:01:50 tt-3412 AF006_1968_EP_SU2011_AD_18 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:01:45 00:01:50 tt-3412 AF006_1968_EP_SU2011_AD_18 @Gram:SerEstar:Ser 
 "<las>"
 	"el" Determiner ART Plural lang:es 00:01:50 00:01:55 tt-3413 AF006_1968_EP_SU2011_AD_18 @Gram:Det:Art 
 "<dos>"
@@ -650,7 +650,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:01:58 00:02:02 tt-3443 AF006_1968_EP_SU2011_AD_18 
 "<Tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:58 00:02:02 tt-3444 AF006_1968_EP_SU2011_AD_18 
+	"tú" Pronoun PPX Singular lang:es 00:01:58 00:02:02 tt-3444 AF006_1968_EP_SU2011_AD_18 @Gram:Pron:Sujeto 
 "<antes>"
 	"antes" Adverb ADV lang:es 00:01:58 00:02:02 tt-3445 AF006_1968_EP_SU2011_AD_18 
 "<viajabas>"

@@ -79,7 +79,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:16 00:00:23 tt-1284 OM023_1962_CT_SU2011_VA_04 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:16 00:00:23 tt-1285 OM023_1962_CT_SU2011_VA_04 
+	"mío" Pronoun PPO Singular lang:es 00:00:16 00:00:23 tt-1285 OM023_1962_CT_SU2011_VA_04 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:16 00:00:23 tt-1286 OM023_1962_CT_SU2011_VA_04 
 "<aquí>"
@@ -115,7 +115,7 @@
 "<ahora>"
 	"ahora" Adverb ADV lang:es 00:00:25 00:00:31 tt-1302 OM023_1962_CT_SU2011_VA_04 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:25 00:00:31 tt-1303 OM023_1962_CT_SU2011_VA_04 
+	"mío" Pronoun PPO Singular lang:es 00:00:25 00:00:31 tt-1303 OM023_1962_CT_SU2011_VA_04 @Gram:Det:Pos 
 "<esposa>"
 	"esposo" Noun NC Singular lang:es 00:00:25 00:00:31 tt-1304 OM023_1962_CT_SU2011_VA_04 
 "<,>"
@@ -559,7 +559,7 @@
 "<les>"
 	"él" Pronoun PPC Plural lang:es 00:02:01 00:02:08 tt-1520 OM023_1962_CT_SU2011_VA_04 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:02:01 00:02:08 tt-1521 OM023_1962_CT_SU2011_VA_04 ID:273 R:Gram:PerfPerif:274 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:02:01 00:02:08 tt-1521 OM023_1962_CT_SU2011_VA_04 ID:273 R:Gram:Aux:Haber:274 R:Gram:PerfPerif:274 
 "<tocado>"
 	"tocar" Verb VLadj lang:es 00:02:01 00:02:08 tt-1522 OM023_1962_CT_SU2011_VA_04 ID:274 
 "<$.>"
@@ -692,7 +692,7 @@
 "<nunca>"
 	"nunca" Adverb ADV lang:es 00:02:23 00:02:30 tt-1586 OM023_1962_CT_SU2011_VA_04 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:02:23 00:02:30 tt-1587 OM023_1962_CT_SU2011_VA_04 ID:339 R:Gram:PerfPerif:340 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:02:23 00:02:30 tt-1587 OM023_1962_CT_SU2011_VA_04 ID:339 R:Gram:Aux:Haber:340 R:Gram:PerfPerif:340 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:02:23 00:02:30 tt-1588 OM023_1962_CT_SU2011_VA_04 ID:340 
 "<conflictos>"
@@ -737,7 +737,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:02:32 00:02:39 tt-1608 OM023_1962_CT_SU2011_VA_04 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:42 00:02:47 tt-1609 OM023_1962_CT_SU2011_VA_04 
+	"mío" Pronoun PPO Singular lang:es 00:02:42 00:02:47 tt-1609 OM023_1962_CT_SU2011_VA_04 @Gram:Det:Pos 
 "<país>"
 	"país" Noun NC Plural lang:es 00:02:42 00:02:47 tt-1610 OM023_1962_CT_SU2011_VA_04 
 "<con>"
@@ -777,7 +777,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:02:42 00:02:47 tt-1628 OM023_1962_CT_SU2011_VA_04 
 "<al>"
-	"al" Preposition PAL lang:es 00:02:42 00:02:47 tt-1629 OM023_1962_CT_SU2011_VA_04 
+	"al" Preposition PAL lang:es 00:02:42 00:02:47 tt-1629 OM023_1962_CT_SU2011_VA_04 @Gram:Prep 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:02:42 00:02:47 tt-1630 OM023_1962_CT_SU2011_VA_04 
 "<$.>"
@@ -788,9 +788,9 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:02:47 00:02:52 tt-1633 OM023_1962_CT_SU2011_VA_04 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:02:47 00:02:52 tt-1634 OM023_1962_CT_SU2011_VA_04 ID:386 R:Gram:PerfPerif:387 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:02:47 00:02:52 tt-1634 OM023_1962_CT_SU2011_VA_04 ID:386 R:Gram:SerEstar:Ser:387 R:Gram:Aux:Haber:387 R:Gram:PerfPerif:387 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:02:47 00:02:52 tt-1635 OM023_1962_CT_SU2011_VA_04 @Gram:SerEstar:Ser ID:387 
+	"ser" Verb VSadj Participle lang:es 00:02:47 00:02:52 tt-1635 OM023_1962_CT_SU2011_VA_04 ID:387 
 "<difícil>"
 	"difícil" Adjective ADJ Singular lang:es 00:02:47 00:02:52 tt-1636 OM023_1962_CT_SU2011_VA_04 
 "<$.>"

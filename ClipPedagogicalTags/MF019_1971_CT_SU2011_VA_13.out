@@ -15,7 +15,7 @@
 "<graduó>"
 	"graduar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-6822 MF019_1971_CT_SU2011_VA_13 @Gram:Indefinido 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-6823 MF019_1971_CT_SU2011_VA_13 
+	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-6823 MF019_1971_CT_SU2011_VA_13 @Gram:Prep 
 "<colegio>"
 	"colegio" Noun NC Singular lang:es 00:00:00 00:00:07 tt-6824 MF019_1971_CT_SU2011_VA_13 
 "<$?>"
@@ -30,7 +30,7 @@
 "<obtuve>"
 	"UNK" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:09 00:00:16 tt-6829 MF019_1971_CT_SU2011_VA_13 @Gram:MSub:Pres 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:09 00:00:16 tt-6830 MF019_1971_CT_SU2011_VA_13 
+	"mío" Pronoun PPO Singular lang:es 00:00:09 00:00:16 tt-6830 MF019_1971_CT_SU2011_VA_13 @Gram:Det:Pos 
 "<bachelors>"
 	"UNK" Noun NC Plural lang:es 00:00:09 00:00:16 tt-6831 MF019_1971_CT_SU2011_VA_13 
 "<en>"
@@ -190,7 +190,7 @@
 "<regresar>"
 	"regresar" Verb VLinf Infinitive lang:es 00:00:39 00:00:46 tt-6911 MF019_1971_CT_SU2011_VA_13 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:39 00:00:46 tt-6912 MF019_1971_CT_SU2011_VA_13 
+	"al" Preposition PAL lang:es 00:00:39 00:00:46 tt-6912 MF019_1971_CT_SU2011_VA_13 @Gram:Prep 
 "<país>"
 	"país" Noun NC Plural lang:es 00:00:39 00:00:46 tt-6913 MF019_1971_CT_SU2011_VA_13 
 "<,>"
@@ -359,7 +359,7 @@
 "<compra>"
 	"comprar" Verb VLfin Pres Indi Sing 3rd lang:es 00:01:06 00:01:13 tt-6996 MF019_1971_CT_SU2011_VA_13 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:01:18 00:01:25 tt-6997 MF019_1971_CT_SU2011_VA_13 
+	"suyo" Pronoun PPO Singular lang:es 00:01:18 00:01:25 tt-6997 MF019_1971_CT_SU2011_VA_13 @Gram:Det:Pos 
 "<coca-cola>"
 	"UNK" Noun NC Singular lang:es 00:01:18 00:01:25 tt-6998 MF019_1971_CT_SU2011_VA_13 
 "<o>"
@@ -367,7 +367,7 @@
 "<compra>"
 	"comprar" Verb VLfin Pres Indi Sing 3rd lang:es 00:01:18 00:01:25 tt-7000 MF019_1971_CT_SU2011_VA_13 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:01:18 00:01:25 tt-7001 MF019_1971_CT_SU2011_VA_13 
+	"suyo" Pronoun PPO Singular lang:es 00:01:18 00:01:25 tt-7001 MF019_1971_CT_SU2011_VA_13 @Gram:Det:Pos 
 "<pepsi>"
 	"UNK" Noun NC Singular lang:es 00:01:18 00:01:25 tt-7002 MF019_1971_CT_SU2011_VA_13 
 "<$.>"
@@ -408,7 +408,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:29 00:01:35 tt-7020 MF019_1971_CT_SU2011_VA_13 
 "<del>"
-	"del" Preposition PDEL lang:es 00:01:29 00:01:35 tt-7021 MF019_1971_CT_SU2011_VA_13 
+	"del" Preposition PDEL lang:es 00:01:29 00:01:35 tt-7021 MF019_1971_CT_SU2011_VA_13 @Gram:Prep 
 "<mayoreo>"
 	"mayoreo" Noun NC Singular lang:es 00:01:29 00:01:35 tt-7022 MF019_1971_CT_SU2011_VA_13 
 "<,>"
@@ -470,7 +470,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:35 00:01:41 tt-7051 MF019_1971_CT_SU2011_VA_13 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:01:41 00:01:46 tt-7052 MF019_1971_CT_SU2011_VA_13 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:01:41 00:01:46 tt-7052 MF019_1971_CT_SU2011_VA_13 @Gram:SerEstar:Ser 
 "<las>"
 	"el" Determiner ART Plural lang:es 00:01:41 00:01:46 tt-7053 MF019_1971_CT_SU2011_VA_13 @Gram:Det:Art 
 "<que>"
@@ -548,7 +548,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:46 00:01:52 tt-7090 MF019_1971_CT_SU2011_VA_13 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:01:52 00:01:59 tt-7091 MF019_1971_CT_SU2011_VA_13 
+	"UNK" Noun NC Plural lang:es 00:01:52 00:01:59 tt-7091 MF019_1971_CT_SU2011_VA_13 @Gram:Det:Pos 
 "<bebés>"
 	"bebé" Noun NC Plural lang:es 00:01:52 00:01:59 tt-7092 MF019_1971_CT_SU2011_VA_13 
 "<,>"
@@ -574,7 +574,7 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:01:52 00:01:59 tt-7103 MF019_1971_CT_SU2011_VA_13 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:52 00:01:59 tt-7104 MF019_1971_CT_SU2011_VA_13 
+	"mío" Pronoun PPO Singular lang:es 00:01:52 00:01:59 tt-7104 MF019_1971_CT_SU2011_VA_13 @Gram:Det:Pos 
 "<segunda>"
 	"segundo" Adjective ORD Singular lang:es 00:01:52 00:01:59 tt-7105 MF019_1971_CT_SU2011_VA_13 
 "<niña>"
@@ -706,7 +706,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:02:20 00:02:27 tt-7169 MF019_1971_CT_SU2011_VA_13 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:20 00:02:27 tt-7170 MF019_1971_CT_SU2011_VA_13 
+	"UNK" Noun NC Plural lang:es 00:02:20 00:02:27 tt-7170 MF019_1971_CT_SU2011_VA_13 @Gram:Det:Pos 
 "<niñas>"
 	"niño" Noun NC Plural lang:es 00:02:20 00:02:27 tt-7171 MF019_1971_CT_SU2011_VA_13 
 "<y>"

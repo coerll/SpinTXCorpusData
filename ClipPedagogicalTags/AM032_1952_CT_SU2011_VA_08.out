@@ -20,7 +20,7 @@
 	"." Punctuation FS lang:es 00:00:00 00:00:06 tt-4573 AM032_1952_CT_SU2011_VA_08 
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:06 tt-4574 AM032_1952_CT_SU2011_VA_08 
+	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:06 tt-4574 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Pos 
 "<hermana>"
 	"hermano" Noun NC Singular lang:es 00:00:00 00:00:06 tt-4575 AM032_1952_CT_SU2011_VA_08 
 "<creo>"
@@ -45,9 +45,9 @@
 "<Ella>"
 	"él" Pronoun PPX Singular lang:es 00:00:06 00:00:13 tt-4585 AM032_1952_CT_SU2011_VA_08 @Gram:Pron:Sujeto 
 "<hubiera>"
-	"haber" Verb VHfin Past Subj Sing 1st_or_3rd lang:es 00:00:06 00:00:13 tt-4586 AM032_1952_CT_SU2011_VA_08 ID:22 R:Gram:MSub:Pret:23 
+	"haber" Verb VHfin Past Subj Sing 1st_or_3rd lang:es 00:00:06 00:00:13 tt-4586 AM032_1952_CT_SU2011_VA_08 ID:22 R:Gram:SerEstar:Ser:23 R:Gram:MSub:Pret:23 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:06 00:00:13 tt-4587 AM032_1952_CT_SU2011_VA_08 @Gram:SerEstar:Ser ID:23 
+	"ser" Verb VSadj Participle lang:es 00:00:06 00:00:13 tt-4587 AM032_1952_CT_SU2011_VA_08 ID:23 
 "<mejor>"
 	"bueno" Adjective ADJ Singular lang:es 00:00:06 00:00:13 tt-4588 AM032_1952_CT_SU2011_VA_08 
 "<Presidenta>"
@@ -87,7 +87,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:13 00:00:20 tt-4606 AM032_1952_CT_SU2011_VA_08 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:13 00:00:20 tt-4607 AM032_1952_CT_SU2011_VA_08 
+	"mío" Pronoun PPO Singular lang:es 00:00:13 00:00:20 tt-4607 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Pos 
 "<hermana>"
 	"hermano" Noun NC Singular lang:es 00:00:13 00:00:20 tt-4608 AM032_1952_CT_SU2011_VA_08 
 "<llevaba>"
@@ -285,7 +285,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:46 00:00:52 tt-4704 AM032_1952_CT_SU2011_VA_08 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:46 00:00:52 tt-4705 AM032_1952_CT_SU2011_VA_08 
+	"suyo" Pronoun PPO Singular lang:es 00:00:46 00:00:52 tt-4705 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Pos 
 "<casa>"
 	"casa" Noun NC Singular lang:es 00:00:46 00:00:52 tt-4706 AM032_1952_CT_SU2011_VA_08 
 "<$.>"

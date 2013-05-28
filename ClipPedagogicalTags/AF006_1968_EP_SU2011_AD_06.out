@@ -102,7 +102,7 @@
 "<estudiante>"
 	"estudiante" Noun NC Singular lang:es 00:00:25 00:00:30 tt-467 AF006_1968_EP_SU2011_AD_06 
 "<eras>"
-	"erar|ser" Verb VLfin Past Subj Sing 2nd lang:es 00:00:25 00:00:30 tt-468 AF006_1968_EP_SU2011_AD_06 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Sing 2nd lang:es 00:00:25 00:00:30 tt-468 AF006_1968_EP_SU2011_AD_06 @Gram:SerEstar:Ser 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:25 00:00:30 tt-469 AF006_1968_EP_SU2011_AD_06 
 
@@ -150,7 +150,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:38 00:00:39 tt-492 AF006_1968_EP_SU2011_AD_06 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:38 00:00:39 tt-493 AF006_1968_EP_SU2011_AD_06 
+	"mío" Pronoun PPO Singular lang:es 00:00:38 00:00:39 tt-493 AF006_1968_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:38 00:00:39 tt-494 AF006_1968_EP_SU2011_AD_06 
 "<$.>"
@@ -167,7 +167,7 @@
 "<recordarían>"
 	"UNK" Verb VLfin Cond Indi Plural 3rd lang:es 00:00:39 00:00:43 tt-499 AF006_1968_EP_SU2011_AD_06 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:39 00:00:43 tt-500 AF006_1968_EP_SU2011_AD_06 
+	"UNK" Noun NC Plural lang:es 00:00:39 00:00:43 tt-500 AF006_1968_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<compañeros>"
 	"compañero" Noun NC Plural lang:es 00:00:39 00:00:43 tt-501 AF006_1968_EP_SU2011_AD_06 
 "<$?>"
@@ -353,7 +353,7 @@
 "<afuera>"
 	"afuera" Adverb ADV lang:es 00:01:30 00:01:37 tt-597 AF006_1968_EP_SU2011_AD_06 
 "<del>"
-	"del" Preposition PDEL lang:es 00:01:30 00:01:37 tt-598 AF006_1968_EP_SU2011_AD_06 
+	"del" Preposition PDEL lang:es 00:01:30 00:01:37 tt-598 AF006_1968_EP_SU2011_AD_06 @Gram:Prep 
 "<salón>"
 	"salón" Noun NC Singular lang:es 00:01:30 00:01:37 tt-599 AF006_1968_EP_SU2011_AD_06 
 "<$.>"
@@ -383,11 +383,11 @@
 "<algún>"
 	"alguno" Determiner QU lang:es 00:01:38 00:01:45 tt-613 AF006_1968_EP_SU2011_AD_06 
 "<maestro>"
-	"maestro" Noun NC Singular lang:es 00:01:38 00:01:45 tt-614 AF006_1968_EP_SU2011_AD_06 
+	"maestro" Plural Singular Noun NC lang:es 00:01:38 00:01:45 tt-614 AF006_1968_EP_SU2011_AD_06 
 "<o>"
 	"o" Conjunction CC lang:es 00:01:38 00:01:45 tt-615 AF006_1968_EP_SU2011_AD_06 
 "<maestros>"
-	"maestro" Noun NC Plural lang:es 00:01:38 00:01:45 tt-616 AF006_1968_EP_SU2011_AD_06 
+	"maestro" Plural Singular Noun NC lang:es 00:01:38 00:01:45 tt-616 AF006_1968_EP_SU2011_AD_06 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:38 00:01:45 tt-617 AF006_1968_EP_SU2011_AD_06 
 "<hayan>"
@@ -405,7 +405,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:01:45 00:01:49 tt-624 AF006_1968_EP_SU2011_AD_06 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:01:45 00:01:49 tt-625 AF006_1968_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:01:45 00:01:49 tt-625 AF006_1968_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:01:45 00:01:49 tt-626 AF006_1968_EP_SU2011_AD_06 
 "<$?>"
@@ -420,12 +420,12 @@
 "<buenos>"
 	"bueno" Adjective ADJ Plural lang:es 00:01:49 00:01:56 tt-634 AF006_1968_EP_SU2011_AD_06 
 "<maestros>"
-	"maestro" Adjective ADJ Plural lang:es 00:01:49 00:01:56 tt-635 AF006_1968_EP_SU2011_AD_06 
+	"maestro" Plural Noun Singular lang:es 00:01:49 00:01:56 tt-635 AF006_1968_EP_SU2011_AD_06 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:49 00:01:56 tt-636 AF006_1968_EP_SU2011_AD_06 
 
 "<Del>"
-	"del" Preposition PDEL lang:es 00:01:49 00:01:56 tt-637 AF006_1968_EP_SU2011_AD_06 
+	"del" Preposition PDEL lang:es 00:01:49 00:01:56 tt-637 AF006_1968_EP_SU2011_AD_06 @Gram:Prep 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:49 00:01:56 tt-638 AF006_1968_EP_SU2011_AD_06 
 "<me>"
@@ -500,7 +500,7 @@
 "<buen>"
 	"bueno" Adjective ADJ Singular lang:es 00:02:05 00:02:12 tt-681 AF006_1968_EP_SU2011_AD_06 
 "<maestro>"
-	"maestro" Noun NC Singular lang:es 00:02:05 00:02:12 tt-682 AF006_1968_EP_SU2011_AD_06 
+	"maestro" Plural Singular Noun NC lang:es 00:02:05 00:02:12 tt-682 AF006_1968_EP_SU2011_AD_06 
 "<$.>"
 	"." Punctuation FS lang:es 00:02:05 00:02:12 tt-683 AF006_1968_EP_SU2011_AD_06 
 </speaker>

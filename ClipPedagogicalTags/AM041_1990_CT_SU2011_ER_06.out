@@ -7,7 +7,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:07 tt-822 AM041_1990_CT_SU2011_ER_06 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-823 AM041_1990_CT_SU2011_ER_06 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-823 AM041_1990_CT_SU2011_ER_06 @Gram:Pron:Sujeto 
 "<hablas>"
 	"hablar" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-824 AM041_1990_CT_SU2011_ER_06 
 "<más>"
@@ -21,7 +21,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:00 00:00:07 tt-829 AM041_1990_CT_SU2011_ER_06 @Gram:Prep 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:00 00:00:07 tt-830 AM041_1990_CT_SU2011_ER_06 
+	"UNK" Noun NC Plural lang:es 00:00:00 00:00:07 tt-830 AM041_1990_CT_SU2011_ER_06 @Gram:Det:Pos 
 "<hermanitos>"
 	"hermano" Noun NC Plural lang:es 00:00:00 00:00:07 tt-831 AM041_1990_CT_SU2011_ER_06 
 "<$?>"
@@ -41,7 +41,7 @@
 "<le>"
 	"él" Pronoun PPC Singular lang:es 00:00:10 00:00:15 tt-838 AM041_1990_CT_SU2011_ER_06 @Gram:Pron:Objeto 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:10 00:00:15 tt-839 AM041_1990_CT_SU2011_ER_06 ID:20 R:Gram:PerfPerif:21 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:10 00:00:15 tt-839 AM041_1990_CT_SU2011_ER_06 ID:20 R:Gram:Aux:Haber:21 R:Gram:PerfPerif:21 
 "<enseñado>"
 	"enseñar" Verb VLadj lang:es 00:00:10 00:00:15 tt-840 AM041_1990_CT_SU2011_ER_06 ID:21 
 "<el>"
@@ -112,7 +112,7 @@
 "<te>"
 	"tú" Pronoun PPX Singular lang:es 00:00:24 00:00:28 tt-871 AM041_1990_CT_SU2011_ER_06 @Gram:Pron:Objeto 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:24 00:00:28 tt-872 AM041_1990_CT_SU2011_ER_06 ID:52 R:Gram:PerfPerif:53 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:24 00:00:28 tt-872 AM041_1990_CT_SU2011_ER_06 ID:52 R:Gram:Aux:Haber:53 R:Gram:PerfPerif:53 
 "<preguntado>"
 	"preguntar" Verb VLadj lang:es 00:00:24 00:00:28 tt-873 AM041_1990_CT_SU2011_ER_06 ID:53 
 "<si>"
@@ -189,7 +189,7 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:37 00:00:42 tt-907 AM041_1990_CT_SU2011_ER_06 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:00:37 00:00:42 tt-908 AM041_1990_CT_SU2011_ER_06 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:00:37 00:00:42 tt-908 AM041_1990_CT_SU2011_ER_06 @Gram:SerEstar:Ser 
 "<niños>"
 	"niño" Noun NC Plural lang:es 00:00:37 00:00:42 tt-909 AM041_1990_CT_SU2011_ER_06 
 "<$.>"

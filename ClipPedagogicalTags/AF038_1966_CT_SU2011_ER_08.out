@@ -29,7 +29,7 @@
 "<educación>"
 	"educación" Noun NC Singular lang:es 00:00:00 00:00:07 tt-3215 AF038_1966_CT_SU2011_ER_08 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-3216 AF038_1966_CT_SU2011_ER_08 ID:15 R:Gram:PerfPerif:16 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-3216 AF038_1966_CT_SU2011_ER_08 ID:15 R:Gram:Aux:Haber:16 R:Gram:PerfPerif:16 
 "<recibido>"
 	"recibir" Verb VLadj lang:es 00:00:00 00:00:07 tt-3217 AF038_1966_CT_SU2011_ER_08 ID:16 
 "<$?>"
@@ -101,9 +101,9 @@
 "<ya>"
 	"ya" Adverb ADV lang:es 00:00:15 00:00:21 tt-3249 AF038_1966_CT_SU2011_ER_08 
 "<estuve>"
-	"estar" Verb VEfin Pret Indi Sing 1st lang:es 00:00:15 00:00:21 tt-3250 AF038_1966_CT_SU2011_ER_08 @Gram:Indefinido @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pret Indi Sing 1st lang:es 00:00:15 00:00:21 tt-3250 AF038_1966_CT_SU2011_ER_08 @Gram:Indefinido @Gram:SerEstar:Estar ID:49 R:Gram:SerEstar:EstarAux:50 
 "<viendo>"
-	"ver" Verb VLger lang:es 00:00:15 00:00:21 tt-3251 AF038_1966_CT_SU2011_ER_08 
+	"ver" Verb VLger lang:es 00:00:15 00:00:21 tt-3251 AF038_1966_CT_SU2011_ER_08 ID:50 
 "<aquí>"
 	"aquí" Adverb ADV lang:es 00:00:15 00:00:21 tt-3252 AF038_1966_CT_SU2011_ER_08 
 "<en>"
@@ -190,7 +190,7 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:27 00:00:31 tt-3292 AF038_1966_CT_SU2011_ER_08 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:27 00:00:31 tt-3293 AF038_1966_CT_SU2011_ER_08 
+	"suyo" Pronoun PPO Singular lang:es 00:00:27 00:00:31 tt-3293 AF038_1966_CT_SU2011_ER_08 @Gram:Det:Pos 
 "<esposo>"
 	"esposo" Noun NC Singular lang:es 00:00:27 00:00:31 tt-3294 AF038_1966_CT_SU2011_ER_08 
 "<,>"
@@ -213,7 +213,7 @@
 <speaker type="subj">
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:31 00:00:35 tt-3303 AF038_1966_CT_SU2011_ER_08 
+	"mío" Pronoun PPO Singular lang:es 00:00:31 00:00:35 tt-3303 AF038_1966_CT_SU2011_ER_08 @Gram:Det:Pos 
 "<esposo>"
 	"esposo" Noun NC Singular lang:es 00:00:31 00:00:35 tt-3304 AF038_1966_CT_SU2011_ER_08 
 "<tiene>"
@@ -263,7 +263,7 @@
 "<ahorita>"
 	"ahora" Adverb ADV lang:es 00:00:35 00:00:42 tt-3331 AF038_1966_CT_SU2011_ER_08 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:35 00:00:42 tt-3332 AF038_1966_CT_SU2011_ER_08 
+	"suyo" Pronoun PPO Singular lang:es 00:00:35 00:00:42 tt-3332 AF038_1966_CT_SU2011_ER_08 @Gram:Det:Pos 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:00:35 00:00:42 tt-3333 AF038_1966_CT_SU2011_ER_08 
 "<es>"

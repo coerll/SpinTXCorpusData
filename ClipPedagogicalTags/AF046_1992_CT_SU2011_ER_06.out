@@ -123,7 +123,7 @@
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:00:15 00:00:21 tt-1997 AF046_1992_CT_SU2011_ER_06 @Gram:Pron:Sujeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:15 00:00:21 tt-1998 AF046_1992_CT_SU2011_ER_06 ID:61 R:Gram:PerfPerif:62 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:15 00:00:21 tt-1998 AF046_1992_CT_SU2011_ER_06 ID:61 R:Gram:Aux:Haber:62 R:Gram:PerfPerif:62 
 "<conocido>"
 	"conocer" Verb VLadj lang:es 00:00:15 00:00:21 tt-1999 AF046_1992_CT_SU2011_ER_06 ID:62 
 "<mucha>"
@@ -206,7 +206,7 @@
 "<uno>"
 	"uno" Determiner CARD Singular lang:es 00:00:28 00:00:34 tt-2038 AF046_1992_CT_SU2011_ER_06 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:28 00:00:34 tt-2039 AF046_1992_CT_SU2011_ER_06 ID:102 R:Gram:PerfPerif:103 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:28 00:00:34 tt-2039 AF046_1992_CT_SU2011_ER_06 ID:102 R:Gram:Aux:Haber:103 R:Gram:PerfPerif:103 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:28 00:00:34 tt-2040 AF046_1992_CT_SU2011_ER_06 ID:103 
 "<un>"
@@ -237,7 +237,7 @@
 "<Como>"
 	"como" Conjunction CSUBX lang:es 00:00:34 00:00:40 tt-2053 AF046_1992_CT_SU2011_ER_06 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:34 00:00:40 tt-2054 AF046_1992_CT_SU2011_ER_06 
+	"mío" Pronoun PPO Singular lang:es 00:00:34 00:00:40 tt-2054 AF046_1992_CT_SU2011_ER_06 @Gram:Det:Pos 
 "<hermana>"
 	"hermano" Noun NC Singular lang:es 00:00:34 00:00:40 tt-2055 AF046_1992_CT_SU2011_ER_06 
 "<,>"
@@ -279,15 +279,15 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:40 00:00:45 tt-2074 AF046_1992_CT_SU2011_ER_06 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:40 00:00:45 tt-2075 AF046_1992_CT_SU2011_ER_06 
+	"mío" Pronoun PPO Singular lang:es 00:00:40 00:00:45 tt-2075 AF046_1992_CT_SU2011_ER_06 @Gram:Det:Pos 
 "<sobrina>"
 	"sobrino" Noun NC Singular lang:es 00:00:40 00:00:45 tt-2076 AF046_1992_CT_SU2011_ER_06 
 "<le>"
 	"él" Pronoun PPC Singular lang:es 00:00:40 00:00:45 tt-2077 AF046_1992_CT_SU2011_ER_06 @Gram:Pron:Objeto 
 "<estamos>"
-	"estar" Verb VEfin Pres Indi Plural 1st lang:es 00:00:40 00:00:45 tt-2078 AF046_1992_CT_SU2011_ER_06 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Plural 1st lang:es 00:00:40 00:00:45 tt-2078 AF046_1992_CT_SU2011_ER_06 @Gram:SerEstar:Estar ID:141 R:Gram:SerEstar:EstarAux:142 
 "<enseñando>"
-	"enseñar" Verb VLger lang:es 00:00:40 00:00:45 tt-2079 AF046_1992_CT_SU2011_ER_06 
+	"enseñar" Verb VLger lang:es 00:00:40 00:00:45 tt-2079 AF046_1992_CT_SU2011_ER_06 ID:142 
 "<el>"
 	"el" Determiner ART Singular lang:es 00:00:40 00:00:45 tt-2080 AF046_1992_CT_SU2011_ER_06 @Gram:Det:Art 
 "<español>"
@@ -309,7 +309,7 @@
 "<aunque>"
 	"aunque" Conjunction CSUBX lang:es 00:00:45 00:00:48 tt-2089 AF046_1992_CT_SU2011_ER_06 @Prag:MarcadoresDisc:Revision 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:45 00:00:48 tt-2090 AF046_1992_CT_SU2011_ER_06 
+	"mío" Pronoun PPO Singular lang:es 00:00:45 00:00:48 tt-2090 AF046_1992_CT_SU2011_ER_06 @Gram:Det:Pos 
 "<hermana>"
 	"hermano" Noun NC Singular lang:es 00:00:45 00:00:48 tt-2091 AF046_1992_CT_SU2011_ER_06 
 "<fue>"

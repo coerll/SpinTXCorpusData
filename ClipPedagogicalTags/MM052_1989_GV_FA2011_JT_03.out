@@ -46,9 +46,9 @@
 	"?" Punctuation FS lang:es 00:00:04 00:00:07 tt-319 MM052_1989_GV_FA2011_JT_03 
 
 "<Estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:04 00:00:07 tt-320 MM052_1989_GV_FA2011_JT_03 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:04 00:00:07 tt-320 MM052_1989_GV_FA2011_JT_03 @Gram:SerEstar:Estar ID:21 R:Gram:SerEstar:EstarAux:22 
 "<tratando>"
-	"tratar" Verb VLger lang:es 00:00:04 00:00:07 tt-321 MM052_1989_GV_FA2011_JT_03 
+	"tratar" Verb VLger lang:es 00:00:04 00:00:07 tt-321 MM052_1989_GV_FA2011_JT_03 ID:22 
 "<de>"
 	"de" Preposition PREP lang:es 00:00:04 00:00:07 tt-322 MM052_1989_GV_FA2011_JT_03 @Gram:Prep 
 "<...>"
@@ -56,7 +56,7 @@
 "<sacando>"
 	"sacar" Verb VLger lang:es 00:00:04 00:00:07 tt-324 MM052_1989_GV_FA2011_JT_03 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:04 00:00:07 tt-325 MM052_1989_GV_FA2011_JT_03 
+	"mío" Pronoun PPO Singular lang:es 00:00:04 00:00:07 tt-325 MM052_1989_GV_FA2011_JT_03 @Gram:Det:Pos 
 "<bachillerato>"
 	"bachillerato" Noun NC Singular lang:es 00:00:04 00:00:07 tt-326 MM052_1989_GV_FA2011_JT_03 
 "<en>"
@@ -164,7 +164,7 @@
 "<sacar>"
 	"sacar" Verb VLinf Infinitive lang:es 00:00:18 00:00:24 tt-375 MM052_1989_GV_FA2011_JT_03 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:18 00:00:24 tt-376 MM052_1989_GV_FA2011_JT_03 
+	"mío" Pronoun PPO Singular lang:es 00:00:18 00:00:24 tt-376 MM052_1989_GV_FA2011_JT_03 @Gram:Det:Pos 
 "<maestría>"
 	"maestría" Noun NC Singular lang:es 00:00:18 00:00:24 tt-377 MM052_1989_GV_FA2011_JT_03 
 "<en>"

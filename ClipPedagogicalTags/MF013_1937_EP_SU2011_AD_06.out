@@ -3,7 +3,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:07 tt-2619 MF013_1937_EP_SU2011_AD_06 
 "<Has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2620 MF013_1937_EP_SU2011_AD_06 ID:2 R:Gram:PerfPerif:3 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2620 MF013_1937_EP_SU2011_AD_06 ID:2 R:Gram:Aux:Haber:3 R:Gram:PerfPerif:3 
 "<escuchado>"
 	"escuchar" Verb VLadj lang:es 00:00:00 00:00:07 tt-2621 MF013_1937_EP_SU2011_AD_06 ID:3 
 "<a>"
@@ -85,11 +85,11 @@
 "<ejemplo>"
 	"ejemplo" Adverb ADV lang:es 00:00:12 00:00:18 tt-2660 MF013_1937_EP_SU2011_AD_06 ID:41 
 "<estás>"
-	"estar" Verb VEfin Pres Indi Sing 2nd lang:es 00:00:18 00:00:24 tt-2661 MF013_1937_EP_SU2011_AD_06 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 2nd lang:es 00:00:18 00:00:24 tt-2661 MF013_1937_EP_SU2011_AD_06 @Gram:SerEstar:Estar ID:42 R:Gram:SerEstar:EstarAux:43 
 "<hablando>"
 	"hablar" Verb VLger lang:es 00:00:18 00:00:24 tt-2662 MF013_1937_EP_SU2011_AD_06 ID:43 R:Vocab:Fraseol:VerbPrep:45 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:18 00:00:24 tt-2663 MF013_1937_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:18 00:00:24 tt-2663 MF013_1937_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<con>"
 	"con" Preposition PREP lang:es 00:00:18 00:00:24 tt-2664 MF013_1937_EP_SU2011_AD_06 @Gram:Prep ID:45 
 "<una>"
@@ -99,7 +99,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:18 00:00:24 tt-2667 MF013_1937_EP_SU2011_AD_06 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:18 00:00:24 tt-2668 MF013_1937_EP_SU2011_AD_06 
+	"tú" Pronoun PPX Singular lang:es 00:00:18 00:00:24 tt-2668 MF013_1937_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
 "<sabes>"
 	"saber" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:18 00:00:24 tt-2669 MF013_1937_EP_SU2011_AD_06 
 "<nada>"
@@ -218,7 +218,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:42 00:00:47 tt-2726 MF013_1937_EP_SU2011_AD_06 
 "<Has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:42 00:00:47 tt-2727 MF013_1937_EP_SU2011_AD_06 ID:108 R:Gram:PerfPerif:109 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:42 00:00:47 tt-2727 MF013_1937_EP_SU2011_AD_06 ID:108 R:Gram:Aux:Haber:109 R:Gram:PerfPerif:109 
 "<escuchado>"
 	"escuchar" Verb VLadj lang:es 00:00:42 00:00:47 tt-2728 MF013_1937_EP_SU2011_AD_06 ID:109 
 "<las>"
@@ -307,7 +307,7 @@
 "<dices>"
 	"decir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:53 00:01:00 tt-2769 MF013_1937_EP_SU2011_AD_06 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:53 00:01:00 tt-2770 MF013_1937_EP_SU2011_AD_06 
+	"tú" Pronoun PPX Singular lang:es 00:00:53 00:01:00 tt-2770 MF013_1937_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
 "<,>"
 	"," Punctuation CM lang:es 00:00:53 00:01:00 tt-2771 MF013_1937_EP_SU2011_AD_06 
 "<ay>"

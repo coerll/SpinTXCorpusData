@@ -25,7 +25,7 @@
 "<le>"
 	"él" Pronoun PPC Singular lang:es 00:00:00 00:00:07 tt-3500 AF038_1966_CT_SU2011_ER_10 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-3501 AF038_1966_CT_SU2011_ER_10 ID:13 R:Gram:PerfPerif:14 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-3501 AF038_1966_CT_SU2011_ER_10 ID:13 R:Gram:Aux:Haber:14 R:Gram:PerfPerif:14 
 "<llamado>"
 	"llamar" Verb VLadj lang:es 00:00:00 00:00:07 tt-3502 AF038_1966_CT_SU2011_ER_10 ID:14 
 "<la>"
@@ -119,7 +119,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:21 00:00:26 tt-3545 AF038_1966_CT_SU2011_ER_10 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:21 00:00:26 tt-3546 AF038_1966_CT_SU2011_ER_10 
+	"mío" Pronoun PPO Singular lang:es 00:00:21 00:00:26 tt-3546 AF038_1966_CT_SU2011_ER_10 @Gram:Det:Pos 
 "<niña>"
 	"niño" Noun NC Singular lang:es 00:00:21 00:00:26 tt-3547 AF038_1966_CT_SU2011_ER_10 
 "<a>"
@@ -151,9 +151,9 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:21 00:00:26 tt-3561 AF038_1966_CT_SU2011_ER_10 @Gram:Pron:Objeto 
 "<estuvo>"
-	"estar" Verb VEfin Pret Indi Sing 3rd lang:es 00:00:21 00:00:26 tt-3562 AF038_1966_CT_SU2011_ER_10 @Gram:Indefinido @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pret Indi Sing 3rd lang:es 00:00:21 00:00:26 tt-3562 AF038_1966_CT_SU2011_ER_10 @Gram:Indefinido @Gram:SerEstar:Estar ID:74 R:Gram:SerEstar:EstarAux:75 
 "<platicando>"
-	"platicar" Verb VLger lang:es 00:00:21 00:00:26 tt-3563 AF038_1966_CT_SU2011_ER_10 
+	"platicar" Verb VLger lang:es 00:00:21 00:00:26 tt-3563 AF038_1966_CT_SU2011_ER_10 ID:75 
 "<allí>"
 	"allí" Adverb ADV lang:es 00:00:26 00:00:30 tt-3564 AF038_1966_CT_SU2011_ER_10 
 "<,>"

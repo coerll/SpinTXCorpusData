@@ -39,7 +39,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:00 00:00:07 tt-1194 OM039_1985_CT_SU2011_ER_03 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:00 00:00:07 tt-1195 OM039_1985_CT_SU2011_ER_03 
+	"al" Preposition PAL lang:es 00:00:00 00:00:07 tt-1195 OM039_1985_CT_SU2011_ER_03 @Gram:Prep 
 "<estilo>"
 	"estilo" Noun NC Singular lang:es 00:00:00 00:00:07 tt-1196 OM039_1985_CT_SU2011_ER_03 
 "<de>"
@@ -256,7 +256,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:41 00:00:47 tt-1301 OM039_1985_CT_SU2011_ER_03 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:41 00:00:47 tt-1302 OM039_1985_CT_SU2011_ER_03 ID:127 R:Gram:PerfPerif:128 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:41 00:00:47 tt-1302 OM039_1985_CT_SU2011_ER_03 ID:127 R:Gram:Aux:Haber:128 R:Gram:PerfPerif:128 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:41 00:00:47 tt-1303 OM039_1985_CT_SU2011_ER_03 ID:128 
 "<buenos>"
@@ -299,7 +299,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:47 00:00:53 tt-1322 OM039_1985_CT_SU2011_ER_03 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:47 00:00:53 tt-1323 OM039_1985_CT_SU2011_ER_03 ID:148 R:Gram:PerfPerif:149 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:47 00:00:53 tt-1323 OM039_1985_CT_SU2011_ER_03 ID:148 R:Gram:Aux:Haber:149 R:Gram:PerfPerif:149 
 "<notado>"
 	"notar" Verb VLadj lang:es 00:00:47 00:00:53 tt-1324 OM039_1985_CT_SU2011_ER_03 ID:149 
 "<es>"
@@ -538,7 +538,7 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:01:24 00:01:29 tt-1436 OM039_1985_CT_SU2011_ER_03 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:24 00:01:29 tt-1437 OM039_1985_CT_SU2011_ER_03 
+	"tú" Pronoun PPX Singular lang:es 00:01:24 00:01:29 tt-1437 OM039_1985_CT_SU2011_ER_03 @Gram:Pron:Sujeto 
 "<opinas>"
 	"opinar" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:24 00:01:29 tt-1438 OM039_1985_CT_SU2011_ER_03 
 "<que>"

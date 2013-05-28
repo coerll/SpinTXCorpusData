@@ -12,7 +12,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-3569 MM005_1967_EP_SU2011_AD_12 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-3570 MM005_1967_EP_SU2011_AD_12 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-3570 MM005_1967_EP_SU2011_AD_12 @Gram:Det:Pos 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:00:00 00:00:07 tt-3571 MM005_1967_EP_SU2011_AD_12 
 "<y>"
@@ -26,7 +26,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-3576 MM005_1967_EP_SU2011_AD_12 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-3577 MM005_1967_EP_SU2011_AD_12 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-3577 MM005_1967_EP_SU2011_AD_12 @Gram:Det:Pos 
 "<profesión>"
 	"profesión" Noun NC Singular lang:es 00:00:00 00:00:07 tt-3578 MM005_1967_EP_SU2011_AD_12 
 "<$.>"
@@ -267,7 +267,7 @@
 "<la>"
 	"el" Determiner ART Singular lang:es 00:00:46 00:00:53 tt-3697 MM005_1967_EP_SU2011_AD_12 @Gram:Det:Art 
 "<maestra>"
-	"maestro" Noun NC Singular lang:es 00:00:46 00:00:53 tt-3698 MM005_1967_EP_SU2011_AD_12 
+	"maestro" Plural Singular Noun NC lang:es 00:00:46 00:00:53 tt-3698 MM005_1967_EP_SU2011_AD_12 
 "<le>"
 	"él" Pronoun PPC Singular lang:es 00:00:53 00:00:58 tt-3699 MM005_1967_EP_SU2011_AD_12 @Gram:Pron:Objeto 
 "<pedí>"
@@ -285,7 +285,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:53 00:00:58 tt-3706 MM005_1967_EP_SU2011_AD_12 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:53 00:00:58 tt-3707 MM005_1967_EP_SU2011_AD_12 
+	"suyo" Pronoun PPO Singular lang:es 00:00:53 00:00:58 tt-3707 MM005_1967_EP_SU2011_AD_12 @Gram:Det:Pos 
 "<despacho>"
 	"despacho" Noun NC Singular lang:es 00:00:53 00:00:58 tt-3708 MM005_1967_EP_SU2011_AD_12 
 "<y>"
@@ -424,7 +424,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:19 00:01:24 tt-3772 MM005_1967_EP_SU2011_AD_12 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:19 00:01:24 tt-3773 MM005_1967_EP_SU2011_AD_12 ID:206 R:Gram:PerfPerif:207 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:19 00:01:24 tt-3773 MM005_1967_EP_SU2011_AD_12 ID:206 R:Gram:Aux:Haber:207 R:Gram:PerfPerif:207 
 "<gustado>"
 	"gustar" Verb VLadj lang:es 00:01:19 00:01:24 tt-3774 MM005_1967_EP_SU2011_AD_12 ID:207 
 "<,>"
@@ -440,13 +440,13 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:19 00:01:24 tt-3780 MM005_1967_EP_SU2011_AD_12 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:19 00:01:24 tt-3781 MM005_1967_EP_SU2011_AD_12 ID:214 R:Gram:PerfPerif:215 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:19 00:01:24 tt-3781 MM005_1967_EP_SU2011_AD_12 ID:214 R:Gram:Aux:Haber:215 R:Gram:PerfPerif:215 
 "<gustado>"
 	"gustar" Verb VLadj lang:es 00:01:19 00:01:24 tt-3782 MM005_1967_EP_SU2011_AD_12 ID:215 
 "<estar>"
 	"estar" Verb VEinf Infinitive lang:es 00:01:19 00:01:24 tt-3783 MM005_1967_EP_SU2011_AD_12 @Gram:SerEstar:Estar 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:24 00:01:30 tt-3784 MM005_1967_EP_SU2011_AD_12 
+	"al" Preposition PAL lang:es 00:01:24 00:01:30 tt-3784 MM005_1967_EP_SU2011_AD_12 @Gram:Prep 
 "<pendiente>"
 	"pendiente" Noun NC Singular lang:es 00:01:24 00:01:30 tt-3785 MM005_1967_EP_SU2011_AD_12 
 "<de>"
@@ -502,15 +502,15 @@
 "<da>"
 	"dar" Verb VLfin Pres Indi Sing 3rd lang:es 00:01:30 00:01:35 tt-3811 MM005_1967_EP_SU2011_AD_12 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:30 00:01:35 tt-3812 MM005_1967_EP_SU2011_AD_12 
+	"mío" Pronoun PPO Singular lang:es 00:01:30 00:01:35 tt-3812 MM005_1967_EP_SU2011_AD_12 @Gram:Det:Pos 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:01:30 00:01:35 tt-3813 MM005_1967_EP_SU2011_AD_12 
 "<de>"
 	"de" Preposition PREP lang:es 00:01:30 00:01:35 tt-3814 MM005_1967_EP_SU2011_AD_12 @Gram:Prep 
 "<estar>"
-	"estar" Verb VEinf Infinitive lang:es 00:01:30 00:01:35 tt-3815 MM005_1967_EP_SU2011_AD_12 @Gram:SerEstar:Estar 
+	"estar" Verb VEinf Infinitive lang:es 00:01:30 00:01:35 tt-3815 MM005_1967_EP_SU2011_AD_12 @Gram:SerEstar:Estar ID:248 R:Gram:SerEstar:EstarAux:249 
 "<haciendo>"
-	"hacer" Verb VLger lang:es 00:01:30 00:01:35 tt-3816 MM005_1967_EP_SU2011_AD_12 
+	"hacer" Verb VLger lang:es 00:01:30 00:01:35 tt-3816 MM005_1967_EP_SU2011_AD_12 ID:249 
 "<cálculos>"
 	"cálculo" Noun NC Plural lang:es 00:01:30 00:01:35 tt-3817 MM005_1967_EP_SU2011_AD_12 
 "<para>"
@@ -883,7 +883,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:02:49 00:02:56 tt-3995 MM005_1967_EP_SU2011_AD_12 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:49 00:02:56 tt-3996 MM005_1967_EP_SU2011_AD_12 
+	"mío" Pronoun PPO Singular lang:es 00:02:49 00:02:56 tt-3996 MM005_1967_EP_SU2011_AD_12 @Gram:Det:Pos 
 "<casa>"
 	"casa" Noun NC Singular lang:es 00:02:49 00:02:56 tt-3997 MM005_1967_EP_SU2011_AD_12 
 "<con>"
@@ -939,7 +939,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:02:58 00:03:05 tt-4023 MM005_1967_EP_SU2011_AD_12 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:02:58 00:03:05 tt-4024 MM005_1967_EP_SU2011_AD_12 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:02:58 00:03:05 tt-4024 MM005_1967_EP_SU2011_AD_12 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:02:58 00:03:05 tt-4025 MM005_1967_EP_SU2011_AD_12 
 "<laboral>"
@@ -976,7 +976,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:03:07 00:03:14 tt-4040 MM005_1967_EP_SU2011_AD_12 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:03:07 00:03:14 tt-4041 MM005_1967_EP_SU2011_AD_12 
+	"mío" Pronoun PPO Singular lang:es 00:03:07 00:03:14 tt-4041 MM005_1967_EP_SU2011_AD_12 @Gram:Det:Pos 
 "<esposa>"
 	"esposo" Noun NC Singular lang:es 00:03:07 00:03:14 tt-4042 MM005_1967_EP_SU2011_AD_12 
 "<$.>"

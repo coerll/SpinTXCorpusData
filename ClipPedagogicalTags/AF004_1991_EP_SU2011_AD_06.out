@@ -15,7 +15,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-510 AF004_1991_EP_SU2011_AD_06 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-511 AF004_1991_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-511 AF004_1991_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<infancia>"
 	"infancia" Noun NC Singular lang:es 00:00:00 00:00:07 tt-512 AF004_1991_EP_SU2011_AD_06 
 "<$?>"
@@ -151,7 +151,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:38 00:00:45 tt-588 AF004_1991_EP_SU2011_AD_06 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:38 00:00:45 tt-589 AF004_1991_EP_SU2011_AD_06 ID:70 R:Gram:PerfPerif:71 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:38 00:00:45 tt-589 AF004_1991_EP_SU2011_AD_06 ID:70 R:Gram:Aux:Haber:71 R:Gram:PerfPerif:71 
 "<viajado>"
 	"viajar" Verb VLadj lang:es 00:00:38 00:00:45 tt-590 AF004_1991_EP_SU2011_AD_06 ID:71 
 "<mucho>"
@@ -159,7 +159,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:38 00:00:45 tt-592 AF004_1991_EP_SU2011_AD_06 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:38 00:00:45 tt-593 AF004_1991_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:38 00:00:45 tt-593 AF004_1991_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:38 00:00:45 tt-594 AF004_1991_EP_SU2011_AD_06 
 "<a>"
@@ -176,7 +176,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:45 00:00:51 tt-602 AF004_1991_EP_SU2011_AD_06 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:45 00:00:51 tt-603 AF004_1991_EP_SU2011_AD_06 
+	"mío" Pronoun PPO Singular lang:es 00:00:45 00:00:51 tt-603 AF004_1991_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<abuelitos>"
 	"abuelo" Noun NC Plural lang:es 00:00:45 00:00:51 tt-604 AF004_1991_EP_SU2011_AD_06 
 "<,>"
@@ -188,7 +188,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:45 00:00:51 tt-608 AF004_1991_EP_SU2011_AD_06 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:45 00:00:51 tt-609 AF004_1991_EP_SU2011_AD_06 
+	"mío" Pronoun PPO Singular lang:es 00:00:45 00:00:51 tt-609 AF004_1991_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<abuelito>"
 	"abuelo" Noun NC Singular lang:es 00:00:45 00:00:51 tt-610 AF004_1991_EP_SU2011_AD_06 
 "<viven>"
@@ -212,7 +212,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:51 00:00:55 tt-621 AF004_1991_EP_SU2011_AD_06 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:51 00:00:55 tt-622 AF004_1991_EP_SU2011_AD_06 
+	"suyo" Pronoun PPO Singular lang:es 00:00:51 00:00:55 tt-622 AF004_1991_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<hermana>"
 	"hermano" Noun NC Singular lang:es 00:00:51 00:00:55 tt-623 AF004_1991_EP_SU2011_AD_06 
 "<y>"
@@ -238,7 +238,7 @@
 "<era>"
 	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:55 00:00:58 tt-633 AF004_1991_EP_SU2011_AD_06 @Gram:Imperf @Gram:SerEstar:Ser 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:55 00:00:58 tt-634 AF004_1991_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:55 00:00:58 tt-634 AF004_1991_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<favorito>"
 	"favorito" Adjective ADJ Singular lang:es 00:00:55 00:00:58 tt-635 AF004_1991_EP_SU2011_AD_06 
 "<lugar>"
@@ -271,7 +271,7 @@
 "<alberca>"
 	"alberca" Noun NC Singular lang:es 00:00:58 00:01:05 tt-650 AF004_1991_EP_SU2011_AD_06 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:58 00:01:05 tt-651 AF004_1991_EP_SU2011_AD_06 
+	"del" Preposition PDEL lang:es 00:00:58 00:01:05 tt-651 AF004_1991_EP_SU2011_AD_06 @Gram:Prep 
 "<tenían>"
 	"tener" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:58 00:01:05 tt-653 AF004_1991_EP_SU2011_AD_06 @Gram:Imperf 
 "<un>"

@@ -9,7 +9,7 @@
 "<vez>"
 	"vez" Noun NC Singular lang:es 00:00:00 00:00:07 tt-3110 AF038_1966_CT_SU2011_ER_07 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-3111 AF038_1966_CT_SU2011_ER_07 ID:5 R:Gram:PerfPerif:6 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-3111 AF038_1966_CT_SU2011_ER_07 ID:5 R:Gram:Aux:Haber:6 R:Gram:PerfPerif:6 
 "<requerido>"
 	"requerir" Verb VLadj lang:es 00:00:00 00:00:07 tt-3112 AF038_1966_CT_SU2011_ER_07 ID:6 
 "<la>"
@@ -23,7 +23,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-3117 AF038_1966_CT_SU2011_ER_07 @Gram:Prep 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:00:00 00:00:07 tt-3118 AF038_1966_CT_SU2011_ER_07 
+	"suyo" Pronoun PPO Plural lang:es 00:00:00 00:00:07 tt-3118 AF038_1966_CT_SU2011_ER_07 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:00 00:00:07 tt-3119 AF038_1966_CT_SU2011_ER_07 
 "<para>"
@@ -51,9 +51,9 @@
 "<se>"
 	"se" Other SE lang:es 00:00:07 00:00:09 tt-3131 AF038_1966_CT_SU2011_ER_07 
 "<está>"
-	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:00:07 00:00:09 tt-3132 AF038_1966_CT_SU2011_ER_07 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:00:07 00:00:09 tt-3132 AF038_1966_CT_SU2011_ER_07 @Gram:SerEstar:Estar ID:26 R:Gram:SerEstar:EstarAux:27 
 "<diciendo>"
-	"decir" Verb VLger lang:es 00:00:07 00:00:09 tt-3133 AF038_1966_CT_SU2011_ER_07 
+	"decir" Verb VLger lang:es 00:00:07 00:00:09 tt-3133 AF038_1966_CT_SU2011_ER_07 ID:27 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:07 00:00:09 tt-3134 AF038_1966_CT_SU2011_ER_07 
 </speaker>
@@ -72,7 +72,7 @@
 "<lo>"
 	"él" Pronoun PPC Singular lang:es 00:00:09 00:00:14 tt-3140 AF038_1966_CT_SU2011_ER_07 @Gram:Pron:Objeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:09 00:00:14 tt-3141 AF038_1966_CT_SU2011_ER_07 ID:35 R:Gram:PerfPerif:36 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:09 00:00:14 tt-3141 AF038_1966_CT_SU2011_ER_07 ID:35 R:Gram:Aux:Haber:36 R:Gram:PerfPerif:36 
 "<hecho>"
 	"hacer" Verb VLadj lang:es 00:00:09 00:00:14 tt-3142 AF038_1966_CT_SU2011_ER_07 ID:36 
 "<varias>"
@@ -90,7 +90,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:09 00:00:14 tt-3149 AF038_1966_CT_SU2011_ER_07 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:09 00:00:14 tt-3150 AF038_1966_CT_SU2011_ER_07 
+	"UNK" Noun NC Plural lang:es 00:00:09 00:00:14 tt-3150 AF038_1966_CT_SU2011_ER_07 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:09 00:00:14 tt-3151 AF038_1966_CT_SU2011_ER_07 
 "<,>"

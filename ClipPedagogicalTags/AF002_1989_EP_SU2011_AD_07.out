@@ -24,7 +24,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-1133 AF002_1989_EP_SU2011_AD_07 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-1134 AF002_1989_EP_SU2011_AD_07 
+	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-1134 AF002_1989_EP_SU2011_AD_07 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:00 00:00:07 tt-1135 AF002_1989_EP_SU2011_AD_07 
 "<o>"
@@ -34,7 +34,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:18 00:00:20 tt-1138 AF002_1989_EP_SU2011_AD_07 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:18 00:00:20 tt-1139 AF002_1989_EP_SU2011_AD_07 
+	"mío" Pronoun PPO Singular lang:es 00:00:18 00:00:20 tt-1139 AF002_1989_EP_SU2011_AD_07 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:18 00:00:20 tt-1140 AF002_1989_EP_SU2011_AD_07 
 "<que>"
@@ -51,7 +51,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:20 00:00:27 tt-1145 AF002_1989_EP_SU2011_AD_07 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:20 00:00:27 tt-1146 AF002_1989_EP_SU2011_AD_07 ID:24 R:Gram:PerfPerif:25 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:20 00:00:27 tt-1146 AF002_1989_EP_SU2011_AD_07 ID:24 R:Gram:Aux:Haber:25 R:Gram:PerfPerif:25 
 "<ido>"
 	"ir" Verb VLadj lang:es 00:00:20 00:00:27 tt-1147 AF002_1989_EP_SU2011_AD_07 ID:25 
 "<a>"
@@ -120,7 +120,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:43 00:00:49 tt-1179 AF002_1989_EP_SU2011_AD_07 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:43 00:00:49 tt-1180 AF002_1989_EP_SU2011_AD_07 ID:58 R:Gram:PerfPerif:59 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:43 00:00:49 tt-1180 AF002_1989_EP_SU2011_AD_07 ID:58 R:Gram:Aux:Haber:59 R:Gram:PerfPerif:59 
 "<viajado>"
 	"viajar" Verb VLadj lang:es 00:00:43 00:00:49 tt-1181 AF002_1989_EP_SU2011_AD_07 ID:59 
 "<un>"
@@ -132,7 +132,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:43 00:00:49 tt-1185 AF002_1989_EP_SU2011_AD_07 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:43 00:00:49 tt-1186 AF002_1989_EP_SU2011_AD_07 
+	"mío" Pronoun PPO Singular lang:es 00:00:43 00:00:49 tt-1186 AF002_1989_EP_SU2011_AD_07 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:43 00:00:49 tt-1187 AF002_1989_EP_SU2011_AD_07 
 "<$.>"
@@ -147,7 +147,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:43 00:00:49 tt-1192 AF002_1989_EP_SU2011_AD_07 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:43 00:00:49 tt-1193 AF002_1989_EP_SU2011_AD_07 ID:71 R:Gram:PerfPerif:72 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:43 00:00:49 tt-1193 AF002_1989_EP_SU2011_AD_07 ID:71 R:Gram:Aux:Haber:72 R:Gram:PerfPerif:72 
 "<convivido>"
 	"convivir" Verb VLadj lang:es 00:00:43 00:00:49 tt-1194 AF002_1989_EP_SU2011_AD_07 ID:72 
 "<con>"

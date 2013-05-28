@@ -1,7 +1,7 @@
 <text id="OM039_1985_CT_SU2011_ER_01">
 <speaker type="subj">
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:02 tt-10 OM039_1985_CT_SU2011_ER_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:02 tt-10 OM039_1985_CT_SU2011_ER_01 @Gram:Det:Pos 
 "<nombre>"
 	"nombre" Noun NC Singular lang:es 00:00:00 00:00:02 tt-11 OM039_1985_CT_SU2011_ER_01 
 "<es>"
@@ -33,7 +33,7 @@
 "<eres>"
 	"ser" Verb VSfin Pres Indi Sing 2nd lang:es 00:00:02 00:00:05 tt-23 OM039_1985_CT_SU2011_ER_01 @Gram:SerEstar:Ser 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:02 00:00:05 tt-24 OM039_1985_CT_SU2011_ER_01 
+	"tú" Pronoun PPX Singular lang:es 00:00:02 00:00:05 tt-24 OM039_1985_CT_SU2011_ER_01 @Gram:Pron:Sujeto 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:02 00:00:05 tt-25 OM039_1985_CT_SU2011_ER_01 
 </speaker>
@@ -115,7 +115,7 @@
 "<llegaste>"
 	"llegar" Verb VLfin Pret Indi Sing 2nd lang:es 00:00:15 00:00:20 tt-58 OM039_1985_CT_SU2011_ER_01 @Gram:Indefinido 
 "<eras>"
-	"erar|ser" Verb VLfin Past Subj Sing 2nd lang:es 00:00:15 00:00:20 tt-59 OM039_1985_CT_SU2011_ER_01 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Sing 2nd lang:es 00:00:15 00:00:20 tt-59 OM039_1985_CT_SU2011_ER_01 @Gram:SerEstar:Ser 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:15 00:00:20 tt-60 OM039_1985_CT_SU2011_ER_01 
 "<no>"
@@ -133,7 +133,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:15 00:00:20 tt-67 OM039_1985_CT_SU2011_ER_01 
 "<eras>"
-	"erar|ser" Verb VLfin Past Subj Sing 2nd lang:es 00:00:15 00:00:20 tt-68 OM039_1985_CT_SU2011_ER_01 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Sing 2nd lang:es 00:00:15 00:00:20 tt-68 OM039_1985_CT_SU2011_ER_01 @Gram:SerEstar:Ser 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:00:15 00:00:20 tt-69 OM039_1985_CT_SU2011_ER_01 
 "<...>"
@@ -195,7 +195,7 @@
 "<llegaste>"
 	"llegar" Verb VLfin Pret Indi Sing 2nd lang:es 00:00:27 00:00:30 tt-94 OM039_1985_CT_SU2011_ER_01 @Gram:Indefinido 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:27 00:00:30 tt-95 OM039_1985_CT_SU2011_ER_01 
+	"al" Preposition PAL lang:es 00:00:27 00:00:30 tt-95 OM039_1985_CT_SU2011_ER_01 @Gram:Prep 
 "<país>"
 	"país" Noun NC Plural lang:es 00:00:27 00:00:30 tt-96 OM039_1985_CT_SU2011_ER_01 
 "<$?>"
@@ -258,7 +258,7 @@
 "<estructura>"
 	"estructura" Noun NC Singular lang:es 00:00:37 00:00:44 tt-123 OM039_1985_CT_SU2011_ER_01 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:37 00:00:44 tt-124 OM039_1985_CT_SU2011_ER_01 
+	"del" Preposition PDEL lang:es 00:00:37 00:00:44 tt-124 OM039_1985_CT_SU2011_ER_01 @Gram:Prep 
 "<grammar>"
 	"UNK" Noun NC Singular lang:es 00:00:37 00:00:44 tt-125 OM039_1985_CT_SU2011_ER_01 
 "<y>"
@@ -319,7 +319,7 @@
 "<comunicaras>"
 	"UNK" Verb VLfin Past Subj Sing 2nd lang:es 00:00:48 00:00:53 tt-152 OM039_1985_CT_SU2011_ER_01 @Gram:MSub:Pret 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:48 00:00:53 tt-153 OM039_1985_CT_SU2011_ER_01 
+	"tú" Pronoun PPX Singular lang:es 00:00:48 00:00:53 tt-153 OM039_1985_CT_SU2011_ER_01 @Gram:Pron:Sujeto 
 "<con>"
 	"con" Preposition PREP lang:es 00:00:48 00:00:53 tt-154 OM039_1985_CT_SU2011_ER_01 @Gram:Prep 
 "<las>"
@@ -358,7 +358,7 @@
 "<ir>"
 	"ir" Verb VLinf Infinitive lang:es 00:00:53 00:00:57 tt-170 OM039_1985_CT_SU2011_ER_01 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:53 00:00:57 tt-171 OM039_1985_CT_SU2011_ER_01 
+	"al" Preposition PAL lang:es 00:00:53 00:00:57 tt-171 OM039_1985_CT_SU2011_ER_01 @Gram:Prep 
 "<baño>"
 	"baño" Noun NC Singular lang:es 00:00:53 00:00:57 tt-172 OM039_1985_CT_SU2011_ER_01 
 "<,>"

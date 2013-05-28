@@ -11,7 +11,7 @@
 "<fue>"
 	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:00:00 00:00:06 tt-6150 MF019_1971_CT_SU2011_VA_11 @Gram:SerEstar:Ser 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:06 tt-6151 MF019_1971_CT_SU2011_VA_11 
+	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:06 tt-6151 MF019_1971_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<experiencia>"
 	"experiencia" Noun NC Singular lang:es 00:00:00 00:00:06 tt-6152 MF019_1971_CT_SU2011_VA_11 
 "<como>"
@@ -40,14 +40,14 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:06 00:00:13 tt-6163 MF019_1971_CT_SU2011_VA_11 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:06 00:00:13 tt-6164 MF019_1971_CT_SU2011_VA_11 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:06 00:00:13 tt-6164 MF019_1971_CT_SU2011_VA_11 @Gram:SerEstar:Estar ID:19 R:Gram:SerEstar:EstarAux:20 
 "<bromeando>"
-	"bromear" Verb VLger lang:es 00:00:06 00:00:13 tt-6165 MF019_1971_CT_SU2011_VA_11 
+	"bromear" Verb VLger lang:es 00:00:06 00:00:13 tt-6165 MF019_1971_CT_SU2011_VA_11 ID:20 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:06 00:00:13 tt-6166 MF019_1971_CT_SU2011_VA_11 
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:06 00:00:13 tt-6167 MF019_1971_CT_SU2011_VA_11 
+	"mío" Pronoun PPO Singular lang:es 00:00:06 00:00:13 tt-6167 MF019_1971_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<experiencia>"
 	"experiencia" Noun NC Singular lang:es 00:00:06 00:00:13 tt-6168 MF019_1971_CT_SU2011_VA_11 
 "<como>"
@@ -225,7 +225,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:52 00:00:59 tt-6255 MF019_1971_CT_SU2011_VA_11 @Gram:Prep 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:00:52 00:00:59 tt-6256 MF019_1971_CT_SU2011_VA_11 
+	"suyo" Pronoun PPO Plural lang:es 00:00:52 00:00:59 tt-6256 MF019_1971_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:52 00:00:59 tt-6257 MF019_1971_CT_SU2011_VA_11 
 "<$;>"
@@ -293,7 +293,7 @@
 "<ejemplo>"
 	"ejemplo" Adverb ADV lang:es 00:00:59 00:01:06 tt-6289 MF019_1971_CT_SU2011_VA_11 ID:144 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:07 00:01:14 tt-6290 MF019_1971_CT_SU2011_VA_11 
+	"mío" Pronoun PPO Singular lang:es 00:01:07 00:01:14 tt-6290 MF019_1971_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<niña>"
 	"niño" Noun NC Singular lang:es 00:01:07 00:01:14 tt-6291 MF019_1971_CT_SU2011_VA_11 
 "<mayor>"
@@ -313,7 +313,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:07 00:01:14 tt-6299 MF019_1971_CT_SU2011_VA_11 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:01:07 00:01:14 tt-6300 MF019_1971_CT_SU2011_VA_11 
+	"suyo" Pronoun PPO Singular lang:es 00:01:07 00:01:14 tt-6300 MF019_1971_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:01:07 00:01:14 tt-6301 MF019_1971_CT_SU2011_VA_11 
 "<,>"
@@ -375,14 +375,14 @@
 "<como>"
 	"como" Conjunction CSUBX lang:es 00:01:25 00:01:32 tt-6330 MF019_1971_CT_SU2011_VA_11 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:01:25 00:01:32 tt-6331 MF019_1971_CT_SU2011_VA_11 
+	"suyo" Pronoun PPO Singular lang:es 00:01:25 00:01:32 tt-6331 MF019_1971_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:01:25 00:01:32 tt-6332 MF019_1971_CT_SU2011_VA_11 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:25 00:01:32 tt-6333 MF019_1971_CT_SU2011_VA_11 
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:25 00:01:32 tt-6334 MF019_1971_CT_SU2011_VA_11 
+	"mío" Pronoun PPO Singular lang:es 00:01:25 00:01:32 tt-6334 MF019_1971_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<segunda>"
 	"segundo" Adjective ORD Singular lang:es 00:01:25 00:01:32 tt-6335 MF019_1971_CT_SU2011_VA_11 
 "<,>"
@@ -541,7 +541,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:02:09 00:02:16 tt-6413 MF019_1971_CT_SU2011_VA_11 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:02:09 00:02:16 tt-6414 MF019_1971_CT_SU2011_VA_11 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:02:09 00:02:16 tt-6414 MF019_1971_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<corazón>"
 	"corazón" Noun NC Singular lang:es 00:02:09 00:02:16 tt-6415 MF019_1971_CT_SU2011_VA_11 
 "<se>"
@@ -729,7 +729,7 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:02:47 00:02:54 tt-6507 MF019_1971_CT_SU2011_VA_11 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:02:47 00:02:54 tt-6508 MF019_1971_CT_SU2011_VA_11 
+	"tú" Pronoun PPX Singular lang:es 00:02:47 00:02:54 tt-6508 MF019_1971_CT_SU2011_VA_11 @Gram:Pron:Sujeto 
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:02:47 00:02:54 tt-6509 MF019_1971_CT_SU2011_VA_11 @Gram:Pron:Objeto 
 "<hablas>"
@@ -743,7 +743,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:02:47 00:02:54 tt-6514 MF019_1971_CT_SU2011_VA_11 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:47 00:02:54 tt-6515 MF019_1971_CT_SU2011_VA_11 
+	"mío" Pronoun PPO Singular lang:es 00:02:47 00:02:54 tt-6515 MF019_1971_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<corazón>"
 	"corazón" Noun NC Singular lang:es 00:02:47 00:02:54 tt-6516 MF019_1971_CT_SU2011_VA_11 
 "<,>"
@@ -759,7 +759,7 @@
 "<rompiera>"
 	"romper" Verb VLfin Past Subj Sing 1st_or_3rd lang:es 00:02:56 00:03:03 tt-6522 MF019_1971_CT_SU2011_VA_11 @Gram:MSub:Pret 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:56 00:03:03 tt-6523 MF019_1971_CT_SU2011_VA_11 
+	"mío" Pronoun PPO Singular lang:es 00:02:56 00:03:03 tt-6523 MF019_1971_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<corazón>"
 	"corazón" Noun NC Singular lang:es 00:02:56 00:03:03 tt-6524 MF019_1971_CT_SU2011_VA_11 
 "<,>"
@@ -811,7 +811,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:03:08 00:03:15 tt-6551 MF019_1971_CT_SU2011_VA_11 
 "<al>"
-	"al" Preposition PAL lang:es 00:03:08 00:03:15 tt-6552 MF019_1971_CT_SU2011_VA_11 
+	"al" Preposition PAL lang:es 00:03:08 00:03:15 tt-6552 MF019_1971_CT_SU2011_VA_11 @Gram:Prep 
 "<otro>"
 	"otro" Determiner QU lang:es 00:03:08 00:03:15 tt-6553 MF019_1971_CT_SU2011_VA_11 
 "<,>"

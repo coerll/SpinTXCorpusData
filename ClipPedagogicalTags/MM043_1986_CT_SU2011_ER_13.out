@@ -16,9 +16,9 @@
 "<lo>"
 	"él" Pronoun PPC Singular lang:es 00:00:00 00:00:06 tt-4096 MM043_1986_CT_SU2011_ER_13 @Gram:Pron:Objeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:00 00:00:06 tt-4097 MM043_1986_CT_SU2011_ER_13 ID:8 R:Gram:PerfPerif:9 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:00 00:00:06 tt-4097 MM043_1986_CT_SU2011_ER_13 ID:8 R:Gram:SerEstar:Ser:9 R:Gram:Aux:Haber:9 R:Gram:PerfPerif:9 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:00 00:00:06 tt-4098 MM043_1986_CT_SU2011_ER_13 @Gram:SerEstar:Ser ID:9 
+	"ser" Verb VSadj Participle lang:es 00:00:00 00:00:06 tt-4098 MM043_1986_CT_SU2011_ER_13 ID:9 
 "<,>"
 	"," Punctuation CM lang:es 00:00:00 00:00:06 tt-4099 MM043_1986_CT_SU2011_ER_13 
 "<yo>"
@@ -38,7 +38,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:00 00:00:06 tt-4107 MM043_1986_CT_SU2011_ER_13 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:00 00:00:06 tt-4108 MM043_1986_CT_SU2011_ER_13 
+	"UNK" Noun NC Plural lang:es 00:00:00 00:00:06 tt-4108 MM043_1986_CT_SU2011_ER_13 @Gram:Det:Pos 
 "<padres>"
 	"padre" Noun NC Plural lang:es 00:00:00 00:00:06 tt-4109 MM043_1986_CT_SU2011_ER_13 
 "<son>"
@@ -99,7 +99,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:13 00:00:20 tt-4137 MM043_1986_CT_SU2011_ER_13 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:13 00:00:20 tt-4138 MM043_1986_CT_SU2011_ER_13 
+	"mío" Pronoun PPO Singular lang:es 00:00:13 00:00:20 tt-4138 MM043_1986_CT_SU2011_ER_13 @Gram:Det:Pos 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:13 00:00:20 tt-4139 MM043_1986_CT_SU2011_ER_13 
 "<para>"
@@ -109,7 +109,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:13 00:00:20 tt-4142 MM043_1986_CT_SU2011_ER_13 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:13 00:00:20 tt-4143 MM043_1986_CT_SU2011_ER_13 
+	"mío" Pronoun PPO Singular lang:es 00:00:13 00:00:20 tt-4143 MM043_1986_CT_SU2011_ER_13 @Gram:Det:Pos 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:13 00:00:20 tt-4144 MM043_1986_CT_SU2011_ER_13 
 "<pero>"
@@ -152,7 +152,7 @@
 "<opinas>"
 	"opinar" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:26 00:00:33 tt-4162 MM043_1986_CT_SU2011_ER_13 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:26 00:00:33 tt-4163 MM043_1986_CT_SU2011_ER_13 
+	"tú" Pronoun PPX Singular lang:es 00:00:26 00:00:33 tt-4163 MM043_1986_CT_SU2011_ER_13 @Gram:Pron:Sujeto 
 "<de>"
 	"de" Preposition PREP lang:es 00:00:26 00:00:33 tt-4164 MM043_1986_CT_SU2011_ER_13 @Gram:Prep 
 "<ciertos>"
@@ -210,7 +210,7 @@
 "<opinas>"
 	"opinar" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:36 00:00:42 tt-4190 MM043_1986_CT_SU2011_ER_13 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:36 00:00:42 tt-4191 MM043_1986_CT_SU2011_ER_13 
+	"tú" Pronoun PPX Singular lang:es 00:00:36 00:00:42 tt-4191 MM043_1986_CT_SU2011_ER_13 @Gram:Pron:Sujeto 
 "<de>"
 	"de" Preposition PREP lang:es 00:00:36 00:00:42 tt-4192 MM043_1986_CT_SU2011_ER_13 @Gram:Prep 
 "<términos>"
@@ -305,7 +305,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:51 00:00:58 tt-4236 MM043_1986_CT_SU2011_ER_13 @Gram:Pron:Objeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:51 00:00:58 tt-4237 MM043_1986_CT_SU2011_ER_13 ID:148 R:Gram:PerfPerif:149 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:51 00:00:58 tt-4237 MM043_1986_CT_SU2011_ER_13 ID:148 R:Gram:Aux:Haber:149 R:Gram:PerfPerif:149 
 "<enojado>"
 	"enojar" Verb VLadj lang:es 00:00:51 00:00:58 tt-4238 MM043_1986_CT_SU2011_ER_13 ID:149 
 "<con>"

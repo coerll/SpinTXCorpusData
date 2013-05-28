@@ -198,9 +198,9 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:34 00:00:41 tt-1299 OM024_1933_CT_SU2011_VA_08 
 "<estaba>"
-	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:34 00:00:41 tt-1300 OM024_1933_CT_SU2011_VA_08 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:34 00:00:41 tt-1300 OM024_1933_CT_SU2011_VA_08 @Gram:Imperf @Gram:SerEstar:Estar ID:94 R:Gram:SerEstar:EstarAux:95 
 "<haciendo>"
-	"hacer" Verb VLger lang:es 00:00:34 00:00:41 tt-1301 OM024_1933_CT_SU2011_VA_08 
+	"hacer" Verb VLger lang:es 00:00:34 00:00:41 tt-1301 OM024_1933_CT_SU2011_VA_08 ID:95 
 "<el>"
 	"el" Determiner ART Singular lang:es 00:00:34 00:00:41 tt-1302 OM024_1933_CT_SU2011_VA_08 @Gram:Det:Art 
 "<bachillerato>"
@@ -246,7 +246,7 @@
 "<viejo>"
 	"viejo" Noun NC Singular lang:es 00:00:42 00:00:49 tt-1323 OM024_1933_CT_SU2011_VA_08 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:42 00:00:49 tt-1324 OM024_1933_CT_SU2011_VA_08 ID:118 R:Gram:PerfPerif:119 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:42 00:00:49 tt-1324 OM024_1933_CT_SU2011_VA_08 ID:118 R:Gram:Aux:Haber:119 R:Gram:PerfPerif:119 
 "<estudiado>"
 	"estudiar" Verb VLadj lang:es 00:00:53 00:00:59 tt-1325 OM024_1933_CT_SU2011_VA_08 ID:119 
 "<,>"
@@ -254,7 +254,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:53 00:00:59 tt-1327 OM024_1933_CT_SU2011_VA_08 @Gram:Pron:Objeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:53 00:00:59 tt-1328 OM024_1933_CT_SU2011_VA_08 ID:122 R:Gram:PerfPerif:123 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:53 00:00:59 tt-1328 OM024_1933_CT_SU2011_VA_08 ID:122 R:Gram:Aux:Haber:123 R:Gram:PerfPerif:123 
 "<graduado>"
 	"graduar" Verb VLadj lang:es 00:00:53 00:00:59 tt-1329 OM024_1933_CT_SU2011_VA_08 ID:123 
 "<dos>"

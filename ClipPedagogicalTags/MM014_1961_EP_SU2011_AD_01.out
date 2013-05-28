@@ -73,7 +73,7 @@
 "<pasé>"
 	"pasar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:17 00:00:24 tt-78 MM014_1961_EP_SU2011_AD_01 @Gram:Indefinido 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:17 00:00:24 tt-79 MM014_1961_EP_SU2011_AD_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:17 00:00:24 tt-79 MM014_1961_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<niñez>"
 	"niñez" Noun NC Singular lang:es 00:00:17 00:00:24 tt-80 MM014_1961_EP_SU2011_AD_01 
 "<$.>"
@@ -106,13 +106,13 @@
 "<pasé>"
 	"pasar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:17 00:00:24 tt-94 MM014_1961_EP_SU2011_AD_01 @Gram:Indefinido 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:17 00:00:24 tt-95 MM014_1961_EP_SU2011_AD_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:17 00:00:24 tt-95 MM014_1961_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<niñez>"
 	"niñez" Noun NC Singular lang:es 00:00:17 00:00:24 tt-96 MM014_1961_EP_SU2011_AD_01 
 "<con>"
 	"con" Preposition PREP lang:es 00:00:32 00:00:39 tt-97 MM014_1961_EP_SU2011_AD_01 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:32 00:00:39 tt-98 MM014_1961_EP_SU2011_AD_01 
+	"UNK" Noun NC Plural lang:es 00:00:32 00:00:39 tt-98 MM014_1961_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<hermanos>"
 	"hermano" Noun NC Plural lang:es 00:00:32 00:00:39 tt-99 MM014_1961_EP_SU2011_AD_01 
 "<,>"
@@ -136,7 +136,7 @@
 "<toda>"
 	"todo" Determiner QU lang:es 00:00:32 00:00:39 tt-109 MM014_1961_EP_SU2011_AD_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:32 00:00:39 tt-110 MM014_1961_EP_SU2011_AD_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:32 00:00:39 tt-110 MM014_1961_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<niñez>"
 	"niñez" Noun NC Singular lang:es 00:00:32 00:00:39 tt-111 MM014_1961_EP_SU2011_AD_01 
 "<y>"
@@ -163,7 +163,7 @@
 "<viene>"
 	"venir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:44 00:00:51 tt-121 MM014_1961_EP_SU2011_AD_01 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:44 00:00:51 tt-122 MM014_1961_EP_SU2011_AD_01 
+	"suyo" Pronoun PPO Singular lang:es 00:00:44 00:00:51 tt-122 MM014_1961_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:44 00:00:51 tt-123 MM014_1961_EP_SU2011_AD_01 
 "<$?>"
@@ -176,7 +176,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:51 00:00:58 tt-126 MM014_1961_EP_SU2011_AD_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:51 00:00:58 tt-127 MM014_1961_EP_SU2011_AD_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:51 00:00:58 tt-127 MM014_1961_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:51 00:00:58 tt-128 MM014_1961_EP_SU2011_AD_01 
 "<toda>"
@@ -184,7 +184,7 @@
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:51 00:00:58 tt-130 MM014_1961_EP_SU2011_AD_01 @Gram:SerEstar:Ser 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:51 00:00:58 tt-131 MM014_1961_EP_SU2011_AD_01 
+	"del" Preposition PDEL lang:es 00:00:51 00:00:58 tt-131 MM014_1961_EP_SU2011_AD_01 @Gram:Prep 
 "<centro>"
 	"centro" Noun NC Singular lang:es 00:00:51 00:00:58 tt-132 MM014_1961_EP_SU2011_AD_01 
 "<de>"
@@ -194,7 +194,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:51 00:00:58 tt-135 MM014_1961_EP_SU2011_AD_01 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:51 00:00:58 tt-136 MM014_1961_EP_SU2011_AD_01 
+	"del" Preposition PDEL lang:es 00:00:51 00:00:58 tt-136 MM014_1961_EP_SU2011_AD_01 @Gram:Prep 
 "<Estado>"
 	"estado" Noun NC Singular lang:es 00:00:51 00:00:58 tt-137 MM014_1961_EP_SU2011_AD_01 
 "<de>"
@@ -247,7 +247,7 @@
 "<hacían>"
 	"hacer" Verb VLfin Imp Indi Plural 3rd lang:es 00:01:03 00:01:08 tt-160 MM014_1961_EP_SU2011_AD_01 @Gram:Imperf 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:01:03 00:01:08 tt-161 MM014_1961_EP_SU2011_AD_01 
+	"UNK" Noun NC Plural lang:es 00:01:03 00:01:08 tt-161 MM014_1961_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<padres>"
 	"padre" Noun NC Plural lang:es 00:01:03 00:01:08 tt-162 MM014_1961_EP_SU2011_AD_01 
 "<$?>"
@@ -264,7 +264,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:08 00:01:15 tt-167 MM014_1961_EP_SU2011_AD_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:08 00:01:15 tt-168 MM014_1961_EP_SU2011_AD_01 
+	"mío" Pronoun PPO Singular lang:es 00:01:08 00:01:15 tt-168 MM014_1961_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<madre>"
 	"madre" Noun NC Singular lang:es 00:01:08 00:01:15 tt-169 MM014_1961_EP_SU2011_AD_01 
 "<vendía>"
@@ -293,7 +293,7 @@
 "<toda>"
 	"todo" Determiner QU lang:es 00:01:08 00:01:15 tt-181 MM014_1961_EP_SU2011_AD_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:08 00:01:15 tt-182 MM014_1961_EP_SU2011_AD_01 
+	"mío" Pronoun PPO Singular lang:es 00:01:08 00:01:15 tt-182 MM014_1961_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<niñez>"
 	"niñez" Noun NC Singular lang:es 00:01:22 00:01:29 tt-183 MM014_1961_EP_SU2011_AD_01 
 "<,>"
@@ -321,7 +321,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:22 00:01:29 tt-195 MM014_1961_EP_SU2011_AD_01 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:22 00:01:29 tt-196 MM014_1961_EP_SU2011_AD_01 
+	"mío" Pronoun PPO Singular lang:es 00:01:22 00:01:29 tt-196 MM014_1961_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<madre>"
 	"madre" Noun NC Singular lang:es 00:01:22 00:01:29 tt-197 MM014_1961_EP_SU2011_AD_01 
 "<a>"
@@ -356,7 +356,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:34 00:01:41 tt-211 MM014_1961_EP_SU2011_AD_01 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:01:34 00:01:41 tt-212 MM014_1961_EP_SU2011_AD_01 
+	"suyo" Pronoun PPO Singular lang:es 00:01:34 00:01:41 tt-212 MM014_1961_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<infancia>"
 	"infancia" Noun NC Singular lang:es 00:01:34 00:01:41 tt-213 MM014_1961_EP_SU2011_AD_01 
 "<$?>"
@@ -426,7 +426,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:51 00:01:58 tt-245 MM014_1961_EP_SU2011_AD_01 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:01:51 00:01:58 tt-246 MM014_1961_EP_SU2011_AD_01 
+	"UNK" Noun NC Plural lang:es 00:01:51 00:01:58 tt-246 MM014_1961_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<hermanos>"
 	"hermano" Noun NC Plural lang:es 00:01:51 00:01:58 tt-247 MM014_1961_EP_SU2011_AD_01 
 "<y>"
@@ -472,7 +472,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:02:02 00:02:09 tt-268 MM014_1961_EP_SU2011_AD_01 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:02 00:02:09 tt-269 MM014_1961_EP_SU2011_AD_01 
+	"UNK" Noun NC Plural lang:es 00:02:02 00:02:09 tt-269 MM014_1961_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<mejores>"
 	"bueno" Adjective ADJ Plural lang:es 00:02:02 00:02:09 tt-270 MM014_1961_EP_SU2011_AD_01 
 "<experiencias>"

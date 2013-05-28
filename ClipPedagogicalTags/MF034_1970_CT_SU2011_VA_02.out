@@ -63,9 +63,9 @@
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:00:09 00:00:16 tt-1620 MF034_1970_CT_SU2011_VA_02 @Gram:Pron:Sujeto 
 "<estaba>"
-	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:09 00:00:16 tt-1621 MF034_1970_CT_SU2011_VA_02 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:09 00:00:16 tt-1621 MF034_1970_CT_SU2011_VA_02 @Gram:Imperf @Gram:SerEstar:Estar ID:31 R:Gram:SerEstar:EstarAux:32 
 "<trabajando>"
-	"trabajar" Verb VLger lang:es 00:00:09 00:00:16 tt-1622 MF034_1970_CT_SU2011_VA_02 
+	"trabajar" Verb VLger lang:es 00:00:09 00:00:16 tt-1622 MF034_1970_CT_SU2011_VA_02 ID:32 
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:09 00:00:16 tt-1623 MF034_1970_CT_SU2011_VA_02 @Gram:Pron:Objeto 
 "<casé>"
@@ -75,7 +75,7 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:16 00:00:23 tt-1626 MF034_1970_CT_SU2011_VA_02 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:16 00:00:23 tt-1627 MF034_1970_CT_SU2011_VA_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:16 00:00:23 tt-1627 MF034_1970_CT_SU2011_VA_02 @Gram:Det:Pos 
 "<esposo>"
 	"esposo" Noun NC Singular lang:es 00:00:16 00:00:23 tt-1628 MF034_1970_CT_SU2011_VA_02 
 "<y>"
@@ -150,7 +150,7 @@
 	"." Punctuation FS lang:es 00:00:34 00:00:41 tt-1662 MF034_1970_CT_SU2011_VA_02 
 
 "<Al>"
-	"al" Preposition PAL lang:es 00:00:34 00:00:41 tt-1663 MF034_1970_CT_SU2011_VA_02 
+	"al" Preposition PAL lang:es 00:00:34 00:00:41 tt-1663 MF034_1970_CT_SU2011_VA_02 @Gram:Prep 
 "<final>"
 	"final" Noun NC Singular lang:es 00:00:34 00:00:41 tt-1664 MF034_1970_CT_SU2011_VA_02 
 "<,>"
@@ -186,7 +186,7 @@
 "<nacieron>"
 	"nacer" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:43 00:00:50 tt-1680 MF034_1970_CT_SU2011_VA_02 @Gram:Indefinido 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:43 00:00:50 tt-1681 MF034_1970_CT_SU2011_VA_02 
+	"UNK" Noun NC Plural lang:es 00:00:43 00:00:50 tt-1681 MF034_1970_CT_SU2011_VA_02 @Gram:Det:Pos 
 "<cuatro>"
 	"cuatro" Determiner CARD Singular lang:es 00:00:43 00:00:50 tt-1682 MF034_1970_CT_SU2011_VA_02 
 "<hijas>"
@@ -231,7 +231,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:53 00:00:58 tt-1702 MF034_1970_CT_SU2011_VA_02 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:53 00:00:58 tt-1703 MF034_1970_CT_SU2011_VA_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:53 00:00:58 tt-1703 MF034_1970_CT_SU2011_VA_02 @Gram:Det:Pos 
 "<hogar>"
 	"hogar" Noun NC Singular lang:es 00:00:53 00:00:58 tt-1704 MF034_1970_CT_SU2011_VA_02 
 "<,>"
@@ -241,7 +241,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:53 00:00:58 tt-1707 MF034_1970_CT_SU2011_VA_02 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:53 00:00:58 tt-1708 MF034_1970_CT_SU2011_VA_02 
+	"UNK" Noun NC Plural lang:es 00:00:53 00:00:58 tt-1708 MF034_1970_CT_SU2011_VA_02 @Gram:Det:Pos 
 "<hijas>"
 	"hijo" Noun NC Plural lang:es 00:00:53 00:00:58 tt-1709 MF034_1970_CT_SU2011_VA_02 
 "<$.>"
@@ -286,7 +286,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:58 00:01:05 tt-1729 MF034_1970_CT_SU2011_VA_02 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:58 00:01:05 tt-1730 MF034_1970_CT_SU2011_VA_02 
+	"UNK" Noun NC Plural lang:es 00:00:58 00:01:05 tt-1730 MF034_1970_CT_SU2011_VA_02 @Gram:Det:Pos 
 "<hijas>"
 	"hijo" Noun NC Plural lang:es 00:00:58 00:01:05 tt-1731 MF034_1970_CT_SU2011_VA_02 
 "<me>"
@@ -363,7 +363,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:10 00:01:17 tt-1767 MF034_1970_CT_SU2011_VA_02 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:10 00:01:17 tt-1768 MF034_1970_CT_SU2011_VA_02 
+	"mío" Pronoun PPO Singular lang:es 00:01:10 00:01:17 tt-1768 MF034_1970_CT_SU2011_VA_02 @Gram:Det:Pos 
 "<niña>"
 	"niño" Noun NC Singular lang:es 00:01:17 00:01:24 tt-1769 MF034_1970_CT_SU2011_VA_02 
 "<,>"
@@ -385,7 +385,7 @@
 "<ir>"
 	"ir" Verb VLinf Infinitive lang:es 00:01:17 00:01:24 tt-1778 MF034_1970_CT_SU2011_VA_02 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:17 00:01:24 tt-1779 MF034_1970_CT_SU2011_VA_02 
+	"al" Preposition PAL lang:es 00:01:17 00:01:24 tt-1779 MF034_1970_CT_SU2011_VA_02 @Gram:Prep 
 "<Kínder>"
 	"UNK" Noun NP Singular lang:es 00:01:17 00:01:24 tt-1780 MF034_1970_CT_SU2011_VA_02 
 "<yo>"
@@ -466,7 +466,7 @@
 "<las>"
 	"el" Determiner ART Plural lang:es 00:01:31 00:01:37 tt-1818 MF034_1970_CT_SU2011_VA_02 @Gram:Det:Art 
 "<maestras>"
-	"maestro" Noun NC Plural lang:es 00:01:31 00:01:37 tt-1819 MF034_1970_CT_SU2011_VA_02 
+	"maestro" Plural Singular Noun NC lang:es 00:01:31 00:01:37 tt-1819 MF034_1970_CT_SU2011_VA_02 
 "<,>"
 	"," Punctuation CM lang:es 00:01:31 00:01:37 tt-1820 MF034_1970_CT_SU2011_VA_02 
 "<y>"
@@ -549,9 +549,9 @@
 "<al>"
 	"al" Conjunction CSUBI lang:es 00:01:45 00:01:51 tt-1859 MF034_1970_CT_SU2011_VA_02 
 "<estar>"
-	"estar" Verb VEinf Infinitive lang:es 00:01:45 00:01:51 tt-1860 MF034_1970_CT_SU2011_VA_02 @Gram:SerEstar:Estar 
+	"estar" Verb VEinf Infinitive lang:es 00:01:45 00:01:51 tt-1860 MF034_1970_CT_SU2011_VA_02 @Gram:SerEstar:Estar ID:270 R:Gram:SerEstar:EstarAux:271 
 "<viendo>"
-	"ver" Verb VLger lang:es 00:01:45 00:01:51 tt-1861 MF034_1970_CT_SU2011_VA_02 
+	"ver" Verb VLger lang:es 00:01:45 00:01:51 tt-1861 MF034_1970_CT_SU2011_VA_02 ID:271 
 "<cómo>"
 	"cómo" Adverb ADV lang:es 00:01:45 00:01:51 tt-1862 MF034_1970_CT_SU2011_VA_02 
 "<la>"

@@ -60,11 +60,11 @@
 "<algún>"
 	"alguno" Determiner QU lang:es 00:00:05 00:00:12 tt-3458 AF046_1992_CT_SU2011_ER_10 
 "<maestro>"
-	"maestro" Noun NC Singular lang:es 00:00:05 00:00:12 tt-3459 AF046_1992_CT_SU2011_ER_10 
+	"maestro" Plural Singular Noun NC lang:es 00:00:05 00:00:12 tt-3459 AF046_1992_CT_SU2011_ER_10 
 "<o>"
 	"o" Conjunction CC lang:es 00:00:05 00:00:12 tt-3460 AF046_1992_CT_SU2011_ER_10 
 "<maestra>"
-	"maestro" Noun NC Singular lang:es 00:00:05 00:00:12 tt-3461 AF046_1992_CT_SU2011_ER_10 
+	"maestro" Plural Singular Noun NC lang:es 00:00:05 00:00:12 tt-3461 AF046_1992_CT_SU2011_ER_10 
 "<,>"
 	"," Punctuation CM lang:es 00:00:05 00:00:12 tt-3462 AF046_1992_CT_SU2011_ER_10 
 "<que>"
@@ -84,7 +84,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:13 00:00:15 tt-3470 AF046_1992_CT_SU2011_ER_10 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:13 00:00:15 tt-3471 AF046_1992_CT_SU2011_ER_10 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:13 00:00:15 tt-3471 AF046_1992_CT_SU2011_ER_10 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:13 00:00:15 tt-3472 AF046_1992_CT_SU2011_ER_10 
 "<$?>"
@@ -101,9 +101,9 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:15 00:00:22 tt-3477 AF046_1992_CT_SU2011_ER_10 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:15 00:00:22 tt-3478 AF046_1992_CT_SU2011_ER_10 
+	"mío" Pronoun PPO Singular lang:es 00:00:15 00:00:22 tt-3478 AF046_1992_CT_SU2011_ER_10 @Gram:Det:Pos 
 "<maestra>"
-	"maestro" Noun NC Singular lang:es 00:00:15 00:00:22 tt-3479 AF046_1992_CT_SU2011_ER_10 
+	"maestro" Plural Singular Noun NC lang:es 00:00:15 00:00:22 tt-3479 AF046_1992_CT_SU2011_ER_10 
 "<de>"
 	"de" Preposition PREP lang:es 00:00:15 00:00:22 tt-3480 AF046_1992_CT_SU2011_ER_10 @Gram:Prep 
 "<Calculus>"
@@ -113,15 +113,15 @@
 "<ella>"
 	"él" Pronoun PPX Singular lang:es 00:00:15 00:00:22 tt-3483 AF046_1992_CT_SU2011_ER_10 @Gram:Pron:Sujeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:15 00:00:22 tt-3484 AF046_1992_CT_SU2011_ER_10 ID:55 R:Gram:PerfPerif:56 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:15 00:00:22 tt-3484 AF046_1992_CT_SU2011_ER_10 ID:55 R:Gram:SerEstar:Ser:56 R:Gram:Aux:Haber:56 R:Gram:PerfPerif:56 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:15 00:00:22 tt-3485 AF046_1992_CT_SU2011_ER_10 @Gram:SerEstar:Ser ID:56 
+	"ser" Verb VSadj Participle lang:es 00:00:15 00:00:22 tt-3485 AF046_1992_CT_SU2011_ER_10 ID:56 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:15 00:00:22 tt-3486 AF046_1992_CT_SU2011_ER_10 
 "<la>"
 	"él" Pronoun PPC Singular lang:es 00:00:15 00:00:22 tt-3487 AF046_1992_CT_SU2011_ER_10 @Gram:Pron:Objeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:15 00:00:22 tt-3488 AF046_1992_CT_SU2011_ER_10 ID:59 R:Gram:PerfPerif:60 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:15 00:00:22 tt-3488 AF046_1992_CT_SU2011_ER_10 ID:59 R:Gram:Aux:Haber:60 R:Gram:PerfPerif:60 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:15 00:00:22 tt-3489 AF046_1992_CT_SU2011_ER_10 ID:60 
 "<desde>"
@@ -153,7 +153,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:23 00:00:30 tt-3503 AF046_1992_CT_SU2011_ER_10 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:23 00:00:30 tt-3504 AF046_1992_CT_SU2011_ER_10 ID:75 R:Gram:PerfPerif:76 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:23 00:00:30 tt-3504 AF046_1992_CT_SU2011_ER_10 ID:75 R:Gram:Aux:Haber:76 R:Gram:PerfPerif:76 
 "<motivado>"
 	"motivar" Verb VLadj lang:es 00:00:23 00:00:30 tt-3505 AF046_1992_CT_SU2011_ER_10 ID:76 
 "<a>"
@@ -179,7 +179,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:30 00:00:37 tt-3516 AF046_1992_CT_SU2011_ER_10 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:30 00:00:37 tt-3517 AF046_1992_CT_SU2011_ER_10 ID:88 R:Gram:PerfPerif:89 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:30 00:00:37 tt-3517 AF046_1992_CT_SU2011_ER_10 ID:88 R:Gram:Aux:Haber:89 R:Gram:PerfPerif:89 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:30 00:00:37 tt-3518 AF046_1992_CT_SU2011_ER_10 ID:89 
 "<esta>"
@@ -200,7 +200,7 @@
 "<una>"
 	"un" Determiner ART Singular lang:es 00:00:30 00:00:37 tt-3526 AF046_1992_CT_SU2011_ER_10 
 "<maestra>"
-	"maestro" Noun NC Singular lang:es 00:00:30 00:00:37 tt-3527 AF046_1992_CT_SU2011_ER_10 
+	"maestro" Plural Singular Noun NC lang:es 00:00:30 00:00:37 tt-3527 AF046_1992_CT_SU2011_ER_10 
 "<súper>"
 	"súper" Adjective ADJ Singular lang:es 00:00:30 00:00:37 tt-3528 AF046_1992_CT_SU2011_ER_10 
 "<inteligente>"
@@ -243,7 +243,7 @@
 "<llegamos>"
 	"llegar" Verb VLfin Pres_or_Pret Indi Plural 1st lang:es 00:00:37 00:00:42 tt-3547 AF046_1992_CT_SU2011_ER_10 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:37 00:00:42 tt-3548 AF046_1992_CT_SU2011_ER_10 
+	"al" Preposition PAL lang:es 00:00:37 00:00:42 tt-3548 AF046_1992_CT_SU2011_ER_10 @Gram:Prep 
 "<punto>"
 	"punto" Noun NC Singular lang:es 00:00:42 00:00:47 tt-3549 AF046_1992_CT_SU2011_ER_10 
 "<que>"
@@ -251,7 +251,7 @@
 "<nos>"
 	"nosotros" Pronoun PPX Plural lang:es 00:00:42 00:00:47 tt-3551 AF046_1992_CT_SU2011_ER_10 @Gram:Pron:Objeto 
 "<hemos>"
-	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:42 00:00:47 tt-3552 AF046_1992_CT_SU2011_ER_10 ID:123 R:Gram:PerfPerif:124 
+	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:42 00:00:47 tt-3552 AF046_1992_CT_SU2011_ER_10 ID:123 R:Gram:Aux:Haber:124 R:Gram:PerfPerif:124 
 "<hecho>"
 	"hacer" Verb VLadj lang:es 00:00:42 00:00:47 tt-3553 AF046_1992_CT_SU2011_ER_10 ID:124 
 "<amigas>"
@@ -267,7 +267,7 @@
 "<entre>"
 	"entre" Preposition PREP lang:es 00:00:42 00:00:47 tt-3559 AF046_1992_CT_SU2011_ER_10 @Gram:Prep 
 "<maestra>"
-	"maestro" Noun NC Singular lang:es 00:00:42 00:00:47 tt-3560 AF046_1992_CT_SU2011_ER_10 
+	"maestro" Plural Singular Noun NC lang:es 00:00:42 00:00:47 tt-3560 AF046_1992_CT_SU2011_ER_10 
 "<y>"
 	"y" Conjunction CC lang:es 00:00:42 00:00:47 tt-3561 AF046_1992_CT_SU2011_ER_10 
 "<estudiante>"

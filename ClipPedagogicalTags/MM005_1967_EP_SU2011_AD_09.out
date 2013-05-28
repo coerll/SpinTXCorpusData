@@ -10,11 +10,11 @@
 "<Cuál>"
 	"cuál" Pronoun INT Singular lang:es 00:00:00 00:00:07 tt-2400 MM005_1967_EP_SU2011_AD_09 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-2401 MM005_1967_EP_SU2011_AD_09 ID:5 R:Gram:PerfPerif:6 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-2401 MM005_1967_EP_SU2011_AD_09 ID:5 R:Gram:SerEstar:Ser:6 R:Gram:Aux:Haber:6 R:Gram:PerfPerif:6 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:00 00:00:07 tt-2402 MM005_1967_EP_SU2011_AD_09 @Gram:SerEstar:Ser ID:6 
+	"ser" Verb VSadj Participle lang:es 00:00:00 00:00:07 tt-2402 MM005_1967_EP_SU2011_AD_09 ID:6 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-2403 MM005_1967_EP_SU2011_AD_09 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-2403 MM005_1967_EP_SU2011_AD_09 @Gram:Det:Pos 
 "<mayor>"
 	"grande" Adjective ADJ Singular lang:es 00:00:00 00:00:07 tt-2404 MM005_1967_EP_SU2011_AD_09 
 "<logro>"
@@ -43,7 +43,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:07 00:00:14 tt-2415 MM005_1967_EP_SU2011_AD_09 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:07 00:00:14 tt-2416 MM005_1967_EP_SU2011_AD_09 
+	"UNK" Noun NC Plural lang:es 00:00:07 00:00:14 tt-2416 MM005_1967_EP_SU2011_AD_09 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:07 00:00:14 tt-2417 MM005_1967_EP_SU2011_AD_09 
 "<crecer>"
@@ -201,7 +201,7 @@
 "<nos>"
 	"nosotros" Pronoun PPX Plural lang:es 00:00:39 00:00:44 tt-2493 MM005_1967_EP_SU2011_AD_09 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:39 00:00:44 tt-2494 MM005_1967_EP_SU2011_AD_09 ID:98 R:Gram:PerfPerif:99 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:39 00:00:44 tt-2494 MM005_1967_EP_SU2011_AD_09 ID:98 R:Gram:Aux:Haber:99 R:Gram:PerfPerif:99 
 "<dado>"
 	"dar" Verb VLadj lang:es 00:00:39 00:00:44 tt-2495 MM005_1967_EP_SU2011_AD_09 ID:99 
 "<estar>"

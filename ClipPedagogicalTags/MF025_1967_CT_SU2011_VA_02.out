@@ -87,7 +87,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:16 00:00:23 tt-1212 MF025_1967_CT_SU2011_VA_02 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:16 00:00:23 tt-1213 MF025_1967_CT_SU2011_VA_02 
+	"del" Preposition PDEL lang:es 00:00:16 00:00:23 tt-1213 MF025_1967_CT_SU2011_VA_02 @Gram:Prep 
 "<Salvador>"
 	"Salvador" Noun NP Singular lang:es 00:00:16 00:00:23 tt-1214 MF025_1967_CT_SU2011_VA_02 
 "<$.>"
@@ -285,7 +285,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:59 00:01:06 tt-1309 MF025_1967_CT_SU2011_VA_02 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:59 00:01:06 tt-1310 MF025_1967_CT_SU2011_VA_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:59 00:01:06 tt-1310 MF025_1967_CT_SU2011_VA_02 @Gram:Det:Pos 
 "<hermana>"
 	"hermano" Noun NC Singular lang:es 00:00:59 00:01:06 tt-1311 MF025_1967_CT_SU2011_VA_02 
 "<y>"
@@ -409,7 +409,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:28 00:01:35 tt-1371 MF025_1967_CT_SU2011_VA_02 @Gram:Prep 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:01:28 00:01:35 tt-1372 MF025_1967_CT_SU2011_VA_02 
+	"UNK" Noun NC Plural lang:es 00:01:28 00:01:35 tt-1372 MF025_1967_CT_SU2011_VA_02 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:01:28 00:01:35 tt-1373 MF025_1967_CT_SU2011_VA_02 
 "<a>"
@@ -423,9 +423,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:28 00:01:35 tt-1378 MF025_1967_CT_SU2011_VA_02 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:28 00:01:35 tt-1379 MF025_1967_CT_SU2011_VA_02 
+	"tú" Pronoun PPX Singular lang:es 00:01:28 00:01:35 tt-1379 MF025_1967_CT_SU2011_VA_02 @Gram:Pron:Sujeto 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:01:28 00:01:35 tt-1380 MF025_1967_CT_SU2011_VA_02 ID:210 R:Gram:PerfPerif:211 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:01:28 00:01:35 tt-1380 MF025_1967_CT_SU2011_VA_02 ID:210 R:Gram:Aux:Haber:211 R:Gram:PerfPerif:211 
 "<aprendido>"
 	"aprender" Verb VLadj lang:es 00:01:28 00:01:35 tt-1381 MF025_1967_CT_SU2011_VA_02 ID:211 
 "<o>"
@@ -435,7 +435,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:28 00:01:35 tt-1384 MF025_1967_CT_SU2011_VA_02 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:28 00:01:35 tt-1385 MF025_1967_CT_SU2011_VA_02 
+	"tú" Pronoun PPX Singular lang:es 00:01:28 00:01:35 tt-1385 MF025_1967_CT_SU2011_VA_02 @Gram:Pron:Sujeto 
 "<tienes>"
 	"tener" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:28 00:01:35 tt-1386 MF025_1967_CT_SU2011_VA_02 
 "<,>"
@@ -448,7 +448,7 @@
 	"." Punctuation FS lang:es 00:01:28 00:01:35 tt-1390 MF025_1967_CT_SU2011_VA_02 
 
 "<Tu>"
-	"tú" Pronoun PPX Singular lang:es 00:01:35 00:01:41 tt-1391 MF025_1967_CT_SU2011_VA_02 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:01:35 00:01:41 tt-1391 MF025_1967_CT_SU2011_VA_02 @Gram:Det:Pos 
 "<herencia>"
 	"herencia" Noun NC Singular lang:es 00:01:35 00:01:41 tt-1392 MF025_1967_CT_SU2011_VA_02 
 "<de>"
@@ -458,7 +458,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:35 00:01:41 tt-1395 MF025_1967_CT_SU2011_VA_02 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:35 00:01:41 tt-1396 MF025_1967_CT_SU2011_VA_02 
+	"tú" Pronoun PPX Singular lang:es 00:01:35 00:01:41 tt-1396 MF025_1967_CT_SU2011_VA_02 @Gram:Pron:Sujeto 
 "<llegaste>"
 	"llegar" Verb VLfin Pret Indi Sing 2nd lang:es 00:01:35 00:01:41 tt-1397 MF025_1967_CT_SU2011_VA_02 @Gram:Indefinido 
 "<a>"
@@ -478,9 +478,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:35 00:01:41 tt-1405 MF025_1967_CT_SU2011_VA_02 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:35 00:01:41 tt-1406 MF025_1967_CT_SU2011_VA_02 
+	"tú" Pronoun PPX Singular lang:es 00:01:35 00:01:41 tt-1406 MF025_1967_CT_SU2011_VA_02 @Gram:Pron:Sujeto 
 "<eras>"
-	"erar|ser" Verb VLfin Past Subj Sing 2nd lang:es 00:01:35 00:01:41 tt-1407 MF025_1967_CT_SU2011_VA_02 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Sing 2nd lang:es 00:01:35 00:01:41 tt-1407 MF025_1967_CT_SU2011_VA_02 @Gram:SerEstar:Ser 
 "<y>"
 	"y" Conjunction CC lang:es 00:01:35 00:01:41 tt-1408 MF025_1967_CT_SU2011_VA_02 
 "<la>"

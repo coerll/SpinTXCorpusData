@@ -96,7 +96,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:27 00:00:33 tt-2670 MM015_1963_EP_SU2011_AD_10 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:27 00:00:33 tt-2671 MM015_1963_EP_SU2011_AD_10 
+	"del" Preposition PDEL lang:es 00:00:27 00:00:33 tt-2671 MM015_1963_EP_SU2011_AD_10 @Gram:Prep 
 "<teatro>"
 	"teatro" Noun NC Singular lang:es 00:00:27 00:00:33 tt-2672 MM015_1963_EP_SU2011_AD_10 
 "<de>"
@@ -299,7 +299,7 @@
 "<viene>"
 	"venir" Verb VLfin Pres Indi Sing 3rd lang:es 00:01:10 00:01:16 tt-2769 MM015_1963_EP_SU2011_AD_10 
 "<del>"
-	"del" Preposition PDEL lang:es 00:01:10 00:01:16 tt-2770 MM015_1963_EP_SU2011_AD_10 
+	"del" Preposition PDEL lang:es 00:01:10 00:01:16 tt-2770 MM015_1963_EP_SU2011_AD_10 @Gram:Prep 
 "<sur>"
 	"sur" Other PE lang:es 00:01:10 00:01:16 tt-2771 MM015_1963_EP_SU2011_AD_10 
 "<de>"
@@ -315,9 +315,9 @@
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:01:16 00:01:20 tt-2777 MM015_1963_EP_SU2011_AD_10 
 "<estamos>"
-	"estar" Verb VEfin Pres Indi Plural 1st lang:es 00:01:16 00:01:20 tt-2778 MM015_1963_EP_SU2011_AD_10 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Plural 1st lang:es 00:01:16 00:01:20 tt-2778 MM015_1963_EP_SU2011_AD_10 @Gram:SerEstar:Estar ID:150 R:Gram:SerEstar:EstarAux:151 
 "<hablando>"
-	"hablar" Verb VLger lang:es 00:01:16 00:01:20 tt-2779 MM015_1963_EP_SU2011_AD_10 
+	"hablar" Verb VLger lang:es 00:01:16 00:01:20 tt-2779 MM015_1963_EP_SU2011_AD_10 ID:151 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:16 00:01:20 tt-2780 MM015_1963_EP_SU2011_AD_10 
 
@@ -346,9 +346,9 @@
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:01:16 00:01:20 tt-2793 MM015_1963_EP_SU2011_AD_10 
 "<están>"
-	"estar" Verb VEfin Pres Indi Plural 3rd lang:es 00:01:20 00:01:25 tt-2794 MM015_1963_EP_SU2011_AD_10 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Plural 3rd lang:es 00:01:20 00:01:25 tt-2794 MM015_1963_EP_SU2011_AD_10 @Gram:SerEstar:Estar ID:165 R:Gram:SerEstar:EstarAux:166 
 "<diciendo>"
-	"decir" Verb VLger lang:es 00:01:20 00:01:25 tt-2795 MM015_1963_EP_SU2011_AD_10 
+	"decir" Verb VLger lang:es 00:01:20 00:01:25 tt-2795 MM015_1963_EP_SU2011_AD_10 ID:166 
 "<$?>"
 	"?" Punctuation FS lang:es 00:01:20 00:01:25 tt-2796 MM015_1963_EP_SU2011_AD_10 
 
@@ -399,7 +399,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:01:28 00:01:35 tt-2818 MM015_1963_EP_SU2011_AD_10 
 "<Has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:01:28 00:01:35 tt-2819 MM015_1963_EP_SU2011_AD_10 ID:190 R:Gram:PerfPerif:191 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:01:28 00:01:35 tt-2819 MM015_1963_EP_SU2011_AD_10 ID:190 R:Gram:Aux:Haber:191 R:Gram:PerfPerif:191 
 "<escuchado>"
 	"escuchar" Verb VLadj lang:es 00:01:28 00:01:35 tt-2820 MM015_1963_EP_SU2011_AD_10 ID:191 
 "<las>"
@@ -527,7 +527,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:59 00:02:05 tt-2880 MM015_1963_EP_SU2011_AD_10 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:59 00:02:05 tt-2881 MM015_1963_EP_SU2011_AD_10 
+	"tú" Pronoun PPX Singular lang:es 00:01:59 00:02:05 tt-2881 MM015_1963_EP_SU2011_AD_10 @Gram:Pron:Sujeto 
 "<caes>"
 	"caer" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:59 00:02:05 tt-2882 MM015_1963_EP_SU2011_AD_10 
 "<en>"
@@ -636,7 +636,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:02:18 00:02:25 tt-2932 MM015_1963_EP_SU2011_AD_10 
 "<Has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:02:18 00:02:25 tt-2933 MM015_1963_EP_SU2011_AD_10 ID:304 R:Gram:PerfPerif:305 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:02:18 00:02:25 tt-2933 MM015_1963_EP_SU2011_AD_10 ID:304 R:Gram:Aux:Haber:305 R:Gram:PerfPerif:305 
 "<escuchado>"
 	"escuchar" Verb VLadj lang:es 00:02:18 00:02:25 tt-2934 MM015_1963_EP_SU2011_AD_10 ID:305 
 "<a>"
@@ -673,7 +673,7 @@
 "<haces>"
 	"haz" Noun NC Plural lang:es 00:02:27 00:02:28 tt-2950 MM015_1963_EP_SU2011_AD_10 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:02:27 00:02:28 tt-2951 MM015_1963_EP_SU2011_AD_10 
+	"tú" Pronoun PPX Singular lang:es 00:02:27 00:02:28 tt-2951 MM015_1963_EP_SU2011_AD_10 @Gram:Pron:Sujeto 
 "<$?>"
 	"?" Punctuation FS lang:es 00:02:27 00:02:28 tt-2952 MM015_1963_EP_SU2011_AD_10 
 
@@ -875,9 +875,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:03:01 00:03:07 tt-3049 MM015_1963_EP_SU2011_AD_10 
 "<están>"
-	"estar" Verb VEfin Pres Indi Plural 3rd lang:es 00:03:01 00:03:07 tt-3050 MM015_1963_EP_SU2011_AD_10 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Plural 3rd lang:es 00:03:01 00:03:07 tt-3050 MM015_1963_EP_SU2011_AD_10 @Gram:SerEstar:Estar ID:421 R:Gram:SerEstar:EstarAux:422 
 "<hablando>"
-	"hablar" Verb VLger lang:es 00:03:01 00:03:07 tt-3051 MM015_1963_EP_SU2011_AD_10 
+	"hablar" Verb VLger lang:es 00:03:01 00:03:07 tt-3051 MM015_1963_EP_SU2011_AD_10 ID:422 
 "<$?>"
 	"?" Punctuation FS lang:es 00:03:01 00:03:07 tt-3052 MM015_1963_EP_SU2011_AD_10 
 
@@ -965,7 +965,7 @@
 "<Con>"
 	"con" Preposition PREP lang:es 00:03:16 00:03:23 tt-3091 MM015_1963_EP_SU2011_AD_10 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:03:16 00:03:23 tt-3092 MM015_1963_EP_SU2011_AD_10 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:03:16 00:03:23 tt-3092 MM015_1963_EP_SU2011_AD_10 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:03:16 00:03:23 tt-3093 MM015_1963_EP_SU2011_AD_10 
 "<$.>"

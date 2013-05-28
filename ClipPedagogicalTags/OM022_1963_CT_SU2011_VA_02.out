@@ -81,7 +81,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:08 00:00:15 tt-459 OM022_1963_CT_SU2011_VA_02 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:15 00:00:21 tt-460 OM022_1963_CT_SU2011_VA_02 
+	"al" Preposition PAL lang:es 00:00:15 00:00:21 tt-460 OM022_1963_CT_SU2011_VA_02 @Gram:Prep 
 "<,>"
 	"," Punctuation CM lang:es 00:00:15 00:00:21 tt-463 OM022_1963_CT_SU2011_VA_02 
 "<,>"
@@ -201,9 +201,9 @@
 "<que>"
 	"que" Conjunction CSUBF lang:es 00:00:39 00:00:44 tt-523 OM022_1963_CT_SU2011_VA_02 
 "<estaba>"
-	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:39 00:00:44 tt-524 OM022_1963_CT_SU2011_VA_02 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:39 00:00:44 tt-524 OM022_1963_CT_SU2011_VA_02 @Gram:Imperf @Gram:SerEstar:Estar ID:99 R:Gram:SerEstar:EstarAux:100 
 "<haciendo>"
-	"hacer" Verb VLger lang:es 00:00:39 00:00:44 tt-525 OM022_1963_CT_SU2011_VA_02 
+	"hacer" Verb VLger lang:es 00:00:39 00:00:44 tt-525 OM022_1963_CT_SU2011_VA_02 ID:100 
 "<como>"
 	"como" Conjunction CSUBX lang:es 00:00:39 00:00:44 tt-526 OM022_1963_CT_SU2011_VA_02 
 "<un>"
@@ -246,7 +246,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:44 00:00:49 tt-545 OM022_1963_CT_SU2011_VA_02 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:44 00:00:49 tt-546 OM022_1963_CT_SU2011_VA_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:44 00:00:49 tt-546 OM022_1963_CT_SU2011_VA_02 @Gram:Det:Pos 
 "<primer>"
 	"primero" Adjective ORD Singular lang:es 00:00:44 00:00:49 tt-547 OM022_1963_CT_SU2011_VA_02 
 "<trabajo>"
@@ -258,7 +258,7 @@
 "<fin>"
 	"fin" Adverb ADV lang:es 00:00:44 00:00:49 tt-551 OM022_1963_CT_SU2011_VA_02 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:44 00:00:49 tt-552 OM022_1963_CT_SU2011_VA_02 
+	"del" Preposition PDEL lang:es 00:00:44 00:00:49 tt-552 OM022_1963_CT_SU2011_VA_02 @Gram:Prep 
 "<mundo>"
 	"mundo" Noun NC Singular lang:es 00:00:49 00:00:56 tt-553 OM022_1963_CT_SU2011_VA_02 
 "<,>"

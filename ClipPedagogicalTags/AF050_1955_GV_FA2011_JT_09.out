@@ -8,7 +8,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:06 tt-1576 AF050_1955_GV_FA2011_JT_09 
 "<Has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:06 tt-1577 AF050_1955_GV_FA2011_JT_09 ID:4 R:Gram:PerfPerif:5 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:06 tt-1577 AF050_1955_GV_FA2011_JT_09 ID:4 R:Gram:Aux:Haber:5 R:Gram:PerfPerif:5 
 "<escuchado>"
 	"escuchar" Verb VLadj lang:es 00:00:00 00:00:06 tt-1578 AF050_1955_GV_FA2011_JT_09 ID:5 
 "<las>"
@@ -243,7 +243,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:46 00:00:53 tt-1686 AF050_1955_GV_FA2011_JT_09 
 "<Has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:46 00:00:53 tt-1687 AF050_1955_GV_FA2011_JT_09 ID:107 R:Gram:PerfPerif:108 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:46 00:00:53 tt-1687 AF050_1955_GV_FA2011_JT_09 ID:107 R:Gram:Aux:Haber:108 R:Gram:PerfPerif:108 
 "<escuchado>"
 	"escuchar" Verb VLadj lang:es 00:00:46 00:00:53 tt-1688 AF050_1955_GV_FA2011_JT_09 ID:108 
 "<a>"
@@ -275,7 +275,7 @@
 "<opinas>"
 	"opinar" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:56 00:00:59 tt-1701 AF050_1955_GV_FA2011_JT_09 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:56 00:00:59 tt-1702 AF050_1955_GV_FA2011_JT_09 
+	"tú" Pronoun PPX Singular lang:es 00:00:56 00:00:59 tt-1702 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Sujeto 
 "<de>"
 	"de" Preposition PREP lang:es 00:00:56 00:00:59 tt-1703 AF050_1955_GV_FA2011_JT_09 @Gram:Prep 
 "<ellas>"

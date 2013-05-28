@@ -7,7 +7,7 @@
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-1524 MM014_1961_EP_SU2011_AD_08 @Gram:SerEstar:Ser 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-1525 MM014_1961_EP_SU2011_AD_08 
+	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-1525 MM014_1961_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:00:00 00:00:07 tt-1526 MM014_1961_EP_SU2011_AD_08 
 "<,>"
@@ -23,7 +23,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-1532 MM014_1961_EP_SU2011_AD_08 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-1533 MM014_1961_EP_SU2011_AD_08 
+	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-1533 MM014_1961_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<profesión>"
 	"profesión" Noun NC Singular lang:es 00:00:00 00:00:07 tt-1534 MM014_1961_EP_SU2011_AD_08 
 "<$?>"
@@ -36,7 +36,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:11 00:00:18 tt-1537 MM014_1961_EP_SU2011_AD_08 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:11 00:00:18 tt-1538 MM014_1961_EP_SU2011_AD_08 ID:17 R:Gram:PerfPerif:18 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:11 00:00:18 tt-1538 MM014_1961_EP_SU2011_AD_08 ID:17 R:Gram:Aux:Haber:18 R:Gram:PerfPerif:18 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:11 00:00:18 tt-1539 MM014_1961_EP_SU2011_AD_08 ID:18 
 "<diferentes>"
@@ -91,7 +91,7 @@
 "<puse>"
 	"poner" Verb VLfin Pret Indi Sing 1st lang:es 00:00:19 00:00:26 tt-1565 MM014_1961_EP_SU2011_AD_08 @Gram:Indefinido 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:19 00:00:26 tt-1566 MM014_1961_EP_SU2011_AD_08 
+	"mío" Pronoun PPO Singular lang:es 00:00:19 00:00:26 tt-1566 MM014_1961_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<propio>"
 	"propio" Adjective ADJ Singular lang:es 00:00:19 00:00:26 tt-1567 MM014_1961_EP_SU2011_AD_08 
 "<negocio>"
@@ -123,11 +123,11 @@
 "<problemas>"
 	"problema" Noun NC Plural lang:es 00:00:30 00:00:37 tt-1581 MM014_1961_EP_SU2011_AD_08 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:30 00:00:37 tt-1582 MM014_1961_EP_SU2011_AD_08 
+	"del" Preposition PDEL lang:es 00:00:30 00:00:37 tt-1582 MM014_1961_EP_SU2011_AD_08 @Gram:Prep 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:30 00:00:37 tt-1583 MM014_1961_EP_SU2011_AD_08 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:30 00:00:37 tt-1584 MM014_1961_EP_SU2011_AD_08 
+	"del" Preposition PDEL lang:es 00:00:30 00:00:37 tt-1584 MM014_1961_EP_SU2011_AD_08 @Gram:Prep 
 "<petróleo>"
 	"petróleo" Noun NC Singular lang:es 00:00:30 00:00:37 tt-1585 MM014_1961_EP_SU2011_AD_08 
 "<y>"
@@ -172,7 +172,7 @@
 "<camión>"
 	"camión" Noun NC Singular lang:es 00:00:38 00:00:45 tt-1605 MM014_1961_EP_SU2011_AD_08 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:38 00:00:45 tt-1606 MM014_1961_EP_SU2011_AD_08 
+	"del" Preposition PDEL lang:es 00:00:38 00:00:45 tt-1606 MM014_1961_EP_SU2011_AD_08 @Gram:Prep 
 "<Distrito>"
 	"distrito" Noun NC Singular lang:es 00:00:38 00:00:45 tt-1607 MM014_1961_EP_SU2011_AD_08 
 "<de>"
@@ -212,7 +212,7 @@
 "<agrada>"
 	"agradar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:50 00:00:57 tt-1623 MM014_1961_EP_SU2011_AD_08 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:50 00:00:57 tt-1624 MM014_1961_EP_SU2011_AD_08 
+	"suyo" Pronoun PPO Singular lang:es 00:00:50 00:00:57 tt-1624 MM014_1961_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:00:50 00:00:57 tt-1625 MM014_1961_EP_SU2011_AD_08 
 "<$?>"
@@ -243,7 +243,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:57 00:01:04 tt-1637 MM014_1961_EP_SU2011_AD_08 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:57 00:01:04 tt-1638 MM014_1961_EP_SU2011_AD_08 
+	"UNK" Noun NC Plural lang:es 00:00:57 00:01:04 tt-1638 MM014_1961_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<virtudes>"
 	"virtud" Noun NC Plural lang:es 00:00:57 00:01:04 tt-1639 MM014_1961_EP_SU2011_AD_08 
 "<,>"
@@ -255,7 +255,7 @@
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:00:57 00:01:04 tt-1643 MM014_1961_EP_SU2011_AD_08 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:57 00:01:04 tt-1644 MM014_1961_EP_SU2011_AD_08 ID:122 R:Gram:PerfPerif:123 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:57 00:01:04 tt-1644 MM014_1961_EP_SU2011_AD_08 ID:122 R:Gram:Aux:Haber:123 R:Gram:PerfPerif:123 
 "<tratado>"
 	"tratar" Verb VLadj lang:es 00:00:57 00:01:04 tt-1645 MM014_1961_EP_SU2011_AD_08 ID:123 
 "<de>"

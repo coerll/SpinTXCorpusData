@@ -20,11 +20,11 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:00 00:00:06 tt-1580 OM039_1985_CT_SU2011_ER_04 
 "<en>"
-	"en" Preposition PAL lang:es 00:00:00 00:00:06 tt-1581 OM039_1985_CT_SU2011_ER_04 
+	"en" Preposition PAL lang:es 00:00:00 00:00:06 tt-1581 OM039_1985_CT_SU2011_ER_04 @Gram:Prep 
 "<cuanto>"
-	"cuanto" Preposition PAL lang:es 00:00:00 00:00:06 tt-1582 OM039_1985_CT_SU2011_ER_04 
+	"cuanto" Preposition PAL lang:es 00:00:00 00:00:06 tt-1582 OM039_1985_CT_SU2011_ER_04 @Gram:Prep 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:00 00:00:06 tt-1583 OM039_1985_CT_SU2011_ER_04 
+	"al" Preposition PAL lang:es 00:00:00 00:00:06 tt-1583 OM039_1985_CT_SU2011_ER_04 @Gram:Prep 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:00:00 00:00:06 tt-1584 OM039_1985_CT_SU2011_ER_04 
 "<$.>"
@@ -35,7 +35,7 @@
 "<cuanto>"
 	"cuanto" Pronoun REL Singular lang:es 00:00:00 00:00:06 tt-1587 OM039_1985_CT_SU2011_ER_04 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:00 00:00:06 tt-1588 OM039_1985_CT_SU2011_ER_04 
+	"al" Preposition PAL lang:es 00:00:00 00:00:06 tt-1588 OM039_1985_CT_SU2011_ER_04 @Gram:Prep 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:00:00 00:00:06 tt-1589 OM039_1985_CT_SU2011_ER_04 
 "<definitivamente>"
@@ -102,7 +102,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:16 00:00:20 tt-1620 OM039_1985_CT_SU2011_ER_04 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:16 00:00:20 tt-1621 OM039_1985_CT_SU2011_ER_04 
+	"suyo" Pronoun PPO Singular lang:es 00:00:16 00:00:20 tt-1621 OM039_1985_CT_SU2011_ER_04 @Gram:Det:Pos 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:00:16 00:00:20 tt-1622 OM039_1985_CT_SU2011_ER_04 
 "<propio>"
@@ -152,7 +152,7 @@
 "<convalidar>"
 	"convalidar" Verb VLinf Infinitive lang:es 00:00:28 00:00:31 tt-1645 OM039_1985_CT_SU2011_ER_04 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:28 00:00:31 tt-1646 OM039_1985_CT_SU2011_ER_04 
+	"UNK" Noun NC Plural lang:es 00:00:28 00:00:31 tt-1646 OM039_1985_CT_SU2011_ER_04 @Gram:Det:Pos 
 "<estudios>"
 	"estudio" Noun NC Plural lang:es 00:00:28 00:00:31 tt-1647 OM039_1985_CT_SU2011_ER_04 
 "<cuando>"
@@ -322,7 +322,7 @@
 "<poco>"
 	"poco" Adverb ADV lang:es 00:00:59 00:01:00 tt-1735 OM039_1985_CT_SU2011_ER_04 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:59 00:01:00 tt-1736 OM039_1985_CT_SU2011_ER_04 ID:159 R:Gram:PerfPerif:160 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:59 00:01:00 tt-1736 OM039_1985_CT_SU2011_ER_04 ID:159 R:Gram:Aux:Haber:160 R:Gram:PerfPerif:160 
 "<visto>"
 	"ver" Verb VLadj lang:es 00:00:59 00:01:00 tt-1737 OM039_1985_CT_SU2011_ER_04 ID:160 
 "<que>"

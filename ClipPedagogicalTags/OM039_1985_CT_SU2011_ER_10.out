@@ -28,7 +28,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-5194 OM039_1985_CT_SU2011_ER_10 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-5195 OM039_1985_CT_SU2011_ER_10 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-5195 OM039_1985_CT_SU2011_ER_10 @Gram:Pron:Sujeto 
 "<conozcas>"
 	"conocer" Verb VLfin Pres Subj Sing 2nd lang:es 00:00:00 00:00:07 tt-5196 OM039_1985_CT_SU2011_ER_10 @Gram:MSub:Pres 
 "<o>"
@@ -36,7 +36,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-5198 OM039_1985_CT_SU2011_ER_10 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-5199 OM039_1985_CT_SU2011_ER_10 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-5199 OM039_1985_CT_SU2011_ER_10 @Gram:Pron:Sujeto 
 "<sepas>"
 	"saber" Verb VLfin Pres Subj Sing 2nd lang:es 00:00:00 00:00:07 tt-5200 OM039_1985_CT_SU2011_ER_10 @Gram:MSub:Pres 
 "<que>"
@@ -60,7 +60,7 @@
 "<área>"
 	"área" Noun NC Singular lang:es 00:00:09 00:00:14 tt-5210 OM039_1985_CT_SU2011_ER_10 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:09 00:00:14 tt-5211 OM039_1985_CT_SU2011_ER_10 
+	"del" Preposition PDEL lang:es 00:00:09 00:00:14 tt-5211 OM039_1985_CT_SU2011_ER_10 @Gram:Prep 
 "<país>"
 	"país" Noun NC Plural lang:es 00:00:09 00:00:14 tt-5212 OM039_1985_CT_SU2011_ER_10 
 "<$.>"
@@ -180,7 +180,7 @@
 "<tomar>"
 	"tomar" Verb VLinf Infinitive lang:es 00:00:24 00:00:31 tt-5267 OM039_1985_CT_SU2011_ER_10 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:00:24 00:00:31 tt-5268 OM039_1985_CT_SU2011_ER_10 
+	"suyo" Pronoun PPO Plural lang:es 00:00:24 00:00:31 tt-5268 OM039_1985_CT_SU2011_ER_10 @Gram:Det:Pos 
 "<tragos>"
 	"UNK" Noun NC Plural lang:es 00:00:24 00:00:31 tt-5269 OM039_1985_CT_SU2011_ER_10 
 "<,>"
@@ -514,9 +514,9 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:25 00:01:32 tt-5433 OM039_1985_CT_SU2011_ER_10 
 "<habrá>"
-	"haber" Verb VHfin Fut Indi Sing 3rd lang:es 00:01:25 00:01:32 tt-5434 OM039_1985_CT_SU2011_ER_10 
+	"haber" Verb VHfin Fut Indi Sing 3rd lang:es 00:01:25 00:01:32 tt-5434 OM039_1985_CT_SU2011_ER_10 ID:246 R:Gram:SerEstar:Ser:247 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:01:25 00:01:32 tt-5435 OM039_1985_CT_SU2011_ER_10 @Gram:SerEstar:Ser 
+	"ser" Verb VSadj Participle lang:es 00:01:25 00:01:32 tt-5435 OM039_1985_CT_SU2011_ER_10 ID:247 
 "<hace>"
 	"hacer" Verb VLfin Pres Indi Sing 3rd lang:es 00:01:25 00:01:32 tt-5436 OM039_1985_CT_SU2011_ER_10 
 "<casi>"
@@ -574,7 +574,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:01:34 00:01:41 tt-5463 OM039_1985_CT_SU2011_ER_10 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:01:34 00:01:41 tt-5464 OM039_1985_CT_SU2011_ER_10 
+	"suyo" Pronoun PPO Singular lang:es 00:01:34 00:01:41 tt-5464 OM039_1985_CT_SU2011_ER_10 @Gram:Det:Pos 
 "<mano>"
 	"mano" Noun NC Singular lang:es 00:01:34 00:01:41 tt-5465 OM039_1985_CT_SU2011_ER_10 
 "<,>"
@@ -686,7 +686,7 @@
 "<adoptado>"
 	"adoptar" Verb VLadj lang:es 00:01:58 00:02:04 tt-5518 OM039_1985_CT_SU2011_ER_10 ID:329 
 "<del>"
-	"del" Preposition PDEL lang:es 00:01:58 00:02:04 tt-5519 OM039_1985_CT_SU2011_ER_10 
+	"del" Preposition PDEL lang:es 00:01:58 00:02:04 tt-5519 OM039_1985_CT_SU2011_ER_10 @Gram:Prep 
 "<español>"
 	"español" Noun NC Singular lang:es 00:01:58 00:02:04 tt-5520 OM039_1985_CT_SU2011_ER_10 
 "<mexicano>"
@@ -748,7 +748,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:02:13 00:02:15 tt-5550 OM039_1985_CT_SU2011_ER_10 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:02:13 00:02:15 tt-5551 OM039_1985_CT_SU2011_ER_10 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:02:13 00:02:15 tt-5551 OM039_1985_CT_SU2011_ER_10 @Gram:Det:Pos 
 "<vocabulario>"
 	"vocabulario" Noun NC Singular lang:es 00:02:13 00:02:15 tt-5552 OM039_1985_CT_SU2011_ER_10 
 "<$.>"
@@ -910,7 +910,7 @@
 "<conservar>"
 	"conservar" Verb VLinf Infinitive lang:es 00:02:38 00:02:45 tt-5631 OM039_1985_CT_SU2011_ER_10 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:45 00:02:48 tt-5632 OM039_1985_CT_SU2011_ER_10 
+	"mío" Pronoun PPO Singular lang:es 00:02:45 00:02:48 tt-5632 OM039_1985_CT_SU2011_ER_10 @Gram:Det:Pos 
 "<chévere>"
 	"chévere" Noun NC Singular lang:es 00:02:45 00:02:48 tt-5633 OM039_1985_CT_SU2011_ER_10 
 "<en>"

@@ -3,7 +3,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:07 tt-2429 AF006_1968_EP_SU2011_AD_16 
 "<Has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2430 AF006_1968_EP_SU2011_AD_16 ID:2 R:Gram:PerfPerif:3 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2430 AF006_1968_EP_SU2011_AD_16 ID:2 R:Gram:Aux:Haber:3 R:Gram:PerfPerif:3 
 "<escuchado>"
 	"escuchar" Verb VLadj lang:es 00:00:00 00:00:07 tt-2431 AF006_1968_EP_SU2011_AD_16 ID:3 
 "<las>"
@@ -151,7 +151,7 @@
 "<lo>"
 	"él" Pronoun PPC Singular lang:es 00:00:33 00:00:37 tt-2508 AF006_1968_EP_SU2011_AD_16 @Gram:Pron:Objeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:33 00:00:37 tt-2509 AF006_1968_EP_SU2011_AD_16 ID:71 R:Gram:PerfPerif:72 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:33 00:00:37 tt-2509 AF006_1968_EP_SU2011_AD_16 ID:71 R:Gram:Aux:Haber:72 R:Gram:PerfPerif:72 
 "<oído>"
 	"oír" Verb VLfin Pres Indi_Command Sing 2nd_3rd VLadj lang:es 00:00:33 00:00:37 tt-2510 AF006_1968_EP_SU2011_AD_16 ID:72 
 "<,>"
@@ -247,7 +247,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:56 00:00:59 tt-2557 AF006_1968_EP_SU2011_AD_16 
 "<Tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:56 00:00:59 tt-2558 AF006_1968_EP_SU2011_AD_16 
+	"tú" Pronoun PPX Singular lang:es 00:00:56 00:00:59 tt-2558 AF006_1968_EP_SU2011_AD_16 @Gram:Pron:Sujeto 
 "<lo>"
 	"el" Determiner ART Singular lang:es 00:00:56 00:00:59 tt-2559 AF006_1968_EP_SU2011_AD_16 
 "<haces>"
@@ -292,7 +292,7 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:01:05 00:01:11 tt-2581 AF006_1968_EP_SU2011_AD_16 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:01:05 00:01:11 tt-2582 AF006_1968_EP_SU2011_AD_16 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:01:05 00:01:11 tt-2582 AF006_1968_EP_SU2011_AD_16 @Gram:SerEstar:Estar ID:135 R:Gram:SerEstar:EstarAux:136 
 "<hablando>"
 	"hablar" Verb VLger lang:es 00:01:05 00:01:11 tt-2583 AF006_1968_EP_SU2011_AD_16 ID:136 R:Vocab:Fraseol:VerbPrep:137 
 "<en>"

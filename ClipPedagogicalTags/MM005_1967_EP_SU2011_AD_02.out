@@ -36,7 +36,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:10 00:00:11 tt-388 MM005_1967_EP_SU2011_AD_02 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:10 00:00:11 tt-389 MM005_1967_EP_SU2011_AD_02 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:10 00:00:11 tt-389 MM005_1967_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:10 00:00:11 tt-390 MM005_1967_EP_SU2011_AD_02 
 "<$?>"
@@ -115,7 +115,7 @@
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:00:19 00:00:25 tt-428 MM005_1967_EP_SU2011_AD_02 
 "<mis>"
-	"UNK" Verb VLfin Error1 lang:es 00:00:25 00:00:32 tt-429 MM005_1967_EP_SU2011_AD_02 
+	"UNK" Verb VLfin Error1 lang:es 00:00:25 00:00:32 tt-429 MM005_1967_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:00:25 00:00:32 tt-430 MM005_1967_EP_SU2011_AD_02 
 "<nos>"
@@ -200,7 +200,7 @@
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:37 00:00:43 tt-470 MM005_1967_EP_SU2011_AD_02 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:37 00:00:43 tt-471 MM005_1967_EP_SU2011_AD_02 
+	"del" Preposition PDEL lang:es 00:00:37 00:00:43 tt-471 MM005_1967_EP_SU2011_AD_02 @Gram:Prep 
 "<barrio>"
 	"barrio" Noun NC Singular lang:es 00:00:37 00:00:43 tt-472 MM005_1967_EP_SU2011_AD_02 
 "<,>"
@@ -326,7 +326,7 @@
 "<trabajaba>"
 	"trabajar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:56 00:01:03 tt-532 MM005_1967_EP_SU2011_AD_02 @Gram:Imperf 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:56 00:01:03 tt-533 MM005_1967_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:56 00:01:03 tt-533 MM005_1967_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:56 00:01:03 tt-534 MM005_1967_EP_SU2011_AD_02 
 "<y>"
@@ -529,9 +529,9 @@
 	"?" Punctuation FS lang:es 00:01:38 00:01:40 tt-631 MM005_1967_EP_SU2011_AD_02 
 
 "<estamos>"
-	"estar" Verb VEfin Pres Indi Plural 1st lang:es 00:01:38 00:01:40 tt-632 MM005_1967_EP_SU2011_AD_02 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Plural 1st lang:es 00:01:38 00:01:40 tt-632 MM005_1967_EP_SU2011_AD_02 @Gram:SerEstar:Estar ID:260 R:Gram:SerEstar:EstarAux:261 
 "<hablando>"
-	"hablar" Verb VLger lang:es 00:01:38 00:01:40 tt-633 MM005_1967_EP_SU2011_AD_02 
+	"hablar" Verb VLger lang:es 00:01:38 00:01:40 tt-633 MM005_1967_EP_SU2011_AD_02 ID:261 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:38 00:01:40 tt-634 MM005_1967_EP_SU2011_AD_02 
 
@@ -666,7 +666,7 @@
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:02:00 00:02:05 tt-699 MM005_1967_EP_SU2011_AD_02 @Gram:SerEstar:Ser 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:00 00:02:05 tt-700 MM005_1967_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:02:00 00:02:05 tt-700 MM005_1967_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<suegro>"
 	"suegro" Noun NC Singular lang:es 00:02:00 00:02:05 tt-701 MM005_1967_EP_SU2011_AD_02 
 "<,>"

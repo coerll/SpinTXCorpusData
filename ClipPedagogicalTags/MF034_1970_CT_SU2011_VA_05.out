@@ -186,7 +186,7 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:29 00:00:36 tt-2965 MF034_1970_CT_SU2011_VA_05 
 "<hemos>"
-	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:29 00:00:36 tt-2966 MF034_1970_CT_SU2011_VA_05 ID:91 R:Gram:PerfPerif:92 
+	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:29 00:00:36 tt-2966 MF034_1970_CT_SU2011_VA_05 ID:91 R:Gram:Aux:Haber:92 R:Gram:PerfPerif:92 
 "<recordado>"
 	"recordar" Verb VLadj lang:es 00:00:29 00:00:36 tt-2967 MF034_1970_CT_SU2011_VA_05 ID:92 
 "<mucho>"
@@ -286,7 +286,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:51 00:00:58 tt-3021 MF034_1970_CT_SU2011_VA_05 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:51 00:00:58 tt-3022 MF034_1970_CT_SU2011_VA_05 
+	"suyo" Pronoun PPO Singular lang:es 00:00:51 00:00:58 tt-3022 MF034_1970_CT_SU2011_VA_05 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:51 00:00:58 tt-3023 MF034_1970_CT_SU2011_VA_05 
 "<,>"

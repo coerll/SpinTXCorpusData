@@ -9,13 +9,13 @@
 "<tal>"
 	"tal" Determiner QU lang:es 00:00:00 00:00:07 tt-2351 MM043_1986_CT_SU2011_ER_10 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-2352 MM043_1986_CT_SU2011_ER_10 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-2352 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Pos 
 "<este>"
 	"este" Noun NC Singular lang:es 00:00:00 00:00:07 tt-2353 MM043_1986_CT_SU2011_ER_10 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:00 00:00:07 tt-2354 MM043_1986_CT_SU2011_ER_10 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-2355 MM043_1986_CT_SU2011_ER_10 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-2355 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Pos 
 "<tierra>"
 	"tierra" Noun NC Singular lang:es 00:00:00 00:00:07 tt-2356 MM043_1986_CT_SU2011_ER_10 
 "<natal>"
@@ -27,7 +27,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:00 00:00:07 tt-2360 MM043_1986_CT_SU2011_ER_10 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-2361 MM043_1986_CT_SU2011_ER_10 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-2361 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Pos 
 "<ciudad>"
 	"ciudad" Noun NC Singular lang:es 00:00:00 00:00:07 tt-2362 MM043_1986_CT_SU2011_ER_10 
 "<Juárez>"
@@ -82,9 +82,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:11 00:00:18 tt-2385 MM043_1986_CT_SU2011_ER_10 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:11 00:00:18 tt-2386 MM043_1986_CT_SU2011_ER_10 ID:39 R:Gram:PerfPerif:40 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:11 00:00:18 tt-2386 MM043_1986_CT_SU2011_ER_10 ID:39 R:Gram:SerEstar:Ser:40 R:Gram:Aux:Haber:40 R:Gram:PerfPerif:40 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:11 00:00:18 tt-2387 MM043_1986_CT_SU2011_ER_10 @Gram:SerEstar:Ser ID:40 
+	"ser" Verb VSadj Participle lang:es 00:00:11 00:00:18 tt-2387 MM043_1986_CT_SU2011_ER_10 ID:40 
 "<por>"
 	"por" Preposition PREP lang:es 00:00:11 00:00:18 tt-2388 MM043_1986_CT_SU2011_ER_10 @Gram:Prep:Por 
 "<lo>"
@@ -141,9 +141,9 @@
 "<lo>"
 	"el" Determiner ART Singular lang:es 00:00:21 00:00:28 tt-2414 MM043_1986_CT_SU2011_ER_10 @Gram:Pron:Objeto 
 "<está>"
-	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:00:28 00:00:30 tt-2415 MM043_1986_CT_SU2011_ER_10 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:00:28 00:00:30 tt-2415 MM043_1986_CT_SU2011_ER_10 @Gram:SerEstar:Estar ID:68 R:Gram:SerEstar:EstarAux:69 
 "<pasando>"
-	"pasar" Verb VLger lang:es 00:00:28 00:00:30 tt-2416 MM043_1986_CT_SU2011_ER_10 
+	"pasar" Verb VLger lang:es 00:00:28 00:00:30 tt-2416 MM043_1986_CT_SU2011_ER_10 ID:69 
 "<en>"
 	"en" Preposition PREP lang:es 00:00:28 00:00:30 tt-2417 MM043_1986_CT_SU2011_ER_10 @Gram:Prep 
 "<México>"
@@ -178,7 +178,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:30 00:00:34 tt-2431 MM043_1986_CT_SU2011_ER_10 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:30 00:00:34 tt-2432 MM043_1986_CT_SU2011_ER_10 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:30 00:00:34 tt-2432 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:30 00:00:34 tt-2433 MM043_1986_CT_SU2011_ER_10 
 "<que>"
@@ -197,9 +197,9 @@
 <speaker type="subj">
 
 "<Ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:36 00:00:43 tt-2440 MM043_1986_CT_SU2011_ER_10 ID:93 R:Gram:PerfPerif:94 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:36 00:00:43 tt-2440 MM043_1986_CT_SU2011_ER_10 ID:93 R:Gram:SerEstar:Ser:94 R:Gram:Aux:Haber:94 R:Gram:PerfPerif:94 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:36 00:00:43 tt-2441 MM043_1986_CT_SU2011_ER_10 @Gram:SerEstar:Ser ID:94 
+	"ser" Verb VSadj Participle lang:es 00:00:36 00:00:43 tt-2441 MM043_1986_CT_SU2011_ER_10 ID:94 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:36 00:00:43 tt-2442 MM043_1986_CT_SU2011_ER_10 
 "<mínima>"
@@ -433,7 +433,7 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:01:21 00:01:26 tt-2557 MM043_1986_CT_SU2011_ER_10 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:21 00:01:26 tt-2558 MM043_1986_CT_SU2011_ER_10 ID:209 R:Gram:PerfPerif:210 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:21 00:01:26 tt-2558 MM043_1986_CT_SU2011_ER_10 ID:209 R:Gram:Aux:Haber:210 R:Gram:PerfPerif:210 
 "<sabido>"
 	"saber" Verb VLadj lang:es 00:01:21 00:01:26 tt-2559 MM043_1986_CT_SU2011_ER_10 ID:210 
 "<de>"

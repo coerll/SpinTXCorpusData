@@ -92,9 +92,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:17 00:00:24 tt-1096 OM024_1933_CT_SU2011_VA_07 
 "<estaba>"
-	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:17 00:00:24 tt-1097 OM024_1933_CT_SU2011_VA_07 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:17 00:00:24 tt-1097 OM024_1933_CT_SU2011_VA_07 @Gram:Imperf @Gram:SerEstar:Estar ID:45 R:Gram:SerEstar:EstarAux:46 
 "<repitiendo>"
-	"repetir" Verb VLger lang:es 00:00:17 00:00:24 tt-1098 OM024_1933_CT_SU2011_VA_07 
+	"repetir" Verb VLger lang:es 00:00:17 00:00:24 tt-1098 OM024_1933_CT_SU2011_VA_07 ID:46 
 "<primero>"
 	"primero" Adverb ADV lang:es 00:00:17 00:00:24 tt-1099 OM024_1933_CT_SU2011_VA_07 
 "<,>"
@@ -279,11 +279,11 @@
 "<nombre>"
 	"nombre" Noun NC Singular lang:es 00:00:55 00:01:02 tt-1186 OM024_1933_CT_SU2011_VA_07 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:55 00:01:02 tt-1187 OM024_1933_CT_SU2011_VA_07 
+	"del" Preposition PDEL lang:es 00:00:55 00:01:02 tt-1187 OM024_1933_CT_SU2011_VA_07 @Gram:Prep 
 "<primer>"
 	"primero" Adjective ORD Singular lang:es 00:00:55 00:01:02 tt-1188 OM024_1933_CT_SU2011_VA_07 
 "<maestro>"
-	"maestro" Noun NC Singular lang:es 00:00:55 00:01:02 tt-1189 OM024_1933_CT_SU2011_VA_07 
+	"maestro" Plural Singular Noun NC lang:es 00:00:55 00:01:02 tt-1189 OM024_1933_CT_SU2011_VA_07 
 "<mío>"
 	"mío" Pronoun PPO Singular lang:es 00:00:55 00:01:02 tt-1190 OM024_1933_CT_SU2011_VA_07 
 "<se>"

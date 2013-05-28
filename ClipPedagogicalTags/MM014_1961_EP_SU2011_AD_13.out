@@ -7,13 +7,13 @@
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:00 00:00:07 tt-2584 MM014_1961_EP_SU2011_AD_13 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-2585 MM014_1961_EP_SU2011_AD_13 ID:4 R:Gram:PerfPerif:5 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-2585 MM014_1961_EP_SU2011_AD_13 ID:4 R:Gram:Aux:Haber:5 R:Gram:PerfPerif:5 
 "<resultado>"
 	"resultar" Verb VLadj lang:es 00:00:00 00:00:07 tt-2586 MM014_1961_EP_SU2011_AD_13 ID:5 
 "<diferente>"
 	"diferente" Adjective ADJ Singular lang:es 00:00:00 00:00:07 tt-2587 MM014_1961_EP_SU2011_AD_13 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-2588 MM014_1961_EP_SU2011_AD_13 
+	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-2588 MM014_1961_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:00 00:00:07 tt-2589 MM014_1961_EP_SU2011_AD_13 
 "<de>"
@@ -71,7 +71,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:11 00:00:18 tt-2615 MM014_1961_EP_SU2011_AD_13 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:24 00:00:31 tt-2616 MM014_1961_EP_SU2011_AD_13 ID:34 R:Gram:PerfPerif:35 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:24 00:00:31 tt-2616 MM014_1961_EP_SU2011_AD_13 ID:34 R:Gram:Aux:Haber:35 R:Gram:PerfPerif:35 
 "<alcanzado>"
 	"alcanzar" Verb VLadj lang:es 00:00:24 00:00:31 tt-2617 MM014_1961_EP_SU2011_AD_13 ID:35 
 "<algunas>"
@@ -87,13 +87,13 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:24 00:00:31 tt-2623 MM014_1961_EP_SU2011_AD_13 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:24 00:00:31 tt-2624 MM014_1961_EP_SU2011_AD_13 ID:42 R:Gram:PerfPerif:43 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:24 00:00:31 tt-2624 MM014_1961_EP_SU2011_AD_13 ID:42 R:Gram:Aux:Haber:43 R:Gram:PerfPerif:43 
 "<cumplido>"
 	"cumplir" Verb VLadj lang:es 00:00:24 00:00:31 tt-2625 MM014_1961_EP_SU2011_AD_13 ID:43 
 "<todos>"
 	"todo" Determiner QU lang:es 00:00:24 00:00:31 tt-2626 MM014_1961_EP_SU2011_AD_13 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:24 00:00:31 tt-2627 MM014_1961_EP_SU2011_AD_13 
+	"UNK" Noun NC Plural lang:es 00:00:24 00:00:31 tt-2627 MM014_1961_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<sueños>"
 	"sueño" Noun NC Plural lang:es 00:00:24 00:00:31 tt-2628 MM014_1961_EP_SU2011_AD_13 
 "<,>"

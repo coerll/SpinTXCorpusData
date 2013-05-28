@@ -14,7 +14,7 @@
 "<esfuerzo>"
 	"esfuerzo" Noun NC Singular lang:es 00:00:00 00:00:07 tt-2261 MM015_1963_EP_SU2011_AD_08 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2262 MM015_1963_EP_SU2011_AD_08 ID:7 R:Gram:PerfPerif:8 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2262 MM015_1963_EP_SU2011_AD_08 ID:7 R:Gram:Aux:Haber:8 R:Gram:PerfPerif:8 
 "<hecho>"
 	"hacer" Verb VLadj lang:es 00:00:00 00:00:07 tt-2263 MM015_1963_EP_SU2011_AD_08 ID:8 
 "<para>"
@@ -22,7 +22,7 @@
 "<conservar>"
 	"conservar" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-2265 MM015_1963_EP_SU2011_AD_08 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:00 00:00:07 tt-2266 MM015_1963_EP_SU2011_AD_08 
+	"UNK" Noun NC Plural lang:es 00:00:00 00:00:07 tt-2266 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<tradiciones>"
 	"tradición" Noun NC Plural lang:es 00:00:00 00:00:07 tt-2267 MM015_1963_EP_SU2011_AD_08 
 "<culturales>"
@@ -43,7 +43,7 @@
 "<mucho>"
 	"mucho" Adverb ADV lang:es 00:00:23 00:00:30 tt-2274 MM015_1963_EP_SU2011_AD_08 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:23 00:00:30 tt-2275 MM015_1963_EP_SU2011_AD_08 
+	"mío" Pronoun PPO Singular lang:es 00:00:23 00:00:30 tt-2275 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:00:23 00:00:30 tt-2276 MM015_1963_EP_SU2011_AD_08 
 "<$.>"
@@ -83,7 +83,7 @@
 "<A>"
 	"a" Preposition PREP lang:es 00:00:31 00:00:37 tt-2293 MM015_1963_EP_SU2011_AD_08 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:31 00:00:37 tt-2294 MM015_1963_EP_SU2011_AD_08 
+	"UNK" Noun NC Plural lang:es 00:00:31 00:00:37 tt-2294 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:31 00:00:37 tt-2295 MM015_1963_EP_SU2011_AD_08 
 "<los>"
@@ -157,7 +157,7 @@
 "<llegue>"
 	"llegar" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:46 00:00:52 tt-2329 MM015_1963_EP_SU2011_AD_08 @Gram:MSub:Pres 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:46 00:00:52 tt-2330 MM015_1963_EP_SU2011_AD_08 
+	"suyo" Pronoun PPO Singular lang:es 00:00:46 00:00:52 tt-2330 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:46 00:00:52 tt-2331 MM015_1963_EP_SU2011_AD_08 
 "<y>"
@@ -188,7 +188,7 @@
 	"." Punctuation FS lang:es 00:00:46 00:00:52 tt-2344 MM015_1963_EP_SU2011_AD_08 
 
 "<Sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:00:46 00:00:52 tt-2345 MM015_1963_EP_SU2011_AD_08 
+	"suyo" Pronoun PPO Plural lang:es 00:00:46 00:00:52 tt-2345 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<tortillitas>"
 	"UNK" Noun NC Plural lang:es 00:00:46 00:00:52 tt-2346 MM015_1963_EP_SU2011_AD_08 
 "<de>"

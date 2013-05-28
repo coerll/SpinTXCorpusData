@@ -5,7 +5,7 @@
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:00:00 00:00:06 tt-742 MF013_1937_EP_SU2011_AD_02 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:06 tt-743 MF013_1937_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:06 tt-743 MF013_1937_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<esposo>"
 	"esposo" Noun NC Singular lang:es 00:00:00 00:00:06 tt-744 MF013_1937_EP_SU2011_AD_02 
 "<fue>"
@@ -88,7 +88,7 @@
 "<fueron>"
 	"ser" Verb VSfin Pret Indi Plural 3rd lang:es 00:00:14 00:00:21 tt-781 MF013_1937_EP_SU2011_AD_02 @Gram:SerEstar:Ser 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:14 00:00:21 tt-782 MF013_1937_EP_SU2011_AD_02 
+	"UNK" Noun NC Plural lang:es 00:00:14 00:00:21 tt-782 MF013_1937_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<primeras>"
 	"primera" Noun NC Plural lang:es 00:00:14 00:00:21 tt-783 MF013_1937_EP_SU2011_AD_02 
 "<impresiones>"
@@ -179,7 +179,7 @@
 "<sabían>"
 	"saber" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:37 00:00:44 tt-827 MF013_1937_EP_SU2011_AD_02 @Gram:Imperf 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:37 00:00:44 tt-828 MF013_1937_EP_SU2011_AD_02 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:37 00:00:44 tt-828 MF013_1937_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:00:37 00:00:44 tt-829 MF013_1937_EP_SU2011_AD_02 
 "<tuyo>"
@@ -246,14 +246,14 @@
 "<nada>"
 	"nada" Determiner QU lang:es 00:00:52 00:00:56 tt-859 MF013_1937_EP_SU2011_AD_02 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:52 00:00:56 tt-860 MF013_1937_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:52 00:00:56 tt-860 MF013_1937_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<hija>"
 	"hijo" Noun NC Singular lang:es 00:00:52 00:00:56 tt-861 MF013_1937_EP_SU2011_AD_02 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:52 00:00:56 tt-862 MF013_1937_EP_SU2011_AD_02 
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:52 00:00:56 tt-863 MF013_1937_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:52 00:00:56 tt-863 MF013_1937_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<casa>"
 	"casa" Noun NC Singular lang:es 00:00:52 00:00:56 tt-864 MF013_1937_EP_SU2011_AD_02 
 "<nada>"
@@ -281,11 +281,11 @@
 "<sentías>"
 	"sentir" Verb VLfin Imp Indi Sing 2nd lang:es 00:00:56 00:01:03 tt-874 MF013_1937_EP_SU2011_AD_02 @Gram:Imperf 
 "<con>"
-	"con" Preposition PAL lang:es 00:00:56 00:01:03 tt-875 MF013_1937_EP_SU2011_AD_02 
+	"con" Preposition PAL lang:es 00:00:56 00:01:03 tt-875 MF013_1937_EP_SU2011_AD_02 @Gram:Prep 
 "<respecto>"
-	"respecto" Preposition PAL lang:es 00:00:56 00:01:03 tt-876 MF013_1937_EP_SU2011_AD_02 
+	"respecto" Preposition PAL lang:es 00:00:56 00:01:03 tt-876 MF013_1937_EP_SU2011_AD_02 @Gram:Prep 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:56 00:01:03 tt-877 MF013_1937_EP_SU2011_AD_02 
+	"al" Preposition PAL lang:es 00:00:56 00:01:03 tt-877 MF013_1937_EP_SU2011_AD_02 @Gram:Prep 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:56 00:01:03 tt-878 MF013_1937_EP_SU2011_AD_02 
 "<cuando>"
@@ -510,7 +510,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:01:49 00:01:53 tt-982 MF013_1937_EP_SU2011_AD_02 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:01:49 00:01:53 tt-983 MF013_1937_EP_SU2011_AD_02 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:01:49 00:01:53 tt-983 MF013_1937_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<país>"
 	"país" Noun NC Plural lang:es 00:01:49 00:01:53 tt-984 MF013_1937_EP_SU2011_AD_02 
 "<de>"
@@ -601,7 +601,7 @@
 "<hacer>"
 	"hacer" Verb VLinf Infinitive lang:es 00:02:07 00:02:12 tt-1026 MF013_1937_EP_SU2011_AD_02 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:02:07 00:02:12 tt-1027 MF013_1937_EP_SU2011_AD_02 
+	"suyo" Pronoun PPO Plural lang:es 00:02:07 00:02:12 tt-1027 MF013_1937_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<trabajos>"
 	"trabajo" Noun NC Plural lang:es 00:02:07 00:02:12 tt-1028 MF013_1937_EP_SU2011_AD_02 
 "<en>"

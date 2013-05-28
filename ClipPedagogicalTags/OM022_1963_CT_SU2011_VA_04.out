@@ -52,7 +52,7 @@
 "<fin>"
 	"fin" Noun NC Singular lang:es 00:00:06 00:00:13 tt-869 OM022_1963_CT_SU2011_VA_04 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:06 00:00:13 tt-870 OM022_1963_CT_SU2011_VA_04 
+	"del" Preposition PDEL lang:es 00:00:06 00:00:13 tt-870 OM022_1963_CT_SU2011_VA_04 @Gram:Prep 
 "<mundo>"
 	"mundo" Noun NC Singular lang:es 00:00:06 00:00:13 tt-871 OM022_1963_CT_SU2011_VA_04 
 "<,>"
@@ -172,7 +172,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:29 00:00:35 tt-929 OM022_1963_CT_SU2011_VA_04 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:29 00:00:35 tt-930 OM022_1963_CT_SU2011_VA_04 
+	"mío" Pronoun PPO Singular lang:es 00:00:29 00:00:35 tt-930 OM022_1963_CT_SU2011_VA_04 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:29 00:00:35 tt-931 OM022_1963_CT_SU2011_VA_04 
 "<,>"
@@ -209,7 +209,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:35 00:00:42 tt-947 OM022_1963_CT_SU2011_VA_04 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:35 00:00:42 tt-948 OM022_1963_CT_SU2011_VA_04 
+	"mío" Pronoun PPO Singular lang:es 00:00:35 00:00:42 tt-948 OM022_1963_CT_SU2011_VA_04 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:35 00:00:42 tt-949 OM022_1963_CT_SU2011_VA_04 
 "<,>"
@@ -378,7 +378,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:56 00:01:03 tt-1030 OM022_1963_CT_SU2011_VA_04 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:56 00:01:03 tt-1031 OM022_1963_CT_SU2011_VA_04 
+	"del" Preposition PDEL lang:es 00:00:56 00:01:03 tt-1031 OM022_1963_CT_SU2011_VA_04 @Gram:Prep 
 "<tercer>"
 	"tercero" Adjective ORD Singular lang:es 00:00:56 00:01:03 tt-1032 OM022_1963_CT_SU2011_VA_04 
 "<mundo>"
@@ -570,7 +570,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:27 00:01:33 tt-1124 OM022_1963_CT_SU2011_VA_04 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:01:27 00:01:33 tt-1125 OM022_1963_CT_SU2011_VA_04 
+	"UNK" Noun NC Plural lang:es 00:01:27 00:01:33 tt-1125 OM022_1963_CT_SU2011_VA_04 @Gram:Det:Pos 
 "<guardaespaldas>"
 	"guardaespaldas" Noun NC Plural lang:es 00:01:27 00:01:33 tt-1126 OM022_1963_CT_SU2011_VA_04 
 "<y>"
@@ -616,7 +616,7 @@
 "<guardaespaldas>"
 	"guardaespaldas" Noun NC Plural lang:es 00:01:33 00:01:38 tt-1146 OM022_1963_CT_SU2011_VA_04 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:01:33 00:01:38 tt-1147 OM022_1963_CT_SU2011_VA_04 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:01:33 00:01:38 tt-1147 OM022_1963_CT_SU2011_VA_04 @Gram:SerEstar:Ser 
 "<policías>"
 	"policía" Noun NC Plural lang:es 00:01:33 00:01:38 tt-1148 OM022_1963_CT_SU2011_VA_04 
 "<militares>"

@@ -9,7 +9,7 @@
 "<vez>"
 	"vez" Noun NC Singular lang:es 00:00:00 00:00:07 tt-6545 AF027_1990_CT_SU2011_ER_08 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-6546 AF027_1990_CT_SU2011_ER_08 ID:5 R:Gram:PerfPerif:6 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-6546 AF027_1990_CT_SU2011_ER_08 ID:5 R:Gram:Aux:Haber:6 R:Gram:PerfPerif:6 
 "<escuchado>"
 	"escuchar" Verb VLadj lang:es 00:00:00 00:00:07 tt-6547 AF027_1990_CT_SU2011_ER_08 ID:6 
 "<una>"
@@ -55,7 +55,7 @@
 "<nunca>"
 	"nunca" Adverb ADV lang:es 00:00:07 00:00:12 tt-6568 AF027_1990_CT_SU2011_ER_08 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:07 00:00:12 tt-6569 AF027_1990_CT_SU2011_ER_08 ID:28 R:Gram:PerfPerif:29 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:07 00:00:12 tt-6569 AF027_1990_CT_SU2011_ER_08 ID:28 R:Gram:Aux:Haber:29 R:Gram:PerfPerif:29 
 "<escuchado>"
 	"escuchar" Verb VLadj lang:es 00:00:07 00:00:12 tt-6570 AF027_1990_CT_SU2011_ER_08 ID:29 
 "<esto>"
@@ -63,7 +63,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:07 00:00:12 tt-6572 AF027_1990_CT_SU2011_ER_08 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:07 00:00:12 tt-6573 AF027_1990_CT_SU2011_ER_08 
+	"mío" Pronoun PPO Singular lang:es 00:00:07 00:00:12 tt-6573 AF027_1990_CT_SU2011_ER_08 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:07 00:00:12 tt-6574 AF027_1990_CT_SU2011_ER_08 
 "<$?>"
@@ -101,7 +101,7 @@
 "<lo>"
 	"él" Pronoun PPC Singular lang:es 00:00:12 00:00:16 tt-6589 AF027_1990_CT_SU2011_ER_08 @Gram:Pron:Objeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:12 00:00:16 tt-6590 AF027_1990_CT_SU2011_ER_08 ID:49 R:Gram:PerfPerif:50 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:12 00:00:16 tt-6590 AF027_1990_CT_SU2011_ER_08 ID:49 R:Gram:Aux:Haber:50 R:Gram:PerfPerif:50 
 "<escuchado>"
 	"escuchar" Verb VLadj lang:es 00:00:12 00:00:16 tt-6591 AF027_1990_CT_SU2011_ER_08 ID:50 
 "<$?>"
@@ -116,7 +116,7 @@
 "<lo>"
 	"él" Pronoun PPC Singular lang:es 00:00:16 00:00:17 tt-6595 AF027_1990_CT_SU2011_ER_08 @Gram:Pron:Objeto 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:16 00:00:17 tt-6596 AF027_1990_CT_SU2011_ER_08 ID:55 R:Gram:PerfPerif:56 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:16 00:00:17 tt-6596 AF027_1990_CT_SU2011_ER_08 ID:55 R:Gram:Aux:Haber:56 R:Gram:PerfPerif:56 
 "<escuchado>"
 	"escuchar" Verb VLadj lang:es 00:00:16 00:00:17 tt-6597 AF027_1990_CT_SU2011_ER_08 ID:56 
 "<$.>"
@@ -125,7 +125,7 @@
 <speaker type="subj">
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:17 00:00:23 tt-6599 AF027_1990_CT_SU2011_ER_08 
+	"mío" Pronoun PPO Singular lang:es 00:00:17 00:00:23 tt-6599 AF027_1990_CT_SU2011_ER_08 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:17 00:00:23 tt-6600 AF027_1990_CT_SU2011_ER_08 
 "<dice>"
@@ -221,7 +221,7 @@
 "<trajineras>"
 	"UNK" Noun NC Plural lang:es 00:00:29 00:00:35 tt-6646 AF027_1990_CT_SU2011_ER_08 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:00:29 00:00:35 tt-6647 AF027_1990_CT_SU2011_ER_08 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:00:29 00:00:35 tt-6647 AF027_1990_CT_SU2011_ER_08 @Gram:SerEstar:Ser 
 "<como>"
 	"como" Adverb ADV lang:es 00:00:29 00:00:35 tt-6648 AF027_1990_CT_SU2011_ER_08 
 "<que>"
@@ -255,9 +255,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:35 00:00:39 tt-6663 AF027_1990_CT_SU2011_ER_08 
 "<estaban>"
-	"estar" Verb VEfin Imp Indi Plural 3rd lang:es 00:00:35 00:00:39 tt-6664 AF027_1990_CT_SU2011_ER_08 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Plural 3rd lang:es 00:00:35 00:00:39 tt-6664 AF027_1990_CT_SU2011_ER_08 @Gram:Imperf @Gram:SerEstar:Estar ID:123 R:Gram:SerEstar:EstarAux:124 
 "<batallando>"
-	"batallar" Verb VLger lang:es 00:00:35 00:00:39 tt-6665 AF027_1990_CT_SU2011_ER_08 
+	"batallar" Verb VLger lang:es 00:00:35 00:00:39 tt-6665 AF027_1990_CT_SU2011_ER_08 ID:124 
 "<,>"
 	"," Punctuation CM lang:es 00:00:35 00:00:39 tt-6666 AF027_1990_CT_SU2011_ER_08 
 "<entonces>"
@@ -265,7 +265,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:35 00:00:39 tt-6668 AF027_1990_CT_SU2011_ER_08 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:35 00:00:39 tt-6669 AF027_1990_CT_SU2011_ER_08 
+	"mío" Pronoun PPO Singular lang:es 00:00:35 00:00:39 tt-6669 AF027_1990_CT_SU2011_ER_08 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:35 00:00:39 tt-6670 AF027_1990_CT_SU2011_ER_08 
 "<lo>"
@@ -382,7 +382,7 @@
 "<quizás>"
 	"quizás" Adverb ADV lang:es 00:00:50 00:00:53 tt-6725 AF027_1990_CT_SU2011_ER_08 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:50 00:00:53 tt-6726 AF027_1990_CT_SU2011_ER_08 
+	"al" Preposition PAL lang:es 00:00:50 00:00:53 tt-6726 AF027_1990_CT_SU2011_ER_08 @Gram:Prep 
 "<área>"
 	"área" Noun NC Singular lang:es 00:00:50 00:00:53 tt-6727 AF027_1990_CT_SU2011_ER_08 
 "<donde>"
@@ -390,7 +390,7 @@
 "<eres>"
 	"ser" Verb VSfin Pres Indi Sing 2nd lang:es 00:00:50 00:00:53 tt-6729 AF027_1990_CT_SU2011_ER_08 @Gram:SerEstar:Ser 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:50 00:00:53 tt-6730 AF027_1990_CT_SU2011_ER_08 
+	"tú" Pronoun PPX Singular lang:es 00:00:50 00:00:53 tt-6730 AF027_1990_CT_SU2011_ER_08 @Gram:Pron:Sujeto 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:50 00:00:53 tt-6731 AF027_1990_CT_SU2011_ER_08 
 
@@ -420,7 +420,7 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:53 00:00:57 tt-6743 AF027_1990_CT_SU2011_ER_08 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:53 00:00:57 tt-6744 AF027_1990_CT_SU2011_ER_08 
+	"mío" Pronoun PPO Singular lang:es 00:00:53 00:00:57 tt-6744 AF027_1990_CT_SU2011_ER_08 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:53 00:00:57 tt-6745 AF027_1990_CT_SU2011_ER_08 
 "<estudió>"
@@ -432,7 +432,7 @@
 "<porque>"
 	"porque" Conjunction CSUBX lang:es 00:00:53 00:00:57 tt-6749 AF027_1990_CT_SU2011_ER_08 @Prag:MarcadoresDisc:Causa 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:53 00:00:57 tt-6750 AF027_1990_CT_SU2011_ER_08 
+	"mío" Pronoun PPO Singular lang:es 00:00:53 00:00:57 tt-6750 AF027_1990_CT_SU2011_ER_08 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:53 00:00:57 tt-6751 AF027_1990_CT_SU2011_ER_08 
 "<estudió>"

@@ -11,7 +11,7 @@
 "<importancia>"
 	"importancia" Noun NC Singular lang:es 00:00:00 00:00:04 tt-1317 AF003_1992_EP_SU2011_AD_08 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:00 00:00:04 tt-1318 AF003_1992_EP_SU2011_AD_08 
+	"del" Preposition PDEL lang:es 00:00:00 00:00:04 tt-1318 AF003_1992_EP_SU2011_AD_08 @Gram:Prep 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:00 00:00:04 tt-1319 AF003_1992_EP_SU2011_AD_08 
 "<para>"
@@ -177,7 +177,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:22 00:00:29 tt-1397 AF003_1992_EP_SU2011_AD_08 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:22 00:00:29 tt-1398 AF003_1992_EP_SU2011_AD_08 ID:86 R:Gram:PerfPerif:87 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:22 00:00:29 tt-1398 AF003_1992_EP_SU2011_AD_08 ID:86 R:Gram:Aux:Haber:87 R:Gram:PerfPerif:87 
 "<ayudado>"
 	"ayudar" Verb VLadj lang:es 00:00:22 00:00:29 tt-1399 AF003_1992_EP_SU2011_AD_08 ID:87 
 "<mucho>"
@@ -302,7 +302,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:42 00:00:48 tt-1457 AF003_1992_EP_SU2011_AD_08 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:42 00:00:48 tt-1458 AF003_1992_EP_SU2011_AD_08 
+	"mío" Pronoun PPO Singular lang:es 00:00:42 00:00:48 tt-1458 AF003_1992_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:42 00:00:48 tt-1459 AF003_1992_EP_SU2011_AD_08 
 "<porque>"

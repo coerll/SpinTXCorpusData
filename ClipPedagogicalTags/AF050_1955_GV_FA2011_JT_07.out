@@ -176,7 +176,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:27 00:00:34 tt-1317 AF050_1955_GV_FA2011_JT_07 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:27 00:00:34 tt-1318 AF050_1955_GV_FA2011_JT_07 ID:86 R:Gram:PerfPerif:87 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:27 00:00:34 tt-1318 AF050_1955_GV_FA2011_JT_07 ID:86 R:Gram:Aux:Haber:87 R:Gram:PerfPerif:87 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:27 00:00:34 tt-1319 AF050_1955_GV_FA2011_JT_07 ID:87 
 "<pero>"
@@ -271,9 +271,9 @@
 "<ellos>"
 	"él" Pronoun PPX Plural lang:es 00:01:00 00:01:05 tt-1363 AF050_1955_GV_FA2011_JT_07 @Gram:Pron:Sujeto 
 "<están>"
-	"estar" Verb VEfin Pres Indi Plural 3rd lang:es 00:01:00 00:01:05 tt-1364 AF050_1955_GV_FA2011_JT_07 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Plural 3rd lang:es 00:01:00 00:01:05 tt-1364 AF050_1955_GV_FA2011_JT_07 @Gram:SerEstar:Estar ID:132 R:Gram:SerEstar:EstarAux:133 
 "<hablando>"
-	"hablar" Verb VLger lang:es 00:01:00 00:01:05 tt-1365 AF050_1955_GV_FA2011_JT_07 
+	"hablar" Verb VLger lang:es 00:01:00 00:01:05 tt-1365 AF050_1955_GV_FA2011_JT_07 ID:133 
 "<bien>"
 	"bien" Adverb ADV lang:es 00:01:00 00:01:05 tt-1366 AF050_1955_GV_FA2011_JT_07 
 "<$.>"

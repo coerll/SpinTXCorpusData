@@ -195,7 +195,7 @@
 "<para>"
 	"para" Preposition PREP lang:es 00:00:35 00:00:42 tt-113 AF038_1966_CT_SU2011_ER_01 @Gram:Prep:Para 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:00:35 00:00:42 tt-114 AF038_1966_CT_SU2011_ER_01 
+	"suyo" Pronoun PPO Plural lang:es 00:00:35 00:00:42 tt-114 AF038_1966_CT_SU2011_ER_01 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:35 00:00:42 tt-115 AF038_1966_CT_SU2011_ER_01 
 "<,>"
@@ -252,7 +252,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:42 00:00:48 tt-140 AF038_1966_CT_SU2011_ER_01 
 "<fueron>"
-	"ser" Verb VSfin Pret Indi Plural 3rd lang:es 00:00:42 00:00:48 tt-141 AF038_1966_CT_SU2011_ER_01 @Gram:SerEstar:Ser 
+	"ir" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:42 00:00:48 tt-141 AF038_1966_CT_SU2011_ER_01 @Gram:Indefinido 
 "<aprendiendo>"
 	"aprender" Verb VLger lang:es 00:00:42 00:00:48 tt-142 AF038_1966_CT_SU2011_ER_01 
 "<el>"
@@ -429,7 +429,7 @@
 	"." Punctuation FS lang:es 00:01:19 00:01:26 tt-221 AF038_1966_CT_SU2011_ER_01 
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:19 00:01:26 tt-222 AF038_1966_CT_SU2011_ER_01 
+	"mío" Pronoun PPO Singular lang:es 00:01:19 00:01:26 tt-222 AF038_1966_CT_SU2011_ER_01 @Gram:Det:Pos 
 "<madre>"
 	"madre" Noun NC Singular lang:es 00:01:19 00:01:26 tt-223 AF038_1966_CT_SU2011_ER_01 
 "<emigró>"
@@ -555,11 +555,11 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:44 00:01:49 tt-279 AF038_1966_CT_SU2011_ER_01 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:01:44 00:01:49 tt-280 AF038_1966_CT_SU2011_ER_01 
+	"suyo" Pronoun PPO Singular lang:es 00:01:44 00:01:49 tt-280 AF038_1966_CT_SU2011_ER_01 @Gram:Det:Pos 
 "<español>"
 	"español" Noun NC Singular lang:es 00:01:44 00:01:49 tt-281 AF038_1966_CT_SU2011_ER_01 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:44 00:01:49 tt-282 AF038_1966_CT_SU2011_ER_01 ID:259 R:Gram:PerfPerif:260 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:44 00:01:49 tt-282 AF038_1966_CT_SU2011_ER_01 ID:259 R:Gram:Aux:Haber:260 R:Gram:PerfPerif:260 
 "<cambiado>"
 	"cambiar" Verb VLadj lang:es 00:01:44 00:01:49 tt-283 AF038_1966_CT_SU2011_ER_01 ID:260 
 "<un>"

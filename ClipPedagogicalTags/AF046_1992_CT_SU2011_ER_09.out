@@ -42,7 +42,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:10 00:00:15 tt-3089 AF046_1992_CT_SU2011_ER_09 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:10 00:00:15 tt-3090 AF046_1992_CT_SU2011_ER_09 ID:20 R:Gram:PerfPerif:21 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:10 00:00:15 tt-3090 AF046_1992_CT_SU2011_ER_09 ID:20 R:Gram:Aux:Haber:21 R:Gram:PerfPerif:21 
 "<gustado>"
 	"gustar" Verb VLadj lang:es 00:00:10 00:00:15 tt-3091 AF046_1992_CT_SU2011_ER_09 ID:21 
 "<,>"
@@ -50,9 +50,9 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:10 00:00:15 tt-3093 AF046_1992_CT_SU2011_ER_09 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:10 00:00:15 tt-3094 AF046_1992_CT_SU2011_ER_09 ID:24 R:Gram:PerfPerif:25 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:10 00:00:15 tt-3094 AF046_1992_CT_SU2011_ER_09 ID:24 R:Gram:SerEstar:Ser:25 R:Gram:Aux:Haber:25 R:Gram:PerfPerif:25 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:10 00:00:15 tt-3095 AF046_1992_CT_SU2011_ER_09 @Gram:SerEstar:Ser ID:25 
+	"ser" Verb VSadj Participle lang:es 00:00:10 00:00:15 tt-3095 AF046_1992_CT_SU2011_ER_09 ID:25 
 "<$¡>"
 	"¡" Punctuation FS lang:es 00:00:10 00:00:15 tt-3096 AF046_1992_CT_SU2011_ER_09 
 "<hay>"
@@ -71,7 +71,7 @@
 "<nunca>"
 	"nunca" Adverb ADV lang:es 00:00:10 00:00:15 tt-3103 AF046_1992_CT_SU2011_ER_09 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:10 00:00:15 tt-3104 AF046_1992_CT_SU2011_ER_09 ID:34 R:Gram:PerfPerif:35 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:10 00:00:15 tt-3104 AF046_1992_CT_SU2011_ER_09 ID:34 R:Gram:Aux:Haber:35 R:Gram:PerfPerif:35 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:10 00:00:15 tt-3105 AF046_1992_CT_SU2011_ER_09 ID:35 
 "<problemas>"
@@ -89,7 +89,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:15 00:00:19 tt-3112 AF046_1992_CT_SU2011_ER_09 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:15 00:00:19 tt-3113 AF046_1992_CT_SU2011_ER_09 ID:43 R:Gram:PerfPerif:44 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:15 00:00:19 tt-3113 AF046_1992_CT_SU2011_ER_09 ID:43 R:Gram:Aux:Haber:44 R:Gram:PerfPerif:44 
 "<encantado>"
 	"encantar" Verb VLadj lang:es 00:00:15 00:00:19 tt-3114 AF046_1992_CT_SU2011_ER_09 ID:44 
 "<,>"
@@ -101,7 +101,7 @@
 "<lo>"
 	"él" Pronoun PPC Singular lang:es 00:00:15 00:00:19 tt-3118 AF046_1992_CT_SU2011_ER_09 @Gram:Pron:Objeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:15 00:00:19 tt-3119 AF046_1992_CT_SU2011_ER_09 ID:49 R:Gram:PerfPerif:50 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:15 00:00:19 tt-3119 AF046_1992_CT_SU2011_ER_09 ID:49 R:Gram:Aux:Haber:50 R:Gram:PerfPerif:50 
 "<odiado>"
 	"UNK" Verb VLadj lang:es 00:00:15 00:00:19 tt-3120 AF046_1992_CT_SU2011_ER_09 ID:50 
 "<$.>"
@@ -126,7 +126,7 @@
 "<estudiante>"
 	"estudiante" Noun NC Singular lang:es 00:00:19 00:00:23 tt-3129 AF046_1992_CT_SU2011_ER_09 
 "<eras>"
-	"erar|ser" Verb VLfin Past Subj Sing 2nd lang:es 00:00:19 00:00:23 tt-3130 AF046_1992_CT_SU2011_ER_09 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Sing 2nd lang:es 00:00:19 00:00:23 tt-3130 AF046_1992_CT_SU2011_ER_09 @Gram:SerEstar:Ser 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:19 00:00:23 tt-3131 AF046_1992_CT_SU2011_ER_09 
 </speaker>
@@ -183,7 +183,7 @@
 "<nunca>"
 	"nunca" Adverb ADV lang:es 00:00:29 00:00:33 tt-3157 AF046_1992_CT_SU2011_ER_09 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:29 00:00:33 tt-3158 AF046_1992_CT_SU2011_ER_09 ID:87 R:Gram:PerfPerif:88 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:29 00:00:33 tt-3158 AF046_1992_CT_SU2011_ER_09 ID:87 R:Gram:Aux:Haber:88 R:Gram:PerfPerif:88 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:29 00:00:33 tt-3159 AF046_1992_CT_SU2011_ER_09 ID:88 
 "<problemas>"
@@ -206,7 +206,7 @@
 "<crees>"
 	"crear|creer" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:33 00:00:39 tt-3167 AF046_1992_CT_SU2011_ER_09 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:33 00:00:39 tt-3168 AF046_1992_CT_SU2011_ER_09 
+	"tú" Pronoun PPX Singular lang:es 00:00:33 00:00:39 tt-3168 AF046_1992_CT_SU2011_ER_09 @Gram:Pron:Sujeto 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:33 00:00:39 tt-3169 AF046_1992_CT_SU2011_ER_09 
 "<te>"
@@ -214,7 +214,7 @@
 "<recordarían>"
 	"UNK" Verb VLfin Cond Indi Plural 3rd lang:es 00:00:33 00:00:39 tt-3171 AF046_1992_CT_SU2011_ER_09 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:33 00:00:39 tt-3172 AF046_1992_CT_SU2011_ER_09 
+	"UNK" Noun NC Plural lang:es 00:00:33 00:00:39 tt-3172 AF046_1992_CT_SU2011_ER_09 @Gram:Det:Pos 
 "<compañeros>"
 	"compañero" Noun NC Plural lang:es 00:00:33 00:00:39 tt-3173 AF046_1992_CT_SU2011_ER_09 
 "<$?>"
@@ -343,7 +343,7 @@
 "<son>"
 	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:00:53 00:00:59 tt-3234 AF046_1992_CT_SU2011_ER_09 @Gram:SerEstar:Ser 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:53 00:00:59 tt-3235 AF046_1992_CT_SU2011_ER_09 
+	"UNK" Noun NC Plural lang:es 00:00:53 00:00:59 tt-3235 AF046_1992_CT_SU2011_ER_09 @Gram:Det:Pos 
 "<,>"
 	"," Punctuation CM lang:es 00:00:53 00:00:59 tt-3236 AF046_1992_CT_SU2011_ER_09 
 "<o>"
@@ -376,9 +376,9 @@
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:00:59 00:01:05 tt-3249 AF046_1992_CT_SU2011_ER_09 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:59 00:01:05 tt-3250 AF046_1992_CT_SU2011_ER_09 ID:177 R:Gram:PerfPerif:178 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:59 00:01:05 tt-3250 AF046_1992_CT_SU2011_ER_09 ID:177 R:Gram:SerEstar:Ser:178 R:Gram:Aux:Haber:178 R:Gram:PerfPerif:178 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:59 00:01:05 tt-3251 AF046_1992_CT_SU2011_ER_09 @Gram:SerEstar:Ser ID:178 
+	"ser" Verb VSadj Participle lang:es 00:00:59 00:01:05 tt-3251 AF046_1992_CT_SU2011_ER_09 ID:178 
 "<,>"
 	"," Punctuation CM lang:es 00:00:59 00:01:05 tt-3252 AF046_1992_CT_SU2011_ER_09 
 "<cuando>"
@@ -431,7 +431,7 @@
 "<Me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:10 00:01:16 tt-3274 AF046_1992_CT_SU2011_ER_09 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:10 00:01:16 tt-3275 AF046_1992_CT_SU2011_ER_09 ID:202 R:Gram:PerfPerif:203 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:10 00:01:16 tt-3275 AF046_1992_CT_SU2011_ER_09 ID:202 R:Gram:Aux:Haber:203 R:Gram:PerfPerif:203 
 "<encantado>"
 	"encantar" Verb VLadj lang:es 00:01:10 00:01:16 tt-3276 AF046_1992_CT_SU2011_ER_09 ID:203 
 "<$.>"
@@ -530,7 +530,7 @@
 "<son>"
 	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:01:22 00:01:26 tt-3322 AF046_1992_CT_SU2011_ER_09 @Gram:SerEstar:Ser 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:01:22 00:01:26 tt-3323 AF046_1992_CT_SU2011_ER_09 
+	"UNK" Noun NC Plural lang:es 00:01:22 00:01:26 tt-3323 AF046_1992_CT_SU2011_ER_09 @Gram:Det:Pos 
 "<mejores>"
 	"bueno" Adjective ADJ Plural lang:es 00:01:22 00:01:26 tt-3324 AF046_1992_CT_SU2011_ER_09 
 "<memorias>"
@@ -549,9 +549,9 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:26 00:01:32 tt-3331 AF046_1992_CT_SU2011_ER_09 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:26 00:01:32 tt-3332 AF046_1992_CT_SU2011_ER_09 ID:258 R:Gram:PerfPerif:259 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:26 00:01:32 tt-3332 AF046_1992_CT_SU2011_ER_09 ID:258 R:Gram:SerEstar:Ser:259 R:Gram:Aux:Haber:259 R:Gram:PerfPerif:259 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:01:26 00:01:32 tt-3333 AF046_1992_CT_SU2011_ER_09 @Gram:SerEstar:Ser ID:259 
+	"ser" Verb VSadj Participle lang:es 00:01:26 00:01:32 tt-3333 AF046_1992_CT_SU2011_ER_09 ID:259 
 "<conociendo>"
 	"conocer" Verb VLger lang:es 00:01:26 00:01:32 tt-3334 AF046_1992_CT_SU2011_ER_09 
 "<a>"
@@ -571,7 +571,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:26 00:01:32 tt-3342 AF046_1992_CT_SU2011_ER_09 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:26 00:01:32 tt-3343 AF046_1992_CT_SU2011_ER_09 
+	"mío" Pronoun PPO Singular lang:es 00:01:26 00:01:32 tt-3343 AF046_1992_CT_SU2011_ER_09 @Gram:Det:Pos 
 "<amiga>"
 	"amigo" Noun NC Singular lang:es 00:01:26 00:01:32 tt-3344 AF046_1992_CT_SU2011_ER_09 
 "<Marlene>"
@@ -589,7 +589,7 @@
 "<ella>"
 	"él" Pronoun PPX Singular lang:es 00:01:32 00:01:37 tt-3351 AF046_1992_CT_SU2011_ER_09 @Gram:Pron:Sujeto 
 "<hemos>"
-	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:01:32 00:01:37 tt-3352 AF046_1992_CT_SU2011_ER_09 ID:278 R:Gram:PerfPerif:279 
+	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:01:32 00:01:37 tt-3352 AF046_1992_CT_SU2011_ER_09 ID:278 R:Gram:Aux:Haber:279 R:Gram:PerfPerif:279 
 "<pasado>"
 	"pasar" Verb VLadj lang:es 00:01:32 00:01:37 tt-3353 AF046_1992_CT_SU2011_ER_09 ID:279 
 "<muy>"
@@ -679,15 +679,15 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:44 00:01:51 tt-3393 AF046_1992_CT_SU2011_ER_09 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:01:44 00:01:51 tt-3394 AF046_1992_CT_SU2011_ER_09 ID:320 R:Gram:PerfPerif:321 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:01:44 00:01:51 tt-3394 AF046_1992_CT_SU2011_ER_09 ID:320 R:Gram:SerEstar:Ser:321 R:Gram:Aux:Haber:321 R:Gram:PerfPerif:321 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:01:44 00:01:51 tt-3395 AF046_1992_CT_SU2011_ER_09 @Gram:SerEstar:Ser ID:321 
+	"ser" Verb VSadj Participle lang:es 00:01:44 00:01:51 tt-3395 AF046_1992_CT_SU2011_ER_09 ID:321 
 "<,>"
 	"," Punctuation CM lang:es 00:01:44 00:01:51 tt-3396 AF046_1992_CT_SU2011_ER_09 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:01:44 00:01:51 tt-3397 AF046_1992_CT_SU2011_ER_09 ID:323 R:Gram:PerfPerif:324 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:01:44 00:01:51 tt-3397 AF046_1992_CT_SU2011_ER_09 ID:323 R:Gram:SerEstar:Ser:324 R:Gram:Aux:Haber:324 R:Gram:PerfPerif:324 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:01:44 00:01:51 tt-3398 AF046_1992_CT_SU2011_ER_09 @Gram:SerEstar:Ser ID:324 
+	"ser" Verb VSadj Participle lang:es 00:01:44 00:01:51 tt-3398 AF046_1992_CT_SU2011_ER_09 ID:324 
 "<durante>"
 	"durante" Preposition PREP lang:es 00:01:44 00:01:51 tt-3399 AF046_1992_CT_SU2011_ER_09 @Gram:Prep 
 "<verano>"
@@ -721,9 +721,9 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:01:51 00:01:58 tt-3414 AF046_1992_CT_SU2011_ER_09 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:01:51 00:01:58 tt-3415 AF046_1992_CT_SU2011_ER_09 ID:341 R:Gram:PerfPerif:342 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:01:51 00:01:58 tt-3415 AF046_1992_CT_SU2011_ER_09 ID:341 R:Gram:SerEstar:Ser:342 R:Gram:Aux:Haber:342 R:Gram:PerfPerif:342 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:01:51 00:01:58 tt-3416 AF046_1992_CT_SU2011_ER_09 @Gram:SerEstar:Ser ID:342 
+	"ser" Verb VSadj Participle lang:es 00:01:51 00:01:58 tt-3416 AF046_1992_CT_SU2011_ER_09 ID:342 
 "<experiencias>"
 	"experiencia" Noun NC Plural lang:es 00:01:51 00:01:58 tt-3417 AF046_1992_CT_SU2011_ER_09 
 "<maravillosas>"
@@ -739,7 +739,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:58 00:02:01 tt-3423 AF046_1992_CT_SU2011_ER_09 @Gram:Pron:Objeto 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:01:58 00:02:01 tt-3424 AF046_1992_CT_SU2011_ER_09 ID:350 R:Gram:PerfPerif:351 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:01:58 00:02:01 tt-3424 AF046_1992_CT_SU2011_ER_09 ID:350 R:Gram:Aux:Haber:351 R:Gram:PerfPerif:351 
 "<ayudado>"
 	"ayudar" Verb VLadj lang:es 00:01:58 00:02:01 tt-3425 AF046_1992_CT_SU2011_ER_09 ID:351 
 "<a>"

@@ -28,7 +28,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-2246 AF003_1992_EP_SU2011_AD_11 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-2247 AF003_1992_EP_SU2011_AD_11 
+	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-2247 AF003_1992_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:00 00:00:07 tt-2248 AF003_1992_EP_SU2011_AD_11 
 "<que>"
@@ -49,7 +49,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:10 00:00:17 tt-2256 AF003_1992_EP_SU2011_AD_11 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:10 00:00:17 tt-2257 AF003_1992_EP_SU2011_AD_11 
+	"mío" Pronoun PPO Singular lang:es 00:00:10 00:00:17 tt-2257 AF003_1992_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:10 00:00:17 tt-2258 AF003_1992_EP_SU2011_AD_11 
 "<inmediata>"
@@ -66,7 +66,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:10 00:00:17 tt-2264 AF003_1992_EP_SU2011_AD_11 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:10 00:00:17 tt-2265 AF003_1992_EP_SU2011_AD_11 
+	"UNK" Noun NC Plural lang:es 00:00:10 00:00:17 tt-2265 AF003_1992_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:00:10 00:00:17 tt-2266 AF003_1992_EP_SU2011_AD_11 
 "<$?>"
@@ -142,7 +142,7 @@
 "<para>"
 	"para" Preposition PREP lang:es 00:00:35 00:00:40 tt-2300 AF003_1992_EP_SU2011_AD_11 @Gram:Prep:Para 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:35 00:00:40 tt-2301 AF003_1992_EP_SU2011_AD_11 
+	"UNK" Noun NC Plural lang:es 00:00:35 00:00:40 tt-2301 AF003_1992_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:00:35 00:00:40 tt-2302 AF003_1992_EP_SU2011_AD_11 
 "<y>"
@@ -192,7 +192,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:40 00:00:46 tt-2325 AF003_1992_EP_SU2011_AD_11 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:40 00:00:46 tt-2326 AF003_1992_EP_SU2011_AD_11 
+	"al" Preposition PAL lang:es 00:00:40 00:00:46 tt-2326 AF003_1992_EP_SU2011_AD_11 @Gram:Prep 
 "<final>"
 	"final" Noun NC Singular lang:es 00:00:40 00:00:46 tt-2327 AF003_1992_EP_SU2011_AD_11 
 "<,>"
@@ -316,7 +316,7 @@
 "<eres>"
 	"ser" Verb VSfin Pres Indi Sing 2nd lang:es 00:00:59 00:01:04 tt-2390 AF003_1992_EP_SU2011_AD_11 @Gram:SerEstar:Ser 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:59 00:01:04 tt-2391 AF003_1992_EP_SU2011_AD_11 
+	"tú" Pronoun PPX Singular lang:es 00:00:59 00:01:04 tt-2391 AF003_1992_EP_SU2011_AD_11 @Gram:Pron:Sujeto 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:59 00:01:04 tt-2392 AF003_1992_EP_SU2011_AD_11 
 
@@ -343,7 +343,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:04 00:01:10 tt-2403 AF003_1992_EP_SU2011_AD_11 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:01:04 00:01:10 tt-2404 AF003_1992_EP_SU2011_AD_11 
+	"suyo" Pronoun PPO Plural lang:es 00:01:04 00:01:10 tt-2404 AF003_1992_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<pensamientos>"
 	"pensamiento" Noun NC Plural lang:es 00:01:04 00:01:10 tt-2405 AF003_1992_EP_SU2011_AD_11 
 "<en>"
@@ -428,7 +428,7 @@
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:01:17 00:01:21 tt-2445 AF003_1992_EP_SU2011_AD_11 @Gram:Pron:Sujeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:17 00:01:21 tt-2446 AF003_1992_EP_SU2011_AD_11 ID:206 R:Gram:PerfPerif:207 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:17 00:01:21 tt-2446 AF003_1992_EP_SU2011_AD_11 ID:206 R:Gram:Aux:Haber:207 R:Gram:PerfPerif:207 
 "<aprendido>"
 	"aprender" Verb VLadj lang:es 00:01:17 00:01:21 tt-2447 AF003_1992_EP_SU2011_AD_11 ID:207 
 "<eso>"
@@ -438,7 +438,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:17 00:01:21 tt-2450 AF003_1992_EP_SU2011_AD_11 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:17 00:01:21 tt-2451 AF003_1992_EP_SU2011_AD_11 ID:211 R:Gram:PerfPerif:212 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:17 00:01:21 tt-2451 AF003_1992_EP_SU2011_AD_11 ID:211 R:Gram:Aux:Haber:212 R:Gram:PerfPerif:212 
 "<ayudado>"
 	"ayudar" Verb VLadj lang:es 00:01:17 00:01:21 tt-2452 AF003_1992_EP_SU2011_AD_11 ID:212 
 "<que>"
@@ -523,7 +523,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:27 00:01:32 tt-2492 AF003_1992_EP_SU2011_AD_11 @Gram:Pron:Objeto 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:01:27 00:01:32 tt-2493 AF003_1992_EP_SU2011_AD_11 ID:253 R:Gram:PerfPerif:254 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:01:27 00:01:32 tt-2493 AF003_1992_EP_SU2011_AD_11 ID:253 R:Gram:Aux:Haber:254 R:Gram:PerfPerif:254 
 "<tocado>"
 	"tocar" Verb VLadj lang:es 00:01:27 00:01:32 tt-2494 AF003_1992_EP_SU2011_AD_11 ID:254 
 "<,>"
@@ -557,7 +557,7 @@
 "<hacen>"
 	"hacer" Verb VLfin Pres Indi Plural 3rd lang:es 00:01:32 00:01:39 tt-2509 AF003_1992_EP_SU2011_AD_11 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:01:32 00:01:39 tt-2510 AF003_1992_EP_SU2011_AD_11 
+	"suyo" Pronoun PPO Singular lang:es 00:01:32 00:01:39 tt-2510 AF003_1992_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:01:32 00:01:39 tt-2511 AF003_1992_EP_SU2011_AD_11 
 "<y>"
@@ -603,7 +603,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:40 00:01:46 tt-2532 AF003_1992_EP_SU2011_AD_11 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:40 00:01:46 tt-2533 AF003_1992_EP_SU2011_AD_11 ID:293 R:Gram:PerfPerif:294 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:40 00:01:46 tt-2533 AF003_1992_EP_SU2011_AD_11 ID:293 R:Gram:Aux:Haber:294 R:Gram:PerfPerif:294 
 "<ayudado>"
 	"ayudar" Verb VLadj lang:es 00:01:40 00:01:46 tt-2534 AF003_1992_EP_SU2011_AD_11 ID:294 
 "<a>"

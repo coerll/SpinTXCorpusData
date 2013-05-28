@@ -51,7 +51,7 @@
 "<tienes>"
 	"tener" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:07 00:00:12 tt-2102 AF027_1990_CT_SU2011_ER_02 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:07 00:00:12 tt-2103 AF027_1990_CT_SU2011_ER_02 
+	"tú" Pronoun PPX Singular lang:es 00:00:07 00:00:12 tt-2103 AF027_1990_CT_SU2011_ER_02 @Gram:Pron:Sujeto 
 "<hacia>"
 	"hacia" Preposition PREP lang:es 00:00:07 00:00:12 tt-2104 AF027_1990_CT_SU2011_ER_02 @Gram:Prep 
 "<ese>"
@@ -82,7 +82,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:12 00:00:19 tt-2117 AF027_1990_CT_SU2011_ER_02 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:12 00:00:19 tt-2118 AF027_1990_CT_SU2011_ER_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:12 00:00:19 tt-2118 AF027_1990_CT_SU2011_ER_02 @Gram:Det:Pos 
 "<sistema>"
 	"sistema" Noun NC Singular lang:es 00:00:12 00:00:19 tt-2119 AF027_1990_CT_SU2011_ER_02 
 "<,>"
@@ -104,9 +104,9 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:12 00:00:19 tt-2128 AF027_1990_CT_SU2011_ER_02 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:12 00:00:19 tt-2129 AF027_1990_CT_SU2011_ER_02 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:12 00:00:19 tt-2129 AF027_1990_CT_SU2011_ER_02 @Gram:SerEstar:Estar ID:51 R:Gram:SerEstar:EstarAux:52 
 "<platicando>"
-	"platicar" Verb VLger lang:es 00:00:12 00:00:19 tt-2130 AF027_1990_CT_SU2011_ER_02 
+	"platicar" Verb VLger lang:es 00:00:12 00:00:19 tt-2130 AF027_1990_CT_SU2011_ER_02 ID:52 
 "<con>"
 	"con" Preposition PREP lang:es 00:00:20 00:00:24 tt-2131 AF027_1990_CT_SU2011_ER_02 @Gram:Prep 
 "<una>"
@@ -199,7 +199,7 @@
 "<se>"
 	"se" Other SE lang:es 00:00:24 00:00:28 tt-2175 AF027_1990_CT_SU2011_ER_02 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:28 00:00:35 tt-2176 AF027_1990_CT_SU2011_ER_02 ID:98 R:Gram:PerfPerif:99 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:28 00:00:35 tt-2176 AF027_1990_CT_SU2011_ER_02 ID:98 R:Gram:Aux:Haber:99 R:Gram:PerfPerif:99 
 "<burlado>"
 	"burlar" Verb VLadj lang:es 00:00:28 00:00:35 tt-2177 AF027_1990_CT_SU2011_ER_02 ID:99 
 "<de>"
@@ -213,7 +213,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:28 00:00:35 tt-2182 AF027_1990_CT_SU2011_ER_02 @Gram:Pron:Objeto 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:28 00:00:35 tt-2183 AF027_1990_CT_SU2011_ER_02 ID:105 R:Gram:PerfPerif:106 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:28 00:00:35 tt-2183 AF027_1990_CT_SU2011_ER_02 ID:105 R:Gram:Aux:Haber:106 R:Gram:PerfPerif:106 
 "<hecho>"
 	"hacer" Verb VLadj lang:es 00:00:28 00:00:35 tt-2184 AF027_1990_CT_SU2011_ER_02 ID:106 
 "<comentarios>"
@@ -430,7 +430,7 @@
 "<crees>"
 	"crear|creer" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:56 00:01:03 tt-2288 AF027_1990_CT_SU2011_ER_02 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:56 00:01:03 tt-2289 AF027_1990_CT_SU2011_ER_02 
+	"tú" Pronoun PPX Singular lang:es 00:00:56 00:01:03 tt-2289 AF027_1990_CT_SU2011_ER_02 @Gram:Pron:Sujeto 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:56 00:01:03 tt-2290 AF027_1990_CT_SU2011_ER_02 
 "<...>"
@@ -464,7 +464,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:03 00:01:10 tt-2306 AF027_1990_CT_SU2011_ER_02 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:01:03 00:01:10 tt-2307 AF027_1990_CT_SU2011_ER_02 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:01:03 00:01:10 tt-2307 AF027_1990_CT_SU2011_ER_02 @Gram:Det:Pos 
 "<vocabulario>"
 	"vocabulario" Noun NC Singular lang:es 00:01:03 00:01:10 tt-2308 AF027_1990_CT_SU2011_ER_02 
 "<,>"
@@ -517,7 +517,7 @@
 "<dices>"
 	"decir" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:11 00:01:18 tt-2332 AF027_1990_CT_SU2011_ER_02 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:11 00:01:18 tt-2333 AF027_1990_CT_SU2011_ER_02 
+	"tú" Pronoun PPX Singular lang:es 00:01:11 00:01:18 tt-2333 AF027_1990_CT_SU2011_ER_02 @Gram:Pron:Sujeto 
 "<a>"
 	"a" Preposition PREP lang:es 00:01:11 00:01:18 tt-2334 AF027_1990_CT_SU2011_ER_02 @Gram:Prep 
 "<una>"
@@ -687,7 +687,7 @@
 "<Nunca>"
 	"nunca" Adverb ADV lang:es 00:01:44 00:01:49 tt-2412 AF027_1990_CT_SU2011_ER_02 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:01:44 00:01:49 tt-2413 AF027_1990_CT_SU2011_ER_02 ID:331 R:Gram:PerfPerif:332 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:01:44 00:01:49 tt-2413 AF027_1990_CT_SU2011_ER_02 ID:331 R:Gram:Aux:Haber:332 R:Gram:PerfPerif:332 
 "<dicho>"
 	"decir" Verb VLadj lang:es 00:01:44 00:01:49 tt-2414 AF027_1990_CT_SU2011_ER_02 ID:332 
 "<,>"
@@ -712,7 +712,7 @@
 "<nunca>"
 	"nunca" Adverb ADV lang:es 00:01:49 00:01:55 tt-2423 AF027_1990_CT_SU2011_ER_02 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:49 00:01:55 tt-2424 AF027_1990_CT_SU2011_ER_02 ID:342 R:Gram:PerfPerif:343 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:49 00:01:55 tt-2424 AF027_1990_CT_SU2011_ER_02 ID:342 R:Gram:Aux:Haber:343 R:Gram:PerfPerif:343 
 "<dicho>"
 	"decir" Verb VLadj lang:es 00:01:49 00:01:55 tt-2425 AF027_1990_CT_SU2011_ER_02 ID:343 
 "<eso>"

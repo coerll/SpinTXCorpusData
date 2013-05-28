@@ -11,7 +11,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:00 00:00:06 tt-1684 MF017_1959_EP_SU2011_AD_04 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:06 tt-1685 MF017_1959_EP_SU2011_AD_04 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:06 tt-1685 MF017_1959_EP_SU2011_AD_04 @Gram:Det:Pos 
 "<país>"
 	"país" Noun NC Plural lang:es 00:00:00 00:00:06 tt-1686 MF017_1959_EP_SU2011_AD_04 
 "<de>"
@@ -251,7 +251,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:38 00:00:45 tt-1802 MF017_1959_EP_SU2011_AD_04 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:47 00:00:53 tt-1803 MF017_1959_EP_SU2011_AD_04 
+	"UNK" Noun NC Plural lang:es 00:00:47 00:00:53 tt-1803 MF017_1959_EP_SU2011_AD_04 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:00:47 00:00:53 tt-1804 MF017_1959_EP_SU2011_AD_04 
 "<una>"
@@ -376,7 +376,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:01:07 00:01:09 tt-1864 MF017_1959_EP_SU2011_AD_04 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:07 00:01:09 tt-1865 MF017_1959_EP_SU2011_AD_04 
+	"mío" Pronoun PPO Singular lang:es 00:01:07 00:01:09 tt-1865 MF017_1959_EP_SU2011_AD_04 @Gram:Det:Pos 
 "<país>"
 	"país" Noun NC Plural lang:es 00:01:07 00:01:09 tt-1866 MF017_1959_EP_SU2011_AD_04 
 "<de>"
@@ -583,9 +583,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:46 00:01:50 tt-1961 MF017_1959_EP_SU2011_AD_04 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:01:46 00:01:50 tt-1962 MF017_1959_EP_SU2011_AD_04 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:01:46 00:01:50 tt-1962 MF017_1959_EP_SU2011_AD_04 @Gram:SerEstar:Estar ID:283 R:Gram:SerEstar:EstarAux:284 
 "<viviendo>"
-	"vivir" Verb VLger lang:es 00:01:46 00:01:50 tt-1963 MF017_1959_EP_SU2011_AD_04 
+	"vivir" Verb VLger lang:es 00:01:46 00:01:50 tt-1963 MF017_1959_EP_SU2011_AD_04 ID:284 
 "<aquí>"
 	"aquí" Adverb ADV lang:es 00:01:46 00:01:50 tt-1964 MF017_1959_EP_SU2011_AD_04 
 "<en>"
@@ -606,7 +606,7 @@
 "<fueron>"
 	"ser" Verb VSfin Pret Indi Plural 3rd lang:es 00:01:50 00:01:56 tt-1971 MF017_1959_EP_SU2011_AD_04 @Gram:SerEstar:Ser 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:01:50 00:01:56 tt-1972 MF017_1959_EP_SU2011_AD_04 
+	"UNK" Noun NC Plural lang:es 00:01:50 00:01:56 tt-1972 MF017_1959_EP_SU2011_AD_04 @Gram:Det:Pos 
 "<primeras>"
 	"primera" Noun NC Plural lang:es 00:01:50 00:01:56 tt-1973 MF017_1959_EP_SU2011_AD_04 
 "<impresiones>"
@@ -737,7 +737,7 @@
 "<tener>"
 	"tener" Verb VLinf Infinitive lang:es 00:02:11 00:02:17 tt-2036 MF017_1959_EP_SU2011_AD_04 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:02:11 00:02:17 tt-2037 MF017_1959_EP_SU2011_AD_04 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:02:11 00:02:17 tt-2037 MF017_1959_EP_SU2011_AD_04 @Gram:Det:Pos 
 "<propio>"
 	"propio" Adjective ADJ Singular lang:es 00:02:11 00:02:17 tt-2038 MF017_1959_EP_SU2011_AD_04 
 "<mueble>"
@@ -765,7 +765,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:02:17 00:02:24 tt-2050 MF017_1959_EP_SU2011_AD_04 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:02:17 00:02:24 tt-2051 MF017_1959_EP_SU2011_AD_04 
+	"suyo" Pronoun PPO Singular lang:es 00:02:17 00:02:24 tt-2051 MF017_1959_EP_SU2011_AD_04 @Gram:Det:Pos 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:02:17 00:02:24 tt-2052 MF017_1959_EP_SU2011_AD_04 
 "<y>"
@@ -820,7 +820,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:02:24 00:02:31 tt-2077 MF017_1959_EP_SU2011_AD_04 
 "<al>"
-	"al" Preposition PAL lang:es 00:02:24 00:02:31 tt-2078 MF017_1959_EP_SU2011_AD_04 
+	"al" Preposition PAL lang:es 00:02:24 00:02:31 tt-2078 MF017_1959_EP_SU2011_AD_04 @Gram:Prep 
 "<principio>"
 	"principio" Noun NC Singular lang:es 00:02:24 00:02:31 tt-2079 MF017_1959_EP_SU2011_AD_04 
 "<se>"
@@ -900,14 +900,14 @@
 "<pero>"
 	"pero" Conjunction CCAD lang:es 00:02:39 00:02:45 tt-2117 MF017_1959_EP_SU2011_AD_04 @Prag:MarcadoresDisc:Revision 
 "<al>"
-	"al" Preposition PAL lang:es 00:02:39 00:02:45 tt-2118 MF017_1959_EP_SU2011_AD_04 
+	"al" Preposition PAL lang:es 00:02:39 00:02:45 tt-2118 MF017_1959_EP_SU2011_AD_04 @Gram:Prep 
 "<principio>"
 	"principio" Noun NC Singular lang:es 00:02:39 00:02:45 tt-2119 MF017_1959_EP_SU2011_AD_04 
 "<$.>"
 	"." Punctuation FS lang:es 00:02:39 00:02:45 tt-2120 MF017_1959_EP_SU2011_AD_04 
 
 "<Al>"
-	"al" Preposition PAL lang:es 00:02:39 00:02:45 tt-2121 MF017_1959_EP_SU2011_AD_04 
+	"al" Preposition PAL lang:es 00:02:39 00:02:45 tt-2121 MF017_1959_EP_SU2011_AD_04 @Gram:Prep 
 "<principio>"
 	"principio" Noun NC Singular lang:es 00:02:39 00:02:45 tt-2122 MF017_1959_EP_SU2011_AD_04 
 "<$.>"
@@ -955,7 +955,7 @@
 "<respecto>"
 	"respecto" Noun NC Singular lang:es 00:02:50 00:02:57 tt-2142 MF017_1959_EP_SU2011_AD_04 
 "<al>"
-	"al" Preposition PAL lang:es 00:02:50 00:02:57 tt-2143 MF017_1959_EP_SU2011_AD_04 
+	"al" Preposition PAL lang:es 00:02:50 00:02:57 tt-2143 MF017_1959_EP_SU2011_AD_04 @Gram:Prep 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:02:50 00:02:57 tt-2144 MF017_1959_EP_SU2011_AD_04 
 "<,>"
@@ -1292,7 +1292,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:03:50 00:03:57 tt-2306 MF017_1959_EP_SU2011_AD_04 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:03:50 00:03:57 tt-2307 MF017_1959_EP_SU2011_AD_04 
+	"UNK" Noun NC Plural lang:es 00:03:50 00:03:57 tt-2307 MF017_1959_EP_SU2011_AD_04 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:03:50 00:03:57 tt-2308 MF017_1959_EP_SU2011_AD_04 
 "<,>"
@@ -1302,7 +1302,7 @@
 "<había>"
 	"haber" Verb VHfin Imp Indi Sing 1st_or_3rd lang:es 00:03:50 00:03:57 tt-2311 MF017_1959_EP_SU2011_AD_04 @Gram:Haber:Exist 
 "<maestras>"
-	"maestro" Adjective ADJ Plural lang:es 00:03:50 00:03:57 tt-2312 MF017_1959_EP_SU2011_AD_04 
+	"maestro" Plural Noun Singular lang:es 00:03:50 00:03:57 tt-2312 MF017_1959_EP_SU2011_AD_04 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:03:50 00:03:57 tt-2313 MF017_1959_EP_SU2011_AD_04 
 "<sí>"
@@ -1381,7 +1381,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:04:05 00:04:09 tt-2350 MF017_1959_EP_SU2011_AD_04 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:04:05 00:04:09 tt-2351 MF017_1959_EP_SU2011_AD_04 
+	"mío" Pronoun PPO Singular lang:es 00:04:05 00:04:09 tt-2351 MF017_1959_EP_SU2011_AD_04 @Gram:Det:Pos 
 "<hijo>"
 	"hijo" Noun NC Singular lang:es 00:04:05 00:04:09 tt-2352 MF017_1959_EP_SU2011_AD_04 
 "<le>"
@@ -1389,7 +1389,7 @@
 "<robaron>"
 	"robar" Verb VLfin Pret Indi Plural 3rd lang:es 00:04:05 00:04:09 tt-2354 MF017_1959_EP_SU2011_AD_04 @Gram:Indefinido 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:04:09 00:04:16 tt-2355 MF017_1959_EP_SU2011_AD_04 
+	"suyo" Pronoun PPO Singular lang:es 00:04:09 00:04:16 tt-2355 MF017_1959_EP_SU2011_AD_04 @Gram:Det:Pos 
 "<chamarra>"
 	"chamarra" Noun NC Singular lang:es 00:04:09 00:04:16 tt-2356 MF017_1959_EP_SU2011_AD_04 
 "<y>"
@@ -1488,7 +1488,7 @@
 "<te>"
 	"tú" Pronoun PPX Singular lang:es 00:04:25 00:04:32 tt-2407 MF017_1959_EP_SU2011_AD_04 @Gram:Pron:Objeto 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:04:25 00:04:32 tt-2408 MF017_1959_EP_SU2011_AD_04 ID:721 R:Gram:PerfPerif:722 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:04:25 00:04:32 tt-2408 MF017_1959_EP_SU2011_AD_04 ID:721 R:Gram:Aux:Haber:722 R:Gram:PerfPerif:722 
 "<dejado>"
 	"dejar" Verb VLadj lang:es 00:04:25 00:04:32 tt-2409 MF017_1959_EP_SU2011_AD_04 ID:722 
 "<la>"
@@ -1551,7 +1551,7 @@
 "<incondicionalmente>"
 	"incondicional" Adverb ADV lang:es 00:04:42 00:04:49 tt-2439 MF017_1959_EP_SU2011_AD_04 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:04:42 00:04:49 tt-2440 MF017_1959_EP_SU2011_AD_04 
+	"suyo" Pronoun PPO Singular lang:es 00:04:42 00:04:49 tt-2440 MF017_1959_EP_SU2011_AD_04 @Gram:Det:Pos 
 "<ayuda>"
 	"ayuda" Noun NC Singular lang:es 00:04:42 00:04:49 tt-2441 MF017_1959_EP_SU2011_AD_04 
 "<,>"
@@ -1581,7 +1581,7 @@
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:04:51 00:04:58 tt-2454 MF017_1959_EP_SU2011_AD_04 @Gram:Pron:Sujeto 
 "<al>"
-	"al" Preposition PAL lang:es 00:04:51 00:04:58 tt-2455 MF017_1959_EP_SU2011_AD_04 
+	"al" Preposition PAL lang:es 00:04:51 00:04:58 tt-2455 MF017_1959_EP_SU2011_AD_04 @Gram:Prep 
 "<principio>"
 	"principio" Noun NC Singular lang:es 00:04:51 00:04:58 tt-2456 MF017_1959_EP_SU2011_AD_04 
 "<decía>"
@@ -1643,7 +1643,7 @@
 "<transcurso>"
 	"transcurso" Noun NC Singular lang:es 00:04:58 00:05:03 tt-2485 MF017_1959_EP_SU2011_AD_04 
 "<del>"
-	"del" Preposition PDEL lang:es 00:04:58 00:05:03 tt-2486 MF017_1959_EP_SU2011_AD_04 
+	"del" Preposition PDEL lang:es 00:04:58 00:05:03 tt-2486 MF017_1959_EP_SU2011_AD_04 @Gram:Prep 
 "<tiempo>"
 	"tiempo" Noun NC Singular lang:es 00:04:58 00:05:03 tt-2487 MF017_1959_EP_SU2011_AD_04 
 "<,>"

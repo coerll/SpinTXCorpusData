@@ -11,7 +11,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-6918 OM022_1963_CT_SU2011_VA_12 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-6919 OM022_1963_CT_SU2011_VA_12 
+	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-6919 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Pos 
 "<experiencia>"
 	"experiencia" Noun NC Singular lang:es 00:00:00 00:00:07 tt-6920 OM022_1963_CT_SU2011_VA_12 
 "<en>"
@@ -56,9 +56,9 @@
 "<tiempo>"
 	"tiempo" Noun NC Singular lang:es 00:00:09 00:00:16 tt-6941 OM022_1963_CT_SU2011_VA_12 
 "<están>"
-	"estar" Verb VEfin Pres Indi Plural 3rd lang:es 00:00:09 00:00:16 tt-6942 OM022_1963_CT_SU2011_VA_12 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Plural 3rd lang:es 00:00:09 00:00:16 tt-6942 OM022_1963_CT_SU2011_VA_12 @Gram:SerEstar:Estar ID:28 R:Gram:SerEstar:EstarAux:29 
 "<corriendo>"
-	"correr" Verb VLger lang:es 00:00:09 00:00:16 tt-6943 OM022_1963_CT_SU2011_VA_12 
+	"correr" Verb VLger lang:es 00:00:09 00:00:16 tt-6943 OM022_1963_CT_SU2011_VA_12 ID:29 
 "<de>"
 	"de" Preposition PREP lang:es 00:00:09 00:00:16 tt-6944 OM022_1963_CT_SU2011_VA_12 @Gram:Prep 
 "<acá>"
@@ -265,7 +265,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:54 00:00:58 tt-7050 OM022_1963_CT_SU2011_VA_12 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:54 00:00:58 tt-7051 OM022_1963_CT_SU2011_VA_12 
+	"mío" Pronoun PPO Singular lang:es 00:00:54 00:00:58 tt-7051 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:54 00:00:58 tt-7052 OM022_1963_CT_SU2011_VA_12 
 "<,>"
@@ -327,7 +327,7 @@
 "<va>"
 	"ir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:58 00:01:05 tt-7080 OM022_1963_CT_SU2011_VA_12 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:58 00:01:05 tt-7081 OM022_1963_CT_SU2011_VA_12 
+	"al" Preposition PAL lang:es 00:00:58 00:01:05 tt-7081 OM022_1963_CT_SU2011_VA_12 @Gram:Prep 
 "<negocio>"
 	"negocio" Noun NC Singular lang:es 00:00:58 00:01:05 tt-7082 OM022_1963_CT_SU2011_VA_12 
 "<,>"

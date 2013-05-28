@@ -21,7 +21,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-3591 MM043_1986_CT_SU2011_ER_12 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-3592 MM043_1986_CT_SU2011_ER_12 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-3592 MM043_1986_CT_SU2011_ER_12 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:00 00:00:07 tt-3593 MM043_1986_CT_SU2011_ER_12 
 "<$?>"
@@ -56,7 +56,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:07 00:00:14 tt-3607 MM043_1986_CT_SU2011_ER_12 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:07 00:00:14 tt-3608 MM043_1986_CT_SU2011_ER_12 
+	"mío" Pronoun PPO Singular lang:es 00:00:07 00:00:14 tt-3608 MM043_1986_CT_SU2011_ER_12 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:07 00:00:14 tt-3609 MM043_1986_CT_SU2011_ER_12 
 "<en>"
@@ -84,7 +84,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:18 00:00:25 tt-3621 MM043_1986_CT_SU2011_ER_12 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:18 00:00:25 tt-3622 MM043_1986_CT_SU2011_ER_12 ID:41 R:Gram:PerfPerif:42 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:18 00:00:25 tt-3622 MM043_1986_CT_SU2011_ER_12 ID:41 R:Gram:Aux:Haber:42 R:Gram:PerfPerif:42 
 "<dado>"
 	"dar" Verb VLadj lang:es 00:00:18 00:00:25 tt-3623 MM043_1986_CT_SU2011_ER_12 ID:42 
 "<...>"
@@ -92,7 +92,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:18 00:00:25 tt-3625 MM043_1986_CT_SU2011_ER_12 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:18 00:00:25 tt-3626 MM043_1986_CT_SU2011_ER_12 ID:45 R:Gram:PerfPerif:46 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:18 00:00:25 tt-3626 MM043_1986_CT_SU2011_ER_12 ID:45 R:Gram:Aux:Haber:46 R:Gram:PerfPerif:46 
 "<dado>"
 	"dar" Verb VLadj lang:es 00:00:18 00:00:25 tt-3627 MM043_1986_CT_SU2011_ER_12 ID:46 
 "<mucho>"
@@ -114,7 +114,7 @@
 "<haber>"
 	"haber" Verb VHinf Infinitive lang:es 00:00:27 00:00:32 tt-3636 MM043_1986_CT_SU2011_ER_12 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:27 00:00:32 tt-3637 MM043_1986_CT_SU2011_ER_12 @Gram:SerEstar:Ser 
+	"ser" Verb VSadj Participle lang:es 00:00:27 00:00:32 tt-3637 MM043_1986_CT_SU2011_ER_12 
 "<esa>"
 	"ese" Determiner DM Singular lang:es 00:00:27 00:00:32 tt-3638 MM043_1986_CT_SU2011_ER_12 
 "<persona>"
@@ -126,7 +126,7 @@
 "<haber>"
 	"haber" Verb VHinf Infinitive lang:es 00:00:27 00:00:32 tt-3642 MM043_1986_CT_SU2011_ER_12 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:27 00:00:32 tt-3643 MM043_1986_CT_SU2011_ER_12 @Gram:SerEstar:Ser 
+	"ser" Verb VSadj Participle lang:es 00:00:27 00:00:32 tt-3643 MM043_1986_CT_SU2011_ER_12 
 "<ese>"
 	"ese" Determiner DM Singular lang:es 00:00:27 00:00:32 tt-3644 MM043_1986_CT_SU2011_ER_12 
 "<ejemplo>"
@@ -134,7 +134,7 @@
 "<para>"
 	"para" Preposition PREP lang:es 00:00:27 00:00:32 tt-3646 MM043_1986_CT_SU2011_ER_12 @Gram:Prep:Para 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:32 tt-3647 MM043_1986_CT_SU2011_ER_12 
+	"UNK" Noun NC Plural lang:es 00:00:32 tt-3647 MM043_1986_CT_SU2011_ER_12 @Gram:Det:Pos 
 "<hermanos>"
 	"hermano" Noun NC Plural lang:es 00:00:32 tt-3648 MM043_1986_CT_SU2011_ER_12 
 "<$.>"

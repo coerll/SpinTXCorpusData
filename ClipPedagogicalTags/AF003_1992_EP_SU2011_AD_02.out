@@ -20,14 +20,14 @@
 "<viene>"
 	"venir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:05 tt-208 AF003_1992_EP_SU2011_AD_02 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:05 tt-209 AF003_1992_EP_SU2011_AD_02 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:05 tt-209 AF003_1992_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:00 00:00:05 tt-210 AF003_1992_EP_SU2011_AD_02 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:00 00:00:05 tt-211 AF003_1992_EP_SU2011_AD_02 
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:05 00:00:12 tt-212 AF003_1992_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:05 00:00:12 tt-212 AF003_1992_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:05 00:00:12 tt-213 AF003_1992_EP_SU2011_AD_02 
 "<,>"
@@ -43,7 +43,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:05 00:00:12 tt-220 AF003_1992_EP_SU2011_AD_02 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:05 00:00:12 tt-221 AF003_1992_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:05 00:00:12 tt-221 AF003_1992_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:05 00:00:12 tt-222 AF003_1992_EP_SU2011_AD_02 
 "<viene>"
@@ -61,7 +61,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:05 00:00:12 tt-229 AF003_1992_EP_SU2011_AD_02 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:05 00:00:12 tt-230 AF003_1992_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:05 00:00:12 tt-230 AF003_1992_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:05 00:00:12 tt-231 AF003_1992_EP_SU2011_AD_02 
 "<también>"
@@ -111,7 +111,7 @@
 "<también>"
 	"también" Adverb ADV lang:es 00:00:20 00:00:27 tt-254 AF003_1992_EP_SU2011_AD_02 @Prag:MarcadoresDisc:Igualdad 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:20 00:00:27 tt-255 AF003_1992_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:20 00:00:27 tt-255 AF003_1992_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<abuelita>"
 	"abuelita|abuelo" Noun NC Singular lang:es 00:00:20 00:00:27 tt-256 AF003_1992_EP_SU2011_AD_02 
 "<tenia>"

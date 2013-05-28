@@ -24,7 +24,7 @@
 "<importancia>"
 	"importancia" Noun NC Singular lang:es 00:00:00 00:00:07 tt-440 AF050_1955_GV_FA2011_JT_04 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-441 AF050_1955_GV_FA2011_JT_04 
+	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-441 AF050_1955_GV_FA2011_JT_04 @Gram:Prep 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:00 00:00:07 tt-442 AF050_1955_GV_FA2011_JT_04 
 "<para>"
@@ -118,7 +118,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:27 00:00:30 tt-485 AF050_1955_GV_FA2011_JT_04 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:27 00:00:30 tt-486 AF050_1955_GV_FA2011_JT_04 
+	"mío" Pronoun PPO Singular lang:es 00:00:27 00:00:30 tt-486 AF050_1955_GV_FA2011_JT_04 @Gram:Det:Pos 
 "<casa>"
 	"casa" Noun NC Singular lang:es 00:00:27 00:00:30 tt-487 AF050_1955_GV_FA2011_JT_04 
 "<$.>"
@@ -131,11 +131,11 @@
 "<entonces>"
 	"entonces" Adverb ADV lang:es 00:00:30 00:00:33 tt-491 AF050_1955_GV_FA2011_JT_04 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:00:30 00:00:33 tt-492 AF050_1955_GV_FA2011_JT_04 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:00:30 00:00:33 tt-492 AF050_1955_GV_FA2011_JT_04 @Gram:SerEstar:Ser 
 "<los>"
 	"el" Determiner ART Plural lang:es 00:00:30 00:00:33 tt-493 AF050_1955_GV_FA2011_JT_04 @Gram:Det:Art 
 "<maestros>"
-	"maestro" Noun NC Plural lang:es 00:00:30 00:00:33 tt-494 AF050_1955_GV_FA2011_JT_04 
+	"maestro" Plural Singular Noun NC lang:es 00:00:30 00:00:33 tt-494 AF050_1955_GV_FA2011_JT_04 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:30 00:00:33 tt-495 AF050_1955_GV_FA2011_JT_04 
 "<decían>"
@@ -162,7 +162,7 @@
 "<los>"
 	"el" Determiner ART Plural lang:es 00:00:33 00:00:38 tt-506 AF050_1955_GV_FA2011_JT_04 @Gram:Det:Art 
 "<maestros>"
-	"maestro" Noun NC Plural lang:es 00:00:33 00:00:38 tt-507 AF050_1955_GV_FA2011_JT_04 
+	"maestro" Plural Singular Noun NC lang:es 00:00:33 00:00:38 tt-507 AF050_1955_GV_FA2011_JT_04 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:33 00:00:38 tt-508 AF050_1955_GV_FA2011_JT_04 
 
@@ -180,7 +180,7 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:38 00:00:45 tt-516 AF050_1955_GV_FA2011_JT_04 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:38 00:00:45 tt-517 AF050_1955_GV_FA2011_JT_04 
+	"UNK" Noun NC Plural lang:es 00:00:38 00:00:45 tt-517 AF050_1955_GV_FA2011_JT_04 @Gram:Det:Pos 
 "<compañeros>"
 	"compañero" Noun NC Plural lang:es 00:00:38 00:00:45 tt-518 AF050_1955_GV_FA2011_JT_04 
 "<cómo>"
@@ -364,7 +364,7 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:01:22 00:01:29 tt-608 AF050_1955_GV_FA2011_JT_04 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:22 00:01:29 tt-609 AF050_1955_GV_FA2011_JT_04 
+	"tú" Pronoun PPX Singular lang:es 00:01:22 00:01:29 tt-609 AF050_1955_GV_FA2011_JT_04 @Gram:Pron:Sujeto 
 "<como>"
 	"como" Adverb ADV lang:es 00:01:22 00:01:29 tt-610 AF050_1955_GV_FA2011_JT_04 
 "<...>"
@@ -376,13 +376,13 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:01:22 00:01:29 tt-614 AF050_1955_GV_FA2011_JT_04 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:01:22 00:01:29 tt-615 AF050_1955_GV_FA2011_JT_04 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:01:22 00:01:29 tt-615 AF050_1955_GV_FA2011_JT_04 @Gram:Det:Pos 
 "<hija>"
 	"hijo" Noun NC Singular lang:es 00:01:22 00:01:29 tt-616 AF050_1955_GV_FA2011_JT_04 
 "<,>"
 	"," Punctuation CM lang:es 00:01:22 00:01:29 tt-617 AF050_1955_GV_FA2011_JT_04 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:22 00:01:29 tt-618 AF050_1955_GV_FA2011_JT_04 
+	"tú" Pronoun PPX Singular lang:es 00:01:22 00:01:29 tt-618 AF050_1955_GV_FA2011_JT_04 @Gram:Pron:Sujeto 
 "<cómo>"
 	"cómo" Adverb ADV lang:es 00:01:22 00:01:29 tt-619 AF050_1955_GV_FA2011_JT_04 
 "<has>"
@@ -390,7 +390,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:22 00:01:29 tt-622 AF050_1955_GV_FA2011_JT_04 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:01:22 00:01:29 tt-623 AF050_1955_GV_FA2011_JT_04 ID:187 R:Gram:PerfPerif:188 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:01:22 00:01:29 tt-623 AF050_1955_GV_FA2011_JT_04 ID:187 R:Gram:Aux:Haber:188 R:Gram:PerfPerif:188 
 "<aproximado>"
 	"aproximar" Verb VLadj lang:es 00:01:22 00:01:29 tt-624 AF050_1955_GV_FA2011_JT_04 ID:188 
 "<eso>"
@@ -416,7 +416,7 @@
 "<como>"
 	"como" Adverb ADV lang:es 00:01:32 00:01:39 tt-633 AF050_1955_GV_FA2011_JT_04 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:32 00:01:39 tt-634 AF050_1955_GV_FA2011_JT_04 
+	"mío" Pronoun PPO Singular lang:es 00:01:32 00:01:39 tt-634 AF050_1955_GV_FA2011_JT_04 @Gram:Det:Pos 
 "<hija>"
 	"hijo" Noun NC Singular lang:es 00:01:32 00:01:39 tt-635 AF050_1955_GV_FA2011_JT_04 
 "<,>"
@@ -434,7 +434,7 @@
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:01:32 00:01:39 tt-642 AF050_1955_GV_FA2011_JT_04 @Gram:Pron:Sujeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:32 00:01:39 tt-643 AF050_1955_GV_FA2011_JT_04 ID:207 R:Gram:PerfPerif:208 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:32 00:01:39 tt-643 AF050_1955_GV_FA2011_JT_04 ID:207 R:Gram:Aux:Haber:208 R:Gram:PerfPerif:208 
 "<hablado>"
 	"hablar" Verb VLadj lang:es 00:01:32 00:01:39 tt-644 AF050_1955_GV_FA2011_JT_04 ID:208 R:Vocab:Fraseol:VerbPrep:209 
 "<con>"
@@ -561,7 +561,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:53 00:02:00 tt-700 AF050_1955_GV_FA2011_JT_04 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:01 00:02:07 tt-701 AF050_1955_GV_FA2011_JT_04 
+	"mío" Pronoun PPO Singular lang:es 00:02:01 00:02:07 tt-701 AF050_1955_GV_FA2011_JT_04 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:02:01 00:02:07 tt-702 AF050_1955_GV_FA2011_JT_04 
 "<la>"
@@ -577,7 +577,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:02:01 00:02:07 tt-708 AF050_1955_GV_FA2011_JT_04 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:01 00:02:07 tt-709 AF050_1955_GV_FA2011_JT_04 
+	"mío" Pronoun PPO Singular lang:es 00:02:01 00:02:07 tt-709 AF050_1955_GV_FA2011_JT_04 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:02:01 00:02:07 tt-710 AF050_1955_GV_FA2011_JT_04 
 "<pues>"
@@ -598,7 +598,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:02:01 00:02:07 tt-718 AF050_1955_GV_FA2011_JT_04 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:01 00:02:07 tt-719 AF050_1955_GV_FA2011_JT_04 
+	"mío" Pronoun PPO Singular lang:es 00:02:01 00:02:07 tt-719 AF050_1955_GV_FA2011_JT_04 @Gram:Det:Pos 
 "<hija>"
 	"hijo" Noun NC Singular lang:es 00:02:01 00:02:07 tt-720 AF050_1955_GV_FA2011_JT_04 
 "<no>"
@@ -630,7 +630,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:02:07 00:02:14 tt-734 AF050_1955_GV_FA2011_JT_04 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:07 00:02:14 tt-735 AF050_1955_GV_FA2011_JT_04 
+	"mío" Pronoun PPO Singular lang:es 00:02:07 00:02:14 tt-735 AF050_1955_GV_FA2011_JT_04 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:02:07 00:02:14 tt-736 AF050_1955_GV_FA2011_JT_04 
 "<$.>"

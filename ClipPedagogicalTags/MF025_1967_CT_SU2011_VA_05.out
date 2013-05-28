@@ -7,7 +7,7 @@
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:06 tt-3007 MF025_1967_CT_SU2011_VA_05 @Gram:SerEstar:Ser 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:06 tt-3008 MF025_1967_CT_SU2011_VA_05 
+	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:06 tt-3008 MF025_1967_CT_SU2011_VA_05 @Gram:Det:Pos 
 "<satisfacción>"
 	"satisfacción" Noun NC Singular lang:es 00:00:00 00:00:06 tt-3009 MF025_1967_CT_SU2011_VA_05 
 "<$.>"
@@ -20,7 +20,7 @@
 "<también>"
 	"también" Adverb ADV lang:es 00:00:00 00:00:06 tt-3013 MF025_1967_CT_SU2011_VA_05 @Prag:MarcadoresDisc:Igualdad 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:00 00:00:06 tt-3014 MF025_1967_CT_SU2011_VA_05 ID:10 R:Gram:PerfPerif:11 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:00 00:00:06 tt-3014 MF025_1967_CT_SU2011_VA_05 ID:10 R:Gram:Aux:Haber:11 R:Gram:PerfPerif:11 
 "<hablado>"
 	"hablar" Verb VLadj lang:es 00:00:00 00:00:06 tt-3015 MF025_1967_CT_SU2011_VA_05 ID:11 R:Vocab:Fraseol:VerbPrep:12 
 "<con>"
@@ -32,7 +32,7 @@
 "<les>"
 	"él" Pronoun PPC Plural lang:es 00:00:00 00:00:06 tt-3019 MF025_1967_CT_SU2011_VA_05 @Gram:Pron:Objeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:00 00:00:06 tt-3020 MF025_1967_CT_SU2011_VA_05 ID:16 R:Gram:PerfPerif:17 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:00 00:00:06 tt-3020 MF025_1967_CT_SU2011_VA_05 ID:16 R:Gram:Aux:Haber:17 R:Gram:PerfPerif:17 
 "<dicho>"
 	"decir" Verb VLadj lang:es 00:00:00 00:00:06 tt-3021 MF025_1967_CT_SU2011_VA_05 ID:17 
 "<,>"
@@ -80,7 +80,7 @@
 "<porque>"
 	"porque" Conjunction CSUBX lang:es 00:00:14 00:00:21 tt-3043 MF025_1967_CT_SU2011_VA_05 @Prag:MarcadoresDisc:Causa 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:14 00:00:21 tt-3044 MF025_1967_CT_SU2011_VA_05 
+	"mío" Pronoun PPO Singular lang:es 00:00:14 00:00:21 tt-3044 MF025_1967_CT_SU2011_VA_05 @Gram:Det:Pos 
 "<sueño>"
 	"sueño" Noun NC Singular lang:es 00:00:14 00:00:21 tt-3045 MF025_1967_CT_SU2011_VA_05 
 "<es>"
@@ -167,13 +167,13 @@
 "<les>"
 	"él" Pronoun PPC Plural lang:es 00:00:29 00:00:35 tt-3088 MF025_1967_CT_SU2011_VA_05 @Gram:Pron:Objeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:29 00:00:35 tt-3089 MF025_1967_CT_SU2011_VA_05 ID:83 R:Gram:PerfPerif:84 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:29 00:00:35 tt-3089 MF025_1967_CT_SU2011_VA_05 ID:83 R:Gram:Aux:Haber:84 R:Gram:PerfPerif:84 
 "<dicho>"
 	"decir" Verb VLadj lang:es 00:00:29 00:00:35 tt-3090 MF025_1967_CT_SU2011_VA_05 ID:84 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:29 00:00:35 tt-3091 MF025_1967_CT_SU2011_VA_05 @Gram:Prep 
 "<mis>"
-	"UNK" Adjective ADJ Plural lang:es 00:00:29 00:00:35 tt-3092 MF025_1967_CT_SU2011_VA_05 
+	"UNK" Adjective ADJ Plural lang:es 00:00:29 00:00:35 tt-3092 MF025_1967_CT_SU2011_VA_05 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:29 00:00:35 tt-3093 MF025_1967_CT_SU2011_VA_05 
 "<,>"
@@ -185,7 +185,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:29 00:00:35 tt-3098 MF025_1967_CT_SU2011_VA_05 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:35 00:00:41 tt-3099 MF025_1967_CT_SU2011_VA_05 
+	"mío" Pronoun PPO Singular lang:es 00:00:35 00:00:41 tt-3099 MF025_1967_CT_SU2011_VA_05 @Gram:Det:Pos 
 "<labor>"
 	"labor" Noun NC Singular lang:es 00:00:35 00:00:41 tt-3100 MF025_1967_CT_SU2011_VA_05 
 "<va>"
@@ -286,7 +286,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:47 00:00:54 tt-3148 MF025_1967_CT_SU2011_VA_05 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:47 00:00:54 tt-3149 MF025_1967_CT_SU2011_VA_05 
+	"UNK" Noun NC Plural lang:es 00:00:47 00:00:54 tt-3149 MF025_1967_CT_SU2011_VA_05 @Gram:Det:Pos 
 "<cincuenta>"
 	"cincuenta" Determiner CARD Singular lang:es 00:00:47 00:00:54 tt-3150 MF025_1967_CT_SU2011_VA_05 
 "<años>"
@@ -457,7 +457,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:19 00:01:25 tt-3232 MF025_1967_CT_SU2011_VA_05 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:19 00:01:25 tt-3233 MF025_1967_CT_SU2011_VA_05 
+	"tú" Pronoun PPX Singular lang:es 00:01:19 00:01:25 tt-3233 MF025_1967_CT_SU2011_VA_05 @Gram:Pron:Sujeto 
 "<tengas>"
 	"tener" Verb VLfin Pres Subj Sing 2nd lang:es 00:01:19 00:01:25 tt-3234 MF025_1967_CT_SU2011_VA_05 @Gram:MSub:Pres 
 "<,>"
@@ -481,7 +481,7 @@
 "<mejorar>"
 	"mejorar" Verb VLinf Infinitive lang:es 00:01:25 00:01:32 tt-3244 MF025_1967_CT_SU2011_VA_05 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:01:25 00:01:32 tt-3245 MF025_1967_CT_SU2011_VA_05 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:01:25 00:01:32 tt-3245 MF025_1967_CT_SU2011_VA_05 @Gram:Det:Pos 
 "<nivel>"
 	"nivel" Noun NC Singular lang:es 00:01:25 00:01:32 tt-3246 MF025_1967_CT_SU2011_VA_05 
 "<de>"
@@ -496,7 +496,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:25 00:01:32 tt-3251 MF025_1967_CT_SU2011_VA_05 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:25 00:01:32 tt-3252 MF025_1967_CT_SU2011_VA_05 
+	"mío" Pronoun PPO Singular lang:es 00:01:25 00:01:32 tt-3252 MF025_1967_CT_SU2011_VA_05 @Gram:Det:Pos 
 "<sueño>"
 	"sueño" Noun NC Singular lang:es 00:01:25 00:01:32 tt-3253 MF025_1967_CT_SU2011_VA_05 
 "<es>"
@@ -542,7 +542,7 @@
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:42 00:01:48 tt-3275 MF025_1967_CT_SU2011_VA_05 @Gram:SerEstar:Ser 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:42 00:01:48 tt-3276 MF025_1967_CT_SU2011_VA_05 
+	"mío" Pronoun PPO Singular lang:es 00:01:42 00:01:48 tt-3276 MF025_1967_CT_SU2011_VA_05 @Gram:Det:Pos 
 "<sueño>"
 	"sueño" Noun NC Singular lang:es 00:01:42 00:01:48 tt-3277 MF025_1967_CT_SU2011_VA_05 
 "<,>"

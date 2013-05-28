@@ -57,11 +57,11 @@
 "<crees>"
 	"crear|creer" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:06 00:00:12 tt-6324 OM039_1985_CT_SU2011_ER_11 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:06 00:00:12 tt-6325 OM039_1985_CT_SU2011_ER_11 
+	"tú" Pronoun PPX Singular lang:es 00:00:06 00:00:12 tt-6325 OM039_1985_CT_SU2011_ER_11 @Gram:Pron:Sujeto 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:06 00:00:12 tt-6326 OM039_1985_CT_SU2011_ER_11 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:06 00:00:12 tt-6327 OM039_1985_CT_SU2011_ER_11 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:06 00:00:12 tt-6327 OM039_1985_CT_SU2011_ER_11 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:06 00:00:12 tt-6328 OM039_1985_CT_SU2011_ER_11 
 "<hoy>"
@@ -219,7 +219,7 @@
 	"." Punctuation FS lang:es 00:00:34 00:00:41 tt-6406 OM039_1985_CT_SU2011_ER_11 
 
 "<He>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:34 00:00:41 tt-6407 OM039_1985_CT_SU2011_ER_11 ID:107 R:Gram:PerfPerif:108 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:34 00:00:41 tt-6407 OM039_1985_CT_SU2011_ER_11 ID:107 R:Gram:Aux:Haber:108 R:Gram:PerfPerif:108 
 "<alcanzado>"
 	"alcanzar" Verb VLadj lang:es 00:00:34 00:00:41 tt-6408 OM039_1985_CT_SU2011_ER_11 ID:108 
 "<algunas>"
@@ -231,9 +231,9 @@
 "<se>"
 	"se" Other SE lang:es 00:00:41 00:00:48 tt-6412 OM039_1985_CT_SU2011_ER_11 
 "<están>"
-	"estar" Verb VEfin Pres Indi Plural 3rd lang:es 00:00:41 00:00:48 tt-6413 OM039_1985_CT_SU2011_ER_11 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Plural 3rd lang:es 00:00:41 00:00:48 tt-6413 OM039_1985_CT_SU2011_ER_11 @Gram:SerEstar:Estar ID:113 R:Gram:SerEstar:EstarAux:114 
 "<retrasando>"
-	"retrasar" Verb VLger lang:es 00:00:41 00:00:48 tt-6414 OM039_1985_CT_SU2011_ER_11 
+	"retrasar" Verb VLger lang:es 00:00:41 00:00:48 tt-6414 OM039_1985_CT_SU2011_ER_11 ID:114 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:41 00:00:48 tt-6415 OM039_1985_CT_SU2011_ER_11 
 
@@ -264,7 +264,7 @@
 "<simplemente>"
 	"simplemente" Adverb ADV lang:es 00:00:41 00:00:48 tt-6428 OM039_1985_CT_SU2011_ER_11 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:51 00:00:58 tt-6429 OM039_1985_CT_SU2011_ER_11 ID:129 R:Gram:PerfPerif:130 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:51 00:00:58 tt-6429 OM039_1985_CT_SU2011_ER_11 ID:129 R:Gram:Aux:Haber:130 R:Gram:PerfPerif:130 
 "<hecho>"
 	"hacer" Verb VLadj lang:es 00:00:51 00:00:58 tt-6430 OM039_1985_CT_SU2011_ER_11 ID:130 
 "<de>"
@@ -516,7 +516,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:01:23 00:01:30 tt-6552 OM039_1985_CT_SU2011_ER_11 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:23 00:01:30 tt-6553 OM039_1985_CT_SU2011_ER_11 
+	"mío" Pronoun PPO Singular lang:es 00:01:23 00:01:30 tt-6553 OM039_1985_CT_SU2011_ER_11 @Gram:Det:Pos 
 "<título>"
 	"título" Noun NC Singular lang:es 00:01:23 00:01:30 tt-6554 OM039_1985_CT_SU2011_ER_11 
 "<también>"

@@ -100,7 +100,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:20 00:00:27 tt-1139 MM005_1967_EP_SU2011_AD_05 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:20 00:00:27 tt-1140 MM005_1967_EP_SU2011_AD_05 
+	"mío" Pronoun PPO Singular lang:es 00:00:20 00:00:27 tt-1140 MM005_1967_EP_SU2011_AD_05 @Gram:Det:Pos 
 "<esposa>"
 	"esposo" Noun NC Singular lang:es 00:00:20 00:00:27 tt-1141 MM005_1967_EP_SU2011_AD_05 
 "<es>"
@@ -206,7 +206,7 @@
 "<acá>"
 	"acá" Adverb ADV lang:es 00:00:41 00:00:47 tt-1192 MM005_1967_EP_SU2011_AD_05 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:41 00:00:47 tt-1193 MM005_1967_EP_SU2011_AD_05 
+	"al" Preposition PAL lang:es 00:00:41 00:00:47 tt-1193 MM005_1967_EP_SU2011_AD_05 @Gram:Prep 
 "<Paso>"
 	"paso" Noun NC Singular lang:es 00:00:41 00:00:47 tt-1194 MM005_1967_EP_SU2011_AD_05 
 "<$.>"
@@ -225,7 +225,7 @@
 "<fueron>"
 	"ser" Verb VSfin Pret Indi Plural 3rd lang:es 00:00:47 00:00:51 tt-1200 MM005_1967_EP_SU2011_AD_05 @Gram:SerEstar:Ser 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:47 00:00:51 tt-1201 MM005_1967_EP_SU2011_AD_05 
+	"UNK" Noun NC Plural lang:es 00:00:47 00:00:51 tt-1201 MM005_1967_EP_SU2011_AD_05 @Gram:Det:Pos 
 "<primeras>"
 	"primera" Noun NC Plural lang:es 00:00:47 00:00:51 tt-1202 MM005_1967_EP_SU2011_AD_05 
 "<impresiones>"
@@ -342,7 +342,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:10 00:01:16 tt-1257 MM005_1967_EP_SU2011_AD_05 
 "<nuestras>"
-	"UNK" Noun NC Plural lang:es 00:01:10 00:01:16 tt-1258 MM005_1967_EP_SU2011_AD_05 
+	"UNK" Noun NC Plural lang:es 00:01:10 00:01:16 tt-1258 MM005_1967_EP_SU2011_AD_05 @Gram:Det:Pos 
 "<actividades>"
 	"actividad" Noun NC Plural lang:es 00:01:10 00:01:16 tt-1259 MM005_1967_EP_SU2011_AD_05 
 "<diarias>"
@@ -398,7 +398,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:25 00:01:31 tt-1282 MM005_1967_EP_SU2011_AD_05 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:25 00:01:31 tt-1283 MM005_1967_EP_SU2011_AD_05 ID:192 R:Gram:PerfPerif:193 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:25 00:01:31 tt-1283 MM005_1967_EP_SU2011_AD_05 ID:192 R:Gram:Aux:Haber:193 R:Gram:PerfPerif:193 
 "<hecho>"
 	"hacer" Verb VLadj lang:es 00:01:25 00:01:31 tt-1284 MM005_1967_EP_SU2011_AD_05 ID:193 
 "<es>"
@@ -414,9 +414,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:25 00:01:31 tt-1290 MM005_1967_EP_SU2011_AD_05 
 "<estaba>"
-	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:25 00:01:31 tt-1291 MM005_1967_EP_SU2011_AD_05 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:25 00:01:31 tt-1291 MM005_1967_EP_SU2011_AD_05 @Gram:Imperf @Gram:SerEstar:Estar ID:200 R:Gram:SerEstar:EstarAux:201 
 "<haciendo>"
-	"hacer" Verb VLger lang:es 00:01:31 00:01:37 tt-1292 MM005_1967_EP_SU2011_AD_05 
+	"hacer" Verb VLger lang:es 00:01:31 00:01:37 tt-1292 MM005_1967_EP_SU2011_AD_05 ID:201 
 "<en>"
 	"en" Preposition PREP lang:es 00:01:31 00:01:37 tt-1293 MM005_1967_EP_SU2011_AD_05 @Gram:Prep 
 "<México>"

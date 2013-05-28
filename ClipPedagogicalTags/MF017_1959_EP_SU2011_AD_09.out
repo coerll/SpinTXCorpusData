@@ -48,7 +48,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:09 00:00:16 tt-4500 MF017_1959_EP_SU2011_AD_09 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:09 00:00:16 tt-4501 MF017_1959_EP_SU2011_AD_09 
+	"mío" Pronoun PPO Singular lang:es 00:00:09 00:00:16 tt-4501 MF017_1959_EP_SU2011_AD_09 @Gram:Det:Pos 
 "<esposo>"
 	"esposo" Noun NC Singular lang:es 00:00:09 00:00:16 tt-4502 MF017_1959_EP_SU2011_AD_09 
 "<y>"
@@ -56,7 +56,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:09 00:00:16 tt-4504 MF017_1959_EP_SU2011_AD_09 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:09 00:00:16 tt-4505 MF017_1959_EP_SU2011_AD_09 
+	"UNK" Noun NC Plural lang:es 00:00:09 00:00:16 tt-4505 MF017_1959_EP_SU2011_AD_09 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:09 00:00:16 tt-4506 MF017_1959_EP_SU2011_AD_09 
 "<,>"
@@ -66,7 +66,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:09 00:00:16 tt-4509 MF017_1959_EP_SU2011_AD_09 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:09 00:00:16 tt-4510 MF017_1959_EP_SU2011_AD_09 
+	"mío" Pronoun PPO Singular lang:es 00:00:09 00:00:16 tt-4510 MF017_1959_EP_SU2011_AD_09 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:09 00:00:16 tt-4511 MF017_1959_EP_SU2011_AD_09 
 "<$.>"
@@ -208,7 +208,7 @@
 "<riendo>"
 	"reír" Verb VLger lang:es 00:00:40 00:00:46 tt-4577 MF017_1959_EP_SU2011_AD_09 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:40 00:00:46 tt-4578 MF017_1959_EP_SU2011_AD_09 
+	"mío" Pronoun PPO Singular lang:es 00:00:40 00:00:46 tt-4578 MF017_1959_EP_SU2011_AD_09 @Gram:Det:Pos 
 "<esposo>"
 	"esposo" Noun NC Singular lang:es 00:00:40 00:00:46 tt-4579 MF017_1959_EP_SU2011_AD_09 
 "<y>"
@@ -465,13 +465,13 @@
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:30 00:01:35 tt-4699 MF017_1959_EP_SU2011_AD_09 @Gram:SerEstar:Ser 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:30 00:01:35 tt-4700 MF017_1959_EP_SU2011_AD_09 
+	"mío" Pronoun PPO Singular lang:es 00:01:30 00:01:35 tt-4700 MF017_1959_EP_SU2011_AD_09 @Gram:Det:Pos 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:01:30 00:01:35 tt-4701 MF017_1959_EP_SU2011_AD_09 
 "<,>"
 	"," Punctuation CM lang:es 00:01:30 00:01:35 tt-4702 MF017_1959_EP_SU2011_AD_09 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:30 00:01:35 tt-4703 MF017_1959_EP_SU2011_AD_09 
+	"mío" Pronoun PPO Singular lang:es 00:01:30 00:01:35 tt-4703 MF017_1959_EP_SU2011_AD_09 @Gram:Det:Pos 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:01:30 00:01:35 tt-4704 MF017_1959_EP_SU2011_AD_09 
 "<,>"
@@ -573,9 +573,9 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:45 00:01:52 tt-4751 MF017_1959_EP_SU2011_AD_09 @Gram:Pron:Objeto 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:01:45 00:01:52 tt-4752 MF017_1959_EP_SU2011_AD_09 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:01:45 00:01:52 tt-4752 MF017_1959_EP_SU2011_AD_09 @Gram:SerEstar:Estar ID:272 R:Gram:SerEstar:EstarAux:273 
 "<asfixiando>"
-	"UNK" Verb VLger lang:es 00:01:45 00:01:52 tt-4753 MF017_1959_EP_SU2011_AD_09 
+	"UNK" Verb VLger lang:es 00:01:45 00:01:52 tt-4753 MF017_1959_EP_SU2011_AD_09 ID:273 
 "<,>"
 	"," Punctuation CM lang:es 00:01:45 00:01:52 tt-4754 MF017_1959_EP_SU2011_AD_09 
 "<luego>"

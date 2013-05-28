@@ -13,7 +13,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-2324 AF038_1966_CT_SU2011_ER_05 @Gram:Prep 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:00:00 00:00:07 tt-2325 AF038_1966_CT_SU2011_ER_05 
+	"suyo" Pronoun PPO Plural lang:es 00:00:00 00:00:07 tt-2325 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:00 00:00:07 tt-2326 AF038_1966_CT_SU2011_ER_05 
 "<ya>"
@@ -219,7 +219,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:33 00:00:40 tt-2423 AF038_1966_CT_SU2011_ER_05 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:00:33 00:00:40 tt-2424 AF038_1966_CT_SU2011_ER_05 
+	"suyo" Pronoun PPO Plural lang:es 00:00:33 00:00:40 tt-2424 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<nietos>"
 	"nieto" Noun NC Plural lang:es 00:00:33 00:00:40 tt-2425 AF038_1966_CT_SU2011_ER_05 
 "<hablen>"
@@ -352,13 +352,13 @@
 "<los>"
 	"él" Pronoun PPC Plural lang:es 00:00:55 00:01:00 tt-2485 AF038_1966_CT_SU2011_ER_05 @Gram:Pron:Objeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:55 00:01:00 tt-2486 AF038_1966_CT_SU2011_ER_05 ID:168 R:Gram:PerfPerif:169 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:55 00:01:00 tt-2486 AF038_1966_CT_SU2011_ER_05 ID:168 R:Gram:Aux:Haber:169 R:Gram:PerfPerif:169 
 "<dicho>"
 	"decir" Verb VLadj lang:es 00:00:55 00:01:00 tt-2487 AF038_1966_CT_SU2011_ER_05 ID:169 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:55 00:01:00 tt-2488 AF038_1966_CT_SU2011_ER_05 @Gram:Prep 
 "<mis>"
-	"UNK" Adjective ADJ Plural lang:es 00:00:55 00:01:00 tt-2489 AF038_1966_CT_SU2011_ER_05 
+	"UNK" Adjective ADJ Plural lang:es 00:00:55 00:01:00 tt-2489 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:55 00:01:00 tt-2490 AF038_1966_CT_SU2011_ER_05 
 "<,>"
@@ -386,7 +386,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:00 00:01:05 tt-2502 AF038_1966_CT_SU2011_ER_05 @Gram:Prep 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:01:00 00:01:05 tt-2503 AF038_1966_CT_SU2011_ER_05 
+	"suyo" Pronoun PPO Plural lang:es 00:01:00 00:01:05 tt-2503 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:01:00 00:01:05 tt-2504 AF038_1966_CT_SU2011_ER_05 
 "<el>"
@@ -402,11 +402,11 @@
 "<olvidemos>"
 	"olvidar" Verb VLfin Pres Subj Plural 1st lang:es 00:01:00 00:01:05 tt-2510 AF038_1966_CT_SU2011_ER_05 @Gram:MSub:Pres 
 "<nuestras>"
-	"UNK" Noun NC Plural lang:es 00:01:00 00:01:05 tt-2511 AF038_1966_CT_SU2011_ER_05 
+	"UNK" Noun NC Plural lang:es 00:01:00 00:01:05 tt-2511 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:00 00:01:05 tt-2512 AF038_1966_CT_SU2011_ER_05 
 "<nuestras>"
-	"UNK" Noun NC Plural lang:es 00:01:00 00:01:05 tt-2513 AF038_1966_CT_SU2011_ER_05 
+	"UNK" Noun NC Plural lang:es 00:01:00 00:01:05 tt-2513 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:00 00:01:05 tt-2514 AF038_1966_CT_SU2011_ER_05 
 "<nuestra>"
@@ -428,13 +428,13 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:05 00:01:11 tt-2523 AF038_1966_CT_SU2011_ER_05 @Gram:Prep 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:01:05 00:01:11 tt-2524 AF038_1966_CT_SU2011_ER_05 
+	"suyo" Pronoun PPO Plural lang:es 00:01:05 00:01:11 tt-2524 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:05 00:01:11 tt-2525 AF038_1966_CT_SU2011_ER_05 
 "<de>"
 	"de" Preposition PREP lang:es 00:01:05 00:01:11 tt-2526 AF038_1966_CT_SU2011_ER_05 @Gram:Prep 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:01:05 00:01:11 tt-2527 AF038_1966_CT_SU2011_ER_05 
+	"suyo" Pronoun PPO Plural lang:es 00:01:05 00:01:11 tt-2527 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<abuelos>"
 	"abuelo" Noun NC Plural lang:es 00:01:05 00:01:11 tt-2528 AF038_1966_CT_SU2011_ER_05 
 "<,>"
@@ -442,7 +442,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:05 00:01:11 tt-2530 AF038_1966_CT_SU2011_ER_05 @Gram:Prep 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:01:05 00:01:11 tt-2531 AF038_1966_CT_SU2011_ER_05 
+	"suyo" Pronoun PPO Plural lang:es 00:01:05 00:01:11 tt-2531 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<padres>"
 	"padre" Noun NC Plural lang:es 00:01:05 00:01:11 tt-2532 AF038_1966_CT_SU2011_ER_05 
 "<$.>"
@@ -465,7 +465,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:11 00:01:18 tt-2540 AF038_1966_CT_SU2011_ER_05 @Gram:Prep 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:01:11 00:01:18 tt-2541 AF038_1966_CT_SU2011_ER_05 
+	"suyo" Pronoun PPO Plural lang:es 00:01:11 00:01:18 tt-2541 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:01:11 00:01:18 tt-2542 AF038_1966_CT_SU2011_ER_05 
 "<se>"
@@ -551,7 +551,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:22 00:01:26 tt-2581 AF038_1966_CT_SU2011_ER_05 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:22 00:01:26 tt-2582 AF038_1966_CT_SU2011_ER_05 
+	"mío" Pronoun PPO Singular lang:es 00:01:22 00:01:26 tt-2582 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<hijo>"
 	"hijo" Noun NC Singular lang:es 00:01:22 00:01:26 tt-2583 AF038_1966_CT_SU2011_ER_05 
 "<mayor>"
@@ -618,7 +618,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:33 00:01:38 tt-2614 AF038_1966_CT_SU2011_ER_05 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:01:33 00:01:38 tt-2615 AF038_1966_CT_SU2011_ER_05 
+	"suyo" Pronoun PPO Singular lang:es 00:01:33 00:01:38 tt-2615 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:01:33 00:01:38 tt-2616 AF038_1966_CT_SU2011_ER_05 
 "<,>"
@@ -747,7 +747,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:53 00:01:59 tt-2676 AF038_1966_CT_SU2011_ER_05 @Gram:Prep 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:01:53 00:01:59 tt-2677 AF038_1966_CT_SU2011_ER_05 
+	"suyo" Pronoun PPO Plural lang:es 00:01:53 00:01:59 tt-2677 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<nietos>"
 	"nieto" Noun NC Plural lang:es 00:01:53 00:01:59 tt-2678 AF038_1966_CT_SU2011_ER_05 
 "<los>"
@@ -891,7 +891,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:02:14 00:02:19 tt-2747 AF038_1966_CT_SU2011_ER_05 @Gram:Prep 
 "<nuestros>"
-	"UNK" Noun NC Plural lang:es 00:02:14 00:02:19 tt-2748 AF038_1966_CT_SU2011_ER_05 
+	"UNK" Noun NC Plural lang:es 00:02:14 00:02:19 tt-2748 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:02:14 00:02:19 tt-2749 AF038_1966_CT_SU2011_ER_05 
 "<,>"
@@ -921,7 +921,7 @@
 "<ya>"
 	"ya" Adverb ADV lang:es 00:02:19 00:02:24 tt-2762 AF038_1966_CT_SU2011_ER_05 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:19 00:02:24 tt-2763 AF038_1966_CT_SU2011_ER_05 
+	"UNK" Noun NC Plural lang:es 00:02:19 00:02:24 tt-2763 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:02:19 00:02:24 tt-2765 AF038_1966_CT_SU2011_ER_05 
 "<por>"
@@ -931,13 +931,13 @@
 "<,>"
 	"," Punctuation CM lang:es 00:02:19 00:02:24 tt-2768 AF038_1966_CT_SU2011_ER_05 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:19 00:02:24 tt-2769 AF038_1966_CT_SU2011_ER_05 
+	"UNK" Noun NC Plural lang:es 00:02:19 00:02:24 tt-2769 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<nietos>"
 	"nieto" Noun NC Plural lang:es 00:02:19 00:02:24 tt-2770 AF038_1966_CT_SU2011_ER_05 
 "<,>"
 	"," Punctuation CM lang:es 00:02:19 00:02:24 tt-2771 AF038_1966_CT_SU2011_ER_05 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:19 00:02:24 tt-2772 AF038_1966_CT_SU2011_ER_05 
+	"UNK" Noun NC Plural lang:es 00:02:19 00:02:24 tt-2772 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:02:19 00:02:24 tt-2773 AF038_1966_CT_SU2011_ER_05 
 "<ya>"
@@ -1151,7 +1151,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:02:50 00:02:55 tt-2876 AF038_1966_CT_SU2011_ER_05 @Gram:Prep 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:02:50 00:02:55 tt-2877 AF038_1966_CT_SU2011_ER_05 
+	"suyo" Pronoun PPO Plural lang:es 00:02:50 00:02:55 tt-2877 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:02:50 00:02:55 tt-2878 AF038_1966_CT_SU2011_ER_05 
 "<,>"

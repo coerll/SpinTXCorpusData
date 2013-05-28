@@ -164,9 +164,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:24 00:00:31 tt-3284 AF002_1989_EP_SU2011_AD_10 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:24 00:00:31 tt-3285 AF002_1989_EP_SU2011_AD_10 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:24 00:00:31 tt-3285 AF002_1989_EP_SU2011_AD_10 @Gram:SerEstar:Estar ID:81 R:Gram:SerEstar:EstarAux:82 
 "<conociendo>"
-	"conocer" Verb VLger lang:es 00:00:24 00:00:31 tt-3286 AF002_1989_EP_SU2011_AD_10 
+	"conocer" Verb VLger lang:es 00:00:24 00:00:31 tt-3286 AF002_1989_EP_SU2011_AD_10 ID:82 
 "<como>"
 	"como" Adverb ADV lang:es 00:00:32 00:00:39 tt-3287 AF002_1989_EP_SU2011_AD_10 
 "<en>"
@@ -176,9 +176,9 @@
 "<por>"
 	"por" PREP Preposition PDEL lang:es 00:00:32 00:00:39 tt-3290 AF002_1989_EP_SU2011_AD_10 @Gram:Prep:Por 
 "<medio>"
-	"medio" Preposition PDEL lang:es 00:00:32 00:00:39 tt-3291 AF002_1989_EP_SU2011_AD_10 
+	"medio" Preposition PDEL lang:es 00:00:32 00:00:39 tt-3291 AF002_1989_EP_SU2011_AD_10 @Gram:Prep 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:32 00:00:39 tt-3292 AF002_1989_EP_SU2011_AD_10 
+	"del" Preposition PDEL lang:es 00:00:32 00:00:39 tt-3292 AF002_1989_EP_SU2011_AD_10 @Gram:Prep 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:00:32 00:00:39 tt-3293 AF002_1989_EP_SU2011_AD_10 
 "<o>"
@@ -208,7 +208,7 @@
 "<mayoría>"
 	"mayoría" Noun NC Singular lang:es 00:00:40 00:00:45 tt-3306 AF002_1989_EP_SU2011_AD_10 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:40 00:00:45 tt-3307 AF002_1989_EP_SU2011_AD_10 
+	"del" Preposition PDEL lang:es 00:00:40 00:00:45 tt-3307 AF002_1989_EP_SU2011_AD_10 @Gram:Prep 
 "<tiempo>"
 	"tiempo" Noun NC Singular lang:es 00:00:40 00:00:45 tt-3308 AF002_1989_EP_SU2011_AD_10 
 "<me>"
@@ -475,9 +475,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:34 00:01:40 tt-3436 AF002_1989_EP_SU2011_AD_10 
 "<esté>"
-	"estar" Verb VEfin Pres Subj Sing 1st_or_3rd lang:es 00:01:34 00:01:40 tt-3437 AF002_1989_EP_SU2011_AD_10 @Gram:MSub:Pres @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Subj Sing 1st_or_3rd lang:es 00:01:34 00:01:40 tt-3437 AF002_1989_EP_SU2011_AD_10 @Gram:MSub:Pres @Gram:SerEstar:Estar ID:233 R:Gram:SerEstar:EstarAux:234 
 "<conviviendo>"
-	"convivir" Verb VLger lang:es 00:01:34 00:01:40 tt-3438 AF002_1989_EP_SU2011_AD_10 
+	"convivir" Verb VLger lang:es 00:01:34 00:01:40 tt-3438 AF002_1989_EP_SU2011_AD_10 ID:234 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:34 00:01:40 tt-3439 AF002_1989_EP_SU2011_AD_10 
 

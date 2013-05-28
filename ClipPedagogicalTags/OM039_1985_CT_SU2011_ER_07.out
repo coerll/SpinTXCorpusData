@@ -117,7 +117,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:18 00:00:25 tt-2915 OM039_1985_CT_SU2011_ER_07 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:18 00:00:25 tt-2916 OM039_1985_CT_SU2011_ER_07 ID:57 R:Gram:PerfPerif:58 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:18 00:00:25 tt-2916 OM039_1985_CT_SU2011_ER_07 ID:57 R:Gram:Aux:Haber:58 R:Gram:PerfPerif:58 
 "<aprendido>"
 	"aprender" Verb VLadj lang:es 00:00:18 00:00:25 tt-2917 OM039_1985_CT_SU2011_ER_07 ID:58 
 "<a>"
@@ -202,7 +202,7 @@
 "<ellos>"
 	"él" Pronoun PPX Plural lang:es 00:00:34 00:00:40 tt-2959 OM039_1985_CT_SU2011_ER_07 @Gram:Pron:Sujeto 
 "<fueron>"
-	"ser" Verb VSfin Pret Indi Plural 3rd lang:es 00:00:34 00:00:40 tt-2960 OM039_1985_CT_SU2011_ER_07 @Gram:SerEstar:Ser 
+	"ir" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:34 00:00:40 tt-2960 OM039_1985_CT_SU2011_ER_07 @Gram:Indefinido 
 "<con>"
 	"con" Preposition PREP lang:es 00:00:34 00:00:40 tt-2961 OM039_1985_CT_SU2011_ER_07 @Gram:Prep 
 "<los>"
@@ -266,7 +266,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:46 00:00:51 tt-2990 OM039_1985_CT_SU2011_ER_07 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:46 00:00:51 tt-2991 OM039_1985_CT_SU2011_ER_07 
+	"suyo" Pronoun PPO Singular lang:es 00:00:46 00:00:51 tt-2991 OM039_1985_CT_SU2011_ER_07 @Gram:Det:Pos 
 "<cultura>"
 	"cultura" Noun NC Singular lang:es 00:00:46 00:00:51 tt-2992 OM039_1985_CT_SU2011_ER_07 
 "<,>"
@@ -278,7 +278,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:46 00:00:51 tt-2996 OM039_1985_CT_SU2011_ER_07 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:46 00:00:51 tt-2997 OM039_1985_CT_SU2011_ER_07 
+	"suyo" Pronoun PPO Singular lang:es 00:00:46 00:00:51 tt-2997 OM039_1985_CT_SU2011_ER_07 @Gram:Det:Pos 
 "<comida>"
 	"comida" Noun NC Singular lang:es 00:00:46 00:00:51 tt-2998 OM039_1985_CT_SU2011_ER_07 
 "<,>"

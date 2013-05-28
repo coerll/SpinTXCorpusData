@@ -14,7 +14,7 @@
 "<era>"
 	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:07 tt-551 MM012_1925_EP_SU2011_AD_02 @Gram:Imperf @Gram:SerEstar:Ser 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-552 MM012_1925_EP_SU2011_AD_02 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-552 MM012_1925_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:00:00 00:00:07 tt-553 MM012_1925_EP_SU2011_AD_02 
 "<y>"
@@ -28,7 +28,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-558 MM012_1925_EP_SU2011_AD_02 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-559 MM012_1925_EP_SU2011_AD_02 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-559 MM012_1925_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<profesión>"
 	"profesión" Noun NC Singular lang:es 00:00:00 00:00:07 tt-560 MM012_1925_EP_SU2011_AD_02 
 "<$?>"
@@ -37,7 +37,7 @@
 <speaker type="subj">
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:12 00:00:14 tt-562 MM012_1925_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:12 00:00:14 tt-562 MM012_1925_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<profesión>"
 	"profesión" Noun NC Singular lang:es 00:00:12 00:00:14 tt-563 MM012_1925_EP_SU2011_AD_02 
 "<$.>"
@@ -214,7 +214,7 @@
 "<agradaba>"
 	"UNK" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:52 00:00:58 tt-640 MM012_1925_EP_SU2011_AD_02 @Gram:Imperf 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:52 00:00:58 tt-641 MM012_1925_EP_SU2011_AD_02 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:52 00:00:58 tt-641 MM012_1925_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:00:52 00:00:58 tt-642 MM012_1925_EP_SU2011_AD_02 
 "<$?>"
@@ -334,7 +334,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:01:22 00:01:29 tt-695 MM012_1925_EP_SU2011_AD_02 @Gram:Prep 
 "<maestros>"
-	"maestro" Noun NC Plural lang:es 00:01:22 00:01:29 tt-696 MM012_1925_EP_SU2011_AD_02 
+	"maestro" Plural Singular Noun NC lang:es 00:01:22 00:01:29 tt-696 MM012_1925_EP_SU2011_AD_02 
 "<,>"
 	"," Punctuation CM lang:es 00:01:22 00:01:29 tt-697 MM012_1925_EP_SU2011_AD_02 
 "<como>"

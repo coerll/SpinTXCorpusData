@@ -7,7 +7,7 @@
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:00:00 00:00:03 tt-116 MM052_1989_GV_FA2011_JT_01 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:03 tt-117 MM052_1989_GV_FA2011_JT_01 ID:4 R:Gram:PerfPerif:5 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:03 tt-117 MM052_1989_GV_FA2011_JT_01 ID:4 R:Gram:Aux:Haber:5 R:Gram:PerfPerif:5 
 "<vivido>"
 	"vivir" Verb VLadj lang:es 00:00:00 00:00:03 tt-118 MM052_1989_GV_FA2011_JT_01 ID:5 
 "<allá>"
@@ -194,7 +194,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:23 00:00:26 tt-203 MM052_1989_GV_FA2011_JT_01 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:23 00:00:26 tt-204 MM052_1989_GV_FA2011_JT_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:23 00:00:26 tt-204 MM052_1989_GV_FA2011_JT_01 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:23 00:00:26 tt-205 MM052_1989_GV_FA2011_JT_01 
 "<no>"

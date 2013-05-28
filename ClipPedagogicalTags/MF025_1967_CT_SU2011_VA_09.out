@@ -58,7 +58,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:10 00:00:16 tt-5398 MF025_1967_CT_SU2011_VA_09 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:10 00:00:16 tt-5399 MF025_1967_CT_SU2011_VA_09 
+	"UNK" Noun NC Plural lang:es 00:00:10 00:00:16 tt-5399 MF025_1967_CT_SU2011_VA_09 @Gram:Det:Pos 
 "<padres>"
 	"padre" Noun NC Plural lang:es 00:00:10 00:00:16 tt-5400 MF025_1967_CT_SU2011_VA_09 
 "<y>"
@@ -98,7 +98,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:16 00:00:23 tt-5418 MF025_1967_CT_SU2011_VA_09 @Gram:Prep 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:16 00:00:23 tt-5419 MF025_1967_CT_SU2011_VA_09 
+	"UNK" Noun NC Plural lang:es 00:00:16 00:00:23 tt-5419 MF025_1967_CT_SU2011_VA_09 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:00:16 00:00:23 tt-5420 MF025_1967_CT_SU2011_VA_09 
 "<,>"
@@ -164,9 +164,9 @@
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:24 00:00:31 tt-5451 MF025_1967_CT_SU2011_VA_09 
 "<está>"
-	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:00:24 00:00:31 tt-5452 MF025_1967_CT_SU2011_VA_09 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:00:24 00:00:31 tt-5452 MF025_1967_CT_SU2011_VA_09 @Gram:SerEstar:Estar ID:82 R:Gram:SerEstar:EstarAux:83 
 "<pasando>"
-	"pasar" Verb VLger lang:es 00:00:31 00:00:35 tt-5453 MF025_1967_CT_SU2011_VA_09 
+	"pasar" Verb VLger lang:es 00:00:31 00:00:35 tt-5453 MF025_1967_CT_SU2011_VA_09 ID:83 
 "<,>"
 	"," Punctuation CM lang:es 00:00:31 00:00:35 tt-5454 MF025_1967_CT_SU2011_VA_09 
 "<si>"
@@ -220,7 +220,7 @@
 "<nos>"
 	"nosotros" Pronoun PPX Plural lang:es 00:00:35 00:00:42 tt-5479 MF025_1967_CT_SU2011_VA_09 @Gram:Pron:Objeto 
 "<hemos>"
-	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:35 00:00:42 tt-5480 MF025_1967_CT_SU2011_VA_09 ID:110 R:Gram:PerfPerif:111 
+	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:35 00:00:42 tt-5480 MF025_1967_CT_SU2011_VA_09 ID:110 R:Gram:Aux:Haber:111 R:Gram:PerfPerif:111 
 "<tardado>"
 	"tardar" Verb VLadj lang:es 00:00:35 00:00:42 tt-5481 MF025_1967_CT_SU2011_VA_09 ID:111 
 "<ya>"
@@ -240,15 +240,15 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:35 00:00:42 tt-5489 MF025_1967_CT_SU2011_VA_09 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:35 00:00:42 tt-5490 MF025_1967_CT_SU2011_VA_09 ID:120 R:Gram:PerfPerif:121 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:35 00:00:42 tt-5490 MF025_1967_CT_SU2011_VA_09 ID:120 R:Gram:SerEstar:Ser:121 R:Gram:Aux:Haber:121 R:Gram:PerfPerif:121 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:35 00:00:42 tt-5491 MF025_1967_CT_SU2011_VA_09 @Gram:SerEstar:Ser ID:121 
+	"ser" Verb VSadj Participle lang:es 00:00:35 00:00:42 tt-5491 MF025_1967_CT_SU2011_VA_09 ID:121 
 "<,>"
 	"," Punctuation CM lang:es 00:00:35 00:00:42 tt-5492 MF025_1967_CT_SU2011_VA_09 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:35 00:00:42 tt-5493 MF025_1967_CT_SU2011_VA_09 ID:123 R:Gram:PerfPerif:124 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:35 00:00:42 tt-5493 MF025_1967_CT_SU2011_VA_09 ID:123 R:Gram:SerEstar:Ser:124 R:Gram:Aux:Haber:124 R:Gram:PerfPerif:124 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:35 00:00:42 tt-5494 MF025_1967_CT_SU2011_VA_09 @Gram:SerEstar:Ser ID:124 
+	"ser" Verb VSadj Participle lang:es 00:00:35 00:00:42 tt-5494 MF025_1967_CT_SU2011_VA_09 ID:124 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:00:46 00:00:52 tt-5495 MF025_1967_CT_SU2011_VA_09 
 "<cambio>"
@@ -288,9 +288,9 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:52 00:00:59 tt-5514 MF025_1967_CT_SU2011_VA_09 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:52 00:00:59 tt-5515 MF025_1967_CT_SU2011_VA_09 ID:144 R:Gram:PerfPerif:145 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:52 00:00:59 tt-5515 MF025_1967_CT_SU2011_VA_09 ID:144 R:Gram:SerEstar:Ser:145 R:Gram:Aux:Haber:145 R:Gram:PerfPerif:145 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:52 00:00:59 tt-5516 MF025_1967_CT_SU2011_VA_09 @Gram:SerEstar:Ser ID:145 
+	"ser" Verb VSadj Participle lang:es 00:00:52 00:00:59 tt-5516 MF025_1967_CT_SU2011_VA_09 ID:145 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:52 00:00:59 tt-5517 MF025_1967_CT_SU2011_VA_09 
 "<valioso>"
@@ -719,7 +719,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:02:11 00:02:17 tt-5728 MF025_1967_CT_SU2011_VA_09 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:02:11 00:02:17 tt-5729 MF025_1967_CT_SU2011_VA_09 
+	"tú" Pronoun PPX Singular lang:es 00:02:11 00:02:17 tt-5729 MF025_1967_CT_SU2011_VA_09 @Gram:Pron:Sujeto 
 "<tienes>"
 	"tener" Verb VLfin Pres Indi Sing 2nd lang:es 00:02:11 00:02:17 tt-5730 MF025_1967_CT_SU2011_VA_09 
 "<y>"
@@ -731,7 +731,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:02:11 00:02:17 tt-5734 MF025_1967_CT_SU2011_VA_09 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:02:11 00:02:17 tt-5735 MF025_1967_CT_SU2011_VA_09 
+	"tú" Pronoun PPX Singular lang:es 00:02:11 00:02:17 tt-5735 MF025_1967_CT_SU2011_VA_09 @Gram:Pron:Sujeto 
 "<puedes>"
 	"poder" Verb VLfin Pres Indi Sing 2nd lang:es 00:02:11 00:02:17 tt-5736 MF025_1967_CT_SU2011_VA_09 
 "<hacer>"
@@ -784,7 +784,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:02:17 00:02:24 tt-5760 MF025_1967_CT_SU2011_VA_09 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:24 00:02:31 tt-5761 MF025_1967_CT_SU2011_VA_09 
+	"UNK" Noun NC Plural lang:es 00:02:24 00:02:31 tt-5761 MF025_1967_CT_SU2011_VA_09 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:02:24 00:02:31 tt-5762 MF025_1967_CT_SU2011_VA_09 
 "<,>"
@@ -814,7 +814,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:02:24 00:02:31 tt-5775 MF025_1967_CT_SU2011_VA_09 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:24 00:02:31 tt-5776 MF025_1967_CT_SU2011_VA_09 
+	"mío" Pronoun PPO Singular lang:es 00:02:24 00:02:31 tt-5776 MF025_1967_CT_SU2011_VA_09 @Gram:Det:Pos 
 "<esposo>"
 	"esposo" Noun NC Singular lang:es 00:02:24 00:02:31 tt-5777 MF025_1967_CT_SU2011_VA_09 
 "<,>"
@@ -855,7 +855,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:02:31 00:02:38 tt-5795 MF025_1967_CT_SU2011_VA_09 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:02:31 00:02:38 tt-5796 MF025_1967_CT_SU2011_VA_09 ID:425 R:Gram:PerfPerif:426 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:02:31 00:02:38 tt-5796 MF025_1967_CT_SU2011_VA_09 ID:425 R:Gram:Aux:Haber:426 R:Gram:PerfPerif:426 
 "<dado>"
 	"dar" Verb VLadj lang:es 00:02:31 00:02:38 tt-5797 MF025_1967_CT_SU2011_VA_09 ID:426 
 "<lujos>"

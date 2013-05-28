@@ -23,7 +23,7 @@
 "<Tierra>"
 	"tierra" Noun NC Singular lang:es 00:00:00 00:00:05 tt-581 OM022_1963_CT_SU2011_VA_03 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:00 00:00:05 tt-582 OM022_1963_CT_SU2011_VA_03 
+	"del" Preposition PDEL lang:es 00:00:00 00:00:05 tt-582 OM022_1963_CT_SU2011_VA_03 @Gram:Prep 
 "<Fuego>"
 	"UNK" Noun NP Singular lang:es 00:00:00 00:00:05 tt-583 OM022_1963_CT_SU2011_VA_03 
 "<$.>"
@@ -44,7 +44,7 @@
 "<Tierra>"
 	"tierra" Noun NC Singular lang:es 00:00:00 00:00:05 tt-591 OM022_1963_CT_SU2011_VA_03 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:05 00:00:11 tt-592 OM022_1963_CT_SU2011_VA_03 
+	"del" Preposition PDEL lang:es 00:00:05 00:00:11 tt-592 OM022_1963_CT_SU2011_VA_03 @Gram:Prep 
 "<Fuego>"
 	"UNK" Noun NP Singular lang:es 00:00:05 00:00:11 tt-593 OM022_1963_CT_SU2011_VA_03 
 "<se>"
@@ -73,7 +73,7 @@
 "<ciudad>"
 	"ciudad" Noun NC Singular lang:es 00:00:05 00:00:11 tt-605 OM022_1963_CT_SU2011_VA_03 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:05 00:00:11 tt-606 OM022_1963_CT_SU2011_VA_03 
+	"del" Preposition PDEL lang:es 00:00:05 00:00:11 tt-606 OM022_1963_CT_SU2011_VA_03 @Gram:Prep 
 "<mundo>"
 	"mundo" Noun NC Singular lang:es 00:00:05 00:00:11 tt-607 OM022_1963_CT_SU2011_VA_03 
 "<,>"
@@ -124,9 +124,9 @@
 "<Ahí>"
 	"ahí" Adverb ADV lang:es 00:00:11 00:00:18 tt-630 OM022_1963_CT_SU2011_VA_03 
 "<estábamos>"
-	"estar" Verb VEfin Imp Indi Plural 1st lang:es 00:00:11 00:00:18 tt-631 OM022_1963_CT_SU2011_VA_03 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Plural 1st lang:es 00:00:11 00:00:18 tt-631 OM022_1963_CT_SU2011_VA_03 @Gram:Imperf @Gram:SerEstar:Estar ID:61 R:Gram:SerEstar:EstarAux:62 
 "<pavimentando>"
-	"UNK" Verb VLger lang:es 00:00:19 00:00:26 tt-632 OM022_1963_CT_SU2011_VA_03 
+	"UNK" Verb VLger lang:es 00:00:19 00:00:26 tt-632 OM022_1963_CT_SU2011_VA_03 ID:62 
 "<,>"
 	"," Punctuation CM lang:es 00:00:19 00:00:26 tt-633 OM022_1963_CT_SU2011_VA_03 
 "<hacíamos>"
@@ -322,7 +322,7 @@
 	"." Punctuation FS lang:es 00:00:51 00:00:57 tt-729 OM022_1963_CT_SU2011_VA_03 
 
 "<Eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:00:57 00:01:03 tt-730 OM022_1963_CT_SU2011_VA_03 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:00:57 00:01:03 tt-730 OM022_1963_CT_SU2011_VA_03 @Gram:SerEstar:Ser 
 "<tres>"
 	"tres" Determiner CARD Plural lang:es 00:00:57 00:01:03 tt-731 OM022_1963_CT_SU2011_VA_03 
 "<turnos>"
@@ -394,7 +394,7 @@
 "<parte>"
 	"parte" Noun NC Singular lang:es 00:01:03 00:01:10 tt-764 OM022_1963_CT_SU2011_VA_03 
 "<del>"
-	"del" Preposition PDEL lang:es 00:01:03 00:01:10 tt-765 OM022_1963_CT_SU2011_VA_03 
+	"del" Preposition PDEL lang:es 00:01:03 00:01:10 tt-765 OM022_1963_CT_SU2011_VA_03 @Gram:Prep 
 "<día>"
 	"día" Noun NC Singular lang:es 00:01:03 00:01:10 tt-766 OM022_1963_CT_SU2011_VA_03 
 "<,>"

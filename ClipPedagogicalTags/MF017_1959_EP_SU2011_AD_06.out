@@ -5,11 +5,11 @@
 "<Cuál>"
 	"cuál" Pronoun INT Singular lang:es 00:00:00 00:00:05 tt-3114 MF017_1959_EP_SU2011_AD_06 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:05 tt-3115 MF017_1959_EP_SU2011_AD_06 ID:3 R:Gram:PerfPerif:4 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:05 tt-3115 MF017_1959_EP_SU2011_AD_06 ID:3 R:Gram:SerEstar:Ser:4 R:Gram:Aux:Haber:4 R:Gram:PerfPerif:4 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:00 00:00:05 tt-3116 MF017_1959_EP_SU2011_AD_06 @Gram:SerEstar:Ser ID:4 
+	"ser" Verb VSadj Participle lang:es 00:00:00 00:00:05 tt-3116 MF017_1959_EP_SU2011_AD_06 ID:4 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:05 tt-3117 MF017_1959_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:05 tt-3117 MF017_1959_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<mayor>"
 	"grande" Adjective ADJ Singular lang:es 00:00:00 00:00:05 tt-3118 MF017_1959_EP_SU2011_AD_06 
 "<logro>"
@@ -26,7 +26,7 @@
 <speaker type="subj">
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:05 00:00:12 tt-3124 MF017_1959_EP_SU2011_AD_06 
+	"mío" Pronoun PPO Singular lang:es 00:00:05 00:00:12 tt-3124 MF017_1959_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<mayor>"
 	"grande" Adjective ADJ Singular lang:es 00:00:05 00:00:12 tt-3125 MF017_1959_EP_SU2011_AD_06 
 "<logro>"
@@ -139,7 +139,7 @@
 "<yendo>"
 	"ir" Verb VLadj lang:es 00:00:27 00:00:32 tt-3178 MF017_1959_EP_SU2011_AD_06 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:27 00:00:32 tt-3179 MF017_1959_EP_SU2011_AD_06 
+	"al" Preposition PAL lang:es 00:00:27 00:00:32 tt-3179 MF017_1959_EP_SU2011_AD_06 @Gram:Prep 
 "<colegio>"
 	"colegio" Noun NC Singular lang:es 00:00:27 00:00:32 tt-3180 MF017_1959_EP_SU2011_AD_06 
 "<a>"
@@ -171,9 +171,9 @@
 "<lo>"
 	"el" Determiner ART Singular lang:es 00:00:27 00:00:32 tt-3194 MF017_1959_EP_SU2011_AD_06 @Gram:Pron:Objeto 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:27 00:00:32 tt-3195 MF017_1959_EP_SU2011_AD_06 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:27 00:00:32 tt-3195 MF017_1959_EP_SU2011_AD_06 @Gram:SerEstar:Estar ID:81 R:Gram:SerEstar:EstarAux:82 
 "<estudiando>"
-	"estudiar" Verb VLger lang:es 00:00:27 00:00:32 tt-3196 MF017_1959_EP_SU2011_AD_06 
+	"estudiar" Verb VLger lang:es 00:00:27 00:00:32 tt-3196 MF017_1959_EP_SU2011_AD_06 ID:82 
 "<,>"
 	"," Punctuation CM lang:es 00:00:27 00:00:32 tt-3197 MF017_1959_EP_SU2011_AD_06 
 "<tengo>"
@@ -211,7 +211,7 @@
 "<hacer>"
 	"hacer" Verb VLinf Infinitive lang:es 00:00:32 00:00:38 tt-3214 MF017_1959_EP_SU2011_AD_06 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:32 00:00:38 tt-3215 MF017_1959_EP_SU2011_AD_06 
+	"mío" Pronoun PPO Singular lang:es 00:00:32 00:00:38 tt-3215 MF017_1959_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<aplicación>"
 	"aplicación" Noun NC Singular lang:es 00:00:32 00:00:38 tt-3216 MF017_1959_EP_SU2011_AD_06 
 "<para>"
@@ -261,7 +261,7 @@
 "<hice>"
 	"hacer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:42 00:00:49 tt-3239 MF017_1959_EP_SU2011_AD_06 @Gram:Indefinido 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:42 00:00:49 tt-3240 MF017_1959_EP_SU2011_AD_06 
+	"mío" Pronoun PPO Singular lang:es 00:00:42 00:00:49 tt-3240 MF017_1959_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<aplicación>"
 	"aplicación" Noun NC Singular lang:es 00:00:42 00:00:49 tt-3241 MF017_1959_EP_SU2011_AD_06 
 "<y>"
@@ -283,7 +283,7 @@
 "<fue>"
 	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:00:42 00:00:49 tt-3250 MF017_1959_EP_SU2011_AD_06 @Gram:SerEstar:Ser 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:42 00:00:49 tt-3251 MF017_1959_EP_SU2011_AD_06 
+	"mío" Pronoun PPO Singular lang:es 00:00:42 00:00:49 tt-3251 MF017_1959_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<mayor>"
 	"grande" Adjective ADJ Singular lang:es 00:00:42 00:00:49 tt-3252 MF017_1959_EP_SU2011_AD_06 
 "<logro>"

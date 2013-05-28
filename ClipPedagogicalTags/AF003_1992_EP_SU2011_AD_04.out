@@ -29,7 +29,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-364 AF003_1992_EP_SU2011_AD_04 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:13 00:00:14 tt-365 AF003_1992_EP_SU2011_AD_04 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:13 00:00:14 tt-365 AF003_1992_EP_SU2011_AD_04 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:13 00:00:14 tt-366 AF003_1992_EP_SU2011_AD_04 
 "<$?>"
@@ -90,7 +90,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:21 00:00:26 tt-393 AF003_1992_EP_SU2011_AD_04 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:21 00:00:26 tt-394 AF003_1992_EP_SU2011_AD_04 
+	"mío" Pronoun PPO Singular lang:es 00:00:21 00:00:26 tt-394 AF003_1992_EP_SU2011_AD_04 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:21 00:00:26 tt-395 AF003_1992_EP_SU2011_AD_04 
 "<o>"
@@ -98,7 +98,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:21 00:00:26 tt-397 AF003_1992_EP_SU2011_AD_04 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:21 00:00:26 tt-398 AF003_1992_EP_SU2011_AD_04 
+	"mío" Pronoun PPO Singular lang:es 00:00:21 00:00:26 tt-398 AF003_1992_EP_SU2011_AD_04 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:21 00:00:26 tt-399 AF003_1992_EP_SU2011_AD_04 
 "<,>"
@@ -315,7 +315,7 @@
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:03 00:01:08 tt-504 AF003_1992_EP_SU2011_AD_04 @Gram:SerEstar:Ser 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:01:03 00:01:08 tt-505 AF003_1992_EP_SU2011_AD_04 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:01:03 00:01:08 tt-505 AF003_1992_EP_SU2011_AD_04 @Gram:Det:Pos 
 "<platillo>"
 	"platillo|plato" Noun NC Singular lang:es 00:01:03 00:01:08 tt-506 AF003_1992_EP_SU2011_AD_04 
 "<mexicano>"
@@ -364,7 +364,7 @@
 "<hace>"
 	"hacer" Verb VLfin Pres Indi Sing 3rd lang:es 00:01:08 00:01:14 tt-529 AF003_1992_EP_SU2011_AD_04 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:08 00:01:14 tt-530 AF003_1992_EP_SU2011_AD_04 
+	"mío" Pronoun PPO Singular lang:es 00:01:08 00:01:14 tt-530 AF003_1992_EP_SU2011_AD_04 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:01:14 00:01:16 tt-531 AF003_1992_EP_SU2011_AD_04 
 "<,>"
@@ -412,7 +412,7 @@
 "<vez>"
 	"vez" Noun NC Singular lang:es 00:01:19 00:01:26 tt-554 AF003_1992_EP_SU2011_AD_04 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:19 00:01:26 tt-555 AF003_1992_EP_SU2011_AD_04 
+	"al" Preposition PAL lang:es 00:01:19 00:01:26 tt-555 AF003_1992_EP_SU2011_AD_04 @Gram:Prep 
 "<mes>"
 	"mes" Noun NC Plural lang:es 00:01:19 00:01:26 tt-556 AF003_1992_EP_SU2011_AD_04 
 "<o>"

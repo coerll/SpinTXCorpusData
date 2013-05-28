@@ -27,7 +27,7 @@
 "<fue>"
 	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-4294 MF019_1971_CT_SU2011_VA_09 @Gram:SerEstar:Ser 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-4295 MF019_1971_CT_SU2011_VA_09 
+	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-4295 MF019_1971_CT_SU2011_VA_09 @Gram:Det:Pos 
 "<experiencia>"
 	"experiencia" Noun NC Singular lang:es 00:00:00 00:00:07 tt-4296 MF019_1971_CT_SU2011_VA_09 
 "<$?>"
@@ -36,7 +36,7 @@
 <speaker type="subj">
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:11 00:00:18 tt-4298 MF019_1971_CT_SU2011_VA_09 
+	"mío" Pronoun PPO Singular lang:es 00:00:11 00:00:18 tt-4298 MF019_1971_CT_SU2011_VA_09 @Gram:Det:Pos 
 "<experiencia>"
 	"experiencia" Noun NC Singular lang:es 00:00:11 00:00:18 tt-4299 MF019_1971_CT_SU2011_VA_09 
 "<,>"
@@ -57,7 +57,7 @@
 "<empezar>"
 	"empezar" Verb VLinf Infinitive lang:es 00:00:11 00:00:18 tt-4307 MF019_1971_CT_SU2011_VA_09 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:11 00:00:18 tt-4308 MF019_1971_CT_SU2011_VA_09 
+	"mío" Pronoun PPO Singular lang:es 00:00:11 00:00:18 tt-4308 MF019_1971_CT_SU2011_VA_09 @Gram:Det:Pos 
 "<esposo>"
 	"esposo" Noun NC Singular lang:es 00:00:11 00:00:18 tt-4309 MF019_1971_CT_SU2011_VA_09 
 "<y>"
@@ -368,7 +368,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:27 00:01:34 tt-4459 MF019_1971_CT_SU2011_VA_09 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:01:27 00:01:34 tt-4460 MF019_1971_CT_SU2011_VA_09 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:01:27 00:01:34 tt-4460 MF019_1971_CT_SU2011_VA_09 @Gram:SerEstar:Ser 
 "<americanos>"
 	"americano" Adjective ADJ Plural lang:es 00:01:27 00:01:34 tt-4461 MF019_1971_CT_SU2011_VA_09 
 "<,>"
@@ -839,9 +839,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:02:50 00:02:57 tt-4694 MF019_1971_CT_SU2011_VA_09 
 "<estaba>"
-	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:02:50 00:02:57 tt-4695 MF019_1971_CT_SU2011_VA_09 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:02:50 00:02:57 tt-4695 MF019_1971_CT_SU2011_VA_09 @Gram:Imperf @Gram:SerEstar:Estar ID:414 R:Gram:SerEstar:EstarAux:415 
 "<compartiendo>"
-	"compartir" Verb VLger lang:es 00:02:50 00:02:57 tt-4696 MF019_1971_CT_SU2011_VA_09 
+	"compartir" Verb VLger lang:es 00:02:50 00:02:57 tt-4696 MF019_1971_CT_SU2011_VA_09 ID:415 
 "<con>"
 	"con" Preposition PREP lang:es 00:02:59 00:03:06 tt-4697 MF019_1971_CT_SU2011_VA_09 @Gram:Prep 
 "<ellos>"
@@ -883,7 +883,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:03:06 00:03:12 tt-4716 MF019_1971_CT_SU2011_VA_09 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:03:06 00:03:12 tt-4717 MF019_1971_CT_SU2011_VA_09 
+	"suyo" Pronoun PPO Singular lang:es 00:03:06 00:03:12 tt-4717 MF019_1971_CT_SU2011_VA_09 @Gram:Det:Pos 
 "<señor>"
 	"señor" Noun NC Singular lang:es 00:03:06 00:03:12 tt-4718 MF019_1971_CT_SU2011_VA_09 
 "<,>"
@@ -921,7 +921,7 @@
 "<sala>"
 	"sala" Noun NC Singular lang:es 00:03:12 00:03:18 tt-4735 MF019_1971_CT_SU2011_VA_09 
 "<del>"
-	"del" Preposition PDEL lang:es 00:03:12 00:03:18 tt-4736 MF019_1971_CT_SU2011_VA_09 
+	"del" Preposition PDEL lang:es 00:03:12 00:03:18 tt-4736 MF019_1971_CT_SU2011_VA_09 @Gram:Prep 
 "<cine>"
 	"cine" Noun NC Singular lang:es 00:03:12 00:03:18 tt-4737 MF019_1971_CT_SU2011_VA_09 
 "<,>"
@@ -985,9 +985,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:03:24 00:03:31 tt-4767 MF019_1971_CT_SU2011_VA_09 
 "<están>"
-	"estar" Verb VEfin Pres Indi Plural 3rd lang:es 00:03:24 00:03:31 tt-4768 MF019_1971_CT_SU2011_VA_09 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Plural 3rd lang:es 00:03:24 00:03:31 tt-4768 MF019_1971_CT_SU2011_VA_09 @Gram:SerEstar:Estar ID:487 R:Gram:SerEstar:EstarAux:488 
 "<haciendo>"
-	"hacer" Verb VLger lang:es 00:03:24 00:03:31 tt-4769 MF019_1971_CT_SU2011_VA_09 
+	"hacer" Verb VLger lang:es 00:03:24 00:03:31 tt-4769 MF019_1971_CT_SU2011_VA_09 ID:488 
 "<y>"
 	"y" Conjunction CC lang:es 00:03:24 00:03:31 tt-4770 MF019_1971_CT_SU2011_VA_09 
 "<otra>"
@@ -1141,7 +1141,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:03:48 00:03:55 tt-4845 MF019_1971_CT_SU2011_VA_09 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:03:48 00:03:55 tt-4846 MF019_1971_CT_SU2011_VA_09 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:03:48 00:03:55 tt-4846 MF019_1971_CT_SU2011_VA_09 @Gram:Det:Pos 
 "<estado>"
 	"estado" Noun NC Singular lang:es 00:03:48 00:03:55 tt-4847 MF019_1971_CT_SU2011_VA_09 
 "<socioeconómico>"
@@ -1330,7 +1330,7 @@
 "<transportación>"
 	"transportación" Noun NC Singular lang:es 00:04:22 00:04:27 tt-4941 MF019_1971_CT_SU2011_VA_09 
 "<del>"
-	"del" Preposition PDEL lang:es 00:04:27 00:04:34 tt-4942 MF019_1971_CT_SU2011_VA_09 
+	"del" Preposition PDEL lang:es 00:04:27 00:04:34 tt-4942 MF019_1971_CT_SU2011_VA_09 @Gram:Prep 
 "<metro>"
 	"metro" Noun NMEA Singular lang:es 00:04:27 00:04:34 tt-4943 MF019_1971_CT_SU2011_VA_09 
 "<y>"
@@ -1417,7 +1417,7 @@
 "<obviamente>"
 	"obvio" Adverb ADV lang:es 00:04:43 00:04:50 tt-4984 MF019_1971_CT_SU2011_VA_09 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:04:43 00:04:50 tt-4985 MF019_1971_CT_SU2011_VA_09 ID:702 R:Gram:PerfPerif:703 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:04:43 00:04:50 tt-4985 MF019_1971_CT_SU2011_VA_09 ID:702 R:Gram:Aux:Haber:703 R:Gram:PerfPerif:703 
 "<aprendido>"
 	"aprender" Verb VLadj lang:es 00:04:43 00:04:50 tt-4986 MF019_1971_CT_SU2011_VA_09 ID:703 
 "<a>"
@@ -1479,7 +1479,7 @@
 "<aquí>"
 	"aquí" Adverb ADV lang:es 00:04:52 00:04:59 tt-5015 MF019_1971_CT_SU2011_VA_09 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:04:52 00:04:59 tt-5016 MF019_1971_CT_SU2011_VA_09 
+	"tú" Pronoun PPX Singular lang:es 00:04:52 00:04:59 tt-5016 MF019_1971_CT_SU2011_VA_09 @Gram:Pron:Sujeto 
 "<necesitas>"
 	"necesitar" Verb VLfin Pres Indi Sing 2nd lang:es 00:04:59 00:05:05 tt-5017 MF019_1971_CT_SU2011_VA_09 
 "<algo>"
@@ -1531,7 +1531,7 @@
 "<estación>"
 	"estación" Noun NC Singular lang:es 00:05:05 00:05:09 tt-5041 MF019_1971_CT_SU2011_VA_09 
 "<del>"
-	"del" Preposition PDEL lang:es 00:05:05 00:05:09 tt-5042 MF019_1971_CT_SU2011_VA_09 
+	"del" Preposition PDEL lang:es 00:05:05 00:05:09 tt-5042 MF019_1971_CT_SU2011_VA_09 @Gram:Prep 
 "<metro>"
 	"metro" Noun NMEA Singular lang:es 00:05:05 00:05:09 tt-5043 MF019_1971_CT_SU2011_VA_09 
 "<y>"
@@ -1698,7 +1698,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:05:41 00:05:47 tt-5124 MF019_1971_CT_SU2011_VA_09 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:05:41 00:05:47 tt-5125 MF019_1971_CT_SU2011_VA_09 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:05:41 00:05:47 tt-5125 MF019_1971_CT_SU2011_VA_09 @Gram:SerEstar:Ser 
 "<pavos>"
 	"UNK" Noun NC Plural lang:es 00:05:41 00:05:47 tt-5126 MF019_1971_CT_SU2011_VA_09 
 "<porque>"
@@ -1718,7 +1718,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:05:47 00:05:54 tt-5134 MF019_1971_CT_SU2011_VA_09 @Gram:Prep 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:05:47 00:05:54 tt-5135 MF019_1971_CT_SU2011_VA_09 
+	"suyo" Pronoun PPO Plural lang:es 00:05:47 00:05:54 tt-5135 MF019_1971_CT_SU2011_VA_09 @Gram:Det:Pos 
 "<pollos>"
 	"pollo" Noun NC Plural lang:es 00:05:47 00:05:54 tt-5136 MF019_1971_CT_SU2011_VA_09 
 "<delgaditos>"
@@ -1934,7 +1934,7 @@
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:06:31 00:06:37 tt-5242 MF019_1971_CT_SU2011_VA_09 @Gram:SerEstar:Ser 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:06:31 00:06:37 tt-5243 MF019_1971_CT_SU2011_VA_09 
+	"suyo" Pronoun PPO Singular lang:es 00:06:31 00:06:37 tt-5243 MF019_1971_CT_SU2011_VA_09 @Gram:Det:Pos 
 "<manera>"
 	"manera" Noun NC Singular lang:es 00:06:31 00:06:37 tt-5244 MF019_1971_CT_SU2011_VA_09 
 "<de>"
@@ -1950,13 +1950,13 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:06:31 00:06:37 tt-5250 MF019_1971_CT_SU2011_VA_09 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:06:31 00:06:37 tt-5251 MF019_1971_CT_SU2011_VA_09 
+	"suyo" Pronoun PPO Singular lang:es 00:06:31 00:06:37 tt-5251 MF019_1971_CT_SU2011_VA_09 @Gram:Det:Pos 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:06:31 00:06:37 tt-5252 MF019_1971_CT_SU2011_VA_09 
 "<a>"
 	"a" Preposition PREP lang:es 00:06:31 00:06:37 tt-5253 MF019_1971_CT_SU2011_VA_09 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:06:31 00:06:37 tt-5254 MF019_1971_CT_SU2011_VA_09 
+	"suyo" Pronoun PPO Singular lang:es 00:06:31 00:06:37 tt-5254 MF019_1971_CT_SU2011_VA_09 @Gram:Det:Pos 
 "<círculo>"
 	"círculo" Noun NC Singular lang:es 00:06:31 00:06:37 tt-5255 MF019_1971_CT_SU2011_VA_09 
 "<,>"
@@ -1994,7 +1994,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:06:37 00:06:42 tt-5272 MF019_1971_CT_SU2011_VA_09 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:06:37 00:06:42 tt-5273 MF019_1971_CT_SU2011_VA_09 
+	"mío" Pronoun PPO Singular lang:es 00:06:37 00:06:42 tt-5273 MF019_1971_CT_SU2011_VA_09 @Gram:Det:Pos 
 "<esposo>"
 	"esposo" Noun NC Singular lang:es 00:06:37 00:06:42 tt-5274 MF019_1971_CT_SU2011_VA_09 
 "<no>"
@@ -2102,7 +2102,7 @@
 "<bajándose>"
 	"UNK" Adjective ADJ Singular lang:es 00:06:49 00:06:54 tt-5326 MF019_1971_CT_SU2011_VA_09 
 "<del>"
-	"del" Preposition PDEL lang:es 00:06:54 00:07:01 tt-5327 MF019_1971_CT_SU2011_VA_09 
+	"del" Preposition PDEL lang:es 00:06:54 00:07:01 tt-5327 MF019_1971_CT_SU2011_VA_09 @Gram:Prep 
 "<metro>"
 	"metro" Noun NMEA Singular lang:es 00:06:54 00:07:01 tt-5328 MF019_1971_CT_SU2011_VA_09 
 "<y>"
@@ -2299,15 +2299,15 @@
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:07:28 00:07:33 tt-5424 MF019_1971_CT_SU2011_VA_09 @Gram:Pron:Sujeto 
 "<estaba>"
-	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:07:28 00:07:33 tt-5425 MF019_1971_CT_SU2011_VA_09 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:07:28 00:07:33 tt-5425 MF019_1971_CT_SU2011_VA_09 @Gram:Imperf @Gram:SerEstar:Estar ID:1142 R:Gram:SerEstar:EstarAux:1143 
 "<tratando>"
-	"tratar" Verb VLger lang:es 00:07:28 00:07:33 tt-5426 MF019_1971_CT_SU2011_VA_09 
+	"tratar" Verb VLger lang:es 00:07:28 00:07:33 tt-5426 MF019_1971_CT_SU2011_VA_09 ID:1143 
 "<de>"
 	"de" Conjunction CSUBI lang:es 00:07:28 00:07:33 tt-5427 MF019_1971_CT_SU2011_VA_09 
 "<mantener>"
 	"mantener" Verb VLinf Infinitive lang:es 00:07:28 00:07:33 tt-5428 MF019_1971_CT_SU2011_VA_09 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:07:28 00:07:33 tt-5429 MF019_1971_CT_SU2011_VA_09 
+	"UNK" Noun NC Plural lang:es 00:07:28 00:07:33 tt-5429 MF019_1971_CT_SU2011_VA_09 @Gram:Det:Pos 
 "<manos>"
 	"mano" Noun NC Plural lang:es 00:07:28 00:07:33 tt-5430 MF019_1971_CT_SU2011_VA_09 
 "<calientes>"

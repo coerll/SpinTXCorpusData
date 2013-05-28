@@ -23,7 +23,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:05 00:00:07 tt-1936 AF006_1968_EP_SU2011_AD_13 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:05 00:00:07 tt-1937 AF006_1968_EP_SU2011_AD_13 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:05 00:00:07 tt-1937 AF006_1968_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:00:05 00:00:07 tt-1938 AF006_1968_EP_SU2011_AD_13 
 "<$.>"
@@ -155,7 +155,7 @@
 "<agrada>"
 	"agradar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:28 00:00:31 tt-2004 AF006_1968_EP_SU2011_AD_13 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:28 00:00:31 tt-2005 AF006_1968_EP_SU2011_AD_13 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:28 00:00:31 tt-2005 AF006_1968_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:00:28 00:00:31 tt-2006 AF006_1968_EP_SU2011_AD_13 
 "<$?>"
@@ -247,7 +247,7 @@
 "<gusta>"
 	"gustar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:40 00:00:47 tt-2050 AF006_1968_EP_SU2011_AD_13 ID:120 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:50 00:00:51 tt-2051 AF006_1968_EP_SU2011_AD_13 
+	"mío" Pronoun PPO Singular lang:es 00:00:50 00:00:51 tt-2051 AF006_1968_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:00:50 00:00:51 tt-2052 AF006_1968_EP_SU2011_AD_13 
 "<$.>"
@@ -262,7 +262,7 @@
 "<te>"
 	"tú" Pronoun PPX Singular lang:es 00:00:51 00:00:55 tt-2057 AF006_1968_EP_SU2011_AD_13 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:51 00:00:55 tt-2058 AF006_1968_EP_SU2011_AD_13 ID:128 R:Gram:PerfPerif:129 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:51 00:00:55 tt-2058 AF006_1968_EP_SU2011_AD_13 ID:128 R:Gram:Aux:Haber:129 R:Gram:PerfPerif:129 
 "<enseñado>"
 	"enseñar" Verb VLadj lang:es 00:00:51 00:00:55 tt-2059 AF006_1968_EP_SU2011_AD_13 ID:129 
 "<la>"
@@ -287,7 +287,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:55 00:01:02 tt-2071 AF006_1968_EP_SU2011_AD_13 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:55 00:01:02 tt-2072 AF006_1968_EP_SU2011_AD_13 ID:140 R:Gram:PerfPerif:141 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:55 00:01:02 tt-2072 AF006_1968_EP_SU2011_AD_13 ID:140 R:Gram:Aux:Haber:141 R:Gram:PerfPerif:141 
 "<enseñado>"
 	"enseñar" Verb VLadj lang:es 00:00:55 00:01:02 tt-2073 AF006_1968_EP_SU2011_AD_13 ID:141 
 "<que>"

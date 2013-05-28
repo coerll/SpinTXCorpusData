@@ -12,7 +12,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:07 tt-1599 AF046_1992_CT_SU2011_ER_04 
 "<Tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-1600 AF046_1992_CT_SU2011_ER_04 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-1600 AF046_1992_CT_SU2011_ER_04 @Gram:Pron:Sujeto 
 "<te>"
 	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-1601 AF046_1992_CT_SU2011_ER_04 @Gram:Pron:Objeto 
 "<identificas>"
@@ -75,7 +75,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:09 00:00:14 tt-1629 AF046_1992_CT_SU2011_ER_04 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:09 00:00:14 tt-1630 AF046_1992_CT_SU2011_ER_04 
+	"UNK" Noun NC Plural lang:es 00:00:09 00:00:14 tt-1630 AF046_1992_CT_SU2011_ER_04 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:00:09 00:00:14 tt-1631 AF046_1992_CT_SU2011_ER_04 
 "<,>"
@@ -83,7 +83,7 @@
 "<nunca>"
 	"nunca" Adverb ADV lang:es 00:00:09 00:00:14 tt-1633 AF046_1992_CT_SU2011_ER_04 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:09 00:00:14 tt-1634 AF046_1992_CT_SU2011_ER_04 ID:40 R:Gram:PerfPerif:41 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:09 00:00:14 tt-1634 AF046_1992_CT_SU2011_ER_04 ID:40 R:Gram:Aux:Haber:41 R:Gram:PerfPerif:41 
 "<dejado>"
 	"dejar" Verb VLadj lang:es 00:00:09 00:00:14 tt-1635 AF046_1992_CT_SU2011_ER_04 ID:41 
 "<las>"
@@ -91,14 +91,14 @@
 "<costumbres>"
 	"costumbre" Noun NC Plural lang:es 00:00:14 00:00:20 tt-1637 AF046_1992_CT_SU2011_ER_04 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:14 00:00:20 tt-1638 AF046_1992_CT_SU2011_ER_04 
+	"del" Preposition PDEL lang:es 00:00:14 00:00:20 tt-1638 AF046_1992_CT_SU2011_ER_04 @Gram:Prep 
 "<Salvador>"
 	"Salvador" Noun NP Singular lang:es 00:00:14 00:00:20 tt-1639 AF046_1992_CT_SU2011_ER_04 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:14 00:00:20 tt-1640 AF046_1992_CT_SU2011_ER_04 
 
 "<Hemos>"
-	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:14 00:00:20 tt-1641 AF046_1992_CT_SU2011_ER_04 ID:47 R:Gram:PerfPerif:48 
+	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:14 00:00:20 tt-1641 AF046_1992_CT_SU2011_ER_04 ID:47 R:Gram:Aux:Haber:48 R:Gram:PerfPerif:48 
 "<vivido>"
 	"vivir" Verb VLadj lang:es 00:00:14 00:00:20 tt-1642 AF046_1992_CT_SU2011_ER_04 ID:48 
 "<aquí>"
@@ -106,7 +106,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:14 00:00:20 tt-1644 AF046_1992_CT_SU2011_ER_04 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:14 00:00:20 tt-1645 AF046_1992_CT_SU2011_ER_04 
+	"mío" Pronoun PPO Singular lang:es 00:00:14 00:00:20 tt-1645 AF046_1992_CT_SU2011_ER_04 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:14 00:00:20 tt-1646 AF046_1992_CT_SU2011_ER_04 
 "<siempre>"
@@ -124,13 +124,13 @@
 "<nos>"
 	"nosotros" Pronoun PPX Plural lang:es 00:00:20 00:00:24 tt-1653 AF046_1992_CT_SU2011_ER_04 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:20 00:00:24 tt-1654 AF046_1992_CT_SU2011_ER_04 ID:60 R:Gram:PerfPerif:61 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:20 00:00:24 tt-1654 AF046_1992_CT_SU2011_ER_04 ID:60 R:Gram:Aux:Haber:61 R:Gram:PerfPerif:61 
 "<enseñado>"
 	"enseñar" Verb VLadj lang:es 00:00:20 00:00:24 tt-1655 AF046_1992_CT_SU2011_ER_04 ID:61 
 "<,>"
 	"," Punctuation CM lang:es 00:00:20 00:00:24 tt-1656 AF046_1992_CT_SU2011_ER_04 
 "<hemos>"
-	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:20 00:00:24 tt-1657 AF046_1992_CT_SU2011_ER_04 ID:63 R:Gram:PerfPerif:64 
+	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:20 00:00:24 tt-1657 AF046_1992_CT_SU2011_ER_04 ID:63 R:Gram:Aux:Haber:64 R:Gram:PerfPerif:64 
 "<visitado>"
 	"visitar" Verb VLadj lang:es 00:00:20 00:00:24 tt-1658 AF046_1992_CT_SU2011_ER_04 ID:64 
 "<a>"
@@ -202,7 +202,7 @@
 "<o>"
 	"o" Conjunction CC lang:es 00:00:30 00:00:37 tt-1690 AF046_1992_CT_SU2011_ER_04 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:30 00:00:37 tt-1691 AF046_1992_CT_SU2011_ER_04 
+	"UNK" Noun NC Plural lang:es 00:00:30 00:00:37 tt-1691 AF046_1992_CT_SU2011_ER_04 @Gram:Det:Pos 
 "<amistades>"
 	"amistad" Noun NC Plural lang:es 00:00:30 00:00:37 tt-1692 AF046_1992_CT_SU2011_ER_04 
 "<,>"
@@ -269,7 +269,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:37 00:00:42 tt-1721 AF046_1992_CT_SU2011_ER_04 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:37 00:00:42 tt-1722 AF046_1992_CT_SU2011_ER_04 
+	"UNK" Noun NC Plural lang:es 00:00:37 00:00:42 tt-1722 AF046_1992_CT_SU2011_ER_04 @Gram:Det:Pos 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:37 00:00:42 tt-1724 AF046_1992_CT_SU2011_ER_04 
 "<muchos>"
@@ -311,7 +311,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:42 00:00:48 tt-1744 AF046_1992_CT_SU2011_ER_04 
 "<hemos>"
-	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:42 00:00:48 tt-1745 AF046_1992_CT_SU2011_ER_04 ID:149 R:Gram:PerfPerif:150 
+	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:42 00:00:48 tt-1745 AF046_1992_CT_SU2011_ER_04 ID:149 R:Gram:Aux:Haber:150 R:Gram:PerfPerif:150 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:42 00:00:48 tt-1746 AF046_1992_CT_SU2011_ER_04 ID:150 
 "<algunas>"
@@ -323,7 +323,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:48 00:00:52 tt-1750 AF046_1992_CT_SU2011_ER_04 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:00:48 00:00:52 tt-1751 AF046_1992_CT_SU2011_ER_04 
+	"suyo" Pronoun PPO Plural lang:es 00:00:48 00:00:52 tt-1751 AF046_1992_CT_SU2011_ER_04 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:00:48 00:00:52 tt-1752 AF046_1992_CT_SU2011_ER_04 
 "<son>"
@@ -432,7 +432,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:56 00:01:02 tt-1803 AF046_1992_CT_SU2011_ER_04 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:02 00:01:09 tt-1804 AF046_1992_CT_SU2011_ER_04 
+	"tú" Pronoun PPX Singular lang:es 00:01:02 00:01:09 tt-1804 AF046_1992_CT_SU2011_ER_04 @Gram:Pron:Sujeto 
 "<,>"
 	"," Punctuation CM lang:es 00:01:02 00:01:09 tt-1805 AF046_1992_CT_SU2011_ER_04 
 "<este>"

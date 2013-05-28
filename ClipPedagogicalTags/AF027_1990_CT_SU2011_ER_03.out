@@ -13,11 +13,11 @@
 "<educación>"
 	"educación" Noun NC Singular lang:es 00:00:00 00:00:04 tt-2679 AF027_1990_CT_SU2011_ER_03 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:00 00:00:04 tt-2680 AF027_1990_CT_SU2011_ER_03 ID:7 R:Gram:PerfPerif:8 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:00 00:00:04 tt-2680 AF027_1990_CT_SU2011_ER_03 ID:7 R:Gram:Aux:Haber:8 R:Gram:PerfPerif:8 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:00 00:00:04 tt-2681 AF027_1990_CT_SU2011_ER_03 ID:8 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:00 00:00:04 tt-2682 AF027_1990_CT_SU2011_ER_03 
+	"UNK" Noun NC Plural lang:es 00:00:00 00:00:04 tt-2682 AF027_1990_CT_SU2011_ER_03 @Gram:Det:Pos 
 "<padres>"
 	"padre" Noun NC Plural lang:es 00:00:00 00:00:04 tt-2683 AF027_1990_CT_SU2011_ER_03 
 "<$?>"
@@ -32,7 +32,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:04 00:00:11 tt-2687 AF027_1990_CT_SU2011_ER_03 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:04 00:00:11 tt-2688 AF027_1990_CT_SU2011_ER_03 
+	"mío" Pronoun PPO Singular lang:es 00:00:04 00:00:11 tt-2688 AF027_1990_CT_SU2011_ER_03 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:04 00:00:11 tt-2689 AF027_1990_CT_SU2011_ER_03 
 "<,>"
@@ -88,7 +88,7 @@
 	"." Punctuation FS lang:es 00:00:12 00:00:18 tt-2715 AF027_1990_CT_SU2011_ER_03 
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:12 00:00:18 tt-2716 AF027_1990_CT_SU2011_ER_03 
+	"mío" Pronoun PPO Singular lang:es 00:00:12 00:00:18 tt-2716 AF027_1990_CT_SU2011_ER_03 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:12 00:00:18 tt-2717 AF027_1990_CT_SU2011_ER_03 
 "<tuvo>"
@@ -176,7 +176,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:23 00:00:30 tt-2761 AF027_1990_CT_SU2011_ER_03 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:23 00:00:30 tt-2762 AF027_1990_CT_SU2011_ER_03 
+	"mío" Pronoun PPO Singular lang:es 00:00:23 00:00:30 tt-2762 AF027_1990_CT_SU2011_ER_03 @Gram:Det:Pos 
 "<abuelito>"
 	"abuelo" Noun NC Singular lang:es 00:00:23 00:00:30 tt-2763 AF027_1990_CT_SU2011_ER_03 
 "<como>"
@@ -196,7 +196,7 @@
 "<terminar>"
 	"terminar" Verb VLinf Infinitive lang:es 00:00:33 00:00:39 tt-2771 AF027_1990_CT_SU2011_ER_03 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:33 00:00:39 tt-2772 AF027_1990_CT_SU2011_ER_03 
+	"suyo" Pronoun PPO Singular lang:es 00:00:33 00:00:39 tt-2772 AF027_1990_CT_SU2011_ER_03 @Gram:Det:Pos 
 "<carrera>"
 	"carrera" Noun NC Singular lang:es 00:00:33 00:00:39 tt-2773 AF027_1990_CT_SU2011_ER_03 
 "<,>"
@@ -211,13 +211,13 @@
 "<Pero>"
 	"pero" Conjunction CCAD lang:es 00:00:33 00:00:39 tt-2780 AF027_1990_CT_SU2011_ER_03 @Prag:MarcadoresDisc:Revision 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:33 00:00:39 tt-2781 AF027_1990_CT_SU2011_ER_03 
+	"mío" Pronoun PPO Singular lang:es 00:00:33 00:00:39 tt-2781 AF027_1990_CT_SU2011_ER_03 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:39 00:00:46 tt-2782 AF027_1990_CT_SU2011_ER_03 
 "<,>"
 	"," Punctuation CM lang:es 00:00:39 00:00:46 tt-2783 AF027_1990_CT_SU2011_ER_03 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:39 00:00:46 tt-2784 AF027_1990_CT_SU2011_ER_03 
+	"mío" Pronoun PPO Singular lang:es 00:00:39 00:00:46 tt-2784 AF027_1990_CT_SU2011_ER_03 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:39 00:00:46 tt-2785 AF027_1990_CT_SU2011_ER_03 
 "<sí>"
@@ -245,7 +245,7 @@
 "<hizo>"
 	"hacer" Verb VLfin Pres Indi Sing 1st lang:es 00:00:39 00:00:46 tt-2799 AF027_1990_CT_SU2011_ER_03 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:39 00:00:46 tt-2800 AF027_1990_CT_SU2011_ER_03 
+	"suyo" Pronoun PPO Singular lang:es 00:00:39 00:00:46 tt-2800 AF027_1990_CT_SU2011_ER_03 @Gram:Det:Pos 
 "<maestría>"
 	"maestría" Noun NC Singular lang:es 00:00:39 00:00:46 tt-2801 AF027_1990_CT_SU2011_ER_03 
 "<,>"

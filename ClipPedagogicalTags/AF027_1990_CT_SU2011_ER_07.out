@@ -80,17 +80,17 @@
 "<recuerdas>"
 	"recordar" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:11 00:00:14 tt-5240 AF027_1990_CT_SU2011_ER_07 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:11 00:00:14 tt-5241 AF027_1990_CT_SU2011_ER_07 
+	"tú" Pronoun PPX Singular lang:es 00:00:11 00:00:14 tt-5241 AF027_1990_CT_SU2011_ER_07 @Gram:Pron:Sujeto 
 "<en>"
 	"en" Preposition PREP lang:es 00:00:11 00:00:14 tt-5242 AF027_1990_CT_SU2011_ER_07 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:11 00:00:14 tt-5243 AF027_1990_CT_SU2011_ER_07 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:11 00:00:14 tt-5243 AF027_1990_CT_SU2011_ER_07 @Gram:Det:Pos 
 "<infancia>"
 	"infancia" Noun NC Singular lang:es 00:00:11 00:00:14 tt-5244 AF027_1990_CT_SU2011_ER_07 
 "<o>"
 	"o" Conjunction CC lang:es 00:00:11 00:00:14 tt-5245 AF027_1990_CT_SU2011_ER_07 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:11 00:00:14 tt-5246 AF027_1990_CT_SU2011_ER_07 
+	"UNK" Noun NC Plural lang:es 00:00:11 00:00:14 tt-5246 AF027_1990_CT_SU2011_ER_07 @Gram:Det:Pos 
 "<abuelos>"
 	"abuelo" Noun NC Plural lang:es 00:00:11 00:00:14 tt-5247 AF027_1990_CT_SU2011_ER_07 
 "<$?>"
@@ -189,7 +189,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:22 00:00:29 tt-5294 AF027_1990_CT_SU2011_ER_07 
 "<hemos>"
-	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:22 00:00:29 tt-5295 AF027_1990_CT_SU2011_ER_07 ID:94 R:Gram:PerfPerif:95 
+	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:22 00:00:29 tt-5295 AF027_1990_CT_SU2011_ER_07 ID:94 R:Gram:Aux:Haber:95 R:Gram:PerfPerif:95 
 "<hecho>"
 	"hacer" Verb VLadj lang:es 00:00:22 00:00:29 tt-5296 AF027_1990_CT_SU2011_ER_07 ID:95 
 "<desde>"
@@ -221,7 +221,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:29 00:00:34 tt-5310 AF027_1990_CT_SU2011_ER_07 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:29 00:00:34 tt-5311 AF027_1990_CT_SU2011_ER_07 
+	"mío" Pronoun PPO Singular lang:es 00:00:29 00:00:34 tt-5311 AF027_1990_CT_SU2011_ER_07 @Gram:Det:Pos 
 "<abuelita>"
 	"abuelita|abuelo" Noun NC Singular lang:es 00:00:29 00:00:34 tt-5312 AF027_1990_CT_SU2011_ER_07 
 "<,>"

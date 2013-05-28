@@ -18,7 +18,7 @@
 "<importancia>"
 	"importancia" Noun NC Singular lang:es 00:00:00 00:00:05 tt-611 MF051_1974_GV_FA2011_JT_03 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:00 00:00:05 tt-612 MF051_1974_GV_FA2011_JT_03 
+	"del" Preposition PDEL lang:es 00:00:00 00:00:05 tt-612 MF051_1974_GV_FA2011_JT_03 @Gram:Prep 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:00 00:00:05 tt-613 MF051_1974_GV_FA2011_JT_03 
 "<para>"
@@ -85,7 +85,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:10 00:00:17 tt-644 MF051_1974_GV_FA2011_JT_03 @Gram:Prep 
 "<nuestros>"
-	"UNK" Noun NC Plural lang:es 00:00:10 00:00:17 tt-645 MF051_1974_GV_FA2011_JT_03 
+	"UNK" Noun NC Plural lang:es 00:00:10 00:00:17 tt-645 MF051_1974_GV_FA2011_JT_03 @Gram:Det:Pos 
 "<jóvenes>"
 	"joven" Adjective ADJ Plural lang:es 00:00:10 00:00:17 tt-646 MF051_1974_GV_FA2011_JT_03 
 "<en>"
@@ -99,7 +99,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:10 00:00:17 tt-651 MF051_1974_GV_FA2011_JT_03 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:10 00:00:17 tt-652 MF051_1974_GV_FA2011_JT_03 
+	"del" Preposition PDEL lang:es 00:00:10 00:00:17 tt-652 MF051_1974_GV_FA2011_JT_03 @Gram:Prep 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:10 00:00:17 tt-653 MF051_1974_GV_FA2011_JT_03 
 "<$.>"
@@ -168,7 +168,7 @@
 "<también>"
 	"también" Adverb ADV lang:es 00:00:24 00:00:29 tt-685 MF051_1974_GV_FA2011_JT_03 @Prag:MarcadoresDisc:Igualdad 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:24 00:00:29 tt-686 MF051_1974_GV_FA2011_JT_03 
+	"al" Preposition PAL lang:es 00:00:24 00:00:29 tt-686 MF051_1974_GV_FA2011_JT_03 @Gram:Prep 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:24 00:00:29 tt-687 MF051_1974_GV_FA2011_JT_03 
 "<,>"
@@ -223,7 +223,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:38 00:00:42 tt-712 MF051_1974_GV_FA2011_JT_03 
 "<nuestros>"
-	"UNK" Noun NC Plural lang:es 00:00:38 00:00:42 tt-713 MF051_1974_GV_FA2011_JT_03 
+	"UNK" Noun NC Plural lang:es 00:00:38 00:00:42 tt-713 MF051_1974_GV_FA2011_JT_03 @Gram:Det:Pos 
 "<jóvenes>"
 	"joven" Noun NC Plural lang:es 00:00:38 00:00:42 tt-714 MF051_1974_GV_FA2011_JT_03 
 "<...>"
@@ -369,9 +369,9 @@
 "<Qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:59 00:01:03 tt-782 MF051_1974_GV_FA2011_JT_03 
 "<estás>"
-	"estar" Verb VEfin Pres Indi Sing 2nd lang:es 00:00:59 00:01:03 tt-783 MF051_1974_GV_FA2011_JT_03 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 2nd lang:es 00:00:59 00:01:03 tt-783 MF051_1974_GV_FA2011_JT_03 @Gram:SerEstar:Estar ID:180 R:Gram:SerEstar:EstarAux:181 
 "<hablando>"
-	"hablar" Verb VLger lang:es 00:00:59 00:01:03 tt-784 MF051_1974_GV_FA2011_JT_03 
+	"hablar" Verb VLger lang:es 00:00:59 00:01:03 tt-784 MF051_1974_GV_FA2011_JT_03 ID:181 
 "<y>"
 	"y" Conjunction CC lang:es 00:01:03 00:01:08 tt-785 MF051_1974_GV_FA2011_JT_03 
 "<don>"
@@ -407,7 +407,7 @@
 "<revoltura>"
 	"UNK" Noun NC Singular lang:es 00:01:08 00:01:14 tt-818 MF051_1974_GV_FA2011_JT_03 
 "<del>"
-	"del" Preposition PDEL lang:es 00:01:08 00:01:14 tt-819 MF051_1974_GV_FA2011_JT_03 
+	"del" Preposition PDEL lang:es 00:01:08 00:01:14 tt-819 MF051_1974_GV_FA2011_JT_03 @Gram:Prep 
 "<lenguajes>"
 	"lenguaje" Noun NC Plural lang:es 00:01:08 00:01:14 tt-820 MF051_1974_GV_FA2011_JT_03 
 "<$.>"
@@ -528,7 +528,7 @@
 "<ya>"
 	"ya" Adverb ADV lang:es 00:01:28 00:01:34 tt-877 MF051_1974_GV_FA2011_JT_03 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:28 00:01:34 tt-878 MF051_1974_GV_FA2011_JT_03 
+	"al" Preposition PAL lang:es 00:01:28 00:01:34 tt-878 MF051_1974_GV_FA2011_JT_03 @Gram:Prep 
 "<momento>"
 	"momento" Noun NC Singular lang:es 00:01:28 00:01:34 tt-879 MF051_1974_GV_FA2011_JT_03 
 "<que>"
@@ -540,13 +540,13 @@
 "<expone>"
 	"exponer" Verb VLfin Pres Indi Sing 3rd lang:es 00:01:28 00:01:34 tt-883 MF051_1974_GV_FA2011_JT_03 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:34 00:01:39 tt-884 MF051_1974_GV_FA2011_JT_03 
+	"al" Preposition PAL lang:es 00:01:34 00:01:39 tt-884 MF051_1974_GV_FA2011_JT_03 @Gram:Prep 
 "<lenguaje>"
 	"lenguaje" Noun NC Singular lang:es 00:01:34 00:01:39 tt-885 MF051_1974_GV_FA2011_JT_03 
 "<o>"
 	"o" Conjunction CC lang:es 00:01:34 00:01:39 tt-886 MF051_1974_GV_FA2011_JT_03 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:34 00:01:39 tt-887 MF051_1974_GV_FA2011_JT_03 
+	"al" Preposition PAL lang:es 00:01:34 00:01:39 tt-887 MF051_1974_GV_FA2011_JT_03 @Gram:Prep 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:01:34 00:01:39 tt-888 MF051_1974_GV_FA2011_JT_03 
 "<,>"
@@ -558,17 +558,17 @@
 "<se>"
 	"se" Other SE lang:es 00:01:34 00:01:39 tt-892 MF051_1974_GV_FA2011_JT_03 
 "<está>"
-	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:01:34 00:01:39 tt-893 MF051_1974_GV_FA2011_JT_03 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:01:34 00:01:39 tt-893 MF051_1974_GV_FA2011_JT_03 @Gram:SerEstar:Estar ID:271 R:Gram:SerEstar:EstarAux:272 
 "<quitando>"
-	"quitar" Verb VLger lang:es 00:01:34 00:01:39 tt-894 MF051_1974_GV_FA2011_JT_03 
+	"quitar" Verb VLger lang:es 00:01:34 00:01:39 tt-894 MF051_1974_GV_FA2011_JT_03 ID:272 
 "<o>"
 	"o" Conjunction CC lang:es 00:01:34 00:01:39 tt-895 MF051_1974_GV_FA2011_JT_03 
 "<se>"
 	"se" Other SE lang:es 00:01:34 00:01:39 tt-896 MF051_1974_GV_FA2011_JT_03 
 "<está>"
-	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:01:34 00:01:39 tt-897 MF051_1974_GV_FA2011_JT_03 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:01:34 00:01:39 tt-897 MF051_1974_GV_FA2011_JT_03 @Gram:SerEstar:Estar ID:275 R:Gram:SerEstar:EstarAux:276 
 "<poniendo>"
-	"poner" Verb VLger lang:es 00:01:34 00:01:39 tt-898 MF051_1974_GV_FA2011_JT_03 
+	"poner" Verb VLger lang:es 00:01:34 00:01:39 tt-898 MF051_1974_GV_FA2011_JT_03 ID:276 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:01:34 00:01:39 tt-899 MF051_1974_GV_FA2011_JT_03 
 "<acento>"
@@ -673,7 +673,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:01:51 00:01:56 tt-946 MF051_1974_GV_FA2011_JT_03 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:51 00:01:56 tt-947 MF051_1974_GV_FA2011_JT_03 
+	"mío" Pronoun PPO Singular lang:es 00:01:51 00:01:56 tt-947 MF051_1974_GV_FA2011_JT_03 @Gram:Det:Pos 
 "<primer>"
 	"primero" Adjective ORD Singular lang:es 00:01:51 00:01:56 tt-948 MF051_1974_GV_FA2011_JT_03 
 "<lenguaje>"
@@ -738,7 +738,7 @@
 	"?" Punctuation FS lang:es 00:02:00 00:02:07 tt-977 MF051_1974_GV_FA2011_JT_03 
 
 "<al>"
-	"al" Preposition PAL lang:es 00:02:00 00:02:07 tt-978 MF051_1974_GV_FA2011_JT_03 
+	"al" Preposition PAL lang:es 00:02:00 00:02:07 tt-978 MF051_1974_GV_FA2011_JT_03 @Gram:Prep 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:02:00 00:02:07 tt-979 MF051_1974_GV_FA2011_JT_03 
 "<$.>"

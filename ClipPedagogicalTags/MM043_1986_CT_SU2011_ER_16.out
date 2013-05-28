@@ -9,13 +9,13 @@
 "<opinas>"
 	"opinar" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-5046 MM043_1986_CT_SU2011_ER_16 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-5047 MM043_1986_CT_SU2011_ER_16 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-5047 MM043_1986_CT_SU2011_ER_16 @Gram:Pron:Sujeto 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-5048 MM043_1986_CT_SU2011_ER_16 
+	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-5048 MM043_1986_CT_SU2011_ER_16 @Gram:Prep 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:00 00:00:07 tt-5049 MM043_1986_CT_SU2011_ER_16 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-5050 MM043_1986_CT_SU2011_ER_16 
+	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-5050 MM043_1986_CT_SU2011_ER_16 @Gram:Prep 
 "<hecho>"
 	"hecho" Noun NC Singular lang:es 00:00:00 00:00:07 tt-5051 MM043_1986_CT_SU2011_ER_16 
 "<de>"
@@ -53,7 +53,7 @@
 "<burlan>"
 	"burlar" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:08 00:00:14 tt-5068 MM043_1986_CT_SU2011_ER_16 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:08 00:00:14 tt-5069 MM043_1986_CT_SU2011_ER_16 
+	"del" Preposition PDEL lang:es 00:00:08 00:00:14 tt-5069 MM043_1986_CT_SU2011_ER_16 @Gram:Prep 
 "<tipo>"
 	"tipo" Noun NC Singular lang:es 00:00:08 00:00:14 tt-5070 MM043_1986_CT_SU2011_ER_16 
 "<de>"
@@ -206,9 +206,9 @@
 "<Yo>"
 	"yo" Pronoun PPX Singular lang:es 00:00:37 00:00:44 tt-5142 MM043_1986_CT_SU2011_ER_16 @Gram:Pron:Sujeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:37 00:00:44 tt-5143 MM043_1986_CT_SU2011_ER_16 ID:100 R:Gram:PerfPerif:101 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:37 00:00:44 tt-5143 MM043_1986_CT_SU2011_ER_16 ID:100 R:Gram:SerEstar:Ser:101 R:Gram:Aux:Haber:101 R:Gram:PerfPerif:101 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:37 00:00:44 tt-5144 MM043_1986_CT_SU2011_ER_16 @Gram:SerEstar:Ser ID:101 
+	"ser" Verb VSadj Participle lang:es 00:00:37 00:00:44 tt-5144 MM043_1986_CT_SU2011_ER_16 ID:101 
 "<ese>"
 	"ese" Noun NC Singular lang:es 00:00:37 00:00:44 tt-5145 MM043_1986_CT_SU2011_ER_16 
 "<...>"
@@ -224,7 +224,7 @@
 "<se>"
 	"se" Other SE lang:es 00:00:37 00:00:44 tt-5151 MM043_1986_CT_SU2011_ER_16 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:37 00:00:44 tt-5152 MM043_1986_CT_SU2011_ER_16 ID:109 R:Gram:PerfPerif:110 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:37 00:00:44 tt-5152 MM043_1986_CT_SU2011_ER_16 ID:109 R:Gram:Aux:Haber:110 R:Gram:PerfPerif:110 
 "<burlado>"
 	"burlar" Verb VLadj lang:es 00:00:37 00:00:44 tt-5153 MM043_1986_CT_SU2011_ER_16 ID:110 
 "<de>"
@@ -461,7 +461,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:16 00:01:23 tt-5268 MM043_1986_CT_SU2011_ER_16 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:01:26 00:01:33 tt-5269 MM043_1986_CT_SU2011_ER_16 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:01:26 00:01:33 tt-5269 MM043_1986_CT_SU2011_ER_16 @Gram:SerEstar:Ser 
 "<mexicanos>"
 	"mexicano" Adjective ADJ Plural lang:es 00:01:26 00:01:33 tt-5270 MM043_1986_CT_SU2011_ER_16 
 "<,>"

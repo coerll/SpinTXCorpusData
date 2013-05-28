@@ -39,7 +39,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:00 00:00:06 tt-1803 AF046_1992_CT_SU2011_ER_05 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:06 00:00:13 tt-1804 AF046_1992_CT_SU2011_ER_05 
+	"tú" Pronoun PPX Singular lang:es 00:00:06 00:00:13 tt-1804 AF046_1992_CT_SU2011_ER_05 @Gram:Pron:Sujeto 
 "<,>"
 	"," Punctuation CM lang:es 00:00:06 00:00:13 tt-1805 AF046_1992_CT_SU2011_ER_05 
 "<este>"
@@ -157,7 +157,7 @@
 	"." Punctuation FS lang:es 00:00:24 00:00:30 tt-1861 AF046_1992_CT_SU2011_ER_05 
 
 "<He>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:24 00:00:30 tt-1862 AF046_1992_CT_SU2011_ER_05 ID:76 R:Gram:PerfPerif:77 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:24 00:00:30 tt-1862 AF046_1992_CT_SU2011_ER_05 ID:76 R:Gram:Aux:Haber:77 R:Gram:PerfPerif:77 
 "<conocido>"
 	"conocer" Verb VLadj lang:es 00:00:24 00:00:30 tt-1863 AF046_1992_CT_SU2011_ER_05 ID:77 
 "<a>"

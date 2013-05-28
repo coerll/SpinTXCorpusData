@@ -56,7 +56,7 @@
 "<julio>"
 	"julio" Noun NC Singular lang:es 00:00:10 00:00:17 tt-45 OM022_1963_CT_SU2011_VA_01 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:10 00:00:17 tt-46 OM022_1963_CT_SU2011_VA_01 
+	"del" Preposition PDEL lang:es 00:00:10 00:00:17 tt-46 OM022_1963_CT_SU2011_VA_01 @Gram:Prep 
 "<dos>"
 	"dos" Determiner CARD Plural lang:es 00:00:10 00:00:17 tt-47 OM022_1963_CT_SU2011_VA_01 
 "<mil>"
@@ -303,7 +303,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:01 00:01:08 tt-170 OM022_1963_CT_SU2011_VA_01 
 "<Mi>"
-	"UNK" Noun NP Singular lang:es 00:01:01 00:01:08 tt-171 OM022_1963_CT_SU2011_VA_01 
+	"UNK" Noun NP Singular lang:es 00:01:01 00:01:08 tt-171 OM022_1963_CT_SU2011_VA_01 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:01:01 00:01:08 tt-172 OM022_1963_CT_SU2011_VA_01 
 "<mudaba>"
@@ -430,7 +430,7 @@
 "<medio>"
 	"medio" Noun NC Singular lang:es 00:01:25 00:01:32 tt-233 OM022_1963_CT_SU2011_VA_01 
 "<del>"
-	"del" Preposition PDEL lang:es 00:01:25 00:01:32 tt-234 OM022_1963_CT_SU2011_VA_01 
+	"del" Preposition PDEL lang:es 00:01:25 00:01:32 tt-234 OM022_1963_CT_SU2011_VA_01 @Gram:Prep 
 "<camino>"
 	"camino" Noun NC Singular lang:es 00:01:25 00:01:32 tt-235 OM022_1963_CT_SU2011_VA_01 
 "<,>"
@@ -464,7 +464,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:32 00:01:39 tt-250 OM022_1963_CT_SU2011_VA_01 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:32 00:01:39 tt-251 OM022_1963_CT_SU2011_VA_01 
+	"mío" Pronoun PPO Singular lang:es 00:01:32 00:01:39 tt-251 OM022_1963_CT_SU2011_VA_01 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:01:32 00:01:39 tt-252 OM022_1963_CT_SU2011_VA_01 
 "<,>"
@@ -545,9 +545,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:46 00:01:52 tt-290 OM022_1963_CT_SU2011_VA_01 
 "<estábamos>"
-	"estar" Verb VEfin Imp Indi Plural 1st lang:es 00:01:46 00:01:52 tt-291 OM022_1963_CT_SU2011_VA_01 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Plural 1st lang:es 00:01:46 00:01:52 tt-291 OM022_1963_CT_SU2011_VA_01 @Gram:Imperf @Gram:SerEstar:Estar ID:269 R:Gram:SerEstar:EstarAux:270 
 "<haciendo>"
-	"hacer" Verb VLger lang:es 00:01:46 00:01:52 tt-292 OM022_1963_CT_SU2011_VA_01 
+	"hacer" Verb VLger lang:es 00:01:46 00:01:52 tt-292 OM022_1963_CT_SU2011_VA_01 ID:270 
 "<,>"
 	"," Punctuation CM lang:es 00:01:46 00:01:52 tt-293 OM022_1963_CT_SU2011_VA_01 
 "<entonces>"
@@ -561,7 +561,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:52 00:01:57 tt-298 OM022_1963_CT_SU2011_VA_01 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:52 00:01:57 tt-299 OM022_1963_CT_SU2011_VA_01 
+	"mío" Pronoun PPO Singular lang:es 00:01:52 00:01:57 tt-299 OM022_1963_CT_SU2011_VA_01 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:01:52 00:01:57 tt-300 OM022_1963_CT_SU2011_VA_01 
 "<,>"

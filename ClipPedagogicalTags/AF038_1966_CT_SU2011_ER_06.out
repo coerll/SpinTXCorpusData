@@ -37,7 +37,7 @@
 "<se>"
 	"se" Other SE lang:es 00:00:00 00:00:07 tt-2965 AF038_1966_CT_SU2011_ER_06 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-2966 AF038_1966_CT_SU2011_ER_06 ID:19 R:Gram:PerfPerif:20 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-2966 AF038_1966_CT_SU2011_ER_06 ID:19 R:Gram:Aux:Haber:20 R:Gram:PerfPerif:20 
 "<encontrado>"
 	"encontrar" Verb VLadj lang:es 00:00:08 00:00:12 tt-2967 AF038_1966_CT_SU2011_ER_06 ID:20 
 "<algún>"
@@ -51,7 +51,7 @@
 "<se>"
 	"se" Other SE lang:es 00:00:08 00:00:12 tt-2972 AF038_1966_CT_SU2011_ER_06 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:08 00:00:12 tt-2973 AF038_1966_CT_SU2011_ER_06 ID:26 R:Gram:PerfPerif:27 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:08 00:00:12 tt-2973 AF038_1966_CT_SU2011_ER_06 ID:26 R:Gram:Aux:Haber:27 R:Gram:PerfPerif:27 
 "<enfrentado>"
 	"enfrentar" Verb VLadj lang:es 00:00:08 00:00:12 tt-2974 AF038_1966_CT_SU2011_ER_06 ID:27 
 "<a>"
@@ -86,7 +86,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:13 00:00:19 tt-2988 AF038_1966_CT_SU2011_ER_06 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:13 00:00:19 tt-2989 AF038_1966_CT_SU2011_ER_06 ID:42 R:Gram:PerfPerif:43 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:13 00:00:19 tt-2989 AF038_1966_CT_SU2011_ER_06 ID:42 R:Gram:Aux:Haber:43 R:Gram:PerfPerif:43 
 "<pasado>"
 	"pasar" Verb VLadj lang:es 00:00:13 00:00:19 tt-2990 AF038_1966_CT_SU2011_ER_06 ID:43 
 "<$.>"
@@ -97,15 +97,15 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:13 00:00:19 tt-2993 AF038_1966_CT_SU2011_ER_06 
 "<estuve>"
-	"estar" Verb VEfin Pret Indi Sing 1st lang:es 00:00:13 00:00:19 tt-2994 AF038_1966_CT_SU2011_ER_06 @Gram:Indefinido @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pret Indi Sing 1st lang:es 00:00:13 00:00:19 tt-2994 AF038_1966_CT_SU2011_ER_06 @Gram:Indefinido @Gram:SerEstar:Estar ID:47 R:Gram:SerEstar:EstarAux:48 
 "<viviendo>"
-	"vivir" Verb VLger lang:es 00:00:13 00:00:19 tt-2995 AF038_1966_CT_SU2011_ER_06 
+	"vivir" Verb VLger lang:es 00:00:13 00:00:19 tt-2995 AF038_1966_CT_SU2011_ER_06 ID:48 
 "<,>"
 	"," Punctuation CM lang:es 00:00:13 00:00:19 tt-2996 AF038_1966_CT_SU2011_ER_06 
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:13 00:00:19 tt-2997 AF038_1966_CT_SU2011_ER_06 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:13 00:00:19 tt-2998 AF038_1966_CT_SU2011_ER_06 
+	"UNK" Noun NC Plural lang:es 00:00:13 00:00:19 tt-2998 AF038_1966_CT_SU2011_ER_06 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:13 00:00:19 tt-2999 AF038_1966_CT_SU2011_ER_06 
 "<estaban>"
@@ -115,9 +115,9 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:13 00:00:19 tt-3002 AF038_1966_CT_SU2011_ER_06 
 "<estuve>"
-	"estar" Verb VEfin Pret Indi Sing 1st lang:es 00:00:13 00:00:19 tt-3003 AF038_1966_CT_SU2011_ER_06 @Gram:Indefinido @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pret Indi Sing 1st lang:es 00:00:13 00:00:19 tt-3003 AF038_1966_CT_SU2011_ER_06 @Gram:Indefinido @Gram:SerEstar:Estar ID:56 R:Gram:SerEstar:EstarAux:57 
 "<viviendo>"
-	"vivir" Verb VLger lang:es 00:00:19 00:00:26 tt-3004 AF038_1966_CT_SU2011_ER_06 
+	"vivir" Verb VLger lang:es 00:00:19 00:00:26 tt-3004 AF038_1966_CT_SU2011_ER_06 ID:57 
 "<como>"
 	"como" Conjunction CSUBX lang:es 00:00:19 00:00:26 tt-3005 AF038_1966_CT_SU2011_ER_06 
 "<seis>"

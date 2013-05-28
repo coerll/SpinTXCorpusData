@@ -41,7 +41,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:09 00:00:16 tt-1496 MM043_1986_CT_SU2011_ER_07 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:09 00:00:16 tt-1497 MM043_1986_CT_SU2011_ER_07 ID:21 R:Gram:PerfPerif:22 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:09 00:00:16 tt-1497 MM043_1986_CT_SU2011_ER_07 ID:21 R:Gram:Aux:Haber:22 R:Gram:PerfPerif:22 
 "<dejado>"
 	"dejar" Verb VLadj lang:es 00:00:09 00:00:16 tt-1498 MM043_1986_CT_SU2011_ER_07 ID:22 
 "<,>"
@@ -57,7 +57,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:09 00:00:16 tt-1504 MM043_1986_CT_SU2011_ER_07 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:09 00:00:16 tt-1505 MM043_1986_CT_SU2011_ER_07 ID:29 R:Gram:PerfPerif:30 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:09 00:00:16 tt-1505 MM043_1986_CT_SU2011_ER_07 ID:29 R:Gram:Aux:Haber:30 R:Gram:PerfPerif:30 
 "<dejado>"
 	"dejar" Verb VLadj lang:es 00:00:09 00:00:16 tt-1506 MM043_1986_CT_SU2011_ER_07 ID:30 
 "<un>"
@@ -81,9 +81,9 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:17 00:00:24 tt-1516 MM043_1986_CT_SU2011_ER_07 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:17 00:00:24 tt-1517 MM043_1986_CT_SU2011_ER_07 ID:41 R:Gram:PerfPerif:42 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:17 00:00:24 tt-1517 MM043_1986_CT_SU2011_ER_07 ID:41 R:Gram:SerEstar:Ser:42 R:Gram:Aux:Haber:42 R:Gram:PerfPerif:42 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:17 00:00:24 tt-1518 MM043_1986_CT_SU2011_ER_07 @Gram:SerEstar:Ser ID:42 
+	"ser" Verb VSadj Participle lang:es 00:00:17 00:00:24 tt-1518 MM043_1986_CT_SU2011_ER_07 ID:42 
 "<como>"
 	"como" Adverb ADV lang:es 00:00:17 00:00:24 tt-1519 MM043_1986_CT_SU2011_ER_07 
 "<ya>"
@@ -239,7 +239,7 @@
 "<ir>"
 	"ir" Verb VLinf Infinitive lang:es 00:00:48 00:00:54 tt-1594 MM043_1986_CT_SU2011_ER_07 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:48 00:00:54 tt-1595 MM043_1986_CT_SU2011_ER_07 
+	"al" Preposition PAL lang:es 00:00:48 00:00:54 tt-1595 MM043_1986_CT_SU2011_ER_07 @Gram:Prep 
 "<colegio>"
 	"colegio" Noun NC Singular lang:es 00:00:48 00:00:54 tt-1596 MM043_1986_CT_SU2011_ER_07 
 "<,>"

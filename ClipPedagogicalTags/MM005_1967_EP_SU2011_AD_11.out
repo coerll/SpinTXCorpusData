@@ -9,7 +9,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:00 00:00:03 tt-2607 MM005_1967_EP_SU2011_AD_11 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:03 tt-2608 MM005_1967_EP_SU2011_AD_11 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:03 tt-2608 MM005_1967_EP_SU2011_AD_11 
 "<esposa>"
 	"esposar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:03 tt-2609 MM005_1967_EP_SU2011_AD_11 
 "<$?>"
@@ -61,7 +61,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:03 00:00:10 tt-2631 MM005_1967_EP_SU2011_AD_11 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:12 00:00:19 tt-2632 MM005_1967_EP_SU2011_AD_11 
+	"mío" Pronoun PPO Singular lang:es 00:00:12 00:00:19 tt-2632 MM005_1967_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<hermano>"
 	"hermano" Noun NC Singular lang:es 00:00:12 00:00:19 tt-2633 MM005_1967_EP_SU2011_AD_11 
 "<,>"
@@ -205,7 +205,7 @@
 "<nunca>"
 	"nunca" Adverb ADV lang:es 00:00:40 00:00:47 tt-2700 MM005_1967_EP_SU2011_AD_11 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:40 00:00:47 tt-2701 MM005_1967_EP_SU2011_AD_11 ID:98 R:Gram:PerfPerif:99 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:40 00:00:47 tt-2701 MM005_1967_EP_SU2011_AD_11 ID:98 R:Gram:Aux:Haber:99 R:Gram:PerfPerif:99 
 "<pensado>"
 	"pensar" Verb VLadj lang:es 00:00:40 00:00:47 tt-2702 MM005_1967_EP_SU2011_AD_11 ID:99 R:Vocab:Fraseol:VerbPrep:100 
 "<en>"
@@ -237,7 +237,7 @@
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:00:50 00:00:55 tt-2716 MM005_1967_EP_SU2011_AD_11 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:50 00:00:55 tt-2717 MM005_1967_EP_SU2011_AD_11 ID:114 R:Gram:PerfPerif:115 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:50 00:00:55 tt-2717 MM005_1967_EP_SU2011_AD_11 ID:114 R:Gram:Aux:Haber:115 R:Gram:PerfPerif:115 
 "<vivido>"
 	"vivir" Verb VLadj lang:es 00:00:50 00:00:55 tt-2718 MM005_1967_EP_SU2011_AD_11 ID:115 
 "<el>"
@@ -278,9 +278,9 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:55 00:00:59 tt-2736 MM005_1967_EP_SU2011_AD_11 
 "<estar>"
-	"estar" Verb VEinf Infinitive lang:es 00:00:55 00:00:59 tt-2737 MM005_1967_EP_SU2011_AD_11 @Gram:SerEstar:Estar 
+	"estar" Verb VEinf Infinitive lang:es 00:00:55 00:00:59 tt-2737 MM005_1967_EP_SU2011_AD_11 @Gram:SerEstar:Estar ID:134 R:Gram:SerEstar:EstarAux:135 
 "<esperando>"
-	"esperar" Verb VLger lang:es 00:00:55 00:00:59 tt-2738 MM005_1967_EP_SU2011_AD_11 
+	"esperar" Verb VLger lang:es 00:00:55 00:00:59 tt-2738 MM005_1967_EP_SU2011_AD_11 ID:135 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:55 00:00:59 tt-2739 MM005_1967_EP_SU2011_AD_11 
 "<voy>"
@@ -327,7 +327,7 @@
 "<nos>"
 	"nosotros" Pronoun PPX Plural lang:es 00:00:59 00:01:06 tt-2760 MM005_1967_EP_SU2011_AD_11 @Gram:Pron:Objeto 
 "<hemos>"
-	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:59 00:01:06 tt-2761 MM005_1967_EP_SU2011_AD_11 ID:158 R:Gram:PerfPerif:159 
+	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:59 00:01:06 tt-2761 MM005_1967_EP_SU2011_AD_11 ID:158 R:Gram:Aux:Haber:159 R:Gram:PerfPerif:159 
 "<llevado>"
 	"llevar" Verb VLadj lang:es 00:00:59 00:01:06 tt-2762 MM005_1967_EP_SU2011_AD_11 ID:159 
 "<bien>"
@@ -654,7 +654,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:51 00:01:56 tt-2919 MM005_1967_EP_SU2011_AD_11 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:01:51 00:01:56 tt-2920 MM005_1967_EP_SU2011_AD_11 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:01:51 00:01:56 tt-2920 MM005_1967_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<pareja>"
 	"pareja" Noun NC Singular lang:es 00:01:51 00:01:56 tt-2921 MM005_1967_EP_SU2011_AD_11 
 "<$?>"
@@ -728,7 +728,7 @@
 "<ella>"
 	"él" Pronoun PPX Singular lang:es 00:02:05 00:02:12 tt-2956 MM005_1967_EP_SU2011_AD_11 @Gram:Pron:Sujeto 
 "<al>"
-	"al" Preposition PAL lang:es 00:02:05 00:02:12 tt-2957 MM005_1967_EP_SU2011_AD_11 
+	"al" Preposition PAL lang:es 00:02:05 00:02:12 tt-2957 MM005_1967_EP_SU2011_AD_11 @Gram:Prep 
 "<puente>"
 	"puente" Noun NC Singular lang:es 00:02:05 00:02:12 tt-2958 MM005_1967_EP_SU2011_AD_11 
 "<que>"
@@ -819,13 +819,13 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:02:27 00:02:33 tt-3001 MM005_1967_EP_SU2011_AD_11 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:27 00:02:33 tt-3002 MM005_1967_EP_SU2011_AD_11 
+	"mío" Pronoun PPO Singular lang:es 00:02:27 00:02:33 tt-3002 MM005_1967_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:02:27 00:02:33 tt-3003 MM005_1967_EP_SU2011_AD_11 
 "<y>"
 	"y" Conjunction CC lang:es 00:02:27 00:02:33 tt-3004 MM005_1967_EP_SU2011_AD_11 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:27 00:02:33 tt-3005 MM005_1967_EP_SU2011_AD_11 
+	"mío" Pronoun PPO Singular lang:es 00:02:27 00:02:33 tt-3005 MM005_1967_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:02:27 00:02:33 tt-3006 MM005_1967_EP_SU2011_AD_11 
 "<en>"
@@ -906,7 +906,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:02:38 00:02:42 tt-3044 MM005_1967_EP_SU2011_AD_11 
 "<hemos>"
-	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:02:38 00:02:42 tt-3045 MM005_1967_EP_SU2011_AD_11 ID:439 R:Gram:PerfPerif:440 
+	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:02:38 00:02:42 tt-3045 MM005_1967_EP_SU2011_AD_11 ID:439 R:Gram:Aux:Haber:440 R:Gram:PerfPerif:440 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:02:38 00:02:42 tt-3046 MM005_1967_EP_SU2011_AD_11 ID:440 
 "<ella>"
@@ -918,7 +918,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:02:38 00:02:42 tt-3050 MM005_1967_EP_SU2011_AD_11 
 "<hemos>"
-	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:02:38 00:02:42 tt-3051 MM005_1967_EP_SU2011_AD_11 ID:445 R:Gram:PerfPerif:446 
+	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:02:38 00:02:42 tt-3051 MM005_1967_EP_SU2011_AD_11 ID:445 R:Gram:Aux:Haber:446 R:Gram:PerfPerif:446 
 "<convivido>"
 	"convivir" Verb VLadj lang:es 00:02:38 00:02:42 tt-3052 MM005_1967_EP_SU2011_AD_11 ID:446 
 "<siempre>"
@@ -960,7 +960,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:02:42 00:02:49 tt-3070 MM005_1967_EP_SU2011_AD_11 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:02:42 00:02:49 tt-3071 MM005_1967_EP_SU2011_AD_11 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:02:42 00:02:49 tt-3071 MM005_1967_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:02:42 00:02:49 tt-3072 MM005_1967_EP_SU2011_AD_11 
 "<$?>"
@@ -979,7 +979,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:02:50 00:02:57 tt-3078 MM005_1967_EP_SU2011_AD_11 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:50 00:02:57 tt-3079 MM005_1967_EP_SU2011_AD_11 
+	"mío" Pronoun PPO Singular lang:es 00:02:50 00:02:57 tt-3079 MM005_1967_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:02:50 00:02:57 tt-3080 MM005_1967_EP_SU2011_AD_11 
 "<$?>"
@@ -1007,9 +1007,9 @@
 "<creo>"
 	"crear|creer" Verb VLfin Pres Indi Sing 1st lang:es 00:02:50 00:02:57 tt-3091 MM005_1967_EP_SU2011_AD_11 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:02:50 00:02:57 tt-3092 MM005_1967_EP_SU2011_AD_11 ID:486 R:Gram:PerfPerif:487 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:02:50 00:02:57 tt-3092 MM005_1967_EP_SU2011_AD_11 ID:486 R:Gram:SerEstar:Ser:487 R:Gram:Aux:Haber:487 R:Gram:PerfPerif:487 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:02:50 00:02:57 tt-3093 MM005_1967_EP_SU2011_AD_11 @Gram:SerEstar:Ser ID:487 
+	"ser" Verb VSadj Participle lang:es 00:02:50 00:02:57 tt-3093 MM005_1967_EP_SU2011_AD_11 ID:487 
 "<feliz>"
 	"feliz" Adjective ADJ Singular lang:es 00:02:50 00:02:57 tt-3094 MM005_1967_EP_SU2011_AD_11 
 "<,>"
@@ -1019,9 +1019,9 @@
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:02:57 00:03:04 tt-3097 MM005_1967_EP_SU2011_AD_11 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:02:57 00:03:04 tt-3098 MM005_1967_EP_SU2011_AD_11 ID:492 R:Gram:PerfPerif:493 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:02:57 00:03:04 tt-3098 MM005_1967_EP_SU2011_AD_11 ID:492 R:Gram:SerEstar:Ser:493 R:Gram:Aux:Haber:493 R:Gram:PerfPerif:493 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:02:57 00:03:04 tt-3099 MM005_1967_EP_SU2011_AD_11 @Gram:SerEstar:Ser ID:493 
+	"ser" Verb VSadj Participle lang:es 00:02:57 00:03:04 tt-3099 MM005_1967_EP_SU2011_AD_11 ID:493 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:02:57 00:03:04 tt-3100 MM005_1967_EP_SU2011_AD_11 
 "<siento>"
@@ -1031,9 +1031,9 @@
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:02:57 00:03:04 tt-3103 MM005_1967_EP_SU2011_AD_11 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:02:57 00:03:04 tt-3104 MM005_1967_EP_SU2011_AD_11 ID:498 R:Gram:PerfPerif:499 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:02:57 00:03:04 tt-3104 MM005_1967_EP_SU2011_AD_11 ID:498 R:Gram:SerEstar:Ser:499 R:Gram:Aux:Haber:499 R:Gram:PerfPerif:499 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:02:57 00:03:04 tt-3105 MM005_1967_EP_SU2011_AD_11 @Gram:SerEstar:Ser ID:499 
+	"ser" Verb VSadj Participle lang:es 00:02:57 00:03:04 tt-3105 MM005_1967_EP_SU2011_AD_11 ID:499 
 "<feliz>"
 	"feliz" Adjective ADJ Singular lang:es 00:02:57 00:03:04 tt-3106 MM005_1967_EP_SU2011_AD_11 
 "<,>"
@@ -1126,13 +1126,13 @@
 "<murió>"
 	"morir" Verb VLfin Pret Indi Sing 3rd lang:es 00:03:10 00:03:17 tt-3150 MM005_1967_EP_SU2011_AD_11 @Gram:Indefinido 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:03:10 00:03:17 tt-3151 MM005_1967_EP_SU2011_AD_11 
+	"mío" Pronoun PPO Singular lang:es 00:03:10 00:03:17 tt-3151 MM005_1967_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:03:10 00:03:17 tt-3152 MM005_1967_EP_SU2011_AD_11 
 "<y>"
 	"y" Conjunction CC lang:es 00:03:18 00:03:23 tt-3153 MM005_1967_EP_SU2011_AD_11 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:03:18 00:03:23 tt-3154 MM005_1967_EP_SU2011_AD_11 
+	"mío" Pronoun PPO Singular lang:es 00:03:18 00:03:23 tt-3154 MM005_1967_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:03:18 00:03:23 tt-3155 MM005_1967_EP_SU2011_AD_11 
 "<yo>"

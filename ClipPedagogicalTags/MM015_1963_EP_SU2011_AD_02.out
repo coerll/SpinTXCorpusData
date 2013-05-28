@@ -9,7 +9,7 @@
 "<viene>"
 	"venir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-1561 MM015_1963_EP_SU2011_AD_02 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-1562 MM015_1963_EP_SU2011_AD_02 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-1562 MM015_1963_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:00 00:00:07 tt-1563 MM015_1963_EP_SU2011_AD_02 
 "<y>"
@@ -74,7 +74,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:07 00:00:14 tt-1591 MM015_1963_EP_SU2011_AD_02 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:07 00:00:14 tt-1592 MM015_1963_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:07 00:00:14 tt-1592 MM015_1963_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<padre>"
 	"padre" Noun NC Singular lang:es 00:00:07 00:00:14 tt-1593 MM015_1963_EP_SU2011_AD_02 
 "<era>"
@@ -89,7 +89,7 @@
 	"." Punctuation FS lang:es 00:00:16 00:00:23 tt-1598 MM015_1963_EP_SU2011_AD_02 
 
 "<Eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:00:16 00:00:23 tt-1599 MM015_1963_EP_SU2011_AD_02 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:00:16 00:00:23 tt-1599 MM015_1963_EP_SU2011_AD_02 @Gram:SerEstar:Ser 
 "<los>"
 	"el" Determiner ART Plural lang:es 00:00:16 00:00:23 tt-1600 MM015_1963_EP_SU2011_AD_02 @Gram:Det:Art 
 "<que>"
@@ -125,7 +125,7 @@
 	"." Punctuation FS lang:es 00:00:23 00:00:30 tt-1615 MM015_1963_EP_SU2011_AD_02 
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:23 00:00:30 tt-1616 MM015_1963_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:23 00:00:30 tt-1616 MM015_1963_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:23 00:00:30 tt-1617 MM015_1963_EP_SU2011_AD_02 
 "<era>"

@@ -25,7 +25,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:00 00:00:07 tt-284 MM014_1961_EP_SU2011_AD_02 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-285 MM014_1961_EP_SU2011_AD_02 
+	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-285 MM014_1961_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:18 00:00:19 tt-286 MM014_1961_EP_SU2011_AD_02 
 "<$?>"
@@ -94,9 +94,9 @@
 "<nos>"
 	"nosotros" Pronoun PPX Plural lang:es 00:00:27 00:00:34 tt-317 MM014_1961_EP_SU2011_AD_02 @Gram:Pron:Objeto 
 "<estamos>"
-	"estar" Verb VEfin Pres Indi Plural 1st lang:es 00:00:27 00:00:34 tt-318 MM014_1961_EP_SU2011_AD_02 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Plural 1st lang:es 00:00:27 00:00:34 tt-318 MM014_1961_EP_SU2011_AD_02 @Gram:SerEstar:Estar ID:46 R:Gram:SerEstar:EstarAux:47 
 "<reuniendo>"
-	"reunir" Verb VLger lang:es 00:00:27 00:00:34 tt-319 MM014_1961_EP_SU2011_AD_02 
+	"reunir" Verb VLger lang:es 00:00:27 00:00:34 tt-319 MM014_1961_EP_SU2011_AD_02 ID:47 
 "<,>"
 	"," Punctuation CM lang:es 00:00:27 00:00:34 tt-320 MM014_1961_EP_SU2011_AD_02 
 "<casi>"
@@ -116,7 +116,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:37 00:00:44 tt-328 MM014_1961_EP_SU2011_AD_02 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:37 00:00:44 tt-329 MM014_1961_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:37 00:00:44 tt-329 MM014_1961_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<madre>"
 	"madre" Noun NC Singular lang:es 00:00:37 00:00:44 tt-330 MM014_1961_EP_SU2011_AD_02 
 "<,>"
@@ -151,7 +151,7 @@
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:37 00:00:44 tt-345 MM014_1961_EP_SU2011_AD_02 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:45 00:00:52 tt-346 MM014_1961_EP_SU2011_AD_02 ID:74 R:Gram:PerfPerif:75 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:45 00:00:52 tt-346 MM014_1961_EP_SU2011_AD_02 ID:74 R:Gram:Aux:Haber:75 R:Gram:PerfPerif:75 
 "<crecido>"
 	"crecer" Verb VLadj lang:es 00:00:45 00:00:52 tt-347 MM014_1961_EP_SU2011_AD_02 ID:75 
 "<mucho>"
@@ -167,9 +167,9 @@
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:00:45 00:00:52 tt-353 MM014_1961_EP_SU2011_AD_02 
 "<estamos>"
-	"estar" Verb VEfin Pres Indi Plural 1st lang:es 00:00:45 00:00:52 tt-354 MM014_1961_EP_SU2011_AD_02 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Plural 1st lang:es 00:00:45 00:00:52 tt-354 MM014_1961_EP_SU2011_AD_02 @Gram:SerEstar:Estar ID:82 R:Gram:SerEstar:EstarAux:83 
 "<conviviendo>"
-	"convivir" Verb VLger lang:es 00:00:45 00:00:52 tt-355 MM014_1961_EP_SU2011_AD_02 
+	"convivir" Verb VLger lang:es 00:00:45 00:00:52 tt-355 MM014_1961_EP_SU2011_AD_02 ID:83 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:45 00:00:52 tt-356 MM014_1961_EP_SU2011_AD_02 
 
@@ -212,7 +212,7 @@
 "<día>"
 	"día" Noun NC Singular lang:es 00:00:53 00:01:00 tt-375 MM014_1961_EP_SU2011_AD_02 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:53 00:01:00 tt-376 MM014_1961_EP_SU2011_AD_02 
+	"del" Preposition PDEL lang:es 00:00:53 00:01:00 tt-376 MM014_1961_EP_SU2011_AD_02 @Gram:Prep 
 "<padre>"
 	"padre" Noun NC Singular lang:es 00:00:53 00:01:00 tt-377 MM014_1961_EP_SU2011_AD_02 
 "<,>"

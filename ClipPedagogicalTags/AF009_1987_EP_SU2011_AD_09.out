@@ -171,9 +171,9 @@
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:27 00:00:32 tt-2579 AF009_1987_EP_SU2011_AD_09 
 "<está>"
-	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:00:27 00:00:32 tt-2580 AF009_1987_EP_SU2011_AD_09 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:00:27 00:00:32 tt-2580 AF009_1987_EP_SU2011_AD_09 @Gram:SerEstar:Estar ID:85 R:Gram:SerEstar:EstarAux:86 
 "<hablando>"
-	"hablar" Verb VLger lang:es 00:00:27 00:00:32 tt-2581 AF009_1987_EP_SU2011_AD_09 
+	"hablar" Verb VLger lang:es 00:00:27 00:00:32 tt-2581 AF009_1987_EP_SU2011_AD_09 ID:86 
 "<últimamente>"
 	"últimamente" Adverb ADV lang:es 00:00:27 00:00:32 tt-2582 AF009_1987_EP_SU2011_AD_09 
 "<,>"
@@ -215,7 +215,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:33 00:00:38 tt-2600 AF009_1987_EP_SU2011_AD_09 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:33 00:00:38 tt-2601 AF009_1987_EP_SU2011_AD_09 
+	"tú" Pronoun PPX Singular lang:es 00:00:33 00:00:38 tt-2601 AF009_1987_EP_SU2011_AD_09 @Gram:Pron:Sujeto 
 "<lo>"
 	"el" Determiner ART Singular lang:es 00:00:33 00:00:38 tt-2602 AF009_1987_EP_SU2011_AD_09 
 "<haces>"
@@ -226,7 +226,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:33 00:00:38 tt-2605 AF009_1987_EP_SU2011_AD_09 
 "<Tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:33 00:00:38 tt-2606 AF009_1987_EP_SU2011_AD_09 
+	"tú" Pronoun PPX Singular lang:es 00:00:33 00:00:38 tt-2606 AF009_1987_EP_SU2011_AD_09 @Gram:Pron:Sujeto 
 "<mezclas>"
 	"mezclar" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:33 00:00:38 tt-2607 AF009_1987_EP_SU2011_AD_09 
 "<los>"
@@ -260,7 +260,7 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:38 00:00:43 tt-2620 AF009_1987_EP_SU2011_AD_09 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:38 00:00:43 tt-2621 AF009_1987_EP_SU2011_AD_09 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:38 00:00:43 tt-2621 AF009_1987_EP_SU2011_AD_09 @Gram:SerEstar:Estar ID:126 R:Gram:SerEstar:EstarAux:127 
 "<hablando>"
 	"hablar" Verb VLger lang:es 00:00:38 00:00:43 tt-2622 AF009_1987_EP_SU2011_AD_09 ID:127 R:Vocab:Fraseol:VerbPrep:128 
 "<con>"
@@ -272,9 +272,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:38 00:00:43 tt-2626 AF009_1987_EP_SU2011_AD_09 
 "<está>"
-	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:00:38 00:00:43 tt-2627 AF009_1987_EP_SU2011_AD_09 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:00:38 00:00:43 tt-2627 AF009_1987_EP_SU2011_AD_09 @Gram:SerEstar:Estar ID:132 R:Gram:SerEstar:EstarAux:133 
 "<hablando>"
-	"hablar" Verb VLger lang:es 00:00:38 00:00:43 tt-2628 AF009_1987_EP_SU2011_AD_09 
+	"hablar" Verb VLger lang:es 00:00:38 00:00:43 tt-2628 AF009_1987_EP_SU2011_AD_09 ID:133 
 "<así>"
 	"así" Adverb ADV lang:es 00:00:43 00:00:50 tt-2629 AF009_1987_EP_SU2011_AD_09 
 "<,>"

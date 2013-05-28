@@ -27,7 +27,7 @@
 "<fueron>"
 	"ser" Verb VSfin Pret Indi Plural 3rd lang:es 00:00:00 00:00:06 tt-1231 MM043_1986_CT_SU2011_ER_06 @Gram:SerEstar:Ser 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:00 00:00:06 tt-1232 MM043_1986_CT_SU2011_ER_06 
+	"UNK" Noun NC Plural lang:es 00:00:00 00:00:06 tt-1232 MM043_1986_CT_SU2011_ER_06 @Gram:Det:Pos 
 "<primeras>"
 	"primera" Noun NC Plural lang:es 00:00:00 00:00:06 tt-1233 MM043_1986_CT_SU2011_ER_06 
 "<impresiones>"
@@ -97,7 +97,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:15 00:00:22 tt-1264 MM043_1986_CT_SU2011_ER_06 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:15 00:00:22 tt-1265 MM043_1986_CT_SU2011_ER_06 
+	"UNK" Noun NC Plural lang:es 00:00:15 00:00:22 tt-1265 MM043_1986_CT_SU2011_ER_06 @Gram:Det:Pos 
 "<hermanitos>"
 	"hermano" Noun NC Plural lang:es 00:00:15 00:00:22 tt-1266 MM043_1986_CT_SU2011_ER_06 
 "<y>"
@@ -141,7 +141,7 @@
 "<calles>"
 	"calle" Noun NC Plural lang:es 00:00:22 00:00:29 tt-1286 MM043_1986_CT_SU2011_ER_06 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:00:22 00:00:29 tt-1287 MM043_1986_CT_SU2011_ER_06 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:00:22 00:00:29 tt-1287 MM043_1986_CT_SU2011_ER_06 @Gram:SerEstar:Ser 
 "<mucho>"
 	"mucho" Adverb ADV lang:es 00:00:22 00:00:29 tt-1288 MM043_1986_CT_SU2011_ER_06 
 "<más>"
@@ -277,7 +277,7 @@
 "<por>"
 	"por" Preposition PREP lang:es 00:00:47 00:00:54 tt-1353 MM043_1986_CT_SU2011_ER_06 @Gram:Prep:Por 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:47 00:00:54 tt-1354 MM043_1986_CT_SU2011_ER_06 
+	"UNK" Noun NC Plural lang:es 00:00:47 00:00:54 tt-1354 MM043_1986_CT_SU2011_ER_06 @Gram:Det:Pos 
 "<libros>"
 	"libro" Noun NC Plural lang:es 00:00:47 00:00:54 tt-1355 MM043_1986_CT_SU2011_ER_06 
 "<en>"
@@ -373,7 +373,7 @@
 "<haber>"
 	"haber" Verb VHinf Infinitive lang:es 00:01:11 00:01:18 tt-1401 MM043_1986_CT_SU2011_ER_06 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:01:11 00:01:18 tt-1402 MM043_1986_CT_SU2011_ER_06 @Gram:SerEstar:Ser 
+	"ser" Verb VSadj Participle lang:es 00:01:11 00:01:18 tt-1402 MM043_1986_CT_SU2011_ER_06 
 "<en>"
 	"en" Preposition PREP lang:es 00:01:11 00:01:18 tt-1403 MM043_1986_CT_SU2011_ER_06 @Gram:Prep 
 "<México>"

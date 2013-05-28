@@ -190,7 +190,7 @@
 "<cerquita>"
 	"cerca" Adverb ADV lang:es 00:00:36 00:00:43 tt-109 MM005_1967_EP_SU2011_AD_01 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:36 00:00:43 tt-110 MM005_1967_EP_SU2011_AD_01 
+	"del" Preposition PDEL lang:es 00:00:36 00:00:43 tt-110 MM005_1967_EP_SU2011_AD_01 @Gram:Prep 
 "<Seguro>"
 	"UNK" Noun NC Singular lang:es 00:00:36 00:00:43 tt-111 MM005_1967_EP_SU2011_AD_01 
 "<Social>"
@@ -218,7 +218,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:43 00:00:50 tt-123 MM005_1967_EP_SU2011_AD_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:43 00:00:50 tt-124 MM005_1967_EP_SU2011_AD_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:43 00:00:50 tt-124 MM005_1967_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<mente>"
 	"mente" Noun NC Singular lang:es 00:00:43 00:00:50 tt-125 MM005_1967_EP_SU2011_AD_01 
 "<alcanza>"
@@ -246,7 +246,7 @@
 "<vivimos>"
 	"vivir" Verb VLfin Pres_or_Pret Indi Plural 1st lang:es 00:00:51 00:00:58 tt-137 MM005_1967_EP_SU2011_AD_01 
 "<nuestros>"
-	"UNK" Noun NC Plural lang:es 00:00:51 00:00:58 tt-138 MM005_1967_EP_SU2011_AD_01 
+	"UNK" Noun NC Plural lang:es 00:00:51 00:00:58 tt-138 MM005_1967_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:00:51 00:00:58 tt-139 MM005_1967_EP_SU2011_AD_01 
 "<y>"
@@ -350,13 +350,13 @@
 "<íbamos>"
 	"ir" Verb VLfin Imp Indi Plural 1st lang:es 00:01:06 00:01:13 tt-189 MM005_1967_EP_SU2011_AD_01 @Gram:Imperf 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:06 00:01:13 tt-190 MM005_1967_EP_SU2011_AD_01 
+	"al" Preposition PAL lang:es 00:01:06 00:01:13 tt-190 MM005_1967_EP_SU2011_AD_01 @Gram:Prep 
 "<baño>"
 	"baño" Noun NC Singular lang:es 00:01:06 00:01:13 tt-191 MM005_1967_EP_SU2011_AD_01 
 "<tenía>"
 	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:06 00:01:13 tt-192 MM005_1967_EP_SU2011_AD_01 @Gram:Imperf 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:14 00:01:21 tt-193 MM005_1967_EP_SU2011_AD_01 
+	"mío" Pronoun PPO Singular lang:es 00:01:14 00:01:21 tt-193 MM005_1967_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<baño>"
 	"baño" Noun NC Singular lang:es 00:01:14 00:01:21 tt-194 MM005_1967_EP_SU2011_AD_01 
 "<particular>"
@@ -390,7 +390,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:01:14 00:01:21 tt-209 MM005_1967_EP_SU2011_AD_01 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:01:14 00:01:21 tt-210 MM005_1967_EP_SU2011_AD_01 
+	"UNK" Noun NC Plural lang:es 00:01:14 00:01:21 tt-210 MM005_1967_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<hermanos>"
 	"hermano" Noun NC Plural lang:es 00:01:21 00:01:27 tt-211 MM005_1967_EP_SU2011_AD_01 
 "<alrededor>"
@@ -483,7 +483,7 @@
 "<viene>"
 	"venir" Verb VLfin Pres Indi Sing 3rd lang:es 00:01:32 00:01:39 tt-254 MM005_1967_EP_SU2011_AD_01 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:01:32 00:01:39 tt-255 MM005_1967_EP_SU2011_AD_01 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:01:32 00:01:39 tt-255 MM005_1967_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:01:32 00:01:39 tt-256 MM005_1967_EP_SU2011_AD_01 
 "<$?>"
@@ -498,7 +498,7 @@
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:01:39 00:01:45 tt-260 MM005_1967_EP_SU2011_AD_01 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:01:39 00:01:45 tt-261 MM005_1967_EP_SU2011_AD_01 
+	"UNK" Noun NC Plural lang:es 00:01:39 00:01:45 tt-261 MM005_1967_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:01:39 00:01:45 tt-262 MM005_1967_EP_SU2011_AD_01 
 "<son>"
@@ -599,7 +599,7 @@
 "<hacían>"
 	"hacer" Verb VLfin Imp Indi Plural 3rd lang:es 00:01:53 00:01:57 tt-308 MM005_1967_EP_SU2011_AD_01 @Gram:Imperf 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:01:53 00:01:57 tt-309 MM005_1967_EP_SU2011_AD_01 
+	"UNK" Noun NC Plural lang:es 00:01:53 00:01:57 tt-309 MM005_1967_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<padres>"
 	"padre" Noun NC Plural lang:es 00:01:53 00:01:57 tt-310 MM005_1967_EP_SU2011_AD_01 
 "<$?>"
@@ -608,7 +608,7 @@
 <speaker type="subj">
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:57 00:02:03 tt-312 MM005_1967_EP_SU2011_AD_01 
+	"mío" Pronoun PPO Singular lang:es 00:01:57 00:02:03 tt-312 MM005_1967_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:01:57 00:02:03 tt-313 MM005_1967_EP_SU2011_AD_01 
 "<siempre>"
@@ -628,7 +628,7 @@
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:01:57 00:02:03 tt-321 MM005_1967_EP_SU2011_AD_01 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:57 00:02:03 tt-322 MM005_1967_EP_SU2011_AD_01 ID:303 R:Gram:PerfPerif:304 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:57 00:02:03 tt-322 MM005_1967_EP_SU2011_AD_01 ID:303 R:Gram:Aux:Haber:304 R:Gram:PerfPerif:304 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:01:57 00:02:03 tt-323 MM005_1967_EP_SU2011_AD_01 ID:304 
 "<el>"
@@ -677,7 +677,7 @@
 	"." Punctuation FS lang:es 00:02:03 00:02:10 tt-345 MM005_1967_EP_SU2011_AD_01 
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:03 00:02:10 tt-346 MM005_1967_EP_SU2011_AD_01 
+	"mío" Pronoun PPO Singular lang:es 00:02:03 00:02:10 tt-346 MM005_1967_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:02:03 00:02:10 tt-347 MM005_1967_EP_SU2011_AD_01 
 "<fue>"

@@ -21,11 +21,11 @@
 "<usted>"
 	"usted" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-2094 OM023_1962_CT_SU2011_VA_06 @Gram:Pron:Sujeto 
 "<con>"
-	"con" Preposition PAL lang:es 00:00:00 00:00:07 tt-2095 OM023_1962_CT_SU2011_VA_06 
+	"con" Preposition PAL lang:es 00:00:00 00:00:07 tt-2095 OM023_1962_CT_SU2011_VA_06 @Gram:Prep 
 "<respecto>"
-	"respecto" Preposition PAL lang:es 00:00:00 00:00:07 tt-2096 OM023_1962_CT_SU2011_VA_06 
+	"respecto" Preposition PAL lang:es 00:00:00 00:00:07 tt-2096 OM023_1962_CT_SU2011_VA_06 @Gram:Prep 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:00 00:00:07 tt-2097 OM023_1962_CT_SU2011_VA_06 
+	"al" Preposition PAL lang:es 00:00:00 00:00:07 tt-2097 OM023_1962_CT_SU2011_VA_06 @Gram:Prep 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:00 00:00:07 tt-2098 OM023_1962_CT_SU2011_VA_06 
 "<cuando>"
@@ -328,7 +328,7 @@
 "<día>"
 	"día" Noun NC Singular lang:es 00:01:00 00:01:05 tt-2250 OM023_1962_CT_SU2011_VA_06 
 "<estábamos>"
-	"estar" Verb VEfin Imp Indi Plural 1st lang:es 00:01:05 00:01:12 tt-2251 OM023_1962_CT_SU2011_VA_06 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Plural 1st lang:es 00:01:05 00:01:12 tt-2251 OM023_1962_CT_SU2011_VA_06 @Gram:Imperf @Gram:SerEstar:Estar ID:164 R:Gram:SerEstar:EstarAux:165 
 "<hablando>"
 	"hablar" Verb VLger lang:es 00:01:05 00:01:12 tt-2252 OM023_1962_CT_SU2011_VA_06 ID:165 R:Vocab:Fraseol:VerbPrep:169 
 "<ya>"
@@ -430,7 +430,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:19 00:01:24 tt-2301 OM023_1962_CT_SU2011_VA_06 
 "<eras>"
-	"erar|ser" Verb VLfin Past Subj Sing 2nd lang:es 00:01:19 00:01:24 tt-2302 OM023_1962_CT_SU2011_VA_06 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Sing 2nd lang:es 00:01:19 00:01:24 tt-2302 OM023_1962_CT_SU2011_VA_06 @Gram:SerEstar:Ser 
 "<americano>"
 	"americano" Noun NC Singular lang:es 00:01:19 00:01:24 tt-2303 OM023_1962_CT_SU2011_VA_06 
 "<,>"
@@ -454,7 +454,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:01:24 00:01:29 tt-2313 OM023_1962_CT_SU2011_VA_06 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:24 00:01:29 tt-2314 OM023_1962_CT_SU2011_VA_06 
+	"mío" Pronoun PPO Singular lang:es 00:01:24 00:01:29 tt-2314 OM023_1962_CT_SU2011_VA_06 @Gram:Det:Pos 
 "<acento>"
 	"acento" Noun NC Singular lang:es 00:01:24 00:01:29 tt-2315 OM023_1962_CT_SU2011_VA_06 
 "<y>"
@@ -464,7 +464,7 @@
 "<dice>"
 	"decir" Verb VLfin Pres Indi Sing 3rd lang:es 00:01:24 00:01:29 tt-2318 OM023_1962_CT_SU2011_VA_06 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:24 00:01:29 tt-2319 OM023_1962_CT_SU2011_VA_06 
+	"tú" Pronoun PPX Singular lang:es 00:01:24 00:01:29 tt-2319 OM023_1962_CT_SU2011_VA_06 @Gram:Pron:Sujeto 
 "<no>"
 	"no" Adverb NEG lang:es 00:01:24 00:01:29 tt-2320 OM023_1962_CT_SU2011_VA_06 
 "<tienes>"
@@ -593,7 +593,7 @@
 "<entender>"
 	"entender" Verb VLinf Infinitive lang:es 00:01:40 00:01:47 tt-2382 OM023_1962_CT_SU2011_VA_06 
 "<del>"
-	"del" Preposition PDEL lang:es 00:01:40 00:01:47 tt-2383 OM023_1962_CT_SU2011_VA_06 
+	"del" Preposition PDEL lang:es 00:01:40 00:01:47 tt-2383 OM023_1962_CT_SU2011_VA_06 @Gram:Prep 
 "<contexto>"
 	"contexto" Noun NC Singular lang:es 00:01:40 00:01:47 tt-2384 OM023_1962_CT_SU2011_VA_06 
 "<para>"
@@ -808,7 +808,7 @@
 "<todos>"
 	"todo" Determiner QU lang:es 00:02:27 00:02:34 tt-2486 OM023_1962_CT_SU2011_VA_06 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:02:27 00:02:34 tt-2487 OM023_1962_CT_SU2011_VA_06 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:02:27 00:02:34 tt-2487 OM023_1962_CT_SU2011_VA_06 @Gram:SerEstar:Ser 
 "<egipcios>"
 	"egipcio" Noun NC Plural lang:es 00:02:27 00:02:34 tt-2488 OM023_1962_CT_SU2011_VA_06 
 "<,>"
@@ -861,7 +861,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:02:41 00:02:48 tt-2512 OM023_1962_CT_SU2011_VA_06 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:41 00:02:48 tt-2513 OM023_1962_CT_SU2011_VA_06 
+	"mío" Pronoun PPO Singular lang:es 00:02:41 00:02:48 tt-2513 OM023_1962_CT_SU2011_VA_06 @Gram:Det:Pos 
 "<esposa>"
 	"esposo" Noun NC Singular lang:es 00:02:41 00:02:48 tt-2514 OM023_1962_CT_SU2011_VA_06 
 "<$.>"
@@ -951,7 +951,7 @@
 "<lancé>"
 	"lanzar" Verb VLfin Pret Indi Sing 1st lang:es 00:02:55 00:03:02 tt-2557 OM023_1962_CT_SU2011_VA_06 @Gram:Indefinido 
 "<al>"
-	"al" Preposition PAL lang:es 00:02:55 00:03:02 tt-2558 OM023_1962_CT_SU2011_VA_06 
+	"al" Preposition PAL lang:es 00:02:55 00:03:02 tt-2558 OM023_1962_CT_SU2011_VA_06 @Gram:Prep 
 "<ruedo>"
 	"ruedo" Noun NC Singular lang:es 00:02:55 00:03:02 tt-2559 OM023_1962_CT_SU2011_VA_06 
 "<como>"
@@ -967,7 +967,7 @@
 "<básicamente>"
 	"básicamente" Adverb ADV lang:es 00:03:05 00:03:12 tt-2565 OM023_1962_CT_SU2011_VA_06 
 "<al>"
-	"al" Preposition PAL lang:es 00:03:05 00:03:12 tt-2566 OM023_1962_CT_SU2011_VA_06 
+	"al" Preposition PAL lang:es 00:03:05 00:03:12 tt-2566 OM023_1962_CT_SU2011_VA_06 @Gram:Prep 
 "<a>"
 	"a" Preposition PREP lang:es 00:03:05 00:03:12 tt-2567 OM023_1962_CT_SU2011_VA_06 @Gram:Prep 
 "<fuerza>"
@@ -1040,7 +1040,7 @@
 "<especificación>"
 	"especificación" Noun NC Singular lang:es 00:03:23 00:03:30 tt-2601 OM023_1962_CT_SU2011_VA_06 
 "<del>"
-	"del" Preposition PDEL lang:es 00:03:23 00:03:30 tt-2602 OM023_1962_CT_SU2011_VA_06 
+	"del" Preposition PDEL lang:es 00:03:23 00:03:30 tt-2602 OM023_1962_CT_SU2011_VA_06 @Gram:Prep 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:03:23 00:03:30 tt-2603 OM023_1962_CT_SU2011_VA_06 
 "<,>"
@@ -1067,7 +1067,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:03:23 00:03:30 tt-2614 OM023_1962_CT_SU2011_VA_06 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:03:23 00:03:30 tt-2615 OM023_1962_CT_SU2011_VA_06 
+	"mío" Pronoun PPO Singular lang:es 00:03:23 00:03:30 tt-2615 OM023_1962_CT_SU2011_VA_06 @Gram:Det:Pos 
 "<casa>"
 	"casa" Noun NC Singular lang:es 00:03:23 00:03:30 tt-2616 OM023_1962_CT_SU2011_VA_06 
 "<,>"

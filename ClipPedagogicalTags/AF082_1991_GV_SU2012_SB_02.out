@@ -142,13 +142,13 @@
 "<cómo>"
 	"cómo" Adverb ADV lang:es 00:00:22 00:00:29 tt-383 AF082_1991_GV_SU2012_SB_02 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:22 00:00:29 tt-384 AF082_1991_GV_SU2012_SB_02 ID:64 R:Gram:PerfPerif:65 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:22 00:00:29 tt-384 AF082_1991_GV_SU2012_SB_02 ID:64 R:Gram:Aux:Haber:65 R:Gram:PerfPerif:65 
 "<cambiado>"
 	"cambiar" Verb VLadj lang:es 00:00:22 00:00:29 tt-385 AF082_1991_GV_SU2012_SB_02 ID:65 
 "<entonces>"
 	"entonces" Adverb ADV lang:es 00:00:22 00:00:29 tt-386 AF082_1991_GV_SU2012_SB_02 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:22 00:00:29 tt-387 AF082_1991_GV_SU2012_SB_02 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:22 00:00:29 tt-387 AF082_1991_GV_SU2012_SB_02 @Gram:Det:Pos 
 "<manera>"
 	"manera" Noun NC Singular lang:es 00:00:22 00:00:29 tt-388 AF082_1991_GV_SU2012_SB_02 
 "<de>"
@@ -164,9 +164,9 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:22 00:00:29 tt-394 AF082_1991_GV_SU2012_SB_02 @Gram:Prep 
 "<estar>"
-	"estar" Verb VEinf Infinitive lang:es 00:00:22 00:00:29 tt-395 AF082_1991_GV_SU2012_SB_02 @Gram:SerEstar:Estar 
+	"estar" Verb VEinf Infinitive lang:es 00:00:22 00:00:29 tt-395 AF082_1991_GV_SU2012_SB_02 @Gram:SerEstar:Estar ID:75 R:Gram:SerEstar:EstarAux:76 
 "<estudiando>"
-	"estudiar" Verb VLger lang:es 00:00:22 00:00:29 tt-396 AF082_1991_GV_SU2012_SB_02 
+	"estudiar" Verb VLger lang:es 00:00:22 00:00:29 tt-396 AF082_1991_GV_SU2012_SB_02 ID:76 
 "<tanto>"
 	"tanto" Adverb ADV lang:es 00:00:22 00:00:29 tt-397 AF082_1991_GV_SU2012_SB_02 
 "<la>"
@@ -216,7 +216,7 @@
 "<Te>"
 	"tú" Pronoun PPX Singular lang:es 00:00:38 00:00:44 tt-417 AF082_1991_GV_SU2012_SB_02 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:38 00:00:44 tt-418 AF082_1991_GV_SU2012_SB_02 ID:98 R:Gram:PerfPerif:99 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:38 00:00:44 tt-418 AF082_1991_GV_SU2012_SB_02 ID:98 R:Gram:Aux:Haber:99 R:Gram:PerfPerif:99 
 "<cambiado>"
 	"cambiar" Verb VLadj lang:es 00:00:38 00:00:44 tt-419 AF082_1991_GV_SU2012_SB_02 ID:99 
 "<asistir>"
@@ -230,7 +230,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:38 00:00:44 tt-424 AF082_1991_GV_SU2012_SB_02 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:38 00:00:44 tt-425 AF082_1991_GV_SU2012_SB_02 
+	"tú" Pronoun PPX Singular lang:es 00:00:38 00:00:44 tt-425 AF082_1991_GV_SU2012_SB_02 @Gram:Pron:Sujeto 
 "<crees>"
 	"crear|creer" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:38 00:00:44 tt-426 AF082_1991_GV_SU2012_SB_02 
 "<$?>"
@@ -282,7 +282,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:51 00:00:58 tt-449 AF082_1991_GV_SU2012_SB_02 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:51 00:00:58 tt-450 AF082_1991_GV_SU2012_SB_02 
+	"suyo" Pronoun PPO Singular lang:es 00:00:51 00:00:58 tt-450 AF082_1991_GV_SU2012_SB_02 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:51 00:00:58 tt-451 AF082_1991_GV_SU2012_SB_02 
 "<no>"
@@ -321,7 +321,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:51 00:00:58 tt-468 AF082_1991_GV_SU2012_SB_02 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:51 00:00:58 tt-469 AF082_1991_GV_SU2012_SB_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:51 00:00:58 tt-469 AF082_1991_GV_SU2012_SB_02 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:59 00:01:03 tt-470 AF082_1991_GV_SU2012_SB_02 
 "<$.>"
@@ -387,7 +387,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:14 00:01:21 tt-514 AF082_1991_GV_SU2012_SB_02 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:01:14 00:01:21 tt-515 AF082_1991_GV_SU2012_SB_02 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:01:14 00:01:21 tt-515 AF082_1991_GV_SU2012_SB_02 @Gram:SerEstar:Estar ID:179 R:Gram:SerEstar:EstarAux:180 
 "<pensando>"
 	"pensar" Verb VLger lang:es 00:01:14 00:01:21 tt-516 AF082_1991_GV_SU2012_SB_02 ID:180 R:Vocab:Fraseol:VerbPrep:181 
 "<en>"
@@ -418,7 +418,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:23 00:01:26 tt-533 AF082_1991_GV_SU2012_SB_02 @Gram:Pron:Objeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:23 00:01:26 tt-534 AF082_1991_GV_SU2012_SB_02 ID:194 R:Gram:PerfPerif:195 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:23 00:01:26 tt-534 AF082_1991_GV_SU2012_SB_02 ID:194 R:Gram:Aux:Haber:195 R:Gram:PerfPerif:195 
 "<decidido>"
 	"decidir" Verb VLadj lang:es 00:01:23 00:01:26 tt-535 AF082_1991_GV_SU2012_SB_02 ID:195 
 "<$.>"

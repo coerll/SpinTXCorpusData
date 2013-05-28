@@ -29,7 +29,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:06 00:00:12 tt-4176 MM005_1967_EP_SU2011_AD_13 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:06 00:00:12 tt-4177 MM005_1967_EP_SU2011_AD_13 ID:13 R:Gram:PerfPerif:14 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:06 00:00:12 tt-4177 MM005_1967_EP_SU2011_AD_13 ID:13 R:Gram:Aux:Haber:14 R:Gram:PerfPerif:14 
 "<gustado>"
 	"gustar" Verb VLadj lang:es 00:00:06 00:00:12 tt-4178 MM005_1967_EP_SU2011_AD_13 ID:14 
 "<$.>"
@@ -40,7 +40,7 @@
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:00:06 00:00:12 tt-4181 MM005_1967_EP_SU2011_AD_13 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:06 00:00:12 tt-4182 MM005_1967_EP_SU2011_AD_13 ID:18 R:Gram:PerfPerif:19 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:06 00:00:12 tt-4182 MM005_1967_EP_SU2011_AD_13 ID:18 R:Gram:Aux:Haber:19 R:Gram:PerfPerif:19 
 "<dicho>"
 	"decir" Verb VLadj lang:es 00:00:06 00:00:12 tt-4183 MM005_1967_EP_SU2011_AD_13 ID:19 
 "<que>"
@@ -81,7 +81,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:12 00:00:19 tt-4201 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:12 00:00:19 tt-4202 MM005_1967_EP_SU2011_AD_13 
+	"mío" Pronoun PPO Singular lang:es 00:00:12 00:00:19 tt-4202 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<casa>"
 	"casa" Noun NC Singular lang:es 00:00:12 00:00:19 tt-4203 MM005_1967_EP_SU2011_AD_13 
 "<,>"
@@ -97,7 +97,7 @@
 "<ya>"
 	"ya" Adverb ADV lang:es 00:00:19 00:00:25 tt-4209 MM005_1967_EP_SU2011_AD_13 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:19 00:00:25 tt-4210 MM005_1967_EP_SU2011_AD_13 
+	"UNK" Noun NC Plural lang:es 00:00:19 00:00:25 tt-4210 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<hermanos>"
 	"hermano" Noun NC Plural lang:es 00:00:19 00:00:25 tt-4211 MM005_1967_EP_SU2011_AD_13 
 "<tenían>"
@@ -143,7 +143,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:25 00:00:32 tt-4232 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:25 00:00:32 tt-4233 MM005_1967_EP_SU2011_AD_13 
+	"mío" Pronoun PPO Singular lang:es 00:00:25 00:00:32 tt-4233 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<edad>"
 	"edad" Noun NC Singular lang:es 00:00:25 00:00:32 tt-4234 MM005_1967_EP_SU2011_AD_13 
 "<,>"
@@ -197,7 +197,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:38 00:00:40 tt-4259 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:38 00:00:40 tt-4260 MM005_1967_EP_SU2011_AD_13 
+	"mío" Pronoun PPO Singular lang:es 00:00:38 00:00:40 tt-4260 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<edad>"
 	"edad" Noun NC Singular lang:es 00:00:38 00:00:40 tt-4261 MM005_1967_EP_SU2011_AD_13 
 "<$.>"
@@ -216,7 +216,7 @@
 "<estudiante>"
 	"estudiante" Noun NC Singular lang:es 00:00:40 00:00:42 tt-4267 MM005_1967_EP_SU2011_AD_13 
 "<eras>"
-	"erar|ser" Verb VLfin Past Subj Sing 2nd lang:es 00:00:40 00:00:42 tt-4268 MM005_1967_EP_SU2011_AD_13 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Sing 2nd lang:es 00:00:40 00:00:42 tt-4268 MM005_1967_EP_SU2011_AD_13 @Gram:SerEstar:Ser 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:40 00:00:42 tt-4269 MM005_1967_EP_SU2011_AD_13 
 </speaker>
@@ -237,7 +237,7 @@
 "<oír>"
 	"oír" Verb VLfin Pres Indi_Command Sing 2nd_3rd VLinf Command 2nd lang:es 00:00:42 00:00:48 tt-4276 MM005_1967_EP_SU2011_AD_13 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:42 00:00:48 tt-4277 MM005_1967_EP_SU2011_AD_13 
+	"UNK" Noun NC Plural lang:es 00:00:42 00:00:48 tt-4277 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:42 00:00:48 tt-4278 MM005_1967_EP_SU2011_AD_13 
 "<,>"
@@ -259,7 +259,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:42 00:00:48 tt-4287 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:42 00:00:48 tt-4288 MM005_1967_EP_SU2011_AD_13 
+	"UNK" Noun NC Plural lang:es 00:00:42 00:00:48 tt-4288 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:42 00:00:48 tt-4289 MM005_1967_EP_SU2011_AD_13 
 "<$¿>"
@@ -359,7 +359,7 @@
 "<el>"
 	"el" Determiner ART Singular lang:es 00:01:03 00:01:10 tt-4336 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<maestro>"
-	"maestro" Adjective ADJ Singular lang:es 00:01:03 00:01:10 tt-4337 MM005_1967_EP_SU2011_AD_13 
+	"maestro" Plural Noun Singular lang:es 00:01:03 00:01:10 tt-4337 MM005_1967_EP_SU2011_AD_13 
 "<te>"
 	"tú" Pronoun PPX Singular lang:es 00:01:03 00:01:10 tt-4338 MM005_1967_EP_SU2011_AD_13 @Gram:Pron:Objeto 
 "<explicaba>"
@@ -454,7 +454,7 @@
 "<el>"
 	"el" Determiner ART Singular lang:es 00:01:19 00:01:24 tt-4383 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<maestro>"
-	"maestro" Adjective ADJ Singular lang:es 00:01:19 00:01:24 tt-4384 MM005_1967_EP_SU2011_AD_13 
+	"maestro" Plural Noun Singular lang:es 00:01:19 00:01:24 tt-4384 MM005_1967_EP_SU2011_AD_13 
 "<nos>"
 	"nosotros" Pronoun PPX Plural lang:es 00:01:24 00:01:31 tt-4385 MM005_1967_EP_SU2011_AD_13 @Gram:Pron:Objeto 
 "<decía>"
@@ -470,7 +470,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:01:24 00:01:31 tt-4391 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:24 00:01:31 tt-4392 MM005_1967_EP_SU2011_AD_13 
+	"mío" Pronoun PPO Singular lang:es 00:01:24 00:01:31 tt-4392 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<mente>"
 	"mente" Noun NC Singular lang:es 00:01:24 00:01:31 tt-4393 MM005_1967_EP_SU2011_AD_13 
 "<para>"
@@ -488,7 +488,7 @@
 "<los>"
 	"el" Determiner ART Plural lang:es 00:01:24 00:01:31 tt-4400 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<maestros>"
-	"maestro" Noun NC Plural lang:es 00:01:24 00:01:31 tt-4401 MM005_1967_EP_SU2011_AD_13 
+	"maestro" Plural Singular Noun NC lang:es 00:01:24 00:01:31 tt-4401 MM005_1967_EP_SU2011_AD_13 
 "<y>"
 	"y" Conjunction CC lang:es 00:01:33 00:01:34 tt-4402 MM005_1967_EP_SU2011_AD_13 
 "<con>"
@@ -515,7 +515,7 @@
 "<recordarían>"
 	"UNK" Verb VLfin Cond Indi Plural 3rd lang:es 00:01:34 00:01:40 tt-4412 MM005_1967_EP_SU2011_AD_13 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:01:34 00:01:40 tt-4413 MM005_1967_EP_SU2011_AD_13 
+	"UNK" Noun NC Plural lang:es 00:01:34 00:01:40 tt-4413 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<compañeros>"
 	"compañero" Noun NC Plural lang:es 00:01:34 00:01:40 tt-4414 MM005_1967_EP_SU2011_AD_13 
 "<$?>"
@@ -856,13 +856,13 @@
 "<los>"
 	"el" Determiner ART Plural lang:es 00:02:40 00:02:47 tt-4576 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<maestros>"
-	"maestro" Noun NC Plural lang:es 00:02:40 00:02:47 tt-4577 MM005_1967_EP_SU2011_AD_13 
+	"maestro" Plural Singular Noun NC lang:es 00:02:40 00:02:47 tt-4577 MM005_1967_EP_SU2011_AD_13 
 "<,>"
 	"," Punctuation CM lang:es 00:02:40 00:02:47 tt-4578 MM005_1967_EP_SU2011_AD_13 
 "<los>"
 	"el" Determiner ART Plural lang:es 00:02:40 00:02:47 tt-4579 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<maestros>"
-	"maestro" Noun NC Plural lang:es 00:02:40 00:02:47 tt-4580 MM005_1967_EP_SU2011_AD_13 
+	"maestro" Plural Singular Noun NC lang:es 00:02:40 00:02:47 tt-4580 MM005_1967_EP_SU2011_AD_13 
 "<no>"
 	"no" Adverb NEG lang:es 00:02:40 00:02:47 tt-4581 MM005_1967_EP_SU2011_AD_13 
 "<que>"
@@ -928,7 +928,7 @@
 "<los>"
 	"el" Determiner ART Plural lang:es 00:02:53 00:03:00 tt-4612 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<maestros>"
-	"maestro" Noun NC Plural lang:es 00:02:53 00:03:00 tt-4613 MM005_1967_EP_SU2011_AD_13 
+	"maestro" Plural Singular Noun NC lang:es 00:02:53 00:03:00 tt-4613 MM005_1967_EP_SU2011_AD_13 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:02:53 00:03:00 tt-4614 MM005_1967_EP_SU2011_AD_13 
 "<se>"

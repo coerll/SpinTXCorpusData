@@ -70,9 +70,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:16 00:00:23 tt-3269 OM023_1962_CT_SU2011_VA_10 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:16 00:00:23 tt-3270 OM023_1962_CT_SU2011_VA_10 ID:35 R:Gram:PerfPerif:36 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:16 00:00:23 tt-3270 OM023_1962_CT_SU2011_VA_10 ID:35 R:Gram:SerEstar:Ser:36 R:Gram:Aux:Haber:36 R:Gram:PerfPerif:36 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:16 00:00:23 tt-3271 OM023_1962_CT_SU2011_VA_10 @Gram:SerEstar:Ser ID:36 
+	"ser" Verb VSadj Participle lang:es 00:00:16 00:00:23 tt-3271 OM023_1962_CT_SU2011_VA_10 ID:36 
 "<para>"
 	"para" Preposition PREP lang:es 00:00:16 00:00:23 tt-3272 OM023_1962_CT_SU2011_VA_10 @Gram:Prep:Para 
 "<nosotros>"
@@ -92,7 +92,7 @@
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:00:16 00:00:23 tt-3280 OM023_1962_CT_SU2011_VA_10 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:16 00:00:23 tt-3281 OM023_1962_CT_SU2011_VA_10 ID:46 R:Gram:PerfPerif:47 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:16 00:00:23 tt-3281 OM023_1962_CT_SU2011_VA_10 ID:46 R:Gram:Aux:Haber:47 R:Gram:PerfPerif:47 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:16 00:00:23 tt-3282 OM023_1962_CT_SU2011_VA_10 ID:47 
 "<la>"
@@ -130,7 +130,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:26 00:00:33 tt-3299 OM023_1962_CT_SU2011_VA_10 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:26 00:00:33 tt-3300 OM023_1962_CT_SU2011_VA_10 ID:65 R:Gram:PerfPerif:66 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:26 00:00:33 tt-3300 OM023_1962_CT_SU2011_VA_10 ID:65 R:Gram:Aux:Haber:66 R:Gram:PerfPerif:66 
 "<gustado>"
 	"gustar" Verb VLadj lang:es 00:00:26 00:00:33 tt-3301 OM023_1962_CT_SU2011_VA_10 ID:66 
 "<mucho>"
@@ -152,7 +152,7 @@
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:00:37 00:00:44 tt-3310 OM023_1962_CT_SU2011_VA_10 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:37 00:00:44 tt-3311 OM023_1962_CT_SU2011_VA_10 
+	"del" Preposition PDEL lang:es 00:00:37 00:00:44 tt-3311 OM023_1962_CT_SU2011_VA_10 @Gram:Prep 
 "<mío>"
 	"mío" Pronoun PPO Singular lang:es 00:00:37 00:00:44 tt-3312 OM023_1962_CT_SU2011_VA_10 
 "<,>"
@@ -170,7 +170,7 @@
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:00:37 00:00:44 tt-3319 OM023_1962_CT_SU2011_VA_10 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:37 00:00:44 tt-3320 OM023_1962_CT_SU2011_VA_10 ID:85 R:Gram:PerfPerif:86 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:37 00:00:44 tt-3320 OM023_1962_CT_SU2011_VA_10 ID:85 R:Gram:Aux:Haber:86 R:Gram:PerfPerif:86 
 "<tratado>"
 	"tratar" Verb VLadj lang:es 00:00:37 00:00:44 tt-3321 OM023_1962_CT_SU2011_VA_10 ID:86 
 "<de>"
@@ -345,9 +345,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:19 00:01:24 tt-3406 OM023_1962_CT_SU2011_VA_10 
 "<estaba>"
-	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:19 00:01:24 tt-3407 OM023_1962_CT_SU2011_VA_10 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:19 00:01:24 tt-3407 OM023_1962_CT_SU2011_VA_10 @Gram:Imperf @Gram:SerEstar:Estar ID:172 R:Gram:SerEstar:EstarAux:173 
 "<diciendo>"
-	"decir" Verb VLger lang:es 00:01:19 00:01:24 tt-3408 OM023_1962_CT_SU2011_VA_10 
+	"decir" Verb VLger lang:es 00:01:19 00:01:24 tt-3408 OM023_1962_CT_SU2011_VA_10 ID:173 
 "<pero>"
 	"pero" Conjunction CCAD lang:es 00:01:19 00:01:24 tt-3409 OM023_1962_CT_SU2011_VA_10 @Prag:MarcadoresDisc:Revision 
 "<sí>"
@@ -395,7 +395,7 @@
 "<posible>"
 	"posible" Adjective ADJ Singular lang:es 00:01:35 00:01:42 tt-3431 OM023_1962_CT_SU2011_VA_10 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:35 00:01:42 tt-3432 OM023_1962_CT_SU2011_VA_10 
+	"al" Preposition PAL lang:es 00:01:35 00:01:42 tt-3432 OM023_1962_CT_SU2011_VA_10 @Gram:Prep 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:01:35 00:01:42 tt-3433 OM023_1962_CT_SU2011_VA_10 
 "<$.>"
@@ -477,11 +477,11 @@
 "<esa>"
 	"ese" Determiner DM Singular lang:es 00:01:52 00:01:59 tt-3471 OM023_1962_CT_SU2011_VA_10 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:52 00:01:59 tt-3472 OM023_1962_CT_SU2011_VA_10 ID:237 R:Gram:PerfPerif:238 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:52 00:01:59 tt-3472 OM023_1962_CT_SU2011_VA_10 ID:237 R:Gram:SerEstar:Ser:238 R:Gram:Aux:Haber:238 R:Gram:PerfPerif:238 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:01:52 00:01:59 tt-3473 OM023_1962_CT_SU2011_VA_10 @Gram:SerEstar:Ser ID:238 
+	"ser" Verb VSadj Participle lang:es 00:01:52 00:01:59 tt-3473 OM023_1962_CT_SU2011_VA_10 ID:238 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:52 00:01:59 tt-3474 OM023_1962_CT_SU2011_VA_10 
+	"mío" Pronoun PPO Singular lang:es 00:01:52 00:01:59 tt-3474 OM023_1962_CT_SU2011_VA_10 @Gram:Det:Pos 
 "<experiencia>"
 	"experiencia" Noun NC Singular lang:es 00:01:52 00:01:59 tt-3475 OM023_1962_CT_SU2011_VA_10 
 "<personal>"

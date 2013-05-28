@@ -5,7 +5,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:00 00:00:02 tt-1221 AF006_1968_EP_SU2011_AD_09 @Gram:Prep 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:00 00:00:02 tt-1222 AF006_1968_EP_SU2011_AD_09 
+	"UNK" Noun NC Plural lang:es 00:00:00 00:00:02 tt-1222 AF006_1968_EP_SU2011_AD_09 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:00 00:00:02 tt-1223 AF006_1968_EP_SU2011_AD_09 
 "<$.>"
@@ -23,7 +23,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:03 00:00:05 tt-1229 AF006_1968_EP_SU2011_AD_09 @Gram:Prep 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:03 00:00:05 tt-1230 AF006_1968_EP_SU2011_AD_09 
+	"UNK" Noun NC Plural lang:es 00:00:03 00:00:05 tt-1230 AF006_1968_EP_SU2011_AD_09 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:03 00:00:05 tt-1231 AF006_1968_EP_SU2011_AD_09 
 "<$.>"
@@ -169,7 +169,7 @@
 "<nos>"
 	"nosotros" Pronoun PPX Plural lang:es 00:00:31 00:00:38 tt-1301 AF006_1968_EP_SU2011_AD_09 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:31 00:00:38 tt-1302 AF006_1968_EP_SU2011_AD_09 ID:80 R:Gram:PerfPerif:81 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:31 00:00:38 tt-1302 AF006_1968_EP_SU2011_AD_09 ID:80 R:Gram:Aux:Haber:81 R:Gram:PerfPerif:81 
 "<dado>"
 	"dar" Verb VLadj lang:es 00:00:31 00:00:38 tt-1303 AF006_1968_EP_SU2011_AD_09 ID:81 
 "<más>"

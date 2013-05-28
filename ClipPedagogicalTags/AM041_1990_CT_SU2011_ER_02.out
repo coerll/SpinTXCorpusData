@@ -35,7 +35,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:03 00:00:05 tt-482 AM041_1990_CT_SU2011_ER_02 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:03 00:00:05 tt-483 AM041_1990_CT_SU2011_ER_02 
+	"tú" Pronoun PPX Singular lang:es 00:00:03 00:00:05 tt-483 AM041_1990_CT_SU2011_ER_02 @Gram:Pron:Sujeto 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:03 00:00:05 tt-484 AM041_1990_CT_SU2011_ER_02 
 
@@ -75,7 +75,7 @@
 "<Dieciseis>"
 	"UNK" Verb VLfin Error1 lang:es 00:00:09 00:00:16 tt-500 AM041_1990_CT_SU2011_ER_02 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:09 00:00:16 tt-501 AM041_1990_CT_SU2011_ER_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:09 00:00:16 tt-501 AM041_1990_CT_SU2011_ER_02 @Gram:Det:Pos 
 "<mayor>"
 	"grande" Adjective ADJ Singular lang:es 00:00:09 00:00:16 tt-502 AM041_1990_CT_SU2011_ER_02 
 "<hermana>"
@@ -96,7 +96,7 @@
 "<Luego>"
 	"luego" Conjunction CSUBF lang:es 00:00:09 00:00:16 tt-510 AM041_1990_CT_SU2011_ER_02 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:09 00:00:16 tt-511 AM041_1990_CT_SU2011_ER_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:09 00:00:16 tt-511 AM041_1990_CT_SU2011_ER_02 @Gram:Det:Pos 
 "<hermano>"
 	"hermano" Noun NC Singular lang:es 00:00:09 00:00:16 tt-512 AM041_1990_CT_SU2011_ER_02 
 "<,>"
@@ -110,7 +110,7 @@
 "<luego>"
 	"luego" Adverb ADV lang:es 00:00:19 00:00:26 tt-517 AM041_1990_CT_SU2011_ER_02 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:19 00:00:26 tt-518 AM041_1990_CT_SU2011_ER_02 
+	"UNK" Noun NC Plural lang:es 00:00:19 00:00:26 tt-518 AM041_1990_CT_SU2011_ER_02 @Gram:Det:Pos 
 "<otras>"
 	"otro" Determiner QU lang:es 00:00:19 00:00:26 tt-519 AM041_1990_CT_SU2011_ER_02 
 "<hermanas>"

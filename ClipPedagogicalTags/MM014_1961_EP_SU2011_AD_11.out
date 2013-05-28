@@ -101,7 +101,7 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:18 00:00:25 tt-2335 MM014_1961_EP_SU2011_AD_11 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:18 00:00:25 tt-2336 MM014_1961_EP_SU2011_AD_11 ID:49 R:Gram:PerfPerif:50 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:18 00:00:25 tt-2336 MM014_1961_EP_SU2011_AD_11 ID:49 R:Gram:Aux:Haber:50 R:Gram:PerfPerif:50 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:18 00:00:25 tt-2337 MM014_1961_EP_SU2011_AD_11 ID:50 
 "<problemas>"
@@ -134,7 +134,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:26 00:00:33 tt-2351 MM014_1961_EP_SU2011_AD_11 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:26 00:00:33 tt-2352 MM014_1961_EP_SU2011_AD_11 ID:65 R:Gram:PerfPerif:66 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:26 00:00:33 tt-2352 MM014_1961_EP_SU2011_AD_11 ID:65 R:Gram:Aux:Haber:66 R:Gram:PerfPerif:66 
 "<llevado>"
 	"llevar" Verb VLadj lang:es 00:00:26 00:00:33 tt-2353 MM014_1961_EP_SU2011_AD_11 ID:66 
 "<los>"
@@ -146,7 +146,7 @@
 "<le>"
 	"él" Pronoun PPC Singular lang:es 00:00:26 00:00:33 tt-2357 MM014_1961_EP_SU2011_AD_11 @Gram:Pron:Objeto 
 "<hemos>"
-	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:26 00:00:33 tt-2358 MM014_1961_EP_SU2011_AD_11 ID:71 R:Gram:PerfPerif:72 
+	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:26 00:00:33 tt-2358 MM014_1961_EP_SU2011_AD_11 ID:71 R:Gram:Aux:Haber:72 R:Gram:PerfPerif:72 
 "<inculcado>"
 	"UNK" Verb VLadj lang:es 00:00:35 00:00:42 tt-2359 MM014_1961_EP_SU2011_AD_11 ID:72 
 "<nosotros>"
@@ -199,7 +199,7 @@
 "<siguiendo>"
 	"seguir" Verb VLger lang:es 00:00:43 00:00:47 tt-2383 MM014_1961_EP_SU2011_AD_11 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:00:43 00:00:47 tt-2384 MM014_1961_EP_SU2011_AD_11 
+	"suyo" Pronoun PPO Plural lang:es 00:00:43 00:00:47 tt-2384 MM014_1961_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<raíces>"
 	"raíz" Noun NC Plural lang:es 00:00:43 00:00:47 tt-2385 MM014_1961_EP_SU2011_AD_11 
 "<$.>"
@@ -229,7 +229,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:47 00:00:54 tt-2396 MM014_1961_EP_SU2011_AD_11 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:47 00:00:54 tt-2397 MM014_1961_EP_SU2011_AD_11 
+	"suyo" Pronoun PPO Singular lang:es 00:00:47 00:00:54 tt-2397 MM014_1961_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:47 00:00:54 tt-2398 MM014_1961_EP_SU2011_AD_11 
 "<$?>"
@@ -240,7 +240,7 @@
 "<Pues>"
 	"pues" Conjunction CSUBF lang:es 00:00:58 00:01:05 tt-2400 MM014_1961_EP_SU2011_AD_11 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:58 00:01:05 tt-2401 MM014_1961_EP_SU2011_AD_11 ID:114 R:Gram:PerfPerif:115 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:58 00:01:05 tt-2401 MM014_1961_EP_SU2011_AD_11 ID:114 R:Gram:Aux:Haber:115 R:Gram:PerfPerif:115 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:58 00:01:05 tt-2402 MM014_1961_EP_SU2011_AD_11 ID:115 
 "<algunos>"
@@ -260,9 +260,9 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:58 00:01:05 tt-2410 MM014_1961_EP_SU2011_AD_11 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:58 00:01:05 tt-2411 MM014_1961_EP_SU2011_AD_11 ID:124 R:Gram:PerfPerif:125 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:58 00:01:05 tt-2411 MM014_1961_EP_SU2011_AD_11 ID:124 R:Gram:SerEstar:Ser:125 R:Gram:Aux:Haber:125 R:Gram:PerfPerif:125 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:58 00:01:05 tt-2412 MM014_1961_EP_SU2011_AD_11 @Gram:SerEstar:Ser ID:125 
+	"ser" Verb VSadj Participle lang:es 00:00:58 00:01:05 tt-2412 MM014_1961_EP_SU2011_AD_11 ID:125 
 "<las>"
 	"el" Determiner ART Plural lang:es 00:00:58 00:01:05 tt-2413 MM014_1961_EP_SU2011_AD_11 @Gram:Det:Art 
 "<graduaciones>"
@@ -270,7 +270,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:58 00:01:05 tt-2415 MM014_1961_EP_SU2011_AD_11 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:01:06 00:01:13 tt-2416 MM014_1961_EP_SU2011_AD_11 
+	"UNK" Noun NC Plural lang:es 00:01:06 00:01:13 tt-2416 MM014_1961_EP_SU2011_AD_11 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:01:06 00:01:13 tt-2417 MM014_1961_EP_SU2011_AD_11 
 "<,>"
@@ -282,7 +282,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:06 00:01:13 tt-2421 MM014_1961_EP_SU2011_AD_11 @Gram:Pron:Objeto 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:01:06 00:01:13 tt-2422 MM014_1961_EP_SU2011_AD_11 ID:135 R:Gram:PerfPerif:136 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:01:06 00:01:13 tt-2422 MM014_1961_EP_SU2011_AD_11 ID:135 R:Gram:Aux:Haber:136 R:Gram:PerfPerif:136 
 "<dado>"
 	"dar" Verb VLadj lang:es 00:01:06 00:01:13 tt-2423 MM014_1961_EP_SU2011_AD_11 ID:136 
 "<muchas>"

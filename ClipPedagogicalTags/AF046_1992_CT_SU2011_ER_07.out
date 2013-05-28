@@ -31,7 +31,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:00 00:00:07 tt-2251 AF046_1992_CT_SU2011_ER_07 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-2252 AF046_1992_CT_SU2011_ER_07 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-2252 AF046_1992_CT_SU2011_ER_07 @Gram:Pron:Sujeto 
 "<de>"
 	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-2253 AF046_1992_CT_SU2011_ER_07 @Gram:Prep 
 "<...>"
@@ -49,7 +49,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:11 00:00:14 tt-2261 AF046_1992_CT_SU2011_ER_07 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:11 00:00:14 tt-2262 AF046_1992_CT_SU2011_ER_07 ID:24 R:Gram:PerfPerif:25 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:11 00:00:14 tt-2262 AF046_1992_CT_SU2011_ER_07 ID:24 R:Gram:Aux:Haber:25 R:Gram:PerfPerif:25 
 "<notado>"
 	"notar" Verb VLadj lang:es 00:00:11 00:00:14 tt-2263 AF046_1992_CT_SU2011_ER_07 ID:25 
 "<que>"
@@ -105,7 +105,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:14 00:00:19 tt-2288 AF046_1992_CT_SU2011_ER_07 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:14 00:00:19 tt-2289 AF046_1992_CT_SU2011_ER_07 
+	"UNK" Noun NC Plural lang:es 00:00:14 00:00:19 tt-2289 AF046_1992_CT_SU2011_ER_07 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:00:14 00:00:19 tt-2290 AF046_1992_CT_SU2011_ER_07 
 "<$.>"
@@ -160,9 +160,9 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:19 00:00:25 tt-2315 AF046_1992_CT_SU2011_ER_07 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:25 00:00:31 tt-2316 AF046_1992_CT_SU2011_ER_07 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:25 00:00:31 tt-2316 AF046_1992_CT_SU2011_ER_07 @Gram:SerEstar:Estar ID:77 R:Gram:SerEstar:EstarAux:78 
 "<hablando>"
-	"hablar" Verb VLger lang:es 00:00:25 00:00:31 tt-2317 AF046_1992_CT_SU2011_ER_07 
+	"hablar" Verb VLger lang:es 00:00:25 00:00:31 tt-2317 AF046_1992_CT_SU2011_ER_07 ID:78 
 "<el>"
 	"el" Determiner ART Singular lang:es 00:00:25 00:00:31 tt-2318 AF046_1992_CT_SU2011_ER_07 @Gram:Det:Art 
 "<español>"
@@ -260,9 +260,9 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:36 00:00:40 tt-2364 AF046_1992_CT_SU2011_ER_07 
 "<estar>"
-	"estar" Verb VEinf Infinitive lang:es 00:00:36 00:00:40 tt-2365 AF046_1992_CT_SU2011_ER_07 @Gram:SerEstar:Estar 
+	"estar" Verb VEinf Infinitive lang:es 00:00:36 00:00:40 tt-2365 AF046_1992_CT_SU2011_ER_07 @Gram:SerEstar:Estar ID:126 R:Gram:SerEstar:EstarAux:127 
 "<combinando>"
-	"combinar" Verb VLger lang:es 00:00:36 00:00:40 tt-2366 AF046_1992_CT_SU2011_ER_07 
+	"combinar" Verb VLger lang:es 00:00:36 00:00:40 tt-2366 AF046_1992_CT_SU2011_ER_07 ID:127 
 "<esas>"
 	"ese" Determiner DM Plural lang:es 00:00:36 00:00:40 tt-2367 AF046_1992_CT_SU2011_ER_07 
 "<...>"
@@ -787,7 +787,7 @@
 "<raíz>"
 	"raíz" Noun NC Singular lang:es 00:01:54 00:01:59 tt-2625 AF046_1992_CT_SU2011_ER_07 
 "<del>"
-	"del" Preposition PDEL lang:es 00:01:59 00:02:05 tt-2626 AF046_1992_CT_SU2011_ER_07 
+	"del" Preposition PDEL lang:es 00:01:59 00:02:05 tt-2626 AF046_1992_CT_SU2011_ER_07 @Gram:Prep 
 "<choque>"
 	"choque" Noun NC Singular lang:es 00:01:59 00:02:05 tt-2627 AF046_1992_CT_SU2011_ER_07 
 "<de>"
@@ -814,7 +814,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:59 00:02:05 tt-2638 AF046_1992_CT_SU2011_ER_07 
 "<del>"
-	"del" Preposition PDEL lang:es 00:01:59 00:02:05 tt-2639 AF046_1992_CT_SU2011_ER_07 
+	"del" Preposition PDEL lang:es 00:01:59 00:02:05 tt-2639 AF046_1992_CT_SU2011_ER_07 @Gram:Prep 
 "<valor>"
 	"valor" Noun NC Singular lang:es 00:01:59 00:02:05 tt-2640 AF046_1992_CT_SU2011_ER_07 
 "<de>"
@@ -974,13 +974,13 @@
 "<,>"
 	"," Punctuation CM lang:es 00:02:23 00:02:30 tt-2716 AF046_1992_CT_SU2011_ER_07 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:23 00:02:30 tt-2717 AF046_1992_CT_SU2011_ER_07 
+	"mío" Pronoun PPO Singular lang:es 00:02:23 00:02:30 tt-2717 AF046_1992_CT_SU2011_ER_07 @Gram:Det:Pos 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:02:23 00:02:30 tt-2718 AF046_1992_CT_SU2011_ER_07 
 "<,>"
 	"," Punctuation CM lang:es 00:02:23 00:02:30 tt-2719 AF046_1992_CT_SU2011_ER_07 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:23 00:02:30 tt-2720 AF046_1992_CT_SU2011_ER_07 
+	"mío" Pronoun PPO Singular lang:es 00:02:23 00:02:30 tt-2720 AF046_1992_CT_SU2011_ER_07 @Gram:Det:Pos 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:02:23 00:02:30 tt-2721 AF046_1992_CT_SU2011_ER_07 
 "<hispana>"
@@ -998,7 +998,7 @@
 "<todos>"
 	"todo" Determiner QU lang:es 00:02:31 00:02:35 tt-2728 AF046_1992_CT_SU2011_ER_07 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:02:31 00:02:35 tt-2729 AF046_1992_CT_SU2011_ER_07 ID:487 R:Gram:PerfPerif:488 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:02:31 00:02:35 tt-2729 AF046_1992_CT_SU2011_ER_07 ID:487 R:Gram:Aux:Haber:488 R:Gram:PerfPerif:488 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:02:31 00:02:35 tt-2730 AF046_1992_CT_SU2011_ER_07 ID:488 
 "<la>"
@@ -1022,7 +1022,7 @@
 "<todos>"
 	"todo" Determiner QU lang:es 00:02:35 00:02:40 tt-2740 AF046_1992_CT_SU2011_ER_07 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:02:35 00:02:40 tt-2741 AF046_1992_CT_SU2011_ER_07 ID:499 R:Gram:PerfPerif:500 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:02:35 00:02:40 tt-2741 AF046_1992_CT_SU2011_ER_07 ID:499 R:Gram:Aux:Haber:500 R:Gram:PerfPerif:500 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:02:35 00:02:40 tt-2742 AF046_1992_CT_SU2011_ER_07 ID:500 
 "<la>"
@@ -1118,7 +1118,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:02:48 00:02:53 tt-2788 AF046_1992_CT_SU2011_ER_07 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:48 00:02:53 tt-2789 AF046_1992_CT_SU2011_ER_07 
+	"UNK" Noun NC Plural lang:es 00:02:48 00:02:53 tt-2789 AF046_1992_CT_SU2011_ER_07 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:02:48 00:02:53 tt-2790 AF046_1992_CT_SU2011_ER_07 
 "<,>"
@@ -1136,7 +1136,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:02:53 00:02:55 tt-2797 AF046_1992_CT_SU2011_ER_07 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:53 00:02:55 tt-2798 AF046_1992_CT_SU2011_ER_07 
+	"UNK" Noun NC Plural lang:es 00:02:53 00:02:55 tt-2798 AF046_1992_CT_SU2011_ER_07 @Gram:Det:Pos 
 "<tíos>"
 	"tío" Noun NC Plural lang:es 00:02:53 00:02:55 tt-2799 AF046_1992_CT_SU2011_ER_07 
 "<,>"

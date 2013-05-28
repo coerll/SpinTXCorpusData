@@ -73,7 +73,7 @@
 "<mexicano>"
 	"mexicano" Adjective ADJ Singular lang:es 00:00:12 00:00:18 tt-420 MM052_1989_GV_FA2011_JT_04 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:12 00:00:18 tt-421 MM052_1989_GV_FA2011_JT_04 
+	"al" Preposition PAL lang:es 00:00:12 00:00:18 tt-421 MM052_1989_GV_FA2011_JT_04 @Gram:Prep 
 "<cien>"
 	"ciento" Determiner CARD Singular lang:es 00:00:12 00:00:18 tt-422 MM052_1989_GV_FA2011_JT_04 
 "<por>"
@@ -90,7 +90,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:12 00:00:18 tt-428 MM052_1989_GV_FA2011_JT_04 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:12 00:00:18 tt-429 MM052_1989_GV_FA2011_JT_04 
+	"UNK" Noun NC Plural lang:es 00:00:12 00:00:18 tt-429 MM052_1989_GV_FA2011_JT_04 @Gram:Det:Pos 
 "<raíces>"
 	"raíz" Noun NC Plural lang:es 00:00:12 00:00:18 tt-430 MM052_1989_GV_FA2011_JT_04 
 "<y>"
@@ -113,7 +113,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:18 00:00:20 tt-439 MM052_1989_GV_FA2011_JT_04 
 "<Al>"
-	"al" Preposition PAL lang:es 00:00:18 00:00:20 tt-440 MM052_1989_GV_FA2011_JT_04 
+	"al" Preposition PAL lang:es 00:00:18 00:00:20 tt-440 MM052_1989_GV_FA2011_JT_04 @Gram:Prep 
 "<Valle>"
 	"Valle" Noun NP Singular lang:es 00:00:18 00:00:20 tt-441 MM052_1989_GV_FA2011_JT_04 
 "<Hermoso>"
@@ -247,7 +247,7 @@
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:00:31 00:00:36 tt-502 MM052_1989_GV_FA2011_JT_04 
 "<nuestros>"
-	"UNK" Noun NC Plural lang:es 00:00:31 00:00:36 tt-503 MM052_1989_GV_FA2011_JT_04 
+	"UNK" Noun NC Plural lang:es 00:00:31 00:00:36 tt-503 MM052_1989_GV_FA2011_JT_04 @Gram:Det:Pos 
 "<padres>"
 	"padre" Noun NC Plural lang:es 00:00:36 00:00:38 tt-504 MM052_1989_GV_FA2011_JT_04 
 "<y>"
@@ -327,7 +327,7 @@
 "<como>"
 	"como" Conjunction CSUBX lang:es 00:00:42 00:00:49 tt-539 MM052_1989_GV_FA2011_JT_04 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:42 00:00:49 tt-540 MM052_1989_GV_FA2011_JT_04 
+	"mío" Pronoun PPO Singular lang:es 00:00:42 00:00:49 tt-540 MM052_1989_GV_FA2011_JT_04 @Gram:Det:Pos 
 "<casa>"
 	"casa" Noun NC Singular lang:es 00:00:42 00:00:49 tt-541 MM052_1989_GV_FA2011_JT_04 
 "<$.>"

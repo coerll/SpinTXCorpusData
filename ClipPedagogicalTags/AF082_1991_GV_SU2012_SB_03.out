@@ -5,7 +5,7 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:00 00:00:06 tt-585 AF082_1991_GV_SU2012_SB_03 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:06 tt-586 AF082_1991_GV_SU2012_SB_03 ID:3 R:Gram:PerfPerif:4 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:06 tt-586 AF082_1991_GV_SU2012_SB_03 ID:3 R:Gram:Aux:Haber:4 R:Gram:PerfPerif:4 
 "<visitado>"
 	"visitar" Verb VLadj lang:es 00:00:00 00:00:06 tt-587 AF082_1991_GV_SU2012_SB_03 ID:4 
 "<a>"
@@ -103,7 +103,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:22 00:00:29 tt-636 AF082_1991_GV_SU2012_SB_03 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:22 00:00:29 tt-637 AF082_1991_GV_SU2012_SB_03 
+	"mío" Pronoun PPO Singular lang:es 00:00:22 00:00:29 tt-637 AF082_1991_GV_SU2012_SB_03 @Gram:Det:Pos 
 "<novio>"
 	"novio" Noun NC Singular lang:es 00:00:22 00:00:29 tt-638 AF082_1991_GV_SU2012_SB_03 
 "<fui>"
@@ -140,7 +140,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:22 00:00:29 tt-654 AF082_1991_GV_SU2012_SB_03 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:22 00:00:29 tt-655 AF082_1991_GV_SU2012_SB_03 
+	"suyo" Pronoun PPO Singular lang:es 00:00:22 00:00:29 tt-655 AF082_1991_GV_SU2012_SB_03 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:22 00:00:29 tt-656 AF082_1991_GV_SU2012_SB_03 
 "<y>"
@@ -316,7 +316,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:57 00:01:04 tt-744 AF082_1991_GV_SU2012_SB_03 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:57 00:01:04 tt-745 AF082_1991_GV_SU2012_SB_03 
+	"mío" Pronoun PPO Singular lang:es 00:00:57 00:01:04 tt-745 AF082_1991_GV_SU2012_SB_03 @Gram:Det:Pos 
 "<hermana>"
 	"hermano" Noun NC Singular lang:es 00:00:57 00:01:04 tt-746 AF082_1991_GV_SU2012_SB_03 
 "<una>"

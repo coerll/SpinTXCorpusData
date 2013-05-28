@@ -33,7 +33,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:00 00:00:07 tt-390 AF009_1987_EP_SU2011_AD_03 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-391 AF009_1987_EP_SU2011_AD_03 
+	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-391 AF009_1987_EP_SU2011_AD_03 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:00 00:00:07 tt-392 AF009_1987_EP_SU2011_AD_03 
 "<,>"
@@ -109,7 +109,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:16 00:00:18 tt-425 AF009_1987_EP_SU2011_AD_03 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:16 00:00:18 tt-426 AF009_1987_EP_SU2011_AD_03 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:16 00:00:18 tt-426 AF009_1987_EP_SU2011_AD_03 @Gram:Det:Pos 
 "<experiencia>"
 	"experiencia" Noun NC Singular lang:es 00:00:16 00:00:18 tt-427 AF009_1987_EP_SU2011_AD_03 
 "<en>"
@@ -280,11 +280,11 @@
 "<idea>"
 	"idea" Noun NC Singular lang:es 00:00:43 00:00:48 tt-512 AF009_1987_EP_SU2011_AD_03 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:48 00:00:54 tt-513 AF009_1987_EP_SU2011_AD_03 
+	"del" Preposition PDEL lang:es 00:00:48 00:00:54 tt-513 AF009_1987_EP_SU2011_AD_03 @Gram:Prep 
 "<tema>"
 	"tema" Noun NC Singular lang:es 00:00:48 00:00:54 tt-514 AF009_1987_EP_SU2011_AD_03 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:48 00:00:54 tt-515 AF009_1987_EP_SU2011_AD_03 
+	"del" Preposition PDEL lang:es 00:00:48 00:00:54 tt-515 AF009_1987_EP_SU2011_AD_03 @Gram:Prep 
 "<clima>"
 	"clima" Noun NC Singular lang:es 00:00:48 00:00:54 tt-516 AF009_1987_EP_SU2011_AD_03 
 "<,>"
@@ -317,7 +317,7 @@
 "<gustó>"
 	"gustar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:48 00:00:54 tt-530 AF009_1987_EP_SU2011_AD_03 @Gram:Indefinido ID:152 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:00:48 00:00:54 tt-531 AF009_1987_EP_SU2011_AD_03 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:00:48 00:00:54 tt-531 AF009_1987_EP_SU2011_AD_03 @Gram:SerEstar:Ser 
 "<los>"
 	"el" Determiner ART Plural lang:es 00:00:48 00:00:54 tt-532 AF009_1987_EP_SU2011_AD_03 @Gram:Det:Art 
 "<temblores>"

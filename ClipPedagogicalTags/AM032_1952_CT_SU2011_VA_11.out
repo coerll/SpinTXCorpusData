@@ -15,7 +15,7 @@
 "<resultaba>"
 	"resultar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:07 tt-6549 AM032_1952_CT_SU2011_VA_11 @Gram:Imperf 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:00 00:00:07 tt-6550 AM032_1952_CT_SU2011_VA_11 
+	"al" Preposition PAL lang:es 00:00:00 00:00:07 tt-6550 AM032_1952_CT_SU2011_VA_11 @Gram:Prep 
 "<final>"
 	"final" Noun NC Singular lang:es 00:00:00 00:00:07 tt-6551 AM032_1952_CT_SU2011_VA_11 
 "<$.>"
@@ -46,7 +46,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:07 00:00:14 tt-6564 AM032_1952_CT_SU2011_VA_11 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:07 00:00:14 tt-6565 AM032_1952_CT_SU2011_VA_11 
+	"mío" Pronoun PPO Singular lang:es 00:00:07 00:00:14 tt-6565 AM032_1952_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<padre>"
 	"padre" Noun NC Singular lang:es 00:00:07 00:00:14 tt-6566 AM032_1952_CT_SU2011_VA_11 
 "<porque>"
@@ -70,7 +70,7 @@
 "<casa>"
 	"casa" Noun NC Singular lang:es 00:00:07 00:00:14 tt-6576 AM032_1952_CT_SU2011_VA_11 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:07 00:00:14 tt-6577 AM032_1952_CT_SU2011_VA_11 
+	"del" Preposition PDEL lang:es 00:00:07 00:00:14 tt-6577 AM032_1952_CT_SU2011_VA_11 @Gram:Prep 
 "<alfarero>"
 	"alfarero" Noun NC Singular lang:es 00:00:07 00:00:14 tt-6578 AM032_1952_CT_SU2011_VA_11 
 "<y>"
@@ -94,7 +94,7 @@
 "<sacó>"
 	"sacar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:19 00:00:26 tt-6589 AM032_1952_CT_SU2011_VA_11 @Gram:Indefinido 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:19 00:00:26 tt-6590 AM032_1952_CT_SU2011_VA_11 
+	"mío" Pronoun PPO Singular lang:es 00:00:19 00:00:26 tt-6590 AM032_1952_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:19 00:00:26 tt-6591 AM032_1952_CT_SU2011_VA_11 
 "<un>"
@@ -108,7 +108,7 @@
 "<toda>"
 	"todo" Determiner QU lang:es 00:00:19 00:00:26 tt-6596 AM032_1952_CT_SU2011_VA_11 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:19 00:00:26 tt-6597 AM032_1952_CT_SU2011_VA_11 
+	"suyo" Pronoun PPO Singular lang:es 00:00:19 00:00:26 tt-6597 AM032_1952_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:19 00:00:26 tt-6598 AM032_1952_CT_SU2011_VA_11 
 "<$.>"
@@ -224,7 +224,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:42 00:00:49 tt-6656 AM032_1952_CT_SU2011_VA_11 @Gram:Prep 
 "<sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:00:42 00:00:49 tt-6657 AM032_1952_CT_SU2011_VA_11 
+	"suyo" Pronoun PPO Plural lang:es 00:00:42 00:00:49 tt-6657 AM032_1952_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<manos>"
 	"mano" Noun NC Plural lang:es 00:00:42 00:00:49 tt-6658 AM032_1952_CT_SU2011_VA_11 
 "<nada>"
@@ -284,7 +284,7 @@
 "<él>"
 	"él" Pronoun PPX Singular lang:es 00:00:59 00:01:06 tt-6685 AM032_1952_CT_SU2011_VA_11 @Gram:Pron:Sujeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:59 00:01:06 tt-6686 AM032_1952_CT_SU2011_VA_11 ID:139 R:Gram:PerfPerif:140 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:59 00:01:06 tt-6686 AM032_1952_CT_SU2011_VA_11 ID:139 R:Gram:Aux:Haber:140 R:Gram:PerfPerif:140 
 "<laborado>"
 	"laborar" Verb VLadj lang:es 00:00:59 00:01:06 tt-6687 AM032_1952_CT_SU2011_VA_11 ID:140 
 "<$.>"
@@ -348,7 +348,7 @@
 "<decirle>"
 	"decir" Verb VLinf Pres Indi Sing 3rd lang:es 00:01:08 00:01:14 tt-6716 AM032_1952_CT_SU2011_VA_11 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:08 00:01:14 tt-6717 AM032_1952_CT_SU2011_VA_11 
+	"al" Preposition PAL lang:es 00:01:08 00:01:14 tt-6717 AM032_1952_CT_SU2011_VA_11 @Gram:Prep 
 "<hombre>"
 	"hombre" Noun NC Singular lang:es 00:01:08 00:01:14 tt-6718 AM032_1952_CT_SU2011_VA_11 
 "<que>"
@@ -395,7 +395,7 @@
 "<porque>"
 	"porque" Conjunction CSUBX lang:es 00:01:14 00:01:20 tt-6739 AM032_1952_CT_SU2011_VA_11 @Prag:MarcadoresDisc:Causa 
 "<del>"
-	"del" Preposition PDEL lang:es 00:01:14 00:01:20 tt-6740 AM032_1952_CT_SU2011_VA_11 
+	"del" Preposition PDEL lang:es 00:01:14 00:01:20 tt-6740 AM032_1952_CT_SU2011_VA_11 @Gram:Prep 
 "<barro>"
 	"barro" Noun NC Singular lang:es 00:01:20 00:01:27 tt-6741 AM032_1952_CT_SU2011_VA_11 
 "<de>"
@@ -489,7 +489,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:35 00:01:42 tt-6785 AM032_1952_CT_SU2011_VA_11 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:35 00:01:42 tt-6786 AM032_1952_CT_SU2011_VA_11 
+	"mío" Pronoun PPO Singular lang:es 00:01:35 00:01:42 tt-6786 AM032_1952_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:01:35 00:01:42 tt-6787 AM032_1952_CT_SU2011_VA_11 
 "<ese>"
@@ -497,7 +497,7 @@
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:35 00:01:42 tt-6789 AM032_1952_CT_SU2011_VA_11 @Gram:SerEstar:Ser 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:01:35 00:01:42 tt-6790 AM032_1952_CT_SU2011_VA_11 
+	"suyo" Pronoun PPO Singular lang:es 00:01:35 00:01:42 tt-6790 AM032_1952_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<lugar>"
 	"lugar" Noun NC Singular lang:es 00:01:35 00:01:42 tt-6791 AM032_1952_CT_SU2011_VA_11 
 "<favorito>"
@@ -543,7 +543,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:43 00:01:50 tt-6812 AM032_1952_CT_SU2011_VA_11 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:43 00:01:50 tt-6813 AM032_1952_CT_SU2011_VA_11 
+	"mío" Pronoun PPO Singular lang:es 00:01:43 00:01:50 tt-6813 AM032_1952_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:01:43 00:01:50 tt-6814 AM032_1952_CT_SU2011_VA_11 
 "<,>"
@@ -611,7 +611,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:57 00:02:04 tt-6845 AM032_1952_CT_SU2011_VA_11 @Gram:Prep ID:297 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:57 00:02:04 tt-6846 AM032_1952_CT_SU2011_VA_11 
+	"mío" Pronoun PPO Singular lang:es 00:01:57 00:02:04 tt-6846 AM032_1952_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:01:57 00:02:04 tt-6847 AM032_1952_CT_SU2011_VA_11 
 "<y>"
@@ -892,7 +892,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:02:48 00:02:55 tt-6981 AM032_1952_CT_SU2011_VA_11 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:48 00:02:55 tt-6982 AM032_1952_CT_SU2011_VA_11 
+	"mío" Pronoun PPO Singular lang:es 00:02:48 00:02:55 tt-6982 AM032_1952_CT_SU2011_VA_11 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:02:48 00:02:55 tt-6983 AM032_1952_CT_SU2011_VA_11 
 "<y>"

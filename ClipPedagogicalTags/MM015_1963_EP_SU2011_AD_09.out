@@ -17,7 +17,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-2500 MM015_1963_EP_SU2011_AD_09 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2501 MM015_1963_EP_SU2011_AD_09 ID:9 R:Gram:PerfPerif:10 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2501 MM015_1963_EP_SU2011_AD_09 ID:9 R:Gram:Aux:Haber:10 R:Gram:PerfPerif:10 
 "<enfrentado>"
 	"enfrentar" Verb VLadj lang:es 00:00:00 00:00:07 tt-2502 MM015_1963_EP_SU2011_AD_09 ID:10 
 "<a>"
@@ -243,7 +243,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:47 00:00:54 tt-2609 MM015_1963_EP_SU2011_AD_09 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:47 00:00:54 tt-2610 MM015_1963_EP_SU2011_AD_09 
+	"mío" Pronoun PPO Singular lang:es 00:00:47 00:00:54 tt-2610 MM015_1963_EP_SU2011_AD_09 @Gram:Det:Pos 
 "<experiencia>"
 	"experiencia" Noun NC Singular lang:es 00:00:47 00:00:54 tt-2611 MM015_1963_EP_SU2011_AD_09 
 "<y>"

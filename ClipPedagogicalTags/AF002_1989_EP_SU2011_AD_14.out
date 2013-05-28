@@ -58,7 +58,7 @@
 "<porque>"
 	"porque" Conjunction CSUBX lang:es 00:00:11 00:00:18 tt-4178 AF002_1989_EP_SU2011_AD_14 @Prag:MarcadoresDisc:Causa 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:11 00:00:18 tt-4179 AF002_1989_EP_SU2011_AD_14 
+	"al" Preposition PAL lang:es 00:00:11 00:00:18 tt-4179 AF002_1989_EP_SU2011_AD_14 @Gram:Prep 
 "<momento>"
 	"momento" Noun NC Singular lang:es 00:00:11 00:00:18 tt-4180 AF002_1989_EP_SU2011_AD_14 
 "<que>"
@@ -176,7 +176,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:43 00:00:48 tt-4236 AF002_1989_EP_SU2011_AD_14 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:43 00:00:48 tt-4237 AF002_1989_EP_SU2011_AD_14 ID:86 R:Gram:PerfPerif:87 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:43 00:00:48 tt-4237 AF002_1989_EP_SU2011_AD_14 ID:86 R:Gram:Aux:Haber:87 R:Gram:PerfPerif:87 
 "<tocado>"
 	"tocar" Verb VLadj lang:es 00:00:43 00:00:48 tt-4238 AF002_1989_EP_SU2011_AD_14 ID:87 
 "<vivir>"
@@ -200,7 +200,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:43 00:00:48 tt-4248 AF002_1989_EP_SU2011_AD_14 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:43 00:00:48 tt-4249 AF002_1989_EP_SU2011_AD_14 ID:98 R:Gram:PerfPerif:99 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:43 00:00:48 tt-4249 AF002_1989_EP_SU2011_AD_14 ID:98 R:Gram:Aux:Haber:99 R:Gram:PerfPerif:99 
 "<convivido>"
 	"convivir" Verb VLadj lang:es 00:00:43 00:00:48 tt-4250 AF002_1989_EP_SU2011_AD_14 ID:99 
 "<con>"
@@ -220,7 +220,7 @@
 "<entonces>"
 	"entonces" Adverb ADV lang:es 00:00:48 00:00:55 tt-4258 AF002_1989_EP_SU2011_AD_14 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:48 00:00:55 tt-4259 AF002_1989_EP_SU2011_AD_14 ID:108 R:Gram:PerfPerif:109 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:48 00:00:55 tt-4259 AF002_1989_EP_SU2011_AD_14 ID:108 R:Gram:Aux:Haber:109 R:Gram:PerfPerif:109 
 "<mezclado>"
 	"mezclar" Verb VLadj lang:es 00:00:48 00:00:55 tt-4260 AF002_1989_EP_SU2011_AD_14 ID:109 
 "<las>"
@@ -257,13 +257,13 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:57 00:01:02 tt-4276 AF002_1989_EP_SU2011_AD_14 @Gram:Pron:Objeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:57 00:01:02 tt-4277 AF002_1989_EP_SU2011_AD_14 ID:126 R:Gram:PerfPerif:127 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:57 00:01:02 tt-4277 AF002_1989_EP_SU2011_AD_14 ID:126 R:Gram:Aux:Haber:127 R:Gram:PerfPerif:127 
 "<referido>"
 	"referir" Verb VLadj lang:es 00:00:57 00:01:02 tt-4278 AF002_1989_EP_SU2011_AD_14 ID:127 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:57 00:01:02 tt-4279 AF002_1989_EP_SU2011_AD_14 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:57 00:01:02 tt-4280 AF002_1989_EP_SU2011_AD_14 
+	"mío" Pronoun PPO Singular lang:es 00:00:57 00:01:02 tt-4280 AF002_1989_EP_SU2011_AD_14 @Gram:Det:Pos 
 "<persona>"
 	"persona" Noun NC Singular lang:es 00:00:57 00:01:02 tt-4281 AF002_1989_EP_SU2011_AD_14 
 "<como>"

@@ -17,7 +17,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-4047 AF002_1989_EP_SU2011_AD_13 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-4048 AF002_1989_EP_SU2011_AD_13 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-4048 AF002_1989_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:00 00:00:07 tt-4049 AF002_1989_EP_SU2011_AD_13 
 "<$?>"
@@ -84,15 +84,15 @@
 "<los>"
 	"él" Pronoun PPC Plural lang:es 00:00:22 00:00:29 tt-4077 AF002_1989_EP_SU2011_AD_13 @Gram:Pron:Objeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:22 00:00:29 tt-4078 AF002_1989_EP_SU2011_AD_13 ID:39 R:Gram:PerfPerif:40 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:22 00:00:29 tt-4078 AF002_1989_EP_SU2011_AD_13 ID:39 R:Gram:Aux:Haber:40 R:Gram:PerfPerif:40 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:22 00:00:29 tt-4079 AF002_1989_EP_SU2011_AD_13 ID:40 
 "<pero>"
 	"pero" Conjunction CC lang:es 00:00:22 00:00:29 tt-4080 AF002_1989_EP_SU2011_AD_13 @Prag:MarcadoresDisc:Revision 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:22 00:00:29 tt-4081 AF002_1989_EP_SU2011_AD_13 ID:42 R:Gram:PerfPerif:43 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:22 00:00:29 tt-4081 AF002_1989_EP_SU2011_AD_13 ID:42 R:Gram:SerEstar:Ser:43 R:Gram:Aux:Haber:43 R:Gram:PerfPerif:43 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:22 00:00:29 tt-4082 AF002_1989_EP_SU2011_AD_13 @Gram:SerEstar:Ser ID:43 
+	"ser" Verb VSadj Participle lang:es 00:00:22 00:00:29 tt-4082 AF002_1989_EP_SU2011_AD_13 ID:43 
 "<varios>"
 	"varios" Determiner QU lang:es 00:00:22 00:00:29 tt-4083 AF002_1989_EP_SU2011_AD_13 
 "<$.>"
@@ -216,9 +216,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:44 00:00:48 tt-4141 AF002_1989_EP_SU2011_AD_13 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:44 00:00:48 tt-4142 AF002_1989_EP_SU2011_AD_13 ID:103 R:Gram:PerfPerif:104 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:44 00:00:48 tt-4142 AF002_1989_EP_SU2011_AD_13 ID:103 R:Gram:SerEstar:Ser:104 R:Gram:Aux:Haber:104 R:Gram:PerfPerif:104 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:44 00:00:48 tt-4143 AF002_1989_EP_SU2011_AD_13 @Gram:SerEstar:Ser ID:104 
+	"ser" Verb VSadj Participle lang:es 00:00:44 00:00:48 tt-4143 AF002_1989_EP_SU2011_AD_13 ID:104 
 "<varios>"
 	"varios" Determiner QU lang:es 00:00:44 00:00:48 tt-4144 AF002_1989_EP_SU2011_AD_13 
 "<,>"

@@ -17,7 +17,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:00 00:00:05 tt-32 AF082_1991_GV_SU2012_SB_01 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:05 tt-33 AF082_1991_GV_SU2012_SB_01 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:05 tt-33 AF082_1991_GV_SU2012_SB_01 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:00 00:00:05 tt-34 AF082_1991_GV_SU2012_SB_01 
 "<$.>"
@@ -197,7 +197,7 @@
 "<allí>"
 	"allí" Adverb ADV lang:es 00:00:40 00:00:45 tt-127 AF082_1991_GV_SU2012_SB_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:40 00:00:45 tt-128 AF082_1991_GV_SU2012_SB_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:40 00:00:45 tt-128 AF082_1991_GV_SU2012_SB_01 @Gram:Det:Pos 
 "<niñez>"
 	"niñez" Noun NC Singular lang:es 00:00:40 00:00:45 tt-129 AF082_1991_GV_SU2012_SB_01 
 "<ni>"
@@ -213,7 +213,7 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:45 00:00:50 tt-135 AF082_1991_GV_SU2012_SB_01 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:45 00:00:50 tt-136 AF082_1991_GV_SU2012_SB_01 ID:98 R:Gram:PerfPerif:99 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:45 00:00:50 tt-136 AF082_1991_GV_SU2012_SB_01 ID:98 R:Gram:Aux:Haber:99 R:Gram:PerfPerif:99 
 "<ido>"
 	"ir" Verb VLadj lang:es 00:00:45 00:00:50 tt-137 AF082_1991_GV_SU2012_SB_01 ID:99 
 "<a>"
@@ -233,7 +233,7 @@
 "<son>"
 	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:00:45 00:00:50 tt-145 AF082_1991_GV_SU2012_SB_01 @Gram:SerEstar:Ser 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:45 00:00:50 tt-146 AF082_1991_GV_SU2012_SB_01 
+	"UNK" Noun NC Plural lang:es 00:00:45 00:00:50 tt-146 AF082_1991_GV_SU2012_SB_01 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:00:45 00:00:50 tt-147 AF082_1991_GV_SU2012_SB_01 
 "<$?>"
@@ -242,7 +242,7 @@
 <speaker type="subj">
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:50 00:00:55 tt-149 AF082_1991_GV_SU2012_SB_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:50 00:00:55 tt-149 AF082_1991_GV_SU2012_SB_01 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:50 00:00:55 tt-150 AF082_1991_GV_SU2012_SB_01 
 "<es>"
@@ -261,7 +261,7 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:50 00:00:55 tt-157 AF082_1991_GV_SU2012_SB_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:50 00:00:55 tt-158 AF082_1991_GV_SU2012_SB_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:50 00:00:55 tt-158 AF082_1991_GV_SU2012_SB_01 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:50 00:00:55 tt-159 AF082_1991_GV_SU2012_SB_01 
 "<es>"
@@ -285,7 +285,7 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:55 00:00:57 tt-167 AF082_1991_GV_SU2012_SB_01 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:55 00:00:57 tt-168 AF082_1991_GV_SU2012_SB_01 ID:130 R:Gram:PerfPerif:131 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:55 00:00:57 tt-168 AF082_1991_GV_SU2012_SB_01 ID:130 R:Gram:Aux:Haber:131 R:Gram:PerfPerif:131 
 "<ido>"
 	"ir" Verb VLadj lang:es 00:00:55 00:00:57 tt-169 AF082_1991_GV_SU2012_SB_01 ID:131 
 "<$?>"
@@ -360,7 +360,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:01:07 00:01:14 tt-202 AF082_1991_GV_SU2012_SB_01 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:07 00:01:14 tt-203 AF082_1991_GV_SU2012_SB_01 
+	"mío" Pronoun PPO Singular lang:es 00:01:07 00:01:14 tt-203 AF082_1991_GV_SU2012_SB_01 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:01:07 00:01:14 tt-204 AF082_1991_GV_SU2012_SB_01 
 "<y>"
@@ -368,7 +368,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:01:07 00:01:14 tt-206 AF082_1991_GV_SU2012_SB_01 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:07 00:01:14 tt-207 AF082_1991_GV_SU2012_SB_01 
+	"mío" Pronoun PPO Singular lang:es 00:01:07 00:01:14 tt-207 AF082_1991_GV_SU2012_SB_01 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:01:07 00:01:14 tt-208 AF082_1991_GV_SU2012_SB_01 
 "<para>"
@@ -382,7 +382,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:07 00:01:14 tt-213 AF082_1991_GV_SU2012_SB_01 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:07 00:01:14 tt-214 AF082_1991_GV_SU2012_SB_01 
+	"mío" Pronoun PPO Singular lang:es 00:01:07 00:01:14 tt-214 AF082_1991_GV_SU2012_SB_01 @Gram:Det:Pos 
 "<abuelito>"
 	"abuelo" Noun NC Singular lang:es 00:01:07 00:01:14 tt-215 AF082_1991_GV_SU2012_SB_01 
 "<y>"
@@ -413,7 +413,7 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:01:16 00:01:20 tt-228 AF082_1991_GV_SU2012_SB_01 
 "<eras>"
-	"erar|ser" Verb VLfin Past Subj Sing 2nd lang:es 00:01:16 00:01:20 tt-229 AF082_1991_GV_SU2012_SB_01 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Sing 2nd lang:es 00:01:16 00:01:20 tt-229 AF082_1991_GV_SU2012_SB_01 @Gram:SerEstar:Ser 
 "<más>"
 	"más" Adverb ADV lang:es 00:01:16 00:01:20 tt-230 AF082_1991_GV_SU2012_SB_01 
 "<...>"

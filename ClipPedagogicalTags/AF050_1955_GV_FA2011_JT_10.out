@@ -151,9 +151,9 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:24 00:00:31 tt-1880 AF050_1955_GV_FA2011_JT_10 
 "<esté>"
-	"estar" Verb VEfin Pres Subj Sing 1st_or_3rd lang:es 00:00:24 00:00:31 tt-1881 AF050_1955_GV_FA2011_JT_10 @Gram:MSub:Pres @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Subj Sing 1st_or_3rd lang:es 00:00:24 00:00:31 tt-1881 AF050_1955_GV_FA2011_JT_10 @Gram:MSub:Pres @Gram:SerEstar:Estar ID:69 R:Gram:SerEstar:EstarAux:70 
 "<usando>"
-	"usar" Verb VLger lang:es 00:00:24 00:00:31 tt-1882 AF050_1955_GV_FA2011_JT_10 
+	"usar" Verb VLger lang:es 00:00:24 00:00:31 tt-1882 AF050_1955_GV_FA2011_JT_10 ID:70 
 "<la>"
 	"el" Determiner ART Singular lang:es 00:00:32 00:00:33 tt-1883 AF050_1955_GV_FA2011_JT_10 @Gram:Det:Art 
 "<computadora>"
@@ -186,7 +186,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:33 00:00:40 tt-1896 AF050_1955_GV_FA2011_JT_10 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:33 00:00:40 tt-1897 AF050_1955_GV_FA2011_JT_10 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:33 00:00:40 tt-1897 AF050_1955_GV_FA2011_JT_10 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:33 00:00:40 tt-1898 AF050_1955_GV_FA2011_JT_10 
 "<laboral>"
@@ -288,7 +288,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:56 00:01:02 tt-1947 AF050_1955_GV_FA2011_JT_10 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:56 00:01:02 tt-1948 AF050_1955_GV_FA2011_JT_10 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:56 00:01:02 tt-1948 AF050_1955_GV_FA2011_JT_10 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:56 00:01:02 tt-1949 AF050_1955_GV_FA2011_JT_10 
 "<laboral>"
@@ -409,7 +409,7 @@
 "<trabajos>"
 	"trabajo" Noun NC Plural lang:es 00:01:25 00:01:32 tt-2007 AF050_1955_GV_FA2011_JT_10 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:01:25 00:01:32 tt-2008 AF050_1955_GV_FA2011_JT_10 ID:189 R:Gram:PerfPerif:190 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:01:25 00:01:32 tt-2008 AF050_1955_GV_FA2011_JT_10 ID:189 R:Gram:Aux:Haber:190 R:Gram:PerfPerif:190 
 "<ejercido>"
 	"ejercer" Verb VLadj lang:es 00:01:25 00:01:32 tt-2009 AF050_1955_GV_FA2011_JT_10 ID:190 
 "<$?>"

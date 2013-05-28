@@ -103,13 +103,13 @@
 "<hacían>"
 	"hacer" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:19 00:00:24 tt-62 MM015_1963_EP_SU2011_AD_01 @Gram:Imperf 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:19 00:00:24 tt-63 MM015_1963_EP_SU2011_AD_01 
+	"UNK" Noun NC Plural lang:es 00:00:19 00:00:24 tt-63 MM015_1963_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<padres>"
 	"padre" Noun NC Plural lang:es 00:00:19 00:00:24 tt-64 MM015_1963_EP_SU2011_AD_01 
 "<o>"
 	"o" Conjunction CC lang:es 00:00:19 00:00:24 tt-65 MM015_1963_EP_SU2011_AD_01 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:19 00:00:24 tt-66 MM015_1963_EP_SU2011_AD_01 
+	"UNK" Noun NC Plural lang:es 00:00:19 00:00:24 tt-66 MM015_1963_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<abuelos>"
 	"abuelo" Noun NC Plural lang:es 00:00:19 00:00:24 tt-67 MM015_1963_EP_SU2011_AD_01 
 "<$?>"
@@ -118,7 +118,7 @@
 <speaker type="subj">
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:24 00:00:31 tt-69 MM015_1963_EP_SU2011_AD_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:24 00:00:31 tt-69 MM015_1963_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<padre>"
 	"padre" Noun NC Singular lang:es 00:00:24 00:00:31 tt-70 MM015_1963_EP_SU2011_AD_01 
 "<tenía>"
@@ -212,7 +212,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:48 00:00:53 tt-114 MM015_1963_EP_SU2011_AD_01 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:48 00:00:53 tt-115 MM015_1963_EP_SU2011_AD_01 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:48 00:00:53 tt-115 MM015_1963_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<infancia>"
 	"infancia" Noun NC Singular lang:es 00:00:48 00:00:53 tt-116 MM015_1963_EP_SU2011_AD_01 
 "<$?>"
@@ -429,7 +429,7 @@
 "<recordarían>"
 	"UNK" Verb VLfin Cond Indi Plural 3rd lang:es 00:01:48 00:01:51 tt-211 MM015_1963_EP_SU2011_AD_01 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:01:48 00:01:51 tt-212 MM015_1963_EP_SU2011_AD_01 
+	"UNK" Noun NC Plural lang:es 00:01:48 00:01:51 tt-212 MM015_1963_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<compañeros>"
 	"compañero" Noun NC Plural lang:es 00:01:48 00:01:51 tt-213 MM015_1963_EP_SU2011_AD_01 
 "<$?>"
@@ -505,7 +505,7 @@
 "<los>"
 	"el" Determiner ART Plural lang:es 00:02:03 00:02:10 tt-243 MM015_1963_EP_SU2011_AD_01 @Gram:Det:Art 
 "<maestros>"
-	"maestro" Noun NC Plural lang:es 00:02:03 00:02:10 tt-244 MM015_1963_EP_SU2011_AD_01 
+	"maestro" Plural Singular Noun NC lang:es 00:02:03 00:02:10 tt-244 MM015_1963_EP_SU2011_AD_01 
 "<de>"
 	"de" Preposition PREP lang:es 00:02:03 00:02:10 tt-245 MM015_1963_EP_SU2011_AD_01 @Gram:Prep 
 "<matemáticas>"
@@ -596,11 +596,11 @@
 "<algún>"
 	"alguno" Determiner QU lang:es 00:02:22 00:02:29 tt-286 MM015_1963_EP_SU2011_AD_01 
 "<maestro>"
-	"maestro" Noun NC Singular lang:es 00:02:22 00:02:29 tt-287 MM015_1963_EP_SU2011_AD_01 
+	"maestro" Plural Singular Noun NC lang:es 00:02:22 00:02:29 tt-287 MM015_1963_EP_SU2011_AD_01 
 "<o>"
 	"o" Conjunction CC lang:es 00:02:22 00:02:29 tt-288 MM015_1963_EP_SU2011_AD_01 
 "<maestra>"
-	"maestro" Noun NC Singular lang:es 00:02:22 00:02:29 tt-289 MM015_1963_EP_SU2011_AD_01 
+	"maestro" Plural Singular Noun NC lang:es 00:02:22 00:02:29 tt-289 MM015_1963_EP_SU2011_AD_01 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:02:22 00:02:29 tt-290 MM015_1963_EP_SU2011_AD_01 
 "<haya>"
@@ -618,7 +618,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:02:30 00:02:31 tt-297 MM015_1963_EP_SU2011_AD_01 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:02:30 00:02:31 tt-298 MM015_1963_EP_SU2011_AD_01 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:02:30 00:02:31 tt-298 MM015_1963_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:02:30 00:02:31 tt-299 MM015_1963_EP_SU2011_AD_01 
 "<$?>"

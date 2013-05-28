@@ -16,7 +16,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-3019 OM023_1962_CT_SU2011_VA_09 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-3020 OM023_1962_CT_SU2011_VA_09 ID:8 R:Gram:PerfPerif:9 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-3020 OM023_1962_CT_SU2011_VA_09 ID:8 R:Gram:Aux:Haber:9 R:Gram:PerfPerif:9 
 "<pasado>"
 	"pasar" Verb VLadj lang:es 00:00:00 00:00:07 tt-3021 OM023_1962_CT_SU2011_VA_09 ID:9 
 "<así>"
@@ -37,7 +37,7 @@
 "<tuvimos>"
 	"tener" Verb VLfin Pres_or_Pret Indi Plural 1st lang:es 00:00:00 00:00:07 tt-3029 OM023_1962_CT_SU2011_VA_09 
 "<nuestros>"
-	"UNK" Adjective ADJ Plural lang:es 00:00:00 00:00:07 tt-3030 OM023_1962_CT_SU2011_VA_09 
+	"UNK" Adjective ADJ Plural lang:es 00:00:00 00:00:07 tt-3030 OM023_1962_CT_SU2011_VA_09 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:09 00:00:16 tt-3031 OM023_1962_CT_SU2011_VA_09 
 "<,>"
@@ -128,7 +128,7 @@
 "<importancia>"
 	"importancia" Noun NC Singular lang:es 00:00:23 00:00:29 tt-3074 OM023_1962_CT_SU2011_VA_09 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:23 00:00:29 tt-3075 OM023_1962_CT_SU2011_VA_09 
+	"del" Preposition PDEL lang:es 00:00:23 00:00:29 tt-3075 OM023_1962_CT_SU2011_VA_09 @Gram:Prep 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:00:23 00:00:29 tt-3076 OM023_1962_CT_SU2011_VA_09 
 "<y>"
@@ -216,9 +216,9 @@
 "<años>"
 	"año" Noun NC Plural lang:es 00:00:44 00:00:50 tt-3117 OM023_1962_CT_SU2011_VA_09 
 "<estaba>"
-	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:44 00:00:50 tt-3118 OM023_1962_CT_SU2011_VA_09 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:44 00:00:50 tt-3118 OM023_1962_CT_SU2011_VA_09 @Gram:Imperf @Gram:SerEstar:Estar ID:106 R:Gram:SerEstar:EstarAux:107 
 "<aprendiendo>"
-	"aprender" Verb VLger lang:es 00:00:44 00:00:50 tt-3119 OM023_1962_CT_SU2011_VA_09 
+	"aprender" Verb VLger lang:es 00:00:44 00:00:50 tt-3119 OM023_1962_CT_SU2011_VA_09 ID:107 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:44 00:00:50 tt-3120 OM023_1962_CT_SU2011_VA_09 @Gram:Prep 
 "<montar>"
@@ -435,9 +435,9 @@
 "<así>"
 	"así" Conjunction CSUBX lang:es 00:01:25 00:01:32 tt-3233 OM023_1962_CT_SU2011_VA_09 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:25 00:01:32 tt-3234 OM023_1962_CT_SU2011_VA_09 ID:212 R:Gram:PerfPerif:213 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:25 00:01:32 tt-3234 OM023_1962_CT_SU2011_VA_09 ID:212 R:Gram:SerEstar:Ser:213 R:Gram:Aux:Haber:213 R:Gram:PerfPerif:213 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:01:25 00:01:32 tt-3235 OM023_1962_CT_SU2011_VA_09 @Gram:SerEstar:Ser ID:213 
+	"ser" Verb VSadj Participle lang:es 00:01:25 00:01:32 tt-3235 OM023_1962_CT_SU2011_VA_09 ID:213 
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:01:34 00:01:41 tt-3236 OM023_1962_CT_SU2011_VA_09 
 "<con>"

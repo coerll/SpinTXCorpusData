@@ -131,7 +131,7 @@
 "<si>"
 	"si" Conjunction CSUBX lang:es 00:00:28 00:00:34 tt-457 OM024_1933_CT_SU2011_VA_03 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:00:28 00:00:34 tt-458 OM024_1933_CT_SU2011_VA_03 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:00:28 00:00:34 tt-458 OM024_1933_CT_SU2011_VA_03 @Gram:SerEstar:Ser 
 "<cerca>"
 	"cerca" Adverb ADV lang:es 00:00:28 00:00:34 tt-459 OM024_1933_CT_SU2011_VA_03 
 "<cuándo>"
@@ -189,13 +189,13 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:34 00:00:41 tt-485 OM024_1933_CT_SU2011_VA_03 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:34 00:00:41 tt-486 OM024_1933_CT_SU2011_VA_03 
+	"mío" Pronoun PPO Singular lang:es 00:00:34 00:00:41 tt-486 OM024_1933_CT_SU2011_VA_03 @Gram:Det:Pos 
 "<madre>"
 	"madre" Noun NC Singular lang:es 00:00:34 00:00:41 tt-487 OM024_1933_CT_SU2011_VA_03 
 "<o>"
 	"o" Conjunction CC lang:es 00:00:42 00:00:48 tt-488 OM024_1933_CT_SU2011_VA_03 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:42 00:00:48 tt-489 OM024_1933_CT_SU2011_VA_03 
+	"mío" Pronoun PPO Singular lang:es 00:00:42 00:00:48 tt-489 OM024_1933_CT_SU2011_VA_03 @Gram:Det:Pos 
 "<padre>"
 	"padre" Noun NC Singular lang:es 00:00:42 00:00:48 tt-490 OM024_1933_CT_SU2011_VA_03 
 "<nos>"
@@ -207,7 +207,7 @@
 "<entonces>"
 	"entonces" Adverb ADV lang:es 00:00:42 00:00:48 tt-494 OM024_1933_CT_SU2011_VA_03 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:42 00:00:48 tt-495 OM024_1933_CT_SU2011_VA_03 
+	"mío" Pronoun PPO Singular lang:es 00:00:42 00:00:48 tt-495 OM024_1933_CT_SU2011_VA_03 @Gram:Det:Pos 
 "<hermana>"
 	"hermano" Noun NC Singular lang:es 00:00:42 00:00:48 tt-496 OM024_1933_CT_SU2011_VA_03 
 "<decía>"

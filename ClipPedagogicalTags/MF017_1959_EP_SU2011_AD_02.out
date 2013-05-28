@@ -23,7 +23,7 @@
 "<daban>"
 	"dar" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:00 00:00:07 tt-545 MF017_1959_EP_SU2011_AD_02 @Gram:Imperf 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-546 MF017_1959_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-546 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<lonche>"
 	"UNK" Noun NC Singular lang:es 00:00:00 00:00:07 tt-547 MF017_1959_EP_SU2011_AD_02 
 "<y>"
@@ -33,7 +33,7 @@
 "<daban>"
 	"dar" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:00 00:00:07 tt-550 MF017_1959_EP_SU2011_AD_02 @Gram:Imperf 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-551 MF017_1959_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-551 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<dinero>"
 	"dinero" Noun NC Singular lang:es 00:00:00 00:00:07 tt-552 MF017_1959_EP_SU2011_AD_02 
 "<para>"
@@ -85,7 +85,7 @@
 "<perseguía>"
 	"perseguir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:11 00:00:16 tt-576 MF017_1959_EP_SU2011_AD_02 @Gram:Imperf 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:11 00:00:16 tt-577 MF017_1959_EP_SU2011_AD_02 
+	"al" Preposition PAL lang:es 00:00:11 00:00:16 tt-577 MF017_1959_EP_SU2011_AD_02 @Gram:Prep 
 "<último>"
 	"último" Adjective ADJ Singular lang:es 00:00:11 00:00:16 tt-578 MF017_1959_EP_SU2011_AD_02 
 "<,>"
@@ -109,7 +109,7 @@
 "<robarme>"
 	"UNK" Verb VLinf Infinitive lang:es 00:00:16 00:00:23 tt-588 MF017_1959_EP_SU2011_AD_02 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:16 00:00:23 tt-589 MF017_1959_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:16 00:00:23 tt-589 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<dinerito>"
 	"dinero" Noun NC Singular lang:es 00:00:16 00:00:23 tt-590 MF017_1959_EP_SU2011_AD_02 
 "<que>"
@@ -121,7 +121,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:16 00:00:23 tt-594 MF017_1959_EP_SU2011_AD_02 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:16 00:00:23 tt-595 MF017_1959_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:16 00:00:23 tt-595 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<lonche>"
 	"UNK" Noun NC Singular lang:es 00:00:16 00:00:23 tt-596 MF017_1959_EP_SU2011_AD_02 
 "<,>"
@@ -175,7 +175,7 @@
 "<jalaba>"
 	"UNK" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:23 00:00:27 tt-621 MF017_1959_EP_SU2011_AD_02 @Gram:Imperf 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:27 00:00:34 tt-622 MF017_1959_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:00:27 00:00:34 tt-622 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<pelo>"
 	"pelo" Noun NC Singular lang:es 00:00:27 00:00:34 tt-623 MF017_1959_EP_SU2011_AD_02 
 "<,>"
@@ -242,7 +242,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:38 00:00:43 tt-651 MF017_1959_EP_SU2011_AD_02 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:38 00:00:43 tt-652 MF017_1959_EP_SU2011_AD_02 ID:118 R:Gram:PerfPerif:119 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:38 00:00:43 tt-652 MF017_1959_EP_SU2011_AD_02 ID:118 R:Gram:Aux:Haber:119 R:Gram:PerfPerif:119 
 "<gustado>"
 	"gustar" Verb VLadj lang:es 00:00:38 00:00:43 tt-653 MF017_1959_EP_SU2011_AD_02 ID:119 
 "<la>"
@@ -320,7 +320,7 @@
 "<estudiante>"
 	"estudiante" Noun NC Singular lang:es 00:00:49 00:00:54 tt-688 MF017_1959_EP_SU2011_AD_02 
 "<eras>"
-	"erar|ser" Verb VLfin Past Subj Sing 2nd lang:es 00:00:49 00:00:54 tt-689 MF017_1959_EP_SU2011_AD_02 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Sing 2nd lang:es 00:00:49 00:00:54 tt-689 MF017_1959_EP_SU2011_AD_02 @Gram:SerEstar:Ser 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:49 00:00:54 tt-690 MF017_1959_EP_SU2011_AD_02 
 </speaker>
@@ -371,7 +371,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:01 00:01:06 tt-712 MF017_1959_EP_SU2011_AD_02 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:01 00:01:06 tt-713 MF017_1959_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:01:01 00:01:06 tt-713 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<hija>"
 	"hijo" Noun NC Singular lang:es 00:01:01 00:01:06 tt-714 MF017_1959_EP_SU2011_AD_02 
 "<,>"
@@ -429,7 +429,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:01:06 00:01:13 tt-742 MF017_1959_EP_SU2011_AD_02 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:06 00:01:13 tt-743 MF017_1959_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:01:06 00:01:13 tt-743 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:01:06 00:01:13 tt-744 MF017_1959_EP_SU2011_AD_02 
 "<exigiéndole>"
@@ -487,7 +487,7 @@
 "<terminé>"
 	"terminar" Verb VLfin Pret Indi Sing 1st lang:es 00:01:21 00:01:26 tt-771 MF017_1959_EP_SU2011_AD_02 @Gram:Indefinido 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:21 00:01:26 tt-772 MF017_1959_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:01:21 00:01:26 tt-772 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<tarea>"
 	"tarea" Noun NC Singular lang:es 00:01:21 00:01:26 tt-773 MF017_1959_EP_SU2011_AD_02 
 "<,>"
@@ -499,7 +499,7 @@
 "<terminando>"
 	"terminar" Verb VLger lang:es 00:01:21 00:01:26 tt-777 MF017_1959_EP_SU2011_AD_02 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:21 00:01:26 tt-778 MF017_1959_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:01:21 00:01:26 tt-778 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<tarea>"
 	"tarea" Noun NC Singular lang:es 00:01:21 00:01:26 tt-779 MF017_1959_EP_SU2011_AD_02 
 "<,>"
@@ -538,7 +538,7 @@
 "<recordarían>"
 	"UNK" Verb VLfin Cond Indi Plural 3rd lang:es 00:01:27 00:01:32 tt-795 MF017_1959_EP_SU2011_AD_02 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:01:27 00:01:32 tt-796 MF017_1959_EP_SU2011_AD_02 
+	"UNK" Noun NC Plural lang:es 00:01:27 00:01:32 tt-796 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<compañeros>"
 	"compañero" Noun NC Plural lang:es 00:01:27 00:01:32 tt-797 MF017_1959_EP_SU2011_AD_02 
 "<$?>"
@@ -577,7 +577,7 @@
 "<la>"
 	"el" Determiner ART Singular lang:es 00:01:32 00:01:39 tt-813 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Art 
 "<maestra>"
-	"maestro" Noun NC Singular lang:es 00:01:32 00:01:39 tt-814 MF017_1959_EP_SU2011_AD_02 
+	"maestro" Plural Singular Noun NC lang:es 00:01:32 00:01:39 tt-814 MF017_1959_EP_SU2011_AD_02 
 "<preguntaba>"
 	"preguntar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:40 00:01:45 tt-815 MF017_1959_EP_SU2011_AD_02 @Gram:Imperf 
 "<,>"
@@ -627,7 +627,7 @@
 "<De>"
 	"de" Preposition PREP lang:es 00:01:45 00:01:52 tt-837 MF017_1959_EP_SU2011_AD_02 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:45 00:01:52 tt-838 MF017_1959_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:01:45 00:01:52 tt-838 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<pelo>"
 	"pelo" Noun NC Singular lang:es 00:01:45 00:01:52 tt-839 MF017_1959_EP_SU2011_AD_02 
 "<largo>"
@@ -651,7 +651,7 @@
 "<un>"
 	"un" Determiner ART Singular lang:es 00:01:45 00:01:52 tt-849 MF017_1959_EP_SU2011_AD_02 
 "<maestro>"
-	"maestro" Adjective ADJ Singular lang:es 00:01:45 00:01:52 tt-850 MF017_1959_EP_SU2011_AD_02 
+	"maestro" Plural Noun Singular lang:es 00:01:45 00:01:52 tt-850 MF017_1959_EP_SU2011_AD_02 
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:45 00:01:52 tt-851 MF017_1959_EP_SU2011_AD_02 @Gram:Pron:Objeto 
 "<decía>"
@@ -691,7 +691,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:01:53 00:01:58 tt-869 MF017_1959_EP_SU2011_AD_02 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:01:53 00:01:58 tt-870 MF017_1959_EP_SU2011_AD_02 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:01:53 00:01:58 tt-870 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<pelo>"
 	"pelo" Noun NC Singular lang:es 00:01:53 00:01:58 tt-871 MF017_1959_EP_SU2011_AD_02 
 "<largo>"
@@ -757,7 +757,7 @@
 "<por>"
 	"por" Preposition PREP lang:es 00:02:09 00:02:15 tt-900 MF017_1959_EP_SU2011_AD_02 @Gram:Prep:Por 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:09 00:02:15 tt-901 MF017_1959_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:02:09 00:02:15 tt-901 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<estatura>"
 	"estatura" Noun NC Singular lang:es 00:02:09 00:02:15 tt-902 MF017_1959_EP_SU2011_AD_02 
 "<,>"
@@ -838,7 +838,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:02:20 00:02:27 tt-940 MF017_1959_EP_SU2011_AD_02 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:20 00:02:27 tt-941 MF017_1959_EP_SU2011_AD_02 
+	"mío" Pronoun PPO Singular lang:es 00:02:20 00:02:27 tt-941 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:02:20 00:02:27 tt-942 MF017_1959_EP_SU2011_AD_02 
 "<,>"
@@ -969,11 +969,11 @@
 "<algún>"
 	"alguno" Determiner QU lang:es 00:02:47 00:02:52 tt-1004 MF017_1959_EP_SU2011_AD_02 
 "<maestro>"
-	"maestro" Noun NC Singular lang:es 00:02:47 00:02:52 tt-1005 MF017_1959_EP_SU2011_AD_02 
+	"maestro" Plural Singular Noun NC lang:es 00:02:47 00:02:52 tt-1005 MF017_1959_EP_SU2011_AD_02 
 "<o>"
 	"o" Conjunction CC lang:es 00:02:47 00:02:52 tt-1006 MF017_1959_EP_SU2011_AD_02 
 "<maestros>"
-	"maestro" Noun NC Plural lang:es 00:02:47 00:02:52 tt-1007 MF017_1959_EP_SU2011_AD_02 
+	"maestro" Plural Singular Noun NC lang:es 00:02:47 00:02:52 tt-1007 MF017_1959_EP_SU2011_AD_02 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:02:47 00:02:52 tt-1008 MF017_1959_EP_SU2011_AD_02 
 "<hayan>"
@@ -995,7 +995,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:02:52 00:02:54 tt-1017 MF017_1959_EP_SU2011_AD_02 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:02:52 00:02:54 tt-1018 MF017_1959_EP_SU2011_AD_02 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:02:52 00:02:54 tt-1018 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:02:52 00:02:54 tt-1019 MF017_1959_EP_SU2011_AD_02 
 "<$?>"
@@ -1020,7 +1020,7 @@
 "<un>"
 	"un" Determiner ART Singular lang:es 00:02:54 00:03:00 tt-1028 MF017_1959_EP_SU2011_AD_02 
 "<maestro>"
-	"maestro" Noun NC Singular lang:es 00:02:54 00:03:00 tt-1029 MF017_1959_EP_SU2011_AD_02 
+	"maestro" Plural Singular Noun NC lang:es 00:02:54 00:03:00 tt-1029 MF017_1959_EP_SU2011_AD_02 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:02:54 00:03:00 tt-1030 MF017_1959_EP_SU2011_AD_02 
 "<me>"
@@ -1046,7 +1046,7 @@
 "<ahorita>"
 	"ahora" Adverb ADV lang:es 00:02:54 00:03:00 tt-1041 MF017_1959_EP_SU2011_AD_02 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:03:00 00:03:07 tt-1042 MF017_1959_EP_SU2011_AD_02 
+	"suyo" Pronoun PPO Singular lang:es 00:03:00 00:03:07 tt-1042 MF017_1959_EP_SU2011_AD_02 @Gram:Det:Pos 
 "<nombre>"
 	"nombre" Noun NC Singular lang:es 00:03:00 00:03:07 tt-1043 MF017_1959_EP_SU2011_AD_02 
 "<,>"
@@ -1234,7 +1234,7 @@
 "<Ese>"
 	"ese" Determiner DM Singular lang:es 00:03:26 00:03:33 tt-1135 MF017_1959_EP_SU2011_AD_02 
 "<maestro>"
-	"maestro" Noun NC Singular lang:es 00:03:26 00:03:33 tt-1136 MF017_1959_EP_SU2011_AD_02 
+	"maestro" Plural Singular Noun NC lang:es 00:03:26 00:03:33 tt-1136 MF017_1959_EP_SU2011_AD_02 
 "<,>"
 	"," Punctuation CM lang:es 00:03:26 00:03:33 tt-1137 MF017_1959_EP_SU2011_AD_02 
 "<sí>"

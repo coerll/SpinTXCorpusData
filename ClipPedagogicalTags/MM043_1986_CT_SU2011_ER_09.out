@@ -102,7 +102,7 @@
 "<hablar>"
 	"hablar" Verb VLinf Infinitive lang:es 00:00:13 00:00:20 tt-1800 MM043_1986_CT_SU2011_ER_09 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:23 00:00:30 tt-1801 MM043_1986_CT_SU2011_ER_09 
+	"mío" Pronoun PPO Singular lang:es 00:00:23 00:00:30 tt-1801 MM043_1986_CT_SU2011_ER_09 @Gram:Det:Pos 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:00:23 00:00:30 tt-1802 MM043_1986_CT_SU2011_ER_09 
 "<$.>"
@@ -156,11 +156,11 @@
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:31 00:00:38 tt-1826 MM043_1986_CT_SU2011_ER_09 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:31 00:00:38 tt-1827 MM043_1986_CT_SU2011_ER_09 ID:76 R:Gram:PerfPerif:77 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:31 00:00:38 tt-1827 MM043_1986_CT_SU2011_ER_09 ID:76 R:Gram:Aux:Haber:77 R:Gram:PerfPerif:77 
 "<hecho>"
 	"hacer" Verb VLadj lang:es 00:00:31 00:00:38 tt-1828 MM043_1986_CT_SU2011_ER_09 ID:77 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:31 00:00:38 tt-1829 MM043_1986_CT_SU2011_ER_09 
+	"tú" Pronoun PPX Singular lang:es 00:00:31 00:00:38 tt-1829 MM043_1986_CT_SU2011_ER_09 @Gram:Pron:Sujeto 
 "<para>"
 	"para" Conjunction CSUBI lang:es 00:00:31 00:00:38 tt-1830 MM043_1986_CT_SU2011_ER_09 
 "<...>"
@@ -205,7 +205,7 @@
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:00:44 00:00:51 tt-1850 MM043_1986_CT_SU2011_ER_09 @Gram:Pron:Sujeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:44 00:00:51 tt-1851 MM043_1986_CT_SU2011_ER_09 ID:100 R:Gram:PerfPerif:101 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:44 00:00:51 tt-1851 MM043_1986_CT_SU2011_ER_09 ID:100 R:Gram:Aux:Haber:101 R:Gram:PerfPerif:101 
 "<hecho>"
 	"hacer" Verb VLadj lang:es 00:00:44 00:00:51 tt-1852 MM043_1986_CT_SU2011_ER_09 ID:101 
 "<mucho>"
@@ -264,7 +264,7 @@
 "<alzar>"
 	"alzar" Verb VLinf Infinitive lang:es 00:01:02 00:01:09 tt-1879 MM043_1986_CT_SU2011_ER_09 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:02 00:01:09 tt-1880 MM043_1986_CT_SU2011_ER_09 
+	"mío" Pronoun PPO Singular lang:es 00:01:02 00:01:09 tt-1880 MM043_1986_CT_SU2011_ER_09 @Gram:Det:Pos 
 "<voz>"
 	"voz" Noun NC Singular lang:es 00:01:02 00:01:09 tt-1881 MM043_1986_CT_SU2011_ER_09 
 "<,>"
@@ -272,7 +272,7 @@
 "<levantar>"
 	"levantar" Verb VLinf Infinitive lang:es 00:01:02 00:01:09 tt-1883 MM043_1986_CT_SU2011_ER_09 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:02 00:01:09 tt-1884 MM043_1986_CT_SU2011_ER_09 
+	"mío" Pronoun PPO Singular lang:es 00:01:02 00:01:09 tt-1884 MM043_1986_CT_SU2011_ER_09 @Gram:Det:Pos 
 "<voz>"
 	"voz" Noun NC Singular lang:es 00:01:02 00:01:09 tt-1885 MM043_1986_CT_SU2011_ER_09 
 "<,>"
@@ -356,7 +356,7 @@
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:01:19 00:01:25 tt-1925 MM043_1986_CT_SU2011_ER_09 @Gram:Pron:Sujeto 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:19 00:01:25 tt-1926 MM043_1986_CT_SU2011_ER_09 ID:174 R:Gram:PerfPerif:175 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:19 00:01:25 tt-1926 MM043_1986_CT_SU2011_ER_09 ID:174 R:Gram:Aux:Haber:175 R:Gram:PerfPerif:175 
 "<hecho>"
 	"hacer" Verb VLadj lang:es 00:01:19 00:01:25 tt-1927 MM043_1986_CT_SU2011_ER_09 ID:175 
 "<es>"

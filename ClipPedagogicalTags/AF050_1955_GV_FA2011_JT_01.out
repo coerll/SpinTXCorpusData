@@ -141,7 +141,7 @@
 "<se>"
 	"se" Other SE lang:es 00:00:27 00:00:34 tt-123 AF050_1955_GV_FA2011_JT_01 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:27 00:00:34 tt-124 AF050_1955_GV_FA2011_JT_01 ID:64 R:Gram:PerfPerif:65 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:27 00:00:34 tt-124 AF050_1955_GV_FA2011_JT_01 ID:64 R:Gram:Aux:Haber:65 R:Gram:PerfPerif:65 
 "<crecido>"
 	"crecer" Verb VLadj lang:es 00:00:27 00:00:34 tt-125 AF050_1955_GV_FA2011_JT_01 ID:65 
 "<mucho>"
@@ -208,9 +208,9 @@
 "<cuál>"
 	"cuál" Pronoun INT Singular lang:es 00:00:42 00:00:49 tt-155 AF050_1955_GV_FA2011_JT_01 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:42 00:00:49 tt-156 AF050_1955_GV_FA2011_JT_01 ID:95 R:Gram:PerfPerif:96 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:42 00:00:49 tt-156 AF050_1955_GV_FA2011_JT_01 ID:95 R:Gram:SerEstar:Ser:96 R:Gram:Aux:Haber:96 R:Gram:PerfPerif:96 
 "<sido>"
-	"ser" Verb VSadj Participle lang:es 00:00:42 00:00:49 tt-157 AF050_1955_GV_FA2011_JT_01 @Gram:SerEstar:Ser ID:96 
+	"ser" Verb VSadj Participle lang:es 00:00:42 00:00:49 tt-157 AF050_1955_GV_FA2011_JT_01 ID:96 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:00:42 00:00:49 tt-158 AF050_1955_GV_FA2011_JT_01 
 "<momento>"
@@ -220,7 +220,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:42 00:00:49 tt-161 AF050_1955_GV_FA2011_JT_01 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:42 00:00:49 tt-162 AF050_1955_GV_FA2011_JT_01 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:42 00:00:49 tt-162 AF050_1955_GV_FA2011_JT_01 @Gram:Det:Pos 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:42 00:00:49 tt-163 AF050_1955_GV_FA2011_JT_01 
 "<$.>"
@@ -317,7 +317,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:02 00:01:09 tt-208 AF050_1955_GV_FA2011_JT_01 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:02 00:01:09 tt-209 AF050_1955_GV_FA2011_JT_01 
+	"mío" Pronoun PPO Singular lang:es 00:01:02 00:01:09 tt-209 AF050_1955_GV_FA2011_JT_01 @Gram:Det:Pos 
 "<mente>"
 	"mente" Noun NC Singular lang:es 00:01:02 00:01:09 tt-210 AF050_1955_GV_FA2011_JT_01 
 "<ahorita>"

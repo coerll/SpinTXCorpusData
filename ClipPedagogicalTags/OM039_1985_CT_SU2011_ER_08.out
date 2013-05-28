@@ -31,7 +31,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:00 00:00:07 tt-3098 OM039_1985_CT_SU2011_ER_08 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-3099 OM039_1985_CT_SU2011_ER_08 
+	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-3099 OM039_1985_CT_SU2011_ER_08 @Gram:Prep 
 "<tipo>"
 	"tipo" Noun NC Singular lang:es 00:00:00 00:00:07 tt-3100 OM039_1985_CT_SU2011_ER_08 
 "<de>"
@@ -74,7 +74,7 @@
 "<usas>"
 	"usar" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:10 00:00:17 tt-3119 OM039_1985_CT_SU2011_ER_08 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:10 00:00:17 tt-3120 OM039_1985_CT_SU2011_ER_08 
+	"tú" Pronoun PPX Singular lang:es 00:00:10 00:00:17 tt-3120 OM039_1985_CT_SU2011_ER_08 @Gram:Pron:Sujeto 
 "<,>"
 	"," Punctuation CM lang:es 00:00:10 00:00:17 tt-3121 OM039_1985_CT_SU2011_ER_08 
 "<que>"
@@ -171,7 +171,7 @@
 "<tienen>"
 	"tener" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:35 00:00:41 tt-3169 OM039_1985_CT_SU2011_ER_08 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:35 00:00:41 tt-3170 OM039_1985_CT_SU2011_ER_08 
+	"suyo" Pronoun PPO Singular lang:es 00:00:35 00:00:41 tt-3170 OM039_1985_CT_SU2011_ER_08 @Gram:Det:Pos 
 "<acento>"
 	"acento" Noun NC Singular lang:es 00:00:41 00:00:48 tt-3171 OM039_1985_CT_SU2011_ER_08 
 "<mexicano>"
@@ -207,7 +207,7 @@
 "<tanto>"
 	"tanto" Adverb ADV lang:es 00:00:41 00:00:48 tt-3187 OM039_1985_CT_SU2011_ER_08 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:41 00:00:48 tt-3188 OM039_1985_CT_SU2011_ER_08 
+	"al" Preposition PAL lang:es 00:00:41 00:00:48 tt-3188 OM039_1985_CT_SU2011_ER_08 @Gram:Prep 
 "<de>"
 	"de" Preposition PREP lang:es 00:00:41 00:00:48 tt-3189 OM039_1985_CT_SU2011_ER_08 @Gram:Prep 
 "<ellos>"
@@ -217,7 +217,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:52 00:00:59 tt-3192 OM039_1985_CT_SU2011_ER_08 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:52 00:00:59 tt-3193 OM039_1985_CT_SU2011_ER_08 
+	"mío" Pronoun PPO Singular lang:es 00:00:52 00:00:59 tt-3193 OM039_1985_CT_SU2011_ER_08 @Gram:Det:Pos 
 "<acento>"
 	"acento" Noun NC Singular lang:es 00:00:52 00:00:59 tt-3194 OM039_1985_CT_SU2011_ER_08 
 "<,>"
@@ -233,7 +233,7 @@
 "<distinto>"
 	"distinto" Adjective ADJ Singular lang:es 00:00:52 00:00:59 tt-3200 OM039_1985_CT_SU2011_ER_08 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:52 00:00:59 tt-3201 OM039_1985_CT_SU2011_ER_08 
+	"al" Preposition PAL lang:es 00:00:52 00:00:59 tt-3201 OM039_1985_CT_SU2011_ER_08 @Gram:Prep 
 "<acento>"
 	"acento" Noun NC Singular lang:es 00:00:52 00:00:59 tt-3202 OM039_1985_CT_SU2011_ER_08 
 "<peruano>"
@@ -293,7 +293,7 @@
 "<pegado>"
 	"pegar" Verb VLadj lang:es 00:01:07 00:01:10 tt-3230 OM039_1985_CT_SU2011_ER_08 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:07 00:01:10 tt-3231 OM039_1985_CT_SU2011_ER_08 
+	"al" Preposition PAL lang:es 00:01:07 00:01:10 tt-3231 OM039_1985_CT_SU2011_ER_08 @Gram:Prep 
 "<mexicano>"
 	"mexicano" Noun NC Singular lang:es 00:01:07 00:01:10 tt-3232 OM039_1985_CT_SU2011_ER_08 
 "<eh>"
@@ -366,11 +366,11 @@
 "<te>"
 	"tú" Pronoun PPX Singular lang:es 00:01:17 00:01:23 tt-3264 OM039_1985_CT_SU2011_ER_08 @Gram:Pron:Objeto 
 "<estás>"
-	"estar" Verb VEfin Pres Indi Sing 2nd lang:es 00:01:17 00:01:23 tt-3265 OM039_1985_CT_SU2011_ER_08 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 2nd lang:es 00:01:17 00:01:23 tt-3265 OM039_1985_CT_SU2011_ER_08 @Gram:SerEstar:Estar ID:178 R:Gram:SerEstar:EstarAux:179 
 "<adaptando>"
-	"adaptar" Verb VLger lang:es 00:01:17 00:01:23 tt-3266 OM039_1985_CT_SU2011_ER_08 
+	"adaptar" Verb VLger lang:es 00:01:17 00:01:23 tt-3266 OM039_1985_CT_SU2011_ER_08 ID:179 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:01:17 00:01:23 tt-3267 OM039_1985_CT_SU2011_ER_08 
+	"tú" Pronoun PPX Singular lang:es 00:01:17 00:01:23 tt-3267 OM039_1985_CT_SU2011_ER_08 @Gram:Pron:Sujeto 
 "<mucho>"
 	"mucho" Adverb ADV lang:es 00:01:17 00:01:23 tt-3268 OM039_1985_CT_SU2011_ER_08 
 "<al>"
@@ -415,7 +415,7 @@
 "<mantener>"
 	"mantener" Verb VLinf Infinitive lang:es 00:01:26 00:01:31 tt-3288 OM039_1985_CT_SU2011_ER_08 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:26 00:01:31 tt-3289 OM039_1985_CT_SU2011_ER_08 
+	"mío" Pronoun PPO Singular lang:es 00:01:26 00:01:31 tt-3289 OM039_1985_CT_SU2011_ER_08 @Gram:Det:Pos 
 "<acento>"
 	"acento" Noun NC Singular lang:es 00:01:26 00:01:31 tt-3290 OM039_1985_CT_SU2011_ER_08 
 "<peruano>"
@@ -544,7 +544,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:01:48 00:01:54 tt-3354 OM039_1985_CT_SU2011_ER_08 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:48 00:01:54 tt-3355 OM039_1985_CT_SU2011_ER_08 
+	"mío" Pronoun PPO Singular lang:es 00:01:48 00:01:54 tt-3355 OM039_1985_CT_SU2011_ER_08 @Gram:Det:Pos 
 "<mente>"
 	"mente" Noun NC Singular lang:es 00:01:48 00:01:54 tt-3356 OM039_1985_CT_SU2011_ER_08 
 "<digo>"
@@ -580,11 +580,11 @@
 "<acostumbrarme>"
 	"UNK" Verb VLinf Infinitive lang:es 00:01:54 00:02:01 tt-3372 OM039_1985_CT_SU2011_ER_08 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:54 00:02:01 tt-3373 OM039_1985_CT_SU2011_ER_08 
+	"al" Preposition PAL lang:es 00:01:54 00:02:01 tt-3373 OM039_1985_CT_SU2011_ER_08 @Gram:Prep 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:54 00:02:01 tt-3374 OM039_1985_CT_SU2011_ER_08 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:54 00:02:01 tt-3375 OM039_1985_CT_SU2011_ER_08 
+	"al" Preposition PAL lang:es 00:01:54 00:02:01 tt-3375 OM039_1985_CT_SU2011_ER_08 @Gram:Prep 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:54 00:02:01 tt-3376 OM039_1985_CT_SU2011_ER_08 
 "<a>"
@@ -598,7 +598,7 @@
 "<tanto>"
 	"tanto" Adverb ADV lang:es 00:01:54 00:02:01 tt-3381 OM039_1985_CT_SU2011_ER_08 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:54 00:02:01 tt-3382 OM039_1985_CT_SU2011_ER_08 
+	"al" Preposition PAL lang:es 00:01:54 00:02:01 tt-3382 OM039_1985_CT_SU2011_ER_08 @Gram:Prep 
 "<acento>"
 	"acento" Noun NC Singular lang:es 00:01:54 00:02:01 tt-3383 OM039_1985_CT_SU2011_ER_08 
 "<sino>"
@@ -628,7 +628,7 @@
 "<distinto>"
 	"distinto" Adjective ADJ Singular lang:es 00:02:02 00:02:04 tt-3396 OM039_1985_CT_SU2011_ER_08 
 "<al>"
-	"al" Preposition PAL lang:es 00:02:02 00:02:04 tt-3397 OM039_1985_CT_SU2011_ER_08 
+	"al" Preposition PAL lang:es 00:02:02 00:02:04 tt-3397 OM039_1985_CT_SU2011_ER_08 @Gram:Prep 
 "<peruano>"
 	"peruano" Noun NC Singular lang:es 00:02:02 00:02:04 tt-3398 OM039_1985_CT_SU2011_ER_08 
 "<$.>"

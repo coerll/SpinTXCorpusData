@@ -66,7 +66,7 @@
 "<importancia>"
 	"importancia" Noun NC Singular lang:es 00:00:22 00:00:28 tt-1728 AF006_1968_EP_SU2011_AD_12 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:22 00:00:28 tt-1729 AF006_1968_EP_SU2011_AD_12 
+	"del" Preposition PDEL lang:es 00:00:22 00:00:28 tt-1729 AF006_1968_EP_SU2011_AD_12 @Gram:Prep 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:22 00:00:28 tt-1730 AF006_1968_EP_SU2011_AD_12 
 "<para>"
@@ -137,7 +137,7 @@
 "<vas>"
 	"ir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:40 00:00:46 tt-1764 AF006_1968_EP_SU2011_AD_12 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:40 00:00:46 tt-1765 AF006_1968_EP_SU2011_AD_12 
+	"al" Preposition PAL lang:es 00:00:40 00:00:46 tt-1765 AF006_1968_EP_SU2011_AD_12 @Gram:Prep 
 "<interior>"
 	"interior" Noun NC Singular lang:es 00:00:40 00:00:46 tt-1766 AF006_1968_EP_SU2011_AD_12 
 "<de>"
@@ -240,7 +240,7 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:01:01 00:01:06 tt-1817 AF006_1968_EP_SU2011_AD_12 
 "<estamos>"
-	"estar" Verb VEfin Pres Indi Plural 1st lang:es 00:01:01 00:01:06 tt-1818 AF006_1968_EP_SU2011_AD_12 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Plural 1st lang:es 00:01:01 00:01:06 tt-1818 AF006_1968_EP_SU2011_AD_12 @Gram:SerEstar:Estar ID:111 R:Gram:SerEstar:EstarAux:112 
 "<hablando>"
 	"hablar" Verb VLger lang:es 00:01:01 00:01:06 tt-1819 AF006_1968_EP_SU2011_AD_12 ID:112 R:Vocab:Fraseol:VerbPrep:113 
 "<con>"

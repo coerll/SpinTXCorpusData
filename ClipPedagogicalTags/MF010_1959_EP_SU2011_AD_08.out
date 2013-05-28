@@ -3,7 +3,7 @@
 "<Durante>"
 	"durante" Preposition PREP lang:es 00:00:00 00:00:05 tt-3946 MF010_1959_EP_SU2011_AD_08 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:05 tt-3947 MF010_1959_EP_SU2011_AD_08 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:05 tt-3947 MF010_1959_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<infancia>"
 	"infancia" Noun NC Singular lang:es 00:00:00 00:00:05 tt-3948 MF010_1959_EP_SU2011_AD_08 
 "<,>"
@@ -95,7 +95,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:20 00:00:26 tt-3991 MF010_1959_EP_SU2011_AD_08 @Gram:Prep ID:46 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:20 00:00:26 tt-3992 MF010_1959_EP_SU2011_AD_08 
+	"UNK" Noun NC Plural lang:es 00:00:20 00:00:26 tt-3992 MF010_1959_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<hermanos>"
 	"hermano" Noun NC Plural lang:es 00:00:20 00:00:26 tt-3993 MF010_1959_EP_SU2011_AD_08 
 "<y>"
@@ -166,7 +166,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:32 00:00:39 tt-4024 MF010_1959_EP_SU2011_AD_08 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:32 00:00:39 tt-4025 MF010_1959_EP_SU2011_AD_08 
+	"UNK" Noun NC Plural lang:es 00:00:32 00:00:39 tt-4025 MF010_1959_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:32 00:00:39 tt-4026 MF010_1959_EP_SU2011_AD_08 
 "<,>"
@@ -174,7 +174,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:32 00:00:39 tt-4028 MF010_1959_EP_SU2011_AD_08 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:32 00:00:39 tt-4029 MF010_1959_EP_SU2011_AD_08 
+	"mío" Pronoun PPO Singular lang:es 00:00:32 00:00:39 tt-4029 MF010_1959_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<esposo>"
 	"esposo" Noun NC Singular lang:es 00:00:32 00:00:39 tt-4030 MF010_1959_EP_SU2011_AD_08 
 "<,>"
@@ -182,7 +182,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:32 00:00:39 tt-4032 MF010_1959_EP_SU2011_AD_08 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:32 00:00:39 tt-4033 MF010_1959_EP_SU2011_AD_08 
+	"UNK" Noun NC Plural lang:es 00:00:32 00:00:39 tt-4033 MF010_1959_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<compañeros>"
 	"compañero" Noun NC Plural lang:es 00:00:32 00:00:39 tt-4034 MF010_1959_EP_SU2011_AD_08 
 "<de>"
@@ -244,7 +244,7 @@
 "<pero>"
 	"pero" Conjunction CCAD lang:es 00:00:50 00:00:57 tt-4061 MF010_1959_EP_SU2011_AD_08 @Prag:MarcadoresDisc:Revision 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:50 00:00:57 tt-4062 MF010_1959_EP_SU2011_AD_08 
+	"mío" Pronoun PPO Singular lang:es 00:00:50 00:00:57 tt-4062 MF010_1959_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:00:50 00:00:57 tt-4063 MF010_1959_EP_SU2011_AD_08 
 "<,>"
@@ -389,7 +389,7 @@
 "<los>"
 	"el" Determiner ART Plural lang:es 00:01:24 00:01:29 tt-4135 MF010_1959_EP_SU2011_AD_08 @Gram:Det:Art 
 "<maestros>"
-	"maestro" Noun NC Plural lang:es 00:01:24 00:01:29 tt-4136 MF010_1959_EP_SU2011_AD_08 
+	"maestro" Plural Singular Noun NC lang:es 00:01:24 00:01:29 tt-4136 MF010_1959_EP_SU2011_AD_08 
 "<,>"
 	"," Punctuation CM lang:es 00:01:24 00:01:29 tt-4137 MF010_1959_EP_SU2011_AD_08 
 "<ellos>"
@@ -586,7 +586,7 @@
 "<También>"
 	"también" Adverb ADV lang:es 00:02:03 00:02:10 tt-4232 MF010_1959_EP_SU2011_AD_08 @Prag:MarcadoresDisc:Igualdad 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:10 00:02:17 tt-4233 MF010_1959_EP_SU2011_AD_08 
+	"mío" Pronoun PPO Singular lang:es 00:02:10 00:02:17 tt-4233 MF010_1959_EP_SU2011_AD_08 @Gram:Det:Pos 
 "<problema>"
 	"problema" Noun NC Singular lang:es 00:02:10 00:02:17 tt-4234 MF010_1959_EP_SU2011_AD_08 
 "<es>"

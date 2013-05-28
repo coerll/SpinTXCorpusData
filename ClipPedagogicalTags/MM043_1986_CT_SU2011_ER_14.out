@@ -365,7 +365,7 @@
 "<porque>"
 	"porque" Conjunction CSUBX lang:es 00:01:23 00:01:30 tt-4545 MM043_1986_CT_SU2011_ER_14 @Prag:MarcadoresDisc:Causa 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:23 00:01:30 tt-4546 MM043_1986_CT_SU2011_ER_14 
+	"al" Preposition PAL lang:es 00:01:23 00:01:30 tt-4546 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
 "<final>"
 	"final" Noun NC Singular lang:es 00:01:23 00:01:30 tt-4547 MM043_1986_CT_SU2011_ER_14 
 "<de>"
@@ -474,7 +474,7 @@
 "<se>"
 	"se" Other SE lang:es 00:01:49 00:01:56 tt-4599 MM043_1986_CT_SU2011_ER_14 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:01:49 00:01:56 tt-4600 MM043_1986_CT_SU2011_ER_14 ID:234 R:Gram:PerfPerif:235 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:01:49 00:01:56 tt-4600 MM043_1986_CT_SU2011_ER_14 ID:234 R:Gram:Aux:Haber:235 R:Gram:PerfPerif:235 
 "<hecho>"
 	"hacer" Verb VLadj lang:es 00:01:49 00:01:56 tt-4601 MM043_1986_CT_SU2011_ER_14 ID:235 
 "<realidad>"
@@ -512,7 +512,7 @@
 "<Unidos>"
 	"Unidos" Noun NP Plural lang:es 00:01:58 00:02:03 tt-4618 MM043_1986_CT_SU2011_ER_14 ID:252 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:58 00:02:03 tt-4619 MM043_1986_CT_SU2011_ER_14 ID:253 R:Gram:PerfPerif:254 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:58 00:02:03 tt-4619 MM043_1986_CT_SU2011_ER_14 ID:253 R:Gram:Aux:Haber:254 R:Gram:PerfPerif:254 
 "<tomado>"
 	"tomar" Verb VLadj lang:es 00:01:58 00:02:03 tt-4620 MM043_1986_CT_SU2011_ER_14 ID:254 
 "<en>"

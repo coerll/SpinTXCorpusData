@@ -68,7 +68,7 @@
 "<toda>"
 	"todo" Determiner QU lang:es 00:00:13 00:00:17 tt-3260 MF013_1937_EP_SU2011_AD_07 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:13 00:00:17 tt-3261 MF013_1937_EP_SU2011_AD_07 
+	"mío" Pronoun PPO Singular lang:es 00:00:13 00:00:17 tt-3261 MF013_1937_EP_SU2011_AD_07 @Gram:Det:Pos 
 "<juventud>"
 	"juventud" Noun NC Singular lang:es 00:00:13 00:00:17 tt-3262 MF013_1937_EP_SU2011_AD_07 
 "<la>"
@@ -229,11 +229,11 @@
 "<todas>"
 	"todo" Determiner QU lang:es 00:00:56 00:00:58 tt-3334 MF013_1937_EP_SU2011_AD_07 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:56 00:00:58 tt-3335 MF013_1937_EP_SU2011_AD_07 
+	"UNK" Noun NC Plural lang:es 00:00:56 00:00:58 tt-3335 MF013_1937_EP_SU2011_AD_07 @Gram:Det:Pos 
 "<clases>"
 	"clase" Noun NC Plural lang:es 00:00:56 00:00:58 tt-3336 MF013_1937_EP_SU2011_AD_07 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:00:56 00:00:58 tt-3337 MF013_1937_EP_SU2011_AD_07 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:00:56 00:00:58 tt-3337 MF013_1937_EP_SU2011_AD_07 @Gram:SerEstar:Ser 
 "<en>"
 	"en" Preposition PREP lang:es 00:00:56 00:00:58 tt-3338 MF013_1937_EP_SU2011_AD_07 @Gram:Prep 
 "<español>"
@@ -302,7 +302,7 @@
 "<fue>"
 	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:01:04 00:01:11 tt-3370 MF013_1937_EP_SU2011_AD_07 @Gram:SerEstar:Ser 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:04 00:01:11 tt-3371 MF013_1937_EP_SU2011_AD_07 
+	"mío" Pronoun PPO Singular lang:es 00:01:04 00:01:11 tt-3371 MF013_1937_EP_SU2011_AD_07 @Gram:Det:Pos 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:01:04 00:01:11 tt-3372 MF013_1937_EP_SU2011_AD_07 
 "<$.>"
@@ -375,7 +375,7 @@
 "<vivíamos>"
 	"vivir" Verb VLfin Imp Indi Plural 1st lang:es 00:01:14 00:01:20 tt-3404 MF013_1937_EP_SU2011_AD_07 @Gram:Imperf 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:20 00:01:26 tt-3405 MF013_1937_EP_SU2011_AD_07 
+	"mío" Pronoun PPO Singular lang:es 00:01:20 00:01:26 tt-3405 MF013_1937_EP_SU2011_AD_07 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:01:20 00:01:26 tt-3406 MF013_1937_EP_SU2011_AD_07 
 "<nos>"
@@ -435,7 +435,7 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:01:26 00:01:32 tt-3434 MF013_1937_EP_SU2011_AD_07 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:01:26 00:01:32 tt-3435 MF013_1937_EP_SU2011_AD_07 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:01:26 00:01:32 tt-3435 MF013_1937_EP_SU2011_AD_07 @Gram:SerEstar:Ser 
 "<malas>"
 	"malo" Adjective ADJ Plural lang:es 00:01:26 00:01:32 tt-3436 MF013_1937_EP_SU2011_AD_07 
 "<,>"
@@ -454,7 +454,7 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:01:26 00:01:32 tt-3443 MF013_1937_EP_SU2011_AD_07 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:01:32 00:01:39 tt-3444 MF013_1937_EP_SU2011_AD_07 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:01:32 00:01:39 tt-3444 MF013_1937_EP_SU2011_AD_07 @Gram:SerEstar:Ser 
 "<malos>"
 	"malo" Adjective ADJ Plural lang:es 00:01:32 00:01:39 tt-3445 MF013_1937_EP_SU2011_AD_07 
 "<no>"
@@ -472,7 +472,7 @@
 "<sí>"
 	"sí" Adverb ADV lang:es 00:01:32 00:01:39 tt-3452 MF013_1937_EP_SU2011_AD_07 
 "<eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:01:32 00:01:39 tt-3453 MF013_1937_EP_SU2011_AD_07 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:01:32 00:01:39 tt-3453 MF013_1937_EP_SU2011_AD_07 @Gram:SerEstar:Ser 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:01:32 00:01:39 tt-3454 MF013_1937_EP_SU2011_AD_07 
 "<enérgicos>"
@@ -508,7 +508,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:39 00:01:46 tt-3470 MF013_1937_EP_SU2011_AD_07 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:01:39 00:01:46 tt-3471 MF013_1937_EP_SU2011_AD_07 
+	"suyo" Pronoun PPO Singular lang:es 00:01:39 00:01:46 tt-3471 MF013_1937_EP_SU2011_AD_07 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:01:39 00:01:46 tt-3472 MF013_1937_EP_SU2011_AD_07 
 <lang code="en">

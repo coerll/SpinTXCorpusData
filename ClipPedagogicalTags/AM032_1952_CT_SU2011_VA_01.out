@@ -24,7 +24,7 @@
 "<julio>"
 	"julio" Noun NC Singular lang:es 00:00:00 00:00:07 tt-11 AM032_1952_CT_SU2011_VA_01 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-12 AM032_1952_CT_SU2011_VA_01 
+	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-12 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
 "<dos>"
 	"dos" Determiner CARD Plural lang:es 00:00:00 00:00:07 tt-13 AM032_1952_CT_SU2011_VA_01 
 "<mil>"
@@ -35,7 +35,7 @@
 	"." Punctuation FS lang:es 00:00:00 00:00:07 tt-16 AM032_1952_CT_SU2011_VA_01 
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-17 AM032_1952_CT_SU2011_VA_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-17 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
 "<nombre>"
 	"nombre" Noun NC Singular lang:es 00:00:00 00:00:07 tt-18 AM032_1952_CT_SU2011_VA_01 
 "<es>"
@@ -142,7 +142,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:21 00:00:28 tt-68 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:21 00:00:28 tt-69 AM032_1952_CT_SU2011_VA_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:21 00:00:28 tt-69 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
 "<amiga>"
 	"amigo" Noun NC Singular lang:es 00:00:21 00:00:28 tt-70 AM032_1952_CT_SU2011_VA_01 
 "<Vania>"
@@ -180,7 +180,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:31 00:00:37 tt-85 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:31 00:00:37 tt-86 AM032_1952_CT_SU2011_VA_01 
+	"suyo" Pronoun PPO Singular lang:es 00:00:31 00:00:37 tt-86 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
 "<niñez>"
 	"niñez" Noun NC Singular lang:es 00:00:31 00:00:37 tt-87 AM032_1952_CT_SU2011_VA_01 
 "<$?>"
@@ -245,7 +245,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:45 00:00:52 tt-116 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:45 00:00:52 tt-117 AM032_1952_CT_SU2011_VA_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:45 00:00:52 tt-117 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
 "<niñez>"
 	"niñez" Noun NC Singular lang:es 00:00:45 00:00:52 tt-118 AM032_1952_CT_SU2011_VA_01 
 "<que>"
@@ -274,11 +274,11 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:54 00:01:01 tt-130 AM032_1952_CT_SU2011_VA_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:54 00:01:01 tt-131 AM032_1952_CT_SU2011_VA_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:54 00:01:01 tt-131 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:54 00:01:01 tt-132 AM032_1952_CT_SU2011_VA_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:54 00:01:01 tt-133 AM032_1952_CT_SU2011_VA_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:54 00:01:01 tt-133 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:54 00:01:01 tt-134 AM032_1952_CT_SU2011_VA_01 
 "<nos>"
@@ -292,7 +292,7 @@
 "<bueno>"
 	"bueno" Adjective ADJ Singular lang:es 00:00:54 00:01:01 tt-139 AM032_1952_CT_SU2011_VA_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:54 00:01:01 tt-140 AM032_1952_CT_SU2011_VA_01 
+	"mío" Pronoun PPO Singular lang:es 00:00:54 00:01:01 tt-140 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:54 00:01:01 tt-141 AM032_1952_CT_SU2011_VA_01 
 "<vivió>"
@@ -406,7 +406,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:18 00:01:25 tt-195 AM032_1952_CT_SU2011_VA_01 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:18 00:01:25 tt-196 AM032_1952_CT_SU2011_VA_01 ID:196 R:Gram:PerfPerif:197 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:18 00:01:25 tt-196 AM032_1952_CT_SU2011_VA_01 ID:196 R:Gram:Aux:Haber:197 R:Gram:PerfPerif:197 
 "<visto>"
 	"ver" Verb VLadj lang:es 00:01:18 00:01:25 tt-197 AM032_1952_CT_SU2011_VA_01 ID:197 
 "<,>"
@@ -520,7 +520,7 @@
 "<nació>"
 	"nacer" Verb VLfin Pret Indi Sing 3rd lang:es 00:01:48 00:01:53 tt-251 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:48 00:01:53 tt-252 AM032_1952_CT_SU2011_VA_01 
+	"mío" Pronoun PPO Singular lang:es 00:01:48 00:01:53 tt-252 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
 "<hermana>"
 	"hermano" Noun NC Singular lang:es 00:01:48 00:01:53 tt-253 AM032_1952_CT_SU2011_VA_01 
 "<y>"
@@ -589,7 +589,7 @@
 "<grave>"
 	"grave" Adjective ADJ Singular lang:es 00:02:00 00:02:07 tt-285 AM032_1952_CT_SU2011_VA_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:00 00:02:07 tt-286 AM032_1952_CT_SU2011_VA_01 
+	"mío" Pronoun PPO Singular lang:es 00:02:00 00:02:07 tt-286 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
 "<hermanita>"
 	"hermano" Noun NC Singular lang:es 00:02:00 00:02:07 tt-287 AM032_1952_CT_SU2011_VA_01 
 "<$.>"
@@ -686,7 +686,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:02:19 00:02:26 tt-332 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:19 00:02:26 tt-333 AM032_1952_CT_SU2011_VA_01 
+	"mío" Pronoun PPO Singular lang:es 00:02:19 00:02:26 tt-333 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
 "<casa>"
 	"casa" Noun NC Singular lang:es 00:02:19 00:02:26 tt-334 AM032_1952_CT_SU2011_VA_01 
 "<y>"
@@ -806,7 +806,7 @@
 "<cercano>"
 	"cercano" Adjective ADJ Singular lang:es 00:02:47 00:02:54 tt-392 AM032_1952_CT_SU2011_VA_01 
 "<al>"
-	"al" Preposition PAL lang:es 00:02:47 00:02:54 tt-393 AM032_1952_CT_SU2011_VA_01 
+	"al" Preposition PAL lang:es 00:02:47 00:02:54 tt-393 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
 "<piso>"
 	"piso" Noun NC Singular lang:es 00:02:47 00:02:54 tt-394 AM032_1952_CT_SU2011_VA_01 
 "<cuando>"
@@ -860,7 +860,7 @@
 "<nació>"
 	"nacer" Verb VLfin Pret Indi Sing 3rd lang:es 00:03:04 00:03:11 tt-418 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:03:04 00:03:11 tt-419 AM032_1952_CT_SU2011_VA_01 
+	"mío" Pronoun PPO Singular lang:es 00:03:04 00:03:11 tt-419 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
 "<otra>"
 	"otro" Determiner QU lang:es 00:03:04 00:03:11 tt-420 AM032_1952_CT_SU2011_VA_01 
 "<hermanita>"
@@ -904,7 +904,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:03:14 00:03:21 tt-439 AM032_1952_CT_SU2011_VA_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:03:14 00:03:21 tt-440 AM032_1952_CT_SU2011_VA_01 
+	"mío" Pronoun PPO Singular lang:es 00:03:14 00:03:21 tt-440 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:03:14 00:03:21 tt-441 AM032_1952_CT_SU2011_VA_01 
 "<era>"
@@ -912,7 +912,7 @@
 "<un>"
 	"un" Determiner ART Singular lang:es 00:03:14 00:03:21 tt-443 AM032_1952_CT_SU2011_VA_01 
 "<maestro>"
-	"maestro" Noun NC Singular lang:es 00:03:14 00:03:21 tt-444 AM032_1952_CT_SU2011_VA_01 
+	"maestro" Plural Singular Noun NC lang:es 00:03:14 00:03:21 tt-444 AM032_1952_CT_SU2011_VA_01 
 "<allí>"
 	"allí" Adverb ADV lang:es 00:03:14 00:03:21 tt-445 AM032_1952_CT_SU2011_VA_01 
 "<y>"
@@ -969,9 +969,9 @@
 "<,>"
 	"," Punctuation CM lang:es 00:03:21 00:03:28 tt-470 AM032_1952_CT_SU2011_VA_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:03:21 00:03:28 tt-471 AM032_1952_CT_SU2011_VA_01 
+	"mío" Pronoun PPO Singular lang:es 00:03:21 00:03:28 tt-471 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
 "<maestra>"
-	"maestro" Noun NC Singular lang:es 00:03:21 00:03:28 tt-472 AM032_1952_CT_SU2011_VA_01 
+	"maestro" Plural Singular Noun NC lang:es 00:03:21 00:03:28 tt-472 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
 	"00:03:58,439" >>i lang:es 00:59:58 tt-552 AM032_1952_CT_SU2011_VA_01 
 "<North>"

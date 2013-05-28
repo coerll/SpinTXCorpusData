@@ -29,7 +29,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:00 00:00:07 tt-1079 MM015_1963_EP_SU2011_AD_06 @Gram:Prep 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:00 00:00:07 tt-1080 MM015_1963_EP_SU2011_AD_06 
+	"UNK" Noun NC Plural lang:es 00:00:00 00:00:07 tt-1080 MM015_1963_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:00 00:00:07 tt-1081 MM015_1963_EP_SU2011_AD_06 
 "<en>"
@@ -45,7 +45,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:08 00:00:11 tt-1087 MM015_1963_EP_SU2011_AD_06 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:08 00:00:11 tt-1088 MM015_1963_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:08 00:00:11 tt-1088 MM015_1963_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<país>"
 	"país" Noun NC Plural lang:es 00:00:08 00:00:11 tt-1089 MM015_1963_EP_SU2011_AD_06 
 "<de>"
@@ -89,7 +89,7 @@
 "<ellos>"
 	"él" Pronoun PPX Plural lang:es 00:00:19 00:00:25 tt-1108 MM015_1963_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:19 00:00:25 tt-1109 MM015_1963_EP_SU2011_AD_06 
+	"suyo" Pronoun PPO Singular lang:es 00:00:19 00:00:25 tt-1109 MM015_1963_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<estudio>"
 	"estudio" Noun NC Singular lang:es 00:00:19 00:00:25 tt-1110 MM015_1963_EP_SU2011_AD_06 
 "<aquí>"
@@ -107,7 +107,7 @@
 "<era>"
 	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:19 00:00:25 tt-1117 MM015_1963_EP_SU2011_AD_06 @Gram:Imperf @Gram:SerEstar:Ser 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:19 00:00:25 tt-1118 MM015_1963_EP_SU2011_AD_06 
+	"suyo" Pronoun PPO Singular lang:es 00:00:19 00:00:25 tt-1118 MM015_1963_EP_SU2011_AD_06 @Gram:Det:Pos 
 "<educación>"
 	"educación" Noun NC Singular lang:es 00:00:19 00:00:25 tt-1119 MM015_1963_EP_SU2011_AD_06 
 "<desde>"
@@ -130,7 +130,7 @@
 "<Me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:25 00:00:31 tt-1130 MM015_1963_EP_SU2011_AD_06 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:25 00:00:31 tt-1131 MM015_1963_EP_SU2011_AD_06 ID:64 R:Gram:PerfPerif:65 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:25 00:00:31 tt-1131 MM015_1963_EP_SU2011_AD_06 ID:64 R:Gram:Aux:Haber:65 R:Gram:PerfPerif:65 
 "<gustado>"
 	"gustar" Verb VLadj lang:es 00:00:25 00:00:31 tt-1132 MM015_1963_EP_SU2011_AD_06 ID:65 
 "<mucho>"

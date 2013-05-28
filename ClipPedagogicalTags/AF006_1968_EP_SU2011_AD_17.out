@@ -45,7 +45,7 @@
 "<crecieron>"
 	"crecer" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:09 00:00:12 tt-2627 AF006_1968_EP_SU2011_AD_17 @Gram:Indefinido 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:09 00:00:12 tt-2628 AF006_1968_EP_SU2011_AD_17 
+	"UNK" Noun NC Plural lang:es 00:00:09 00:00:12 tt-2628 AF006_1968_EP_SU2011_AD_17 @Gram:Det:Pos 
 "<padres>"
 	"padre" Noun NC Plural lang:es 00:00:09 00:00:12 tt-2629 AF006_1968_EP_SU2011_AD_17 
 "<$?>"
@@ -76,7 +76,7 @@
 "<como>"
 	"como" Conjunction CSUBX lang:es 00:00:12 00:00:19 tt-2643 AF006_1968_EP_SU2011_AD_17 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:12 00:00:19 tt-2644 AF006_1968_EP_SU2011_AD_17 
+	"UNK" Noun NC Plural lang:es 00:00:12 00:00:19 tt-2644 AF006_1968_EP_SU2011_AD_17 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:00:12 00:00:19 tt-2645 AF006_1968_EP_SU2011_AD_17 
 "<pues>"
@@ -140,7 +140,7 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:35 00:00:40 tt-2676 AF006_1968_EP_SU2011_AD_17 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:35 00:00:40 tt-2677 AF006_1968_EP_SU2011_AD_17 ID:69 R:Gram:PerfPerif:70 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:35 00:00:40 tt-2677 AF006_1968_EP_SU2011_AD_17 ID:69 R:Gram:Aux:Haber:70 R:Gram:PerfPerif:70 
 "<cambiado>"
 	"cambiar" Verb VLadj lang:es 00:00:35 00:00:40 tt-2678 AF006_1968_EP_SU2011_AD_17 ID:70 
 "<$?>"
@@ -273,7 +273,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:59 00:01:06 tt-2743 AF006_1968_EP_SU2011_AD_17 
 "<nuestros>"
-	"UNK" Noun NC Plural lang:es 00:00:59 00:01:06 tt-2744 AF006_1968_EP_SU2011_AD_17 
+	"UNK" Noun NC Plural lang:es 00:00:59 00:01:06 tt-2744 AF006_1968_EP_SU2011_AD_17 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:00:59 00:01:06 tt-2745 AF006_1968_EP_SU2011_AD_17 
 "<nos>"
@@ -314,7 +314,7 @@
 "<esfuerzos>"
 	"esfuerzo" Noun NC Plural lang:es 00:01:14 00:01:20 tt-2768 AF006_1968_EP_SU2011_AD_17 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:01:14 00:01:20 tt-2769 AF006_1968_EP_SU2011_AD_17 ID:153 R:Gram:PerfPerif:154 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:01:14 00:01:20 tt-2769 AF006_1968_EP_SU2011_AD_17 ID:153 R:Gram:Aux:Haber:154 R:Gram:PerfPerif:154 
 "<hecho>"
 	"hacer" Verb VLadj lang:es 00:01:14 00:01:20 tt-2770 AF006_1968_EP_SU2011_AD_17 ID:154 
 "<para>"
@@ -322,7 +322,7 @@
 "<conservar>"
 	"conservar" Verb VLinf Infinitive lang:es 00:01:14 00:01:20 tt-2772 AF006_1968_EP_SU2011_AD_17 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:01:14 00:01:20 tt-2773 AF006_1968_EP_SU2011_AD_17 
+	"UNK" Noun NC Plural lang:es 00:01:14 00:01:20 tt-2773 AF006_1968_EP_SU2011_AD_17 @Gram:Det:Pos 
 "<tradiciones>"
 	"tradición" Noun NC Plural lang:es 00:01:14 00:01:20 tt-2774 AF006_1968_EP_SU2011_AD_17 
 "<culturales>"
@@ -447,7 +447,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:38 00:01:44 tt-2832 AF006_1968_EP_SU2011_AD_17 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:01:38 00:01:44 tt-2833 AF006_1968_EP_SU2011_AD_17 
+	"UNK" Noun NC Plural lang:es 00:01:38 00:01:44 tt-2833 AF006_1968_EP_SU2011_AD_17 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:01:38 00:01:44 tt-2834 AF006_1968_EP_SU2011_AD_17 
 "<,>"

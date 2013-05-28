@@ -26,7 +26,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-2192 MM005_1967_EP_SU2011_AD_08 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2193 MM005_1967_EP_SU2011_AD_08 ID:13 R:Gram:PerfPerif:14 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2193 MM005_1967_EP_SU2011_AD_08 ID:13 R:Gram:Aux:Haber:14 R:Gram:PerfPerif:14 
 "<enfrentado>"
 	"enfrentar" Verb VLadj lang:es 00:00:00 00:00:07 tt-2194 MM005_1967_EP_SU2011_AD_08 ID:14 
 "<al>"
@@ -112,7 +112,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:23 00:00:30 tt-2233 MM005_1967_EP_SU2011_AD_08 @Gram:Pron:Objeto 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:23 00:00:30 tt-2234 MM005_1967_EP_SU2011_AD_08 ID:54 R:Gram:PerfPerif:55 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:23 00:00:30 tt-2234 MM005_1967_EP_SU2011_AD_08 ID:54 R:Gram:Aux:Haber:55 R:Gram:PerfPerif:55 
 "<hecho>"
 	"hacer" Verb VLadj lang:es 00:00:23 00:00:30 tt-2235 MM005_1967_EP_SU2011_AD_08 ID:55 
 "<sudar>"
@@ -256,7 +256,7 @@
 	"." Punctuation FS lang:es 00:00:52 00:00:59 tt-2304 MM005_1967_EP_SU2011_AD_08 
 
 "<Eran>"
-	"erar|ser" Verb VLfin Past Subj Plural 2nd_or_3rd lang:es 00:00:52 00:00:59 tt-2305 MM005_1967_EP_SU2011_AD_08 @Gram:MSub:Pret @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:00:52 00:00:59 tt-2305 MM005_1967_EP_SU2011_AD_08 @Gram:SerEstar:Ser 
 "<clases>"
 	"clase" Noun NC Plural lang:es 00:00:52 00:00:59 tt-2306 MM005_1967_EP_SU2011_AD_08 
 "<de>"
@@ -286,9 +286,9 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:02 00:01:08 tt-2319 MM005_1967_EP_SU2011_AD_08 @Gram:Prep 
 "<hablar>"
-	"hablar" Verb VLinf Infinitive lang:es 00:01:02 00:01:08 tt-2320 MM005_1967_EP_SU2011_AD_08 
+	"hablar" Verb VLinf Infinitive lang:es 00:01:02 00:01:08 tt-2320 MM005_1967_EP_SU2011_AD_08 ID:140 R:Vocab:Fraseol:VerbPrep:141 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:02 00:01:08 tt-2321 MM005_1967_EP_SU2011_AD_08 
+	"al" Preposition PAL lang:es 00:01:02 00:01:08 tt-2321 MM005_1967_EP_SU2011_AD_08 @Gram:Prep ID:141 
 "<público>"
 	"público" Adjective ADJ Singular lang:es 00:01:02 00:01:08 tt-2322 MM005_1967_EP_SU2011_AD_08 
 "<,>"
