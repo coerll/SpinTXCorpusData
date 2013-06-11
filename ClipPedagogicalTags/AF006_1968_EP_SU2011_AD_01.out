@@ -72,7 +72,7 @@
 "<el>"
 	"el" Determiner ART Singular lang:es 00:00:12 00:00:19 tt-56 AF006_1968_EP_SU2011_AD_01 @Gram:Det:Art 
 "<segundo>"
-	"segundo" Adjective ORD Singular lang:es 00:00:12 00:00:19 tt-57 AF006_1968_EP_SU2011_AD_01 
+	"segundo" Adjective ORD Singular lang:es 00:00:12 00:00:19 tt-57 AF006_1968_EP_SU2011_AD_01 Gram:Adj:Ord 
 "<barrio>"
 	"barrio" Noun NC Singular lang:es 00:00:12 00:00:19 tt-58 AF006_1968_EP_SU2011_AD_01 
 "<,>"
@@ -108,9 +108,9 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:24 00:00:31 tt-73 AF006_1968_EP_SU2011_AD_01 @Gram:Prep 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:24 00:00:31 tt-74 AF006_1968_EP_SU2011_AD_01 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:24 00:00:31 tt-74 AF006_1968_EP_SU2011_AD_01 @Gram:Det:Art ID:51 R:Gram:Genero:ExcepArtFem:52 
 "<área>"
-	"área" Noun NC Singular lang:es 00:00:24 00:00:31 tt-75 AF006_1968_EP_SU2011_AD_01 
+	"área" Noun NC Singular lang:es 00:00:24 00:00:31 tt-75 AF006_1968_EP_SU2011_AD_01 ID:52 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:24 00:00:31 tt-76 AF006_1968_EP_SU2011_AD_01 
 "<se>"
@@ -118,7 +118,7 @@
 "<llama>"
 	"llamar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:24 00:00:31 tt-78 AF006_1968_EP_SU2011_AD_01 
 "<segundo>"
-	"segundo" Adjective ORD Singular lang:es 00:00:24 00:00:31 tt-79 AF006_1968_EP_SU2011_AD_01 
+	"segundo" Adjective ORD Singular lang:es 00:00:24 00:00:31 tt-79 AF006_1968_EP_SU2011_AD_01 Gram:Adj:Ord 
 "<barrio>"
 	"barrio" Noun NC Singular lang:es 00:00:24 00:00:31 tt-80 AF006_1968_EP_SU2011_AD_01 
 "<$.>"

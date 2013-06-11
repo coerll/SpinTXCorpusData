@@ -303,7 +303,7 @@
 "<En>"
 	"en" Preposition PREP lang:es 00:01:00 00:01:07 tt-1393 OM023_1962_CT_SU2011_VA_04 @Gram:Prep 
 "<primer>"
-	"primero" Adjective ORD Singular lang:es 00:01:00 00:01:07 tt-1394 OM023_1962_CT_SU2011_VA_04 
+	"primero" Adjective ORD Singular lang:es 00:01:00 00:01:07 tt-1394 OM023_1962_CT_SU2011_VA_04 Gram:Adj:Ord 
 "<lugar>"
 	"lugar" Noun NC Singular lang:es 00:01:00 00:01:07 tt-1395 OM023_1962_CT_SU2011_VA_04 
 "<yo>"
@@ -355,7 +355,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:16 00:01:23 tt-1419 OM023_1962_CT_SU2011_VA_04 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:01:16 00:01:23 tt-1420 OM023_1962_CT_SU2011_VA_04 
+	"mío" Pronoun PPO Plural lang:es 00:01:16 00:01:23 tt-1420 OM023_1962_CT_SU2011_VA_04 
 "<amigos>"
 	"amigo" Adjective ADJ Plural lang:es 00:01:16 00:01:23 tt-1421 OM023_1962_CT_SU2011_VA_04 
 "<$.>"
@@ -453,9 +453,9 @@
 "<aprender>"
 	"aprender" Verb VLinf Infinitive lang:es 00:01:33 00:01:38 tt-1467 OM023_1962_CT_SU2011_VA_04 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:38 00:01:45 tt-1468 OM023_1962_CT_SU2011_VA_04 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:01:38 00:01:45 tt-1468 OM023_1962_CT_SU2011_VA_04 @Gram:Det:Art ID:220 R:Gram:Genero:ExcepMasc:221 
 "<idioma>"
-	"idioma" Noun NC Singular lang:es 00:01:38 00:01:45 tt-1469 OM023_1962_CT_SU2011_VA_04 
+	"idioma" Noun NC Singular lang:es 00:01:38 00:01:45 tt-1469 OM023_1962_CT_SU2011_VA_04 ID:221 
 "<pero>"
 	"pero" Conjunction CCAD lang:es 00:01:38 00:01:45 tt-1470 OM023_1962_CT_SU2011_VA_04 @Prag:MarcadoresDisc:Revision 
 "<no>"

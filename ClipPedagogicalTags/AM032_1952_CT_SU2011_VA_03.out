@@ -251,9 +251,9 @@
 "<ventana>"
 	"ventana" Noun NC Singular lang:es 00:00:53 00:01:00 tt-1099 AM032_1952_CT_SU2011_VA_03 
 "<ese>"
-	"ese" Determiner DM Singular lang:es 00:00:53 00:01:00 tt-1100 AM032_1952_CT_SU2011_VA_03 
+	"ese" Determiner DM Singular lang:es 00:00:53 00:01:00 tt-1100 AM032_1952_CT_SU2011_VA_03 ID:123 R:Gram:Genero:ExcepMasc:124 
 "<día>"
-	"día" Noun NC Singular lang:es 00:00:53 00:01:00 tt-1101 AM032_1952_CT_SU2011_VA_03 
+	"día" Noun NC Singular lang:es 00:00:53 00:01:00 tt-1101 AM032_1952_CT_SU2011_VA_03 ID:124 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:53 00:01:00 tt-1102 AM032_1952_CT_SU2011_VA_03 
 
@@ -474,7 +474,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:37 00:01:44 tt-1208 AM032_1952_CT_SU2011_VA_03 
 "<mis>"
-	"UNK" Verb VLfin Error1 lang:es 00:01:37 00:01:44 tt-1209 AM032_1952_CT_SU2011_VA_03 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural Verb VLfin Error1 lang:es 00:01:37 00:01:44 tt-1209 AM032_1952_CT_SU2011_VA_03 @Gram:Det:Pos 
 "<hermanas>"
 	"hermano" Noun NC Plural lang:es 00:01:37 00:01:44 tt-1210 AM032_1952_CT_SU2011_VA_03 
 "<y>"
@@ -1082,7 +1082,7 @@
 "<dar>"
 	"dar" Verb VLinf Infinitive lang:es 00:03:42 00:03:49 tt-1511 AM032_1952_CT_SU2011_VA_03 
 "<primeros>"
-	"primero" Adjective ORD Plural lang:es 00:03:42 00:03:49 tt-1512 AM032_1952_CT_SU2011_VA_03 
+	"primero" Adjective ORD Plural lang:es 00:03:42 00:03:49 tt-1512 AM032_1952_CT_SU2011_VA_03 Gram:Adj:Ord 
 "<auxilios>"
 	"auxilio" Noun NC Plural lang:es 00:03:42 00:03:49 tt-1513 AM032_1952_CT_SU2011_VA_03 
 "<y>"

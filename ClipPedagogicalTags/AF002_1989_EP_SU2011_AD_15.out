@@ -39,9 +39,9 @@
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:06 00:00:13 tt-4352 AF002_1989_EP_SU2011_AD_15 @Gram:SerEstar:Ser 
 "<un>"
-	"un" Determiner ART Singular lang:es 00:00:06 00:00:13 tt-4353 AF002_1989_EP_SU2011_AD_15 
+	"un" Determiner ART Singular lang:es 00:00:06 00:00:13 tt-4353 AF002_1989_EP_SU2011_AD_15 ID:18 R:Gram:Genero:ExcepMasc:19 
 "<idioma>"
-	"idioma" Noun NC Singular lang:es 00:00:06 00:00:13 tt-4354 AF002_1989_EP_SU2011_AD_15 
+	"idioma" Noun NC Singular lang:es 00:00:06 00:00:13 tt-4354 AF002_1989_EP_SU2011_AD_15 ID:19 
 "<,>"
 	"," Punctuation CM lang:es 00:00:06 00:00:13 tt-4355 AF002_1989_EP_SU2011_AD_15 
 "<ese>"
@@ -51,7 +51,7 @@
 "<mi>"
 	"mío" Pronoun PPO Singular lang:es 00:00:06 00:00:13 tt-4358 AF002_1989_EP_SU2011_AD_15 @Gram:Det:Pos 
 "<primer>"
-	"primero" Adjective ORD Singular lang:es 00:00:06 00:00:13 tt-4359 AF002_1989_EP_SU2011_AD_15 
+	"primero" Adjective ORD Singular lang:es 00:00:06 00:00:13 tt-4359 AF002_1989_EP_SU2011_AD_15 Gram:Adj:Ord 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:00:06 00:00:13 tt-4360 AF002_1989_EP_SU2011_AD_15 
 "<$.>"
@@ -68,7 +68,7 @@
 "<mi>"
 	"mío" Pronoun PPO Singular lang:es 00:00:06 00:00:13 tt-4366 AF002_1989_EP_SU2011_AD_15 @Gram:Det:Pos 
 "<primer>"
-	"primero" Adjective ORD Singular lang:es 00:00:06 00:00:13 tt-4367 AF002_1989_EP_SU2011_AD_15 
+	"primero" Adjective ORD Singular lang:es 00:00:06 00:00:13 tt-4367 AF002_1989_EP_SU2011_AD_15 Gram:Adj:Ord 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:00:14 00:00:21 tt-4368 AF002_1989_EP_SU2011_AD_15 
 "<muy>"
@@ -161,9 +161,9 @@
 "<habla>"
 	"hablar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:27 00:00:33 tt-4412 AF002_1989_EP_SU2011_AD_15 
 "<ese>"
-	"ese" Determiner DM Singular lang:es 00:00:27 00:00:33 tt-4413 AF002_1989_EP_SU2011_AD_15 @Gram:Det:Demo 
+	"ese" Determiner DM Singular lang:es 00:00:27 00:00:33 tt-4413 AF002_1989_EP_SU2011_AD_15 @Gram:Det:Demo ID:78 R:Gram:Genero:ExcepMasc:79 
 "<idioma>"
-	"idioma" Noun NC Singular lang:es 00:00:27 00:00:33 tt-4414 AF002_1989_EP_SU2011_AD_15 
+	"idioma" Noun NC Singular lang:es 00:00:27 00:00:33 tt-4414 AF002_1989_EP_SU2011_AD_15 ID:79 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:27 00:00:33 tt-4415 AF002_1989_EP_SU2011_AD_15 
 
@@ -208,7 +208,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:33 00:00:40 tt-4435 AF002_1989_EP_SU2011_AD_15 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:33 00:00:40 tt-4436 AF002_1989_EP_SU2011_AD_15 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:00:33 00:00:40 tt-4436 AF002_1989_EP_SU2011_AD_15 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:33 00:00:40 tt-4437 AF002_1989_EP_SU2011_AD_15 
 "<o>"

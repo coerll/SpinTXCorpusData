@@ -196,7 +196,7 @@
 "<el>"
 	"el" Determiner ART Singular lang:es 00:00:38 00:00:45 tt-1012 AF050_1955_GV_FA2011_JT_06 @Gram:Det:Art 
 "<primer>"
-	"primero" Adjective ORD Singular lang:es 00:00:38 00:00:45 tt-1013 AF050_1955_GV_FA2011_JT_06 
+	"primero" Adjective ORD Singular lang:es 00:00:38 00:00:45 tt-1013 AF050_1955_GV_FA2011_JT_06 Gram:Adj:Ord 
 "<grado>"
 	"grado" Noun NMEA Singular lang:es 00:00:38 00:00:45 tt-1014 AF050_1955_GV_FA2011_JT_06 
 "<que>"
@@ -220,7 +220,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:45 00:00:52 tt-1024 AF050_1955_GV_FA2011_JT_06 
 "<mis>"
-	"UNK" Noun NP Plural lang:es 00:00:45 00:00:52 tt-1025 AF050_1955_GV_FA2011_JT_06 
+	"mío" Pronoun PPO Plural NP lang:es 00:00:45 00:00:52 tt-1025 AF050_1955_GV_FA2011_JT_06 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:45 00:00:52 tt-1026 AF050_1955_GV_FA2011_JT_06 
 "<mi>"

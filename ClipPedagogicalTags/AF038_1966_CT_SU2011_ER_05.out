@@ -315,9 +315,9 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:51 00:00:55 tt-2468 AF038_1966_CT_SU2011_ER_05 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:51 00:00:55 tt-2469 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:51 00:00:55 tt-2469 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Art ID:151 R:Gram:Genero:ExcepMasc:152 
 "<idioma>"
-	"idioma" Noun NC Singular lang:es 00:00:51 00:00:55 tt-2470 AF038_1966_CT_SU2011_ER_05 
+	"idioma" Noun NC Singular lang:es 00:00:51 00:00:55 tt-2470 AF038_1966_CT_SU2011_ER_05 ID:152 
 "<natal>"
 	"natal" Adjective ADJ Singular lang:es 00:00:51 00:00:55 tt-2471 AF038_1966_CT_SU2011_ER_05 
 "<por>"
@@ -358,7 +358,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:55 00:01:00 tt-2488 AF038_1966_CT_SU2011_ER_05 @Gram:Prep 
 "<mis>"
-	"UNK" Adjective ADJ Plural lang:es 00:00:55 00:01:00 tt-2489 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural Adjective ADJ lang:es 00:00:55 00:01:00 tt-2489 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:55 00:01:00 tt-2490 AF038_1966_CT_SU2011_ER_05 
 "<,>"
@@ -422,9 +422,9 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:05 00:01:11 tt-2520 AF038_1966_CT_SU2011_ER_05 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:05 00:01:11 tt-2521 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:01:05 00:01:11 tt-2521 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Art ID:203 R:Gram:Genero:ExcepMasc:204 
 "<idioma>"
-	"idioma" Noun NC Singular lang:es 00:01:05 00:01:11 tt-2522 AF038_1966_CT_SU2011_ER_05 
+	"idioma" Noun NC Singular lang:es 00:01:05 00:01:11 tt-2522 AF038_1966_CT_SU2011_ER_05 ID:204 
 "<de>"
 	"de" Preposition PREP lang:es 00:01:05 00:01:11 tt-2523 AF038_1966_CT_SU2011_ER_05 @Gram:Prep 
 "<sus>"
@@ -885,7 +885,7 @@
 "<los>"
 	"el" Determiner ART Plural lang:es 00:02:14 00:02:19 tt-2744 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Art 
 "<primeros>"
-	"primero" Adjective ORD Plural lang:es 00:02:14 00:02:19 tt-2745 AF038_1966_CT_SU2011_ER_05 
+	"primero" Adjective ORD Plural lang:es 00:02:14 00:02:19 tt-2745 AF038_1966_CT_SU2011_ER_05 Gram:Adj:Ord 
 "<años>"
 	"año" Noun NC Plural lang:es 00:02:14 00:02:19 tt-2746 AF038_1966_CT_SU2011_ER_05 
 "<de>"
@@ -921,7 +921,7 @@
 "<ya>"
 	"ya" Adverb ADV lang:es 00:02:19 00:02:24 tt-2762 AF038_1966_CT_SU2011_ER_05 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:19 00:02:24 tt-2763 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:02:19 00:02:24 tt-2763 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:02:19 00:02:24 tt-2765 AF038_1966_CT_SU2011_ER_05 
 "<por>"
@@ -931,13 +931,13 @@
 "<,>"
 	"," Punctuation CM lang:es 00:02:19 00:02:24 tt-2768 AF038_1966_CT_SU2011_ER_05 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:19 00:02:24 tt-2769 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:02:19 00:02:24 tt-2769 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<nietos>"
 	"nieto" Noun NC Plural lang:es 00:02:19 00:02:24 tt-2770 AF038_1966_CT_SU2011_ER_05 
 "<,>"
 	"," Punctuation CM lang:es 00:02:19 00:02:24 tt-2771 AF038_1966_CT_SU2011_ER_05 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:19 00:02:24 tt-2772 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:02:19 00:02:24 tt-2772 AF038_1966_CT_SU2011_ER_05 @Gram:Det:Pos 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:02:19 00:02:24 tt-2773 AF038_1966_CT_SU2011_ER_05 
 "<ya>"

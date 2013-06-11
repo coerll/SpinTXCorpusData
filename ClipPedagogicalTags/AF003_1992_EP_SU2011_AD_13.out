@@ -93,7 +93,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:35 00:00:42 tt-2728 AF003_1992_EP_SU2011_AD_13 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:00:35 00:00:42 tt-2729 AF003_1992_EP_SU2011_AD_13 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:00:35 00:00:42 tt-2729 AF003_1992_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:00:35 00:00:42 tt-2730 AF003_1992_EP_SU2011_AD_13 
 "<este>"
@@ -301,7 +301,7 @@
 "<Mi>"
 	"mío" Pronoun PPO Singular lang:es 00:01:26 00:01:33 tt-2829 AF003_1992_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<primer>"
-	"primero" Adjective ORD Singular lang:es 00:01:26 00:01:33 tt-2830 AF003_1992_EP_SU2011_AD_13 
+	"primero" Adjective ORD Singular lang:es 00:01:26 00:01:33 tt-2830 AF003_1992_EP_SU2011_AD_13 Gram:Adj:Ord 
 "<recuerdo>"
 	"recuerdo" Noun NC Singular lang:es 00:01:26 00:01:33 tt-2831 AF003_1992_EP_SU2011_AD_13 
 "<$?>"
@@ -324,9 +324,9 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:26 00:01:33 tt-2840 AF003_1992_EP_SU2011_AD_13 @Gram:Prep 
 "<un>"
-	"un" Determiner ART Singular lang:es 00:01:26 00:01:33 tt-2841 AF003_1992_EP_SU2011_AD_13 
+	"un" Determiner ART Singular lang:es 00:01:26 00:01:33 tt-2841 AF003_1992_EP_SU2011_AD_13 ID:157 R:Gram:Genero:ExcepMasc:158 
 "<día>"
-	"día" Noun NC Singular lang:es 00:01:26 00:01:33 tt-2842 AF003_1992_EP_SU2011_AD_13 
+	"día" Noun NC Singular lang:es 00:01:26 00:01:33 tt-2842 AF003_1992_EP_SU2011_AD_13 ID:158 
 "<de>"
 	"de" Preposition PREP lang:es 00:01:26 00:01:33 tt-2843 AF003_1992_EP_SU2011_AD_13 @Gram:Prep 
 "<campo>"
@@ -431,7 +431,7 @@
 "<mi>"
 	"mío" Pronoun PPO Singular lang:es 00:01:49 00:01:51 tt-2893 AF003_1992_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<primer>"
-	"primero" Adjective ORD Singular lang:es 00:01:49 00:01:51 tt-2894 AF003_1992_EP_SU2011_AD_13 
+	"primero" Adjective ORD Singular lang:es 00:01:49 00:01:51 tt-2894 AF003_1992_EP_SU2011_AD_13 Gram:Adj:Ord 
 "<recuerdo>"
 	"recuerdo" Noun NC Singular lang:es 00:01:49 00:01:51 tt-2895 AF003_1992_EP_SU2011_AD_13 
 "<$.>"
@@ -498,9 +498,9 @@
 "<descríbeme>"
 	"UNK" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:02:09 00:02:14 tt-2924 AF003_1992_EP_SU2011_AD_13 @Gram:MSub:Pres 
 "<un>"
-	"un" Determiner ART Singular lang:es 00:02:09 00:02:14 tt-2925 AF003_1992_EP_SU2011_AD_13 
+	"un" Determiner ART Singular lang:es 00:02:09 00:02:14 tt-2925 AF003_1992_EP_SU2011_AD_13 ID:239 R:Gram:Genero:ExcepMasc:240 
 "<día>"
-	"día" Noun NC Singular lang:es 00:02:09 00:02:14 tt-2926 AF003_1992_EP_SU2011_AD_13 
+	"día" Noun NC Singular lang:es 00:02:09 00:02:14 tt-2926 AF003_1992_EP_SU2011_AD_13 ID:240 
 "<perfecto>"
 	"perfecto" Adjective ADJ Singular lang:es 00:02:09 00:02:14 tt-2927 AF003_1992_EP_SU2011_AD_13 
 "<de>"
@@ -591,9 +591,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:02:28 00:02:35 tt-2970 AF003_1992_EP_SU2011_AD_13 
 "<un>"
-	"un" Determiner ART Singular lang:es 00:02:28 00:02:35 tt-2971 AF003_1992_EP_SU2011_AD_13 
+	"un" Determiner ART Singular lang:es 00:02:28 00:02:35 tt-2971 AF003_1992_EP_SU2011_AD_13 ID:284 R:Gram:Genero:ExcepMasc:285 
 "<día>"
-	"día" Noun NC Singular lang:es 00:02:28 00:02:35 tt-2972 AF003_1992_EP_SU2011_AD_13 
+	"día" Noun NC Singular lang:es 00:02:28 00:02:35 tt-2972 AF003_1992_EP_SU2011_AD_13 ID:285 
 "<perfecto>"
 	"perfecto" Adjective ADJ Singular lang:es 00:02:28 00:02:35 tt-2973 AF003_1992_EP_SU2011_AD_13 
 "<en>"
@@ -720,9 +720,9 @@
 "<sería>"
 	"ser" Verb VSfin Cond Indi Sing 1st_or_3rd lang:es 00:02:55 00:03:02 tt-3035 AF003_1992_EP_SU2011_AD_13 @Gram:SerEstar:Ser 
 "<un>"
-	"un" Determiner ART Singular lang:es 00:02:55 00:03:02 tt-3036 AF003_1992_EP_SU2011_AD_13 
+	"un" Determiner ART Singular lang:es 00:02:55 00:03:02 tt-3036 AF003_1992_EP_SU2011_AD_13 ID:347 R:Gram:Genero:ExcepMasc:348 
 "<día>"
-	"día" Noun NC Singular lang:es 00:02:55 00:03:02 tt-3037 AF003_1992_EP_SU2011_AD_13 
+	"día" Noun NC Singular lang:es 00:02:55 00:03:02 tt-3037 AF003_1992_EP_SU2011_AD_13 ID:348 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:02:55 00:03:02 tt-3038 AF003_1992_EP_SU2011_AD_13 
 "<bien>"
@@ -1093,7 +1093,7 @@
 <speaker type="subj">
 
 "<Mis>"
-	"UNK" Noun NC Plural lang:es 00:06:03 00:06:10 tt-3216 AF003_1992_EP_SU2011_AD_13 
+	"mío" Pronoun PPO Plural lang:es 00:06:03 00:06:10 tt-3216 AF003_1992_EP_SU2011_AD_13 
 "<mejores>"
 	"bueno" Adjective ADJ Plural lang:es 00:06:03 00:06:10 tt-3217 AF003_1992_EP_SU2011_AD_13 
 "<amigos>"
@@ -1338,7 +1338,7 @@
 "<eran>"
 	"ser" Verb VSfin Past Indi Plural 3rd lang:es 00:06:42 00:06:49 tt-3341 AF003_1992_EP_SU2011_AD_13 @Gram:SerEstar:Ser 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:06:42 00:06:49 tt-3342 AF003_1992_EP_SU2011_AD_13 
+	"mío" Pronoun PPO Plural lang:es 00:06:42 00:06:49 tt-3342 AF003_1992_EP_SU2011_AD_13 
 "<mejores>"
 	"bueno" Adjective ADJ Plural lang:es 00:06:42 00:06:49 tt-3343 AF003_1992_EP_SU2011_AD_13 
 "<amigos>"
@@ -1360,9 +1360,9 @@
 "<era>"
 	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:06:49 00:06:56 tt-3350 AF003_1992_EP_SU2011_AD_13 @Gram:Imperf @Gram:SerEstar:Ser 
 "<un>"
-	"un" Determiner ART Singular lang:es 00:06:49 00:06:56 tt-3351 AF003_1992_EP_SU2011_AD_13 
+	"un" Determiner ART Singular lang:es 00:06:49 00:06:56 tt-3351 AF003_1992_EP_SU2011_AD_13 ID:652 R:Gram:Genero:ExcepMasc:653 
 "<día>"
-	"día" Noun NC Singular lang:es 00:06:49 00:06:56 tt-3352 AF003_1992_EP_SU2011_AD_13 
+	"día" Noun NC Singular lang:es 00:06:49 00:06:56 tt-3352 AF003_1992_EP_SU2011_AD_13 ID:653 
 "<típico>"
 	"típico" Adjective ADJ Singular lang:es 00:06:49 00:06:56 tt-3353 AF003_1992_EP_SU2011_AD_13 
 "<en>"
@@ -1624,7 +1624,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:07:32 00:07:39 tt-3481 AF003_1992_EP_SU2011_AD_13 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:07:32 00:07:39 tt-3482 AF003_1992_EP_SU2011_AD_13 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:07:32 00:07:39 tt-3482 AF003_1992_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<maestros>"
 	"maestro" Plural Noun Singular lang:es 00:07:32 00:07:39 tt-3483 AF003_1992_EP_SU2011_AD_13 
 "<y>"
@@ -1640,7 +1640,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:07:39 00:07:45 tt-3489 AF003_1992_EP_SU2011_AD_13 @Gram:Prep 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:07:39 00:07:45 tt-3490 AF003_1992_EP_SU2011_AD_13 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:07:39 00:07:45 tt-3490 AF003_1992_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<clases>"
 	"clase" Noun NC Plural lang:es 00:07:39 00:07:45 tt-3491 AF003_1992_EP_SU2011_AD_13 
 "<y>"

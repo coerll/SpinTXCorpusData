@@ -70,7 +70,7 @@
 "<el>"
 	"el" Determiner ART Singular lang:es 00:00:10 00:00:16 tt-2119 OM023_1962_CT_SU2011_VA_06 @Gram:Det:Art 
 "<primer>"
-	"primero" Adjective ORD Singular lang:es 00:00:10 00:00:16 tt-2120 OM023_1962_CT_SU2011_VA_06 
+	"primero" Adjective ORD Singular lang:es 00:00:10 00:00:16 tt-2120 OM023_1962_CT_SU2011_VA_06 Gram:Adj:Ord 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:00:10 00:00:16 tt-2121 OM023_1962_CT_SU2011_VA_06 
 "<que>"
@@ -324,9 +324,9 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:00 00:01:05 tt-2248 OM023_1962_CT_SU2011_VA_06 
 "<un>"
-	"un" Determiner ART Singular lang:es 00:01:00 00:01:05 tt-2249 OM023_1962_CT_SU2011_VA_06 
+	"un" Determiner ART Singular lang:es 00:01:00 00:01:05 tt-2249 OM023_1962_CT_SU2011_VA_06 ID:162 R:Gram:Genero:ExcepMasc:163 
 "<día>"
-	"día" Noun NC Singular lang:es 00:01:00 00:01:05 tt-2250 OM023_1962_CT_SU2011_VA_06 
+	"día" Noun NC Singular lang:es 00:01:00 00:01:05 tt-2250 OM023_1962_CT_SU2011_VA_06 ID:163 
 "<estábamos>"
 	"estar" Verb VEfin Imp Indi Plural 1st lang:es 00:01:05 00:01:12 tt-2251 OM023_1962_CT_SU2011_VA_06 @Gram:Imperf @Gram:SerEstar:Estar ID:164 R:Gram:SerEstar:EstarAux:165 
 "<hablando>"
@@ -344,9 +344,9 @@
 "<bien>"
 	"bien" Adverb ADV lang:es 00:01:05 00:01:12 tt-2258 OM023_1962_CT_SU2011_VA_06 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:05 00:01:12 tt-2259 OM023_1962_CT_SU2011_VA_06 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:01:05 00:01:12 tt-2259 OM023_1962_CT_SU2011_VA_06 @Gram:Det:Art ID:172 R:Gram:Genero:ExcepMasc:173 
 "<idioma>"
-	"idioma" Noun NC Singular lang:es 00:01:05 00:01:12 tt-2260 OM023_1962_CT_SU2011_VA_06 
+	"idioma" Noun NC Singular lang:es 00:01:05 00:01:12 tt-2260 OM023_1962_CT_SU2011_VA_06 ID:173 
 "<y>"
 	"y" Conjunction CC lang:es 00:01:05 00:01:12 tt-2261 OM023_1962_CT_SU2011_VA_06 
 "<yo>"
@@ -360,7 +360,7 @@
 "<la>"
 	"el" Determiner ART Singular lang:es 00:01:05 00:01:12 tt-2266 OM023_1962_CT_SU2011_VA_06 @Gram:Det:Art 
 "<primera>"
-	"primero" Adjective ORD Singular lang:es 00:01:05 00:01:12 tt-2267 OM023_1962_CT_SU2011_VA_06 
+	"primero" Adjective ORD Singular lang:es 00:01:05 00:01:12 tt-2267 OM023_1962_CT_SU2011_VA_06 Gram:Adj:Ord 
 "<vez>"
 	"vez" Noun NC Singular lang:es 00:01:05 00:01:12 tt-2268 OM023_1962_CT_SU2011_VA_06 
 "<que>"
@@ -647,9 +647,9 @@
 "<aprender>"
 	"aprender" Verb VLinf Infinitive lang:es 00:01:56 00:02:03 tt-2409 OM023_1962_CT_SU2011_VA_06 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:56 00:02:03 tt-2410 OM023_1962_CT_SU2011_VA_06 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:01:56 00:02:03 tt-2410 OM023_1962_CT_SU2011_VA_06 @Gram:Det:Art ID:323 R:Gram:Genero:ExcepMasc:324 
 "<idioma>"
-	"idioma" Noun NC Singular lang:es 00:01:56 00:02:03 tt-2411 OM023_1962_CT_SU2011_VA_06 
+	"idioma" Noun NC Singular lang:es 00:01:56 00:02:03 tt-2411 OM023_1962_CT_SU2011_VA_06 ID:324 
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:56 00:02:03 tt-2412 OM023_1962_CT_SU2011_VA_06 @Gram:Pron:Objeto 
 "<obligó>"
@@ -731,7 +731,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:02:12 00:02:19 tt-2448 OM023_1962_CT_SU2011_VA_06 @Gram:Prep 
 "<primer>"
-	"primero" Adjective ORD Singular lang:es 00:02:12 00:02:19 tt-2449 OM023_1962_CT_SU2011_VA_06 
+	"primero" Adjective ORD Singular lang:es 00:02:12 00:02:19 tt-2449 OM023_1962_CT_SU2011_VA_06 Gram:Adj:Ord 
 "<lugar>"
 	"lugar" Noun NC Singular lang:es 00:02:12 00:02:19 tt-2450 OM023_1962_CT_SU2011_VA_06 
 "<yo>"
@@ -922,9 +922,9 @@
 "<aprender>"
 	"aprender" Verb VLinf Infinitive lang:es 00:02:48 00:02:55 tt-2543 OM023_1962_CT_SU2011_VA_06 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:02:48 00:02:55 tt-2544 OM023_1962_CT_SU2011_VA_06 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:02:48 00:02:55 tt-2544 OM023_1962_CT_SU2011_VA_06 @Gram:Det:Art ID:456 R:Gram:Genero:ExcepMasc:457 
 "<idioma>"
-	"idioma" Noun NC Singular lang:es 00:02:55 00:03:02 tt-2545 OM023_1962_CT_SU2011_VA_06 
+	"idioma" Noun NC Singular lang:es 00:02:55 00:03:02 tt-2545 OM023_1962_CT_SU2011_VA_06 ID:457 
 "<$.>"
 	"." Punctuation FS lang:es 00:02:55 00:03:02 tt-2546 OM023_1962_CT_SU2011_VA_06 
 
@@ -998,9 +998,9 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:03:05 00:03:12 tt-2580 OM023_1962_CT_SU2011_VA_06 @Gram:Prep 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:03:14 00:03:21 tt-2581 OM023_1962_CT_SU2011_VA_06 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:03:14 00:03:21 tt-2581 OM023_1962_CT_SU2011_VA_06 @Gram:Det:Art ID:493 R:Gram:Genero:ExcepMasc:494 
 "<idioma>"
-	"idioma" Noun NC Singular lang:es 00:03:14 00:03:21 tt-2582 OM023_1962_CT_SU2011_VA_06 
+	"idioma" Noun NC Singular lang:es 00:03:14 00:03:21 tt-2582 OM023_1962_CT_SU2011_VA_06 ID:494 
 "<,>"
 	"," Punctuation CM lang:es 00:03:14 00:03:21 tt-2583 OM023_1962_CT_SU2011_VA_06 
 "<me>"

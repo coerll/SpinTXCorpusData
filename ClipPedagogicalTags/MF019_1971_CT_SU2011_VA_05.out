@@ -295,7 +295,7 @@
 "<la>"
 	"el" Determiner ART Singular lang:es 00:00:54 00:01:01 tt-1806 MF019_1971_CT_SU2011_VA_05 @Gram:Det:Art 
 "<primera>"
-	"primero" Adjective ORD Singular lang:es 00:00:54 00:01:01 tt-1807 MF019_1971_CT_SU2011_VA_05 
+	"primero" Adjective ORD Singular lang:es 00:00:54 00:01:01 tt-1807 MF019_1971_CT_SU2011_VA_05 Gram:Adj:Ord 
 "<vez>"
 	"vez" Noun NC Singular lang:es 00:00:54 00:01:01 tt-1808 MF019_1971_CT_SU2011_VA_05 
 "<que>"
@@ -571,9 +571,9 @@
 "<aprender>"
 	"aprender" Verb VLinf Infinitive lang:es 00:01:39 00:01:45 tt-1945 MF019_1971_CT_SU2011_VA_05 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:39 00:01:45 tt-1946 MF019_1971_CT_SU2011_VA_05 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:01:39 00:01:45 tt-1946 MF019_1971_CT_SU2011_VA_05 @Gram:Det:Art ID:284 R:Gram:Genero:ExcepMasc:285 
 "<idioma>"
-	"idioma" Noun NC Singular lang:es 00:01:39 00:01:45 tt-1947 MF019_1971_CT_SU2011_VA_05 
+	"idioma" Noun NC Singular lang:es 00:01:39 00:01:45 tt-1947 MF019_1971_CT_SU2011_VA_05 ID:285 
 "<fue>"
 	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:01:39 00:01:45 tt-1948 MF019_1971_CT_SU2011_VA_05 @Gram:SerEstar:Ser 
 "<poquito>"
@@ -689,7 +689,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:02:03 00:02:09 tt-2004 MF019_1971_CT_SU2011_VA_05 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:03 00:02:09 tt-2005 MF019_1971_CT_SU2011_VA_05 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:02:03 00:02:09 tt-2005 MF019_1971_CT_SU2011_VA_05 @Gram:Det:Pos 
 "<oídos>"
 	"oído" Noun NC Plural lang:es 00:02:03 00:02:09 tt-2006 MF019_1971_CT_SU2011_VA_05 
 "<se>"
@@ -830,7 +830,7 @@
 "<afortunadamente>"
 	"afortunado" Adverb ADV lang:es 00:02:25 00:02:30 tt-2074 MF019_1971_CT_SU2011_VA_05 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:25 00:02:30 tt-2075 MF019_1971_CT_SU2011_VA_05 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:02:25 00:02:30 tt-2075 MF019_1971_CT_SU2011_VA_05 @Gram:Det:Pos 
 "<compañeros>"
 	"compañero" Noun NC Plural lang:es 00:02:25 00:02:30 tt-2076 MF019_1971_CT_SU2011_VA_05 
 "<de>"
@@ -840,7 +840,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:02:25 00:02:30 tt-2079 MF019_1971_CT_SU2011_VA_05 
 "<mis>"
-	"UNK" Noun NC Plural lang:es 00:02:25 00:02:30 tt-2080 MF019_1971_CT_SU2011_VA_05 
+	"mío" Pronoun PPO Plural lang:es 00:02:25 00:02:30 tt-2080 MF019_1971_CT_SU2011_VA_05 
 "<amigos>"
 	"amigo" Adjective ADJ Plural lang:es 00:02:25 00:02:30 tt-2081 MF019_1971_CT_SU2011_VA_05 
 "<también>"
