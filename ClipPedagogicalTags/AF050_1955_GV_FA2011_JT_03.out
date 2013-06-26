@@ -8,9 +8,9 @@
 	"." Punctuation FS lang:es 00:00:00 00:00:06 tt-321 AF050_1955_GV_FA2011_JT_03 
 
 "<A>"
-	"a" Preposition PREP lang:es 00:00:00 00:00:06 tt-322 AF050_1955_GV_FA2011_JT_03 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:00 00:00:06 tt-322 AF050_1955_GV_FA2011_JT_03 @Gram:Prep ADD:472 
 "<ver>"
-	"ver" Verb VLinf Infinitive lang:es 00:00:00 00:00:06 tt-323 AF050_1955_GV_FA2011_JT_03 
+	"ver" Verb VLinf Infinitive lang:es 00:00:00 00:00:06 tt-323 AF050_1955_GV_FA2011_JT_03 SUBSTITUTE:292 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:00 00:00:06 tt-324 AF050_1955_GV_FA2011_JT_03 
 
@@ -21,9 +21,9 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:06 tt-327 AF050_1955_GV_FA2011_JT_03 
 "<Tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:06 tt-328 AF050_1955_GV_FA2011_JT_03 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:06 tt-328 AF050_1955_GV_FA2011_JT_03 @Gram:Pron:Sujeto ADD:482 
 "<te>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:06 tt-329 AF050_1955_GV_FA2011_JT_03 @Gram:Pron:Objeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:06 tt-329 AF050_1955_GV_FA2011_JT_03 @Gram:Pron:Objeto ADD:506 
 "<consideras>"
 	"considerar" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:06 tt-330 AF050_1955_GV_FA2011_JT_03 
 "<eh>"
@@ -55,11 +55,11 @@
 "<cómo>"
 	"cómo" Adverb ADV lang:es 00:00:06 00:00:10 tt-344 AF050_1955_GV_FA2011_JT_03 
 "<te>"
-	"tú" Pronoun PPX Singular lang:es 00:00:06 00:00:10 tt-345 AF050_1955_GV_FA2011_JT_03 @Gram:Pron:Objeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:06 00:00:10 tt-345 AF050_1955_GV_FA2011_JT_03 @Gram:Pron:Objeto ADD:506 
 "<identificas>"
 	"UNK" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:06 00:00:10 tt-346 AF050_1955_GV_FA2011_JT_03 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:06 00:00:10 tt-347 AF050_1955_GV_FA2011_JT_03 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:06 00:00:10 tt-347 AF050_1955_GV_FA2011_JT_03 @Gram:Pron:Sujeto ADD:482 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:06 00:00:10 tt-348 AF050_1955_GV_FA2011_JT_03 
 
@@ -90,11 +90,11 @@
 	"?" Punctuation FS lang:es 00:00:13 00:00:19 tt-359 AF050_1955_GV_FA2011_JT_03 
 
 "<A>"
-	"a" Preposition PREP lang:es 00:00:13 00:00:19 tt-360 AF050_1955_GV_FA2011_JT_03 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:13 00:00:19 tt-360 AF050_1955_GV_FA2011_JT_03 @Gram:Prep ADD:472 
 "<ver>"
-	"ver" Verb VLinf Infinitive lang:es 00:00:13 00:00:19 tt-361 AF050_1955_GV_FA2011_JT_03 
+	"ver" Verb VLinf Infinitive lang:es 00:00:13 00:00:19 tt-361 AF050_1955_GV_FA2011_JT_03 SUBSTITUTE:292 
 "<cuéntame>"
-	"contar" Verb VLfin Pres Command Sing 2nd lang:es 00:00:13 00:00:19 tt-362 AF050_1955_GV_FA2011_JT_03 
+	"contar" Verb VLfin Pres Command Sing 2nd lang:es 00:00:13 00:00:19 tt-362 AF050_1955_GV_FA2011_JT_03 @Gram:MImp:Informal ADD:627 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:00:13 00:00:19 tt-363 AF050_1955_GV_FA2011_JT_03 
 "<poquito>"
@@ -102,7 +102,7 @@
 "<más>"
 	"más" Adverb ADV lang:es 00:00:13 00:00:19 tt-365 AF050_1955_GV_FA2011_JT_03 
 "<por>"
-	"por" Preposition PREP lang:es 00:00:13 00:00:19 tt-366 AF050_1955_GV_FA2011_JT_03 @Gram:Prep:Por 
+	"por" Preposition PREP lang:es 00:00:13 00:00:19 tt-366 AF050_1955_GV_FA2011_JT_03 @Gram:Prep:Por SUBSTITUTE:234 ADD:466 
 "<qué>"
 	"qué" Adverb ADV lang:es 00:00:13 00:00:19 tt-367 AF050_1955_GV_FA2011_JT_03 
 "<$.>"
@@ -113,29 +113,29 @@
 "<Pues>"
 	"pues" Conjunction CSUBF lang:es 00:00:19 00:00:26 tt-369 AF050_1955_GV_FA2011_JT_03 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:19 00:00:26 tt-370 AF050_1955_GV_FA2011_JT_03 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:00:19 00:00:26 tt-370 AF050_1955_GV_FA2011_JT_03 @Prag:MarcadoresDisc:Causa ADD:879 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:19 00:00:26 tt-371 AF050_1955_GV_FA2011_JT_03 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:19 00:00:26 tt-371 AF050_1955_GV_FA2011_JT_03 @Gram:Det:Pos ADD:350 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:19 00:00:26 tt-372 AF050_1955_GV_FA2011_JT_03 
 "<nació>"
-	"nacer" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:19 00:00:26 tt-373 AF050_1955_GV_FA2011_JT_03 @Gram:Indefinido 
+	"nacer" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:19 00:00:26 tt-373 AF050_1955_GV_FA2011_JT_03 @Gram:Indefinido ADD:546 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:19 00:00:26 tt-374 AF050_1955_GV_FA2011_JT_03 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:19 00:00:26 tt-374 AF050_1955_GV_FA2011_JT_03 @Gram:Prep ADD:472 
 "<México>"
 	"México" Noun NP Singular lang:es 00:00:19 00:00:26 tt-375 AF050_1955_GV_FA2011_JT_03 
 "<,>"
 	"," Punctuation CM lang:es 00:00:19 00:00:26 tt-376 AF050_1955_GV_FA2011_JT_03 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:19 00:00:26 tt-377 AF050_1955_GV_FA2011_JT_03 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:19 00:00:26 tt-377 AF050_1955_GV_FA2011_JT_03 @Gram:Det:Pos ADD:350 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:19 00:00:26 tt-378 AF050_1955_GV_FA2011_JT_03 
 "<nació>"
-	"nacer" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:19 00:00:26 tt-379 AF050_1955_GV_FA2011_JT_03 @Gram:Indefinido 
+	"nacer" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:19 00:00:26 tt-379 AF050_1955_GV_FA2011_JT_03 @Gram:Indefinido ADD:546 
 "<aquí>"
 	"aquí" Adverb ADV lang:es 00:00:19 00:00:26 tt-380 AF050_1955_GV_FA2011_JT_03 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:19 00:00:26 tt-381 AF050_1955_GV_FA2011_JT_03 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:19 00:00:26 tt-381 AF050_1955_GV_FA2011_JT_03 @Gram:Prep ADD:472 
 "<Tejas>"
 	"UNK" Noun NP Plural lang:es 00:00:19 00:00:26 tt-382 AF050_1955_GV_FA2011_JT_03 
 "<$.>"
@@ -148,20 +148,20 @@
 "<Tejas>"
 	"UNK" Noun NP Plural lang:es 00:00:19 00:00:26 tt-386 AF050_1955_GV_FA2011_JT_03 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:30 00:00:37 tt-387 AF050_1955_GV_FA2011_JT_03 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:30 00:00:37 tt-387 AF050_1955_GV_FA2011_JT_03 @Gram:SerEstar:Ser ADD:647 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:30 00:00:37 tt-388 AF050_1955_GV_FA2011_JT_03 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:30 00:00:37 tt-388 AF050_1955_GV_FA2011_JT_03 @Gram:Prep ADD:472 
 "<donde>"
 	"donde" Adverb ADV lang:es 00:00:30 00:00:37 tt-389 AF050_1955_GV_FA2011_JT_03 
 "<nací>"
-	"nacer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:30 00:00:37 tt-390 AF050_1955_GV_FA2011_JT_03 @Gram:Indefinido 
+	"nacer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:30 00:00:37 tt-390 AF050_1955_GV_FA2011_JT_03 @Gram:Indefinido ADD:546 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:30 00:00:37 tt-391 AF050_1955_GV_FA2011_JT_03 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:30 00:00:37 tt-391 AF050_1955_GV_FA2011_JT_03 @Gram:Pron:Sujeto ADD:482 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:30 00:00:37 tt-392 AF050_1955_GV_FA2011_JT_03 
 
 "<O>"
-	"o" Adverb ADV lang:es 00:00:30 00:00:37 tt-393 AF050_1955_GV_FA2011_JT_03 ID:75 R:Prag:MarcadoresDisc:Igualdad:76 
+	"o" Adverb ADV lang:es 00:00:30 00:00:37 tt-393 AF050_1955_GV_FA2011_JT_03 ID:75 R:Prag:MarcadoresDisc:Igualdad:76 ADDRELATION(Prag:MarcadoresDisc:Igualdad):921 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:00:30 00:00:37 tt-394 AF050_1955_GV_FA2011_JT_03 ID:76 
 "<así>"
@@ -169,11 +169,11 @@
 "<que>"
 	"que" Conjunction CSUBF lang:es 00:00:30 00:00:37 tt-396 AF050_1955_GV_FA2011_JT_03 
 "<por>"
-	"por" Preposition PREP lang:es 00:00:30 00:00:37 tt-397 AF050_1955_GV_FA2011_JT_03 @Gram:Prep:Por 
+	"por" Preposition PREP lang:es 00:00:30 00:00:37 tt-397 AF050_1955_GV_FA2011_JT_03 @Gram:Prep:Por SUBSTITUTE:234 ADD:454 
 "<eso>"
-	"ese" Determiner DM Singular lang:es 00:00:30 00:00:37 tt-398 AF050_1955_GV_FA2011_JT_03 
+	"ese" Determiner DM Singular lang:es 00:00:30 00:00:37 tt-398 AF050_1955_GV_FA2011_JT_03 @Gram:Det:Demo ADD:343 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:30 00:00:37 tt-399 AF050_1955_GV_FA2011_JT_03 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:30 00:00:37 tt-399 AF050_1955_GV_FA2011_JT_03 @Gram:Pron:Objeto ADD:506 
 "<considero>"
 	"considerar" Verb VLfin Pres Indi Sing 1st lang:es 00:00:30 00:00:37 tt-400 AF050_1955_GV_FA2011_JT_03 
 "<tejana>"
@@ -181,17 +181,17 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:30 00:00:37 tt-402 AF050_1955_GV_FA2011_JT_03 
 "<pero>"
-	"pero" Conjunction CCAD lang:es 00:00:30 00:00:37 tt-403 AF050_1955_GV_FA2011_JT_03 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:00:30 00:00:37 tt-403 AF050_1955_GV_FA2011_JT_03 @Prag:MarcadoresDisc:Revision ADD:826 
 "<también>"
-	"también" Adverb ADV lang:es 00:00:30 00:00:37 tt-404 AF050_1955_GV_FA2011_JT_03 @Prag:MarcadoresDisc:Igualdad 
+	"también" Adverb ADV lang:es 00:00:30 00:00:37 tt-404 AF050_1955_GV_FA2011_JT_03 @Prag:MarcadoresDisc:Igualdad ADD:910 
 "<como>"
 	"como" Conjunction CSUBX lang:es 00:00:30 00:00:37 tt-405 AF050_1955_GV_FA2011_JT_03 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:30 00:00:37 tt-406 AF050_1955_GV_FA2011_JT_03 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:30 00:00:37 tt-406 AF050_1955_GV_FA2011_JT_03 @Gram:Det:Pos ADD:350 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:40 00:00:44 tt-407 AF050_1955_GV_FA2011_JT_03 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:40 00:00:44 tt-408 AF050_1955_GV_FA2011_JT_03 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:40 00:00:44 tt-408 AF050_1955_GV_FA2011_JT_03 @Gram:SerEstar:Ser ADD:647 
 "<mexicana>"
 	"mexicano" Adjective ADJ Singular lang:es 00:00:40 00:00:44 tt-409 AF050_1955_GV_FA2011_JT_03 
 "<,>"
@@ -212,11 +212,11 @@
 	"." Punctuation FS lang:es 00:00:40 00:00:44 tt-417 AF050_1955_GV_FA2011_JT_03 
 
 "<[>"
-	"[" Punctuation LP lang:es 00:00:44 tt-418 AF050_1955_GV_FA2011_JT_03 
+	"[" Punctuation LP lang:es 00:00:44 00:00:44 tt-418 AF050_1955_GV_FA2011_JT_03 
 "<risa>"
-	"risa" Noun NC Singular lang:es 00:00:44 tt-419 AF050_1955_GV_FA2011_JT_03 
+	"risa" Noun NC Singular lang:es 00:00:44 00:00:44 tt-419 AF050_1955_GV_FA2011_JT_03 
 "<]>"
-	"]" Other RP lang:es 00:00:44 tt-420 AF050_1955_GV_FA2011_JT_03 
+	"]" Other RP lang:es 00:00:44 00:00:44 tt-420 AF050_1955_GV_FA2011_JT_03 
 </speaker>
 <speaker type="int">
 "<,>"
@@ -226,7 +226,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:44 00:00:47 tt-424 AF050_1955_GV_FA2011_JT_03 
 "<también>"
-	"también" Adverb ADV lang:es 00:00:44 00:00:47 tt-425 AF050_1955_GV_FA2011_JT_03 @Prag:MarcadoresDisc:Igualdad 
+	"también" Adverb ADV lang:es 00:00:44 00:00:47 tt-425 AF050_1955_GV_FA2011_JT_03 @Prag:MarcadoresDisc:Igualdad ADD:910 
 "<tex-mex>"
 	"UNK" Noun NC Singular lang:es 00:00:44 00:00:47 tt-426 AF050_1955_GV_FA2011_JT_03 
 "<$.>"

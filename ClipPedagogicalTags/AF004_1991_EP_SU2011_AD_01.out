@@ -12,11 +12,11 @@
 "<Cómo>"
 	"cómo" Adverb ADV lang:es 00:00:00 00:00:04 tt-954 AF004_1991_EP_SU2011_AD_01 
 "<te>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:04 tt-955 AF004_1991_EP_SU2011_AD_01 @Gram:Pron:Objeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:04 tt-955 AF004_1991_EP_SU2011_AD_01 @Gram:Pron:Objeto ADD:506 
 "<recordarán>"
 	"recordar" Verb VLfin Fut Indi Plural 3rd lang:es 00:00:00 00:00:04 tt-956 AF004_1991_EP_SU2011_AD_01 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:00 00:00:04 tt-957 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Pos 
+	"UNK" Noun NC Plural lang:es 00:00:00 00:00:04 tt-957 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Pos ADD:351 
 "<compañeros>"
 	"compañero" Noun NC Plural lang:es 00:00:00 00:00:04 tt-958 AF004_1991_EP_SU2011_AD_01 
 "<$?>"
@@ -31,11 +31,11 @@
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:00:04 00:00:11 tt-962 AF004_1991_EP_SU2011_AD_01 
 "<gané>"
-	"ganar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:04 00:00:11 tt-963 AF004_1991_EP_SU2011_AD_01 @Gram:Indefinido 
+	"ganar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:04 00:00:11 tt-963 AF004_1991_EP_SU2011_AD_01 @Gram:Indefinido ADD:546 
 "<,>"
 	"," Punctuation CM lang:es 00:00:04 00:00:11 tt-969 AF004_1991_EP_SU2011_AD_01 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:04 00:00:11 tt-971 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:04 00:00:11 tt-971 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art ADD:324 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:04 00:00:11 tt-972 AF004_1991_EP_SU2011_AD_01 
 "<tímida>"
@@ -55,7 +55,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:14 00:00:21 tt-982 AF004_1991_EP_SU2011_AD_01 
 "<Ganaste>"
-	"ganar" Verb VLfin Pret Indi Sing 2nd lang:es 00:00:14 00:00:21 tt-983 AF004_1991_EP_SU2011_AD_01 @Gram:Indefinido 
+	"ganar" Verb VLfin Pret Indi Sing 2nd lang:es 00:00:14 00:00:21 tt-983 AF004_1991_EP_SU2011_AD_01 @Gram:Indefinido ADD:546 
 "<en>"
 	"en" Conjunction CSUBF lang:es 00:00:14 00:00:21 tt-986 AF004_1991_EP_SU2011_AD_01 
 "<lo>"
@@ -63,9 +63,9 @@
 "<que>"
 	"que" Conjunction CSUBF lang:es 00:00:14 00:00:21 tt-988 AF004_1991_EP_SU2011_AD_01 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:14 00:00:21 tt-989 AF004_1991_EP_SU2011_AD_01 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:14 00:00:21 tt-989 AF004_1991_EP_SU2011_AD_01 @Gram:SerEstar:Ser ADD:647 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:14 00:00:21 tt-990 AF004_1991_EP_SU2011_AD_01 @Gram:Prep 
+	"del" Preposition PDEL lang:es 00:00:14 00:00:21 tt-990 AF004_1991_EP_SU2011_AD_01 @Gram:Prep ADD:472 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:14 00:00:21 tt-993 AF004_1991_EP_SU2011_AD_01 
 </speaker>
@@ -81,7 +81,7 @@
 	"." Punctuation FS lang:es 00:00:21 00:00:27 tt-999 AF004_1991_EP_SU2011_AD_01 
 
 "<Gané>"
-	"ganar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:21 00:00:27 tt-1000 AF004_1991_EP_SU2011_AD_01 @Gram:Indefinido 
+	"ganar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:21 00:00:27 tt-1000 AF004_1991_EP_SU2011_AD_01 @Gram:Indefinido ADD:546 
 "<,>"
 	"," Punctuation CM lang:es 00:00:21 00:00:27 tt-1003 AF004_1991_EP_SU2011_AD_01 
 "<,>"
@@ -100,13 +100,13 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:21 00:00:27 tt-1013 AF004_1991_EP_SU2011_AD_01 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:27 00:00:33 tt-1015 AF004_1991_EP_SU2011_AD_01 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:27 00:00:33 tt-1015 AF004_1991_EP_SU2011_AD_01 @Gram:Imperf @Gram:SerEstar:Ser ADD:537 ADD:647 
 "<porrista>"
 	"UNK" Noun NC Singular lang:es 00:00:27 00:00:33 tt-1016 AF004_1991_EP_SU2011_AD_01 
 "<y>"
 	"y" Conjunction CC lang:es 00:00:27 00:00:33 tt-1017 AF004_1991_EP_SU2011_AD_01 
 "<las>"
-	"el" Determiner ART Plural lang:es 00:00:27 00:00:33 tt-1018 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:00:27 00:00:33 tt-1018 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art ADD:324 
 "<porristas>"
 	"UNK" Noun NC Plural lang:es 00:00:27 00:00:33 tt-1019 AF004_1991_EP_SU2011_AD_01 
 "<tienen>"
@@ -114,7 +114,7 @@
 "<que>"
 	"que" Verb VMfin lang:es 00:00:27 00:00:33 tt-1021 AF004_1991_EP_SU2011_AD_01 
 "<estar>"
-	"estar" Verb VEinf Infinitive lang:es 00:00:27 00:00:33 tt-1022 AF004_1991_EP_SU2011_AD_01 @Gram:SerEstar:Estar 
+	"estar" Verb VLinf VEinf Infinitive lang:es 00:00:27 00:00:33 tt-1022 AF004_1991_EP_SU2011_AD_01 @Gram:SerEstar:Estar SUBSTITUTE:292 ADD:656 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:27 00:00:33 tt-1023 AF004_1991_EP_SU2011_AD_01 
 "<hyper>"
@@ -130,11 +130,11 @@
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:00:27 00:00:33 tt-1030 AF004_1991_EP_SU2011_AD_01 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:27 00:00:33 tt-1031 AF004_1991_EP_SU2011_AD_01 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:27 00:00:33 tt-1031 AF004_1991_EP_SU2011_AD_01 @Gram:Pron:Sujeto ADD:482 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:27 00:00:33 tt-1032 AF004_1991_EP_SU2011_AD_01 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:27 00:00:33 tt-1032 AF004_1991_EP_SU2011_AD_01 @Gram:Imperf @Gram:SerEstar:Ser ADD:537 ADD:647 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:27 00:00:33 tt-1033 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:27 00:00:33 tt-1033 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art ADD:324 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:27 00:00:33 tt-1034 AF004_1991_EP_SU2011_AD_01 
 "<tímida>"

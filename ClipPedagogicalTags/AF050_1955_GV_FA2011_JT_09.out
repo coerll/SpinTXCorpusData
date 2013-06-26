@@ -8,11 +8,11 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:06 tt-1576 AF050_1955_GV_FA2011_JT_09 
 "<Has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:06 tt-1577 AF050_1955_GV_FA2011_JT_09 ID:4 R:Gram:Aux:Haber:5 R:Gram:PerfPerif:5 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:06 tt-1577 AF050_1955_GV_FA2011_JT_09 ID:4 R:Gram:Aux:Haber:5 R:Gram:PerfPerif:5 ADDRELATION():553 
 "<escuchado>"
 	"escuchar" Verb VLadj lang:es 00:00:00 00:00:06 tt-1578 AF050_1955_GV_FA2011_JT_09 ID:5 
 "<las>"
-	"el" Determiner ART Plural lang:es 00:00:00 00:00:06 tt-1579 AF050_1955_GV_FA2011_JT_09 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:00:00 00:00:06 tt-1579 AF050_1955_GV_FA2011_JT_09 @Gram:Det:Art ADD:324 
 "<palabras>"
 	"palabra" Noun NC Plural lang:es 00:00:00 00:00:06 tt-1580 AF050_1955_GV_FA2011_JT_09 
 "<pocho>"
@@ -46,7 +46,7 @@
 "<significan>"
 	"significar" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:09 00:00:14 tt-1595 AF050_1955_GV_FA2011_JT_09 
 "<para>"
-	"para" Preposition PREP lang:es 00:00:09 00:00:14 tt-1596 AF050_1955_GV_FA2011_JT_09 @Gram:Prep:Para 
+	"para" Preposition PREP lang:es 00:00:09 00:00:14 tt-1596 AF050_1955_GV_FA2011_JT_09 @Gram:Prep:Para ADD:437 
 "<ti>"
 	"tú" Pronoun PPX Singular lang:es 00:00:09 00:00:14 tt-1597 AF050_1955_GV_FA2011_JT_09 
 "<$?>"
@@ -55,7 +55,7 @@
 "<Primero>"
 	"primero" Adverb ADV lang:es 00:00:09 00:00:14 tt-1599 AF050_1955_GV_FA2011_JT_09 
 "<con>"
-	"con" Preposition PREP lang:es 00:00:09 00:00:14 tt-1600 AF050_1955_GV_FA2011_JT_09 @Gram:Prep 
+	"con" Preposition PREP lang:es 00:00:09 00:00:14 tt-1600 AF050_1955_GV_FA2011_JT_09 @Gram:Prep ADD:472 
 "<pocho>"
 	"UNK" Noun NC Singular lang:es 00:00:09 00:00:14 tt-1601 AF050_1955_GV_FA2011_JT_09 
 "<$.>"
@@ -86,11 +86,11 @@
 "<luego>"
 	"luego" Adverb ADV lang:es 00:00:14 00:00:21 tt-1616 AF050_1955_GV_FA2011_JT_09 
 "<lo>"
-	"el" Determiner ART Singular lang:es 00:00:14 00:00:21 tt-1617 AF050_1955_GV_FA2011_JT_09 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:14 00:00:21 tt-1617 AF050_1955_GV_FA2011_JT_09 @Gram:Det:Art ADD:329 
 "<mixteas>"
 	"UNK" Adjective ADJ Plural lang:es 00:00:14 00:00:21 tt-1618 AF050_1955_GV_FA2011_JT_09 
 "<con>"
-	"con" Preposition PREP lang:es 00:00:14 00:00:21 tt-1619 AF050_1955_GV_FA2011_JT_09 @Gram:Prep 
+	"con" Preposition PREP lang:es 00:00:14 00:00:21 tt-1619 AF050_1955_GV_FA2011_JT_09 @Gram:Prep ADD:472 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:14 00:00:21 tt-1620 AF050_1955_GV_FA2011_JT_09 
 "<$.>"
@@ -123,7 +123,7 @@
 "<Spanglish>"
 	"UNK" Noun NP Singular lang:es 00:00:23 00:00:30 tt-1632 AF050_1955_GV_FA2011_JT_09 
 "<también>"
-	"también" Adverb ADV lang:es 00:00:23 00:00:30 tt-1633 AF050_1955_GV_FA2011_JT_09 @Prag:MarcadoresDisc:Igualdad 
+	"también" Adverb ADV lang:es 00:00:23 00:00:30 tt-1633 AF050_1955_GV_FA2011_JT_09 @Prag:MarcadoresDisc:Igualdad ADD:910 
 "<,>"
 	"," Punctuation CM lang:es 00:00:23 00:00:30 tt-1634 AF050_1955_GV_FA2011_JT_09 
 "<más>"
@@ -133,23 +133,23 @@
 "<menos>"
 	"menos" Adverb ADV lang:es 00:00:23 00:00:30 tt-1637 AF050_1955_GV_FA2011_JT_09 
 "<lo>"
-	"el" Determiner ART Singular lang:es 00:00:23 00:00:30 tt-1638 AF050_1955_GV_FA2011_JT_09 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:23 00:00:30 tt-1638 AF050_1955_GV_FA2011_JT_09 @Gram:Det:Art ADD:329 
 "<mismo>"
 	"mismo" Adjective ADJ Singular lang:es 00:00:23 00:00:30 tt-1639 AF050_1955_GV_FA2011_JT_09 
 "<pero>"
-	"pero" Conjunction CCAD lang:es 00:00:23 00:00:30 tt-1640 AF050_1955_GV_FA2011_JT_09 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:00:23 00:00:30 tt-1640 AF050_1955_GV_FA2011_JT_09 @Prag:MarcadoresDisc:Revision ADD:826 
 "<pocho>"
 	"UNK" Noun NC Singular lang:es 00:00:23 00:00:30 tt-1641 AF050_1955_GV_FA2011_JT_09 
 "<se>"
-	"se" Other SE lang:es 00:00:23 00:00:30 tt-1642 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Otros 
+	"se" Other SE lang:es 00:00:23 00:00:30 tt-1642 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Otros ADD:525 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:23 00:00:30 tt-1643 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:23 00:00:30 tt-1643 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Objeto ADD:506 
 "<hace>"
 	"hacer" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:23 00:00:30 tt-1644 AF050_1955_GV_FA2011_JT_09 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:23 00:00:30 tt-1645 AF050_1955_GV_FA2011_JT_09 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:23 00:00:30 tt-1646 AF050_1955_GV_FA2011_JT_09 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:23 00:00:30 tt-1646 AF050_1955_GV_FA2011_JT_09 @Gram:SerEstar:Ser ADD:647 
 "<como>"
 	"como" Adverb ADV lang:es 00:00:23 00:00:30 tt-1647 AF050_1955_GV_FA2011_JT_09 
 "<,>"
@@ -169,9 +169,9 @@
 "<cómo>"
 	"cómo" Adverb ADV lang:es 00:00:32 00:00:39 tt-1655 AF050_1955_GV_FA2011_JT_09 
 "<decir>"
-	"decir" Verb VLinf Infinitive lang:es 00:00:32 00:00:39 tt-1656 AF050_1955_GV_FA2011_JT_09 
+	"decir" Verb VLinf Infinitive lang:es 00:00:32 00:00:39 tt-1656 AF050_1955_GV_FA2011_JT_09 SUBSTITUTE:292 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:32 00:00:39 tt-1657 AF050_1955_GV_FA2011_JT_09 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:32 00:00:39 tt-1657 AF050_1955_GV_FA2011_JT_09 @Gram:Det:Art ADD:324 
 "<palabra>"
 	"palabra" Noun NC Singular lang:es 00:00:32 00:00:39 tt-1658 AF050_1955_GV_FA2011_JT_09 
 <lang code="en">
@@ -181,7 +181,7 @@
 "<palabra>"
 	"palabra" Noun NC Singular lang:es 00:00:39 00:00:42 tt-1661 AF050_1955_GV_FA2011_JT_09 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:39 00:00:42 tt-1662 AF050_1955_GV_FA2011_JT_09 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:39 00:00:42 tt-1662 AF050_1955_GV_FA2011_JT_09 @Gram:Prep ADD:472 
 <lang code="en">
 "<'>"
 	"'" Other POS lang:en 00:00:25 00:00:42 tt-1663 AF050_1955_GV_FA2011_JT_09 
@@ -189,7 +189,7 @@
 </speaker>
 <speaker type="int">
 "<Yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:42 00:00:44 tt-1664 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:42 00:00:44 tt-1664 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Sujeto ADD:482 
 "<digo>"
 	"decir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:42 00:00:44 tt-1665 AF050_1955_GV_FA2011_JT_09 
 "<slang>"
@@ -198,11 +198,11 @@
 	"." Punctuation FS lang:es 00:00:42 00:00:44 tt-1667 AF050_1955_GV_FA2011_JT_09 
 
 "<[>"
-	"[" Punctuation LP lang:es 00:00:44 tt-1668 AF050_1955_GV_FA2011_JT_09 
+	"[" Punctuation LP lang:es 00:00:44 00:00:44 tt-1668 AF050_1955_GV_FA2011_JT_09 
 "<risa>"
-	"risa" Noun NC Singular lang:es 00:00:44 tt-1669 AF050_1955_GV_FA2011_JT_09 
+	"risa" Noun NC Singular lang:es 00:00:44 00:00:44 tt-1669 AF050_1955_GV_FA2011_JT_09 
 "<]>"
-	"]" Other RP lang:es 00:00:44 tt-1670 AF050_1955_GV_FA2011_JT_09 
+	"]" Other RP lang:es 00:00:44 00:00:44 tt-1670 AF050_1955_GV_FA2011_JT_09 
 </speaker>
 <speaker type="subj">
 "<Slong>"
@@ -222,19 +222,19 @@
 <speaker type="int">
 
 "<Yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:46 00:00:53 tt-1677 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:46 00:00:53 tt-1677 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Sujeto ADD:482 
 "<uso>"
 	"uso" Noun NC Singular lang:es 00:00:46 00:00:53 tt-1678 AF050_1955_GV_FA2011_JT_09 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:46 00:00:53 tt-1679 AF050_1955_GV_FA2011_JT_09 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:46 00:00:53 tt-1679 AF050_1955_GV_FA2011_JT_09 @Gram:Det:Art ADD:324 
 "<slang>"
 	"UNK" Noun NC Singular lang:es 00:00:46 00:00:53 tt-1680 AF050_1955_GV_FA2011_JT_09 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:46 00:00:53 tt-1681 AF050_1955_GV_FA2011_JT_09 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:46 00:00:53 tt-1681 AF050_1955_GV_FA2011_JT_09 @Gram:Prep ADD:472 
 "<veces>"
 	"vez" Noun NC Plural lang:es 00:00:46 00:00:53 tt-1682 AF050_1955_GV_FA2011_JT_09 
 "<también>"
-	"también" Adverb ADV lang:es 00:00:46 00:00:53 tt-1683 AF050_1955_GV_FA2011_JT_09 @Prag:MarcadoresDisc:Igualdad 
+	"también" Adverb ADV lang:es 00:00:46 00:00:53 tt-1683 AF050_1955_GV_FA2011_JT_09 @Prag:MarcadoresDisc:Igualdad ADD:910 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:46 00:00:53 tt-1684 AF050_1955_GV_FA2011_JT_09 
 
@@ -243,11 +243,11 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:46 00:00:53 tt-1686 AF050_1955_GV_FA2011_JT_09 
 "<Has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:46 00:00:53 tt-1687 AF050_1955_GV_FA2011_JT_09 ID:107 R:Gram:Aux:Haber:108 R:Gram:PerfPerif:108 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:46 00:00:53 tt-1687 AF050_1955_GV_FA2011_JT_09 ID:107 R:Gram:Aux:Haber:108 R:Gram:PerfPerif:108 ADDRELATION():553 
 "<escuchado>"
 	"escuchar" Verb VLadj lang:es 00:00:46 00:00:53 tt-1688 AF050_1955_GV_FA2011_JT_09 ID:108 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:46 00:00:53 tt-1689 AF050_1955_GV_FA2011_JT_09 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:46 00:00:53 tt-1689 AF050_1955_GV_FA2011_JT_09 @Gram:Prep ADD:472 
 "<personas>"
 	"persona" Noun NC Plural lang:es 00:00:46 00:00:53 tt-1690 AF050_1955_GV_FA2011_JT_09 
 "<que>"
@@ -255,7 +255,7 @@
 "<mezclan>"
 	"mezclar" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:46 00:00:53 tt-1692 AF050_1955_GV_FA2011_JT_09 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:46 00:00:53 tt-1693 AF050_1955_GV_FA2011_JT_09 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:00:46 00:00:53 tt-1693 AF050_1955_GV_FA2011_JT_09 @Gram:Det:Art ADD:324 
 "<idiomas>"
 	"idioma" Noun NC Plural lang:es 00:00:46 00:00:53 tt-1694 AF050_1955_GV_FA2011_JT_09 
 "<$?>"
@@ -275,11 +275,11 @@
 "<opinas>"
 	"opinar" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:56 00:00:59 tt-1701 AF050_1955_GV_FA2011_JT_09 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:56 00:00:59 tt-1702 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:56 00:00:59 tt-1702 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Sujeto ADD:482 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:56 00:00:59 tt-1703 AF050_1955_GV_FA2011_JT_09 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:56 00:00:59 tt-1703 AF050_1955_GV_FA2011_JT_09 @Gram:Prep ADD:472 
 "<ellas>"
-	"él" Pronoun PPX Plural lang:es 00:00:56 00:00:59 tt-1704 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Plural lang:es 00:00:56 00:00:59 tt-1704 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Sujeto ADD:482 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:56 00:00:59 tt-1705 AF050_1955_GV_FA2011_JT_09 
 </speaker>
@@ -294,9 +294,9 @@
 "<más>"
 	"más" Adverb ADV lang:es 00:00:59 00:01:06 tt-1709 AF050_1955_GV_FA2011_JT_09 
 "<pienso>"
-	"pensar" Verb VLfin Pres Indi Sing 1st lang:es 00:00:59 00:01:06 tt-1710 AF050_1955_GV_FA2011_JT_09 ID:130 R:Vocab:Fraseol:VerbPrep:131 
+	"pensar" Verb VLfin Pres Indi Sing 1st lang:es 00:00:59 00:01:06 tt-1710 AF050_1955_GV_FA2011_JT_09 ID:130 R:Vocab:Fraseol:VerbPrep:131 ADDRELATION(Vocab:Fraseol:VerbPrep):986 
 "<entre>"
-	"entre" Preposition PREP lang:es 00:00:59 00:01:06 tt-1711 AF050_1955_GV_FA2011_JT_09 @Gram:Prep ID:131 
+	"entre" Preposition PREP lang:es 00:00:59 00:01:06 tt-1711 AF050_1955_GV_FA2011_JT_09 @Gram:Prep ID:131 ADD:472 
 "<mí>"
 	"yo" Pronoun PPX Singular lang:es 00:00:59 00:01:06 tt-1712 AF050_1955_GV_FA2011_JT_09 
 "<...>"
@@ -306,23 +306,23 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:59 00:01:06 tt-1716 AF050_1955_GV_FA2011_JT_09 
 "<los>"
-	"él" Pronoun PPC Plural lang:es 00:00:59 00:01:06 tt-1717 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Plural lang:es 00:00:59 00:01:06 tt-1717 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Objeto ADD:512 
 "<puedo>"
 	"poder" Verb VLfin Pres Indi Sing 1st lang:es 00:00:59 00:01:06 tt-1718 AF050_1955_GV_FA2011_JT_09 
 "<criticar>"
-	"criticar" Verb VLinf Infinitive lang:es 00:00:59 00:01:06 tt-1719 AF050_1955_GV_FA2011_JT_09 
+	"criticar" Verb VLinf Infinitive lang:es 00:00:59 00:01:06 tt-1719 AF050_1955_GV_FA2011_JT_09 SUBSTITUTE:292 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:59 00:01:06 tt-1720 AF050_1955_GV_FA2011_JT_09 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:00:59 00:01:06 tt-1720 AF050_1955_GV_FA2011_JT_09 @Prag:MarcadoresDisc:Causa ADD:879 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:59 00:01:06 tt-1721 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:59 00:01:06 tt-1721 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Sujeto ADD:482 
 "<soy>"
-	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:00:59 00:01:06 tt-1722 AF050_1955_GV_FA2011_JT_09 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:00:59 00:01:06 tt-1722 AF050_1955_GV_FA2011_JT_09 @Gram:SerEstar:Ser ADD:647 
 "<uno>"
-	"uno" Determiner CARD Singular lang:es 00:00:59 00:01:06 tt-1723 AF050_1955_GV_FA2011_JT_09 
+	"uno" Determiner CARD Singular lang:es 00:00:59 00:01:06 tt-1723 AF050_1955_GV_FA2011_JT_09 @Gram:Det:CuantIndef ADD:362 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:59 00:01:06 tt-1724 AF050_1955_GV_FA2011_JT_09 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:59 00:01:06 tt-1724 AF050_1955_GV_FA2011_JT_09 @Gram:Prep ADD:472 
 "<ellos>"
-	"él" Pronoun PPX Plural lang:es 00:01:09 00:01:14 tt-1725 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Plural lang:es 00:01:09 00:01:14 tt-1725 AF050_1955_GV_FA2011_JT_09 @Gram:Pron:Sujeto ADD:482 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:09 00:01:14 tt-1726 AF050_1955_GV_FA2011_JT_09 
 
@@ -341,7 +341,7 @@
 "<cómo>"
 	"cómo" Adverb ADV lang:es 00:01:09 00:01:14 tt-1733 AF050_1955_GV_FA2011_JT_09 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:09 00:01:14 tt-1734 AF050_1955_GV_FA2011_JT_09 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:09 00:01:14 tt-1734 AF050_1955_GV_FA2011_JT_09 @Gram:SerEstar:Ser ADD:647 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:09 00:01:14 tt-1735 AF050_1955_GV_FA2011_JT_09 
 </speaker>

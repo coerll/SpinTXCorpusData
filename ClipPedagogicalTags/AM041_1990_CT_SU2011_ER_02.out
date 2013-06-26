@@ -25,7 +25,7 @@
 "<Y>"
 	"Y" Other ALFS lang:es 00:00:03 00:00:05 tt-477 AM041_1990_CT_SU2011_ER_02 
 "<son>"
-	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:00:03 00:00:05 tt-478 AM041_1990_CT_SU2011_ER_02 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:00:03 00:00:05 tt-478 AM041_1990_CT_SU2011_ER_02 @Gram:SerEstar:Ser ADD:647 
 "<mayores>"
 	"grande" Adjective ADJ Plural lang:es 00:00:03 00:00:05 tt-479 AM041_1990_CT_SU2011_ER_02 
 "<o>"
@@ -35,7 +35,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:03 00:00:05 tt-482 AM041_1990_CT_SU2011_ER_02 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:03 00:00:05 tt-483 AM041_1990_CT_SU2011_ER_02 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:03 00:00:05 tt-483 AM041_1990_CT_SU2011_ER_02 @Gram:Pron:Sujeto ADD:482 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:03 00:00:05 tt-484 AM041_1990_CT_SU2011_ER_02 
 
@@ -75,7 +75,7 @@
 "<Dieciseis>"
 	"UNK" Verb VLfin Error1 lang:es 00:00:09 00:00:16 tt-500 AM041_1990_CT_SU2011_ER_02 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:09 00:00:16 tt-501 AM041_1990_CT_SU2011_ER_02 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:09 00:00:16 tt-501 AM041_1990_CT_SU2011_ER_02 @Gram:Det:Pos ADD:350 
 "<mayor>"
 	"grande" Adjective ADJ Singular lang:es 00:00:09 00:00:16 tt-502 AM041_1990_CT_SU2011_ER_02 
 "<hermana>"
@@ -83,7 +83,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:09 00:00:16 tt-504 AM041_1990_CT_SU2011_ER_02 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:09 00:00:16 tt-505 AM041_1990_CT_SU2011_ER_02 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:09 00:00:16 tt-505 AM041_1990_CT_SU2011_ER_02 @Gram:Det:Art ADD:324 
 "<hermana>"
 	"hermano" Noun NC Singular lang:es 00:00:09 00:00:16 tt-506 AM041_1990_CT_SU2011_ER_02 
 "<más>"
@@ -96,7 +96,7 @@
 "<Luego>"
 	"luego" Conjunction CSUBF lang:es 00:00:09 00:00:16 tt-510 AM041_1990_CT_SU2011_ER_02 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:09 00:00:16 tt-511 AM041_1990_CT_SU2011_ER_02 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:09 00:00:16 tt-511 AM041_1990_CT_SU2011_ER_02 @Gram:Det:Pos ADD:350 
 "<hermano>"
 	"hermano" Noun NC Singular lang:es 00:00:09 00:00:16 tt-512 AM041_1990_CT_SU2011_ER_02 
 "<,>"
@@ -110,7 +110,7 @@
 "<luego>"
 	"luego" Adverb ADV lang:es 00:00:19 00:00:26 tt-517 AM041_1990_CT_SU2011_ER_02 
 "<mis>"
-	"mío" Pronoun PPO Plural lang:es 00:00:19 00:00:26 tt-518 AM041_1990_CT_SU2011_ER_02 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:00:19 00:00:26 tt-518 AM041_1990_CT_SU2011_ER_02 @Gram:Det:Pos SUBSTITUTE:281 ADD:351 
 "<otras>"
 	"otro" Determiner QU lang:es 00:00:19 00:00:26 tt-519 AM041_1990_CT_SU2011_ER_02 
 "<hermanas>"
@@ -135,11 +135,11 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:26 00:00:31 tt-529 AM041_1990_CT_SU2011_ER_02 
 "<ellos>"
-	"él" Pronoun PPX Plural lang:es 00:00:26 00:00:31 tt-530 AM041_1990_CT_SU2011_ER_02 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Plural lang:es 00:00:26 00:00:31 tt-530 AM041_1990_CT_SU2011_ER_02 @Gram:Pron:Sujeto ADD:482 
 "<hablan>"
 	"hablar" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:26 00:00:31 tt-531 AM041_1990_CT_SU2011_ER_02 
 "<también>"
-	"también" Adverb ADV lang:es 00:00:26 00:00:31 tt-532 AM041_1990_CT_SU2011_ER_02 @Prag:MarcadoresDisc:Igualdad 
+	"también" Adverb ADV lang:es 00:00:26 00:00:31 tt-532 AM041_1990_CT_SU2011_ER_02 @Prag:MarcadoresDisc:Igualdad ADD:910 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:26 00:00:31 tt-533 AM041_1990_CT_SU2011_ER_02 
 "<o>"
@@ -163,7 +163,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:33 00:00:35 tt-540 AM041_1990_CT_SU2011_ER_02 
 "<Pero>"
-	"pero" Conjunction CCAD lang:es 00:00:33 00:00:35 tt-541 AM041_1990_CT_SU2011_ER_02 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:00:33 00:00:35 tt-541 AM041_1990_CT_SU2011_ER_02 @Prag:MarcadoresDisc:Revision ADD:826 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:33 00:00:35 tt-542 AM041_1990_CT_SU2011_ER_02 
 "<inglés>"

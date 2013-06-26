@@ -5,11 +5,11 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:00 00:00:07 tt-614 AM041_1990_CT_SU2011_ER_04 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-615 AM041_1990_CT_SU2011_ER_04 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-615 AM041_1990_CT_SU2011_ER_04 @Gram:Prep ADD:472 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:00 00:00:07 tt-616 AM041_1990_CT_SU2011_ER_04 
 "<por>"
-	"por" Preposition PREP lang:es 00:00:00 00:00:07 tt-617 AM041_1990_CT_SU2011_ER_04 @Gram:Prep:Por ID:5 R:Prag:MarcadoresDisc:Igualdad:6 
+	"por" Preposition PREP lang:es 00:00:00 00:00:07 tt-617 AM041_1990_CT_SU2011_ER_04 @Gram:Prep:Por ID:5 R:Prag:MarcadoresDisc:Igualdad:6 SUBSTITUTE:234 ADD:454 ADDRELATION(Prag:MarcadoresDisc:Igualdad):916 
 "<ejemplo>"
 	"ejemplo" Adverb ADV lang:es 00:00:00 00:00:07 tt-618 AM041_1990_CT_SU2011_ER_04 ID:6 
 "<,>"
@@ -19,9 +19,9 @@
 "<viendo>"
 	"ver" Verb VLger lang:es 00:00:00 00:00:07 tt-621 AM041_1990_CT_SU2011_ER_04 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-622 AM041_1990_CT_SU2011_ER_04 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-622 AM041_1990_CT_SU2011_ER_04 @Gram:Prep ADD:472 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-623 AM041_1990_CT_SU2011_ER_04 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-623 AM041_1990_CT_SU2011_ER_04 @Gram:Det:Art ADD:324 
 "<futuro>"
 	"futuro" Noun NC Singular lang:es 00:00:00 00:00:07 tt-624 AM041_1990_CT_SU2011_ER_04 
 "<,>"
@@ -29,9 +29,9 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:00 00:00:07 tt-626 AM041_1990_CT_SU2011_ER_04 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-627 AM041_1990_CT_SU2011_ER_04 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-627 AM041_1990_CT_SU2011_ER_04 @Gram:Pron:Sujeto ADD:482 
 "<tengas>"
-	"tener" Verb VLfin Pres Subj Sing 2nd lang:es 00:00:00 00:00:07 tt-628 AM041_1990_CT_SU2011_ER_04 @Gram:MSub:Pres 
+	"tener" Verb VLfin Pres Subj Sing 2nd lang:es 00:00:00 00:00:07 tt-628 AM041_1990_CT_SU2011_ER_04 @Gram:MSub:Pres ADD:616 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:00 00:00:07 tt-629 AM041_1990_CT_SU2011_ER_04 
 "<,>"
@@ -41,15 +41,15 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-632 AM041_1990_CT_SU2011_ER_04 
 "<les>"
-	"él" Pronoun PPC Plural lang:es 00:00:09 00:00:11 tt-633 AM041_1990_CT_SU2011_ER_04 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Plural lang:es 00:00:09 00:00:11 tt-633 AM041_1990_CT_SU2011_ER_04 @Gram:Pron:Objeto ADD:512 
 "<vas>"
 	"ir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:09 00:00:11 tt-634 AM041_1990_CT_SU2011_ER_04 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:09 00:00:11 tt-635 AM041_1990_CT_SU2011_ER_04 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:09 00:00:11 tt-635 AM041_1990_CT_SU2011_ER_04 @Gram:Prep ADD:472 
 "<enseñar>"
-	"enseñar" Verb VLinf Infinitive lang:es 00:00:09 00:00:11 tt-636 AM041_1990_CT_SU2011_ER_04 
+	"enseñar" Verb VLinf Infinitive lang:es 00:00:09 00:00:11 tt-636 AM041_1990_CT_SU2011_ER_04 SUBSTITUTE:292 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:09 00:00:11 tt-637 AM041_1990_CT_SU2011_ER_04 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:09 00:00:11 tt-637 AM041_1990_CT_SU2011_ER_04 @Gram:Det:Art ADD:324 
 "<español>"
 	"español" Adjective ADJ Singular lang:es 00:00:09 00:00:11 tt-638 AM041_1990_CT_SU2011_ER_04 
 "<,>"
@@ -77,7 +77,7 @@
 "<Vas>"
 	"ir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:12 00:00:18 tt-649 AM041_1990_CT_SU2011_ER_04 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:12 00:00:18 tt-650 AM041_1990_CT_SU2011_ER_04 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:12 00:00:18 tt-650 AM041_1990_CT_SU2011_ER_04 @Gram:Prep ADD:472 
 "<enseñarlo>"
 	"enseñar" Verb VLinf Pres Indi Sing 1st lang:es 00:00:12 00:00:18 tt-651 AM041_1990_CT_SU2011_ER_04 
 "<primero>"
@@ -85,19 +85,19 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:12 00:00:18 tt-653 AM041_1990_CT_SU2011_ER_04 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:12 00:00:18 tt-654 AM041_1990_CT_SU2011_ER_04 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:12 00:00:18 tt-654 AM041_1990_CT_SU2011_ER_04 @Gram:Det:Art ADD:324 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:12 00:00:18 tt-655 AM041_1990_CT_SU2011_ER_04 
 "<o>"
 	"o" Conjunction CC lang:es 00:00:12 00:00:18 tt-656 AM041_1990_CT_SU2011_ER_04 
 "<los>"
-	"él" Pronoun PPC Plural lang:es 00:00:12 00:00:18 tt-657 AM041_1990_CT_SU2011_ER_04 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Plural lang:es 00:00:12 00:00:18 tt-657 AM041_1990_CT_SU2011_ER_04 @Gram:Pron:Objeto ADD:512 
 "<vas>"
 	"ir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:12 00:00:18 tt-658 AM041_1990_CT_SU2011_ER_04 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:12 00:00:18 tt-659 AM041_1990_CT_SU2011_ER_04 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:12 00:00:18 tt-659 AM041_1990_CT_SU2011_ER_04 @Gram:Prep ADD:472 
 "<enseñar>"
-	"enseñar" Verb VLinf Infinitive lang:es 00:00:12 00:00:18 tt-660 AM041_1990_CT_SU2011_ER_04 
+	"enseñar" Verb VLinf Infinitive lang:es 00:00:12 00:00:18 tt-660 AM041_1990_CT_SU2011_ER_04 SUBSTITUTE:292 
 "<juntos>"
 	"junto" Adjective ADJ Plural lang:es 00:00:12 00:00:18 tt-661 AM041_1990_CT_SU2011_ER_04 
 "<,>"
@@ -112,9 +112,9 @@
 "<voy>"
 	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:18 00:00:24 tt-667 AM041_1990_CT_SU2011_ER_04 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:18 00:00:24 tt-668 AM041_1990_CT_SU2011_ER_04 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:18 00:00:24 tt-668 AM041_1990_CT_SU2011_ER_04 @Gram:Prep ADD:472 
 "<tratar>"
-	"tratar" Verb VLinf Infinitive lang:es 00:00:18 00:00:24 tt-669 AM041_1990_CT_SU2011_ER_04 
+	"tratar" Verb VLinf Infinitive lang:es 00:00:18 00:00:24 tt-669 AM041_1990_CT_SU2011_ER_04 SUBSTITUTE:292 
 "<de>"
 	"de" Conjunction CSUBI lang:es 00:00:18 00:00:24 tt-670 AM041_1990_CT_SU2011_ER_04 
 "<enseñarlo>"
@@ -124,49 +124,49 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:18 00:00:24 tt-673 AM041_1990_CT_SU2011_ER_04 
 "<pero>"
-	"pero" Conjunction CCAD lang:es 00:00:18 00:00:24 tt-674 AM041_1990_CT_SU2011_ER_04 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:00:18 00:00:24 tt-674 AM041_1990_CT_SU2011_ER_04 @Prag:MarcadoresDisc:Revision ADD:826 
 "<va>"
 	"ir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:18 00:00:24 tt-675 AM041_1990_CT_SU2011_ER_04 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:18 00:00:24 tt-676 AM041_1990_CT_SU2011_ER_04 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:18 00:00:24 tt-676 AM041_1990_CT_SU2011_ER_04 @Gram:Prep ADD:472 
 "<ser>"
-	"ser" Verb VSinf Infinitive lang:es 00:00:18 00:00:24 tt-677 AM041_1990_CT_SU2011_ER_04 @Gram:SerEstar:Ser 
+	"ser" Verb VLinf VSinf Infinitive lang:es 00:00:18 00:00:24 tt-677 AM041_1990_CT_SU2011_ER_04 @Gram:SerEstar:Ser SUBSTITUTE:292 ADD:647 
 "<difícil>"
 	"difícil" Adjective ADJ Singular lang:es 00:00:18 00:00:24 tt-678 AM041_1990_CT_SU2011_ER_04 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:18 00:00:24 tt-679 AM041_1990_CT_SU2011_ER_04 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:00:18 00:00:24 tt-679 AM041_1990_CT_SU2011_ER_04 @Prag:MarcadoresDisc:Causa ADD:879 
 "<ya>"
 	"ya" Adverb ADV lang:es 00:00:18 00:00:24 tt-680 AM041_1990_CT_SU2011_ER_04 
 "<voy>"
 	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:18 00:00:24 tt-681 AM041_1990_CT_SU2011_ER_04 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:18 00:00:24 tt-682 AM041_1990_CT_SU2011_ER_04 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:18 00:00:24 tt-682 AM041_1990_CT_SU2011_ER_04 @Gram:Prep ADD:472 
 "<hablar>"
-	"hablar" Verb VLinf Infinitive lang:es 00:00:18 00:00:24 tt-683 AM041_1990_CT_SU2011_ER_04 
+	"hablar" Verb VLinf Infinitive lang:es 00:00:18 00:00:24 tt-683 AM041_1990_CT_SU2011_ER_04 SUBSTITUTE:292 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:24 00:00:29 tt-684 AM041_1990_CT_SU2011_ER_04 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:24 00:00:29 tt-684 AM041_1990_CT_SU2011_ER_04 @Gram:Pron:Sujeto ADD:482 
 "<mejor>"
 	"bueno" Adjective ADJ Singular lang:es 00:00:24 00:00:29 tt-685 AM041_1990_CT_SU2011_ER_04 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:24 00:00:29 tt-686 AM041_1990_CT_SU2011_ER_04 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:24 00:00:29 tt-686 AM041_1990_CT_SU2011_ER_04 @Gram:Prep ADD:472 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:24 00:00:29 tt-687 AM041_1990_CT_SU2011_ER_04 
 "<,>"
 	"," Punctuation CM lang:es 00:00:24 00:00:29 tt-688 AM041_1990_CT_SU2011_ER_04 
 "<pero>"
-	"pero" Conjunction CCAD lang:es 00:00:24 00:00:29 tt-689 AM041_1990_CT_SU2011_ER_04 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:00:24 00:00:29 tt-689 AM041_1990_CT_SU2011_ER_04 @Prag:MarcadoresDisc:Revision ADD:826 
 "<voy>"
 	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:24 00:00:29 tt-690 AM041_1990_CT_SU2011_ER_04 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:24 00:00:29 tt-691 AM041_1990_CT_SU2011_ER_04 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:24 00:00:29 tt-691 AM041_1990_CT_SU2011_ER_04 @Gram:Prep ADD:472 
 "<tratar>"
-	"tratar" Verb VLinf Infinitive lang:es 00:00:24 00:00:29 tt-692 AM041_1990_CT_SU2011_ER_04 
+	"tratar" Verb VLinf Infinitive lang:es 00:00:24 00:00:29 tt-692 AM041_1990_CT_SU2011_ER_04 SUBSTITUTE:292 
 "<de>"
 	"de" Conjunction CSUBI lang:es 00:00:24 00:00:29 tt-693 AM041_1990_CT_SU2011_ER_04 
 "<hacer>"
-	"hacer" Verb VLinf Infinitive lang:es 00:00:24 00:00:29 tt-694 AM041_1990_CT_SU2011_ER_04 
+	"hacer" Verb VLinf Infinitive lang:es 00:00:24 00:00:29 tt-694 AM041_1990_CT_SU2011_ER_04 SUBSTITUTE:292 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:24 00:00:29 tt-695 AM041_1990_CT_SU2011_ER_04 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:00:24 00:00:29 tt-695 AM041_1990_CT_SU2011_ER_04 @Gram:Det:Art ADD:324 
 "<dos>"
 	"dos" Determiner CARD Plural lang:es 00:00:24 00:00:29 tt-696 AM041_1990_CT_SU2011_ER_04 
 "<al>"
@@ -178,21 +178,21 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:24 00:00:29 tt-700 AM041_1990_CT_SU2011_ER_04 
 "<para>"
-	"para" Preposition PREP lang:es 00:00:24 00:00:29 tt-701 AM041_1990_CT_SU2011_ER_04 @Gram:Prep:Para 
+	"para" Preposition PREP lang:es 00:00:24 00:00:29 tt-701 AM041_1990_CT_SU2011_ER_04 @Gram:Prep:Para ADD:430 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:24 00:00:29 tt-702 AM041_1990_CT_SU2011_ER_04 
 "<lo>"
-	"él" Pronoun PPC Singular lang:es 00:00:24 00:00:29 tt-703 AM041_1990_CT_SU2011_ER_04 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:00:24 00:00:29 tt-703 AM041_1990_CT_SU2011_ER_04 @Gram:Pron:Objeto ADD:512 
 "<sepan>"
-	"saber" Verb VLfin Past Subj Plural 3rd lang:es 00:00:29 00:00:32 tt-704 AM041_1990_CT_SU2011_ER_04 @Gram:MSub:Pret 
+	"saber" Verb VLfin Past Subj Plural 3rd lang:es 00:00:29 00:00:32 tt-704 AM041_1990_CT_SU2011_ER_04 @Gram:MSub:Pret ADD:617 
 "<hablar>"
-	"hablar" Verb VLinf Infinitive lang:es 00:00:29 00:00:32 tt-705 AM041_1990_CT_SU2011_ER_04 
+	"hablar" Verb VLinf Infinitive lang:es 00:00:29 00:00:32 tt-705 AM041_1990_CT_SU2011_ER_04 SUBSTITUTE:292 
 "<igual>"
 	"igual" Adjective ADJ Singular lang:es 00:00:29 00:00:32 tt-706 AM041_1990_CT_SU2011_ER_04 
 "<,>"
 	"," Punctuation CM lang:es 00:00:29 00:00:32 tt-707 AM041_1990_CT_SU2011_ER_04 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:29 00:00:32 tt-708 AM041_1990_CT_SU2011_ER_04 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:29 00:00:32 tt-708 AM041_1990_CT_SU2011_ER_04 @Gram:Prep ADD:472 
 "<nivel>"
 	"nivel" Noun NC Singular lang:es 00:00:29 00:00:32 tt-709 AM041_1990_CT_SU2011_ER_04 
 "<igual>"

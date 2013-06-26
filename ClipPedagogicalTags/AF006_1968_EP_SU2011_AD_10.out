@@ -3,7 +3,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:04 tt-1459 AF006_1968_EP_SU2011_AD_10 
 "<De>"
-	"de" Preposition PREP lang:es 00:00:00 00:00:04 tt-1460 AF006_1968_EP_SU2011_AD_10 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:00 00:00:04 tt-1460 AF006_1968_EP_SU2011_AD_10 @Gram:Prep ADD:472 
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:00 00:00:04 tt-1461 AF006_1968_EP_SU2011_AD_10 
 "<sientes>"
@@ -13,9 +13,9 @@
 "<orgullo>"
 	"orgullo" Noun NC Singular lang:es 00:00:00 00:00:04 tt-1464 AF006_1968_EP_SU2011_AD_10 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:00 00:00:04 tt-1465 AF006_1968_EP_SU2011_AD_10 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:00 00:00:04 tt-1465 AF006_1968_EP_SU2011_AD_10 @Gram:Prep ADD:472 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:04 tt-1466 AF006_1968_EP_SU2011_AD_10 @Gram:Det:Pos 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:04 tt-1466 AF006_1968_EP_SU2011_AD_10 @Gram:Det:Pos ADD:350 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:00 00:00:04 tt-1467 AF006_1968_EP_SU2011_AD_10 
 "<$?>"
@@ -69,13 +69,13 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:04 00:00:11 tt-1493 AF006_1968_EP_SU2011_AD_10 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:04 00:00:11 tt-1494 AF006_1968_EP_SU2011_AD_10 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:04 00:00:11 tt-1494 AF006_1968_EP_SU2011_AD_10 @Gram:SerEstar:Estar ADD:656 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:04 00:00:11 tt-1495 AF006_1968_EP_SU2011_AD_10 
 "<orgullosa>"
 	"orgulloso" Adjective ADJ Singular lang:es 00:00:04 00:00:11 tt-1496 AF006_1968_EP_SU2011_AD_10 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:14 00:00:21 tt-1497 AF006_1968_EP_SU2011_AD_10 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:14 00:00:21 tt-1497 AF006_1968_EP_SU2011_AD_10 @Gram:Prep ADD:472 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:14 00:00:21 tt-1498 AF006_1968_EP_SU2011_AD_10 
 "<pues>"
@@ -83,17 +83,17 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:14 00:00:21 tt-1500 AF006_1968_EP_SU2011_AD_10 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:14 00:00:21 tt-1501 AF006_1968_EP_SU2011_AD_10 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:14 00:00:21 tt-1501 AF006_1968_EP_SU2011_AD_10 @Gram:Prep ADD:472 
 "<mis>"
-	"mío" Pronoun PPO Plural lang:es 00:00:14 00:00:21 tt-1502 AF006_1968_EP_SU2011_AD_10 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:00:14 00:00:21 tt-1502 AF006_1968_EP_SU2011_AD_10 @Gram:Det:Pos SUBSTITUTE:281 ADD:351 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:14 00:00:21 tt-1503 AF006_1968_EP_SU2011_AD_10 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:14 00:00:21 tt-1504 AF006_1968_EP_SU2011_AD_10 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:14 00:00:21 tt-1505 AF006_1968_EP_SU2011_AD_10 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:14 00:00:21 tt-1505 AF006_1968_EP_SU2011_AD_10 @Gram:Prep ADD:472 
 "<mis>"
-	"mío" Pronoun PPO Plural lang:es 00:00:14 00:00:21 tt-1506 AF006_1968_EP_SU2011_AD_10 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:00:14 00:00:21 tt-1506 AF006_1968_EP_SU2011_AD_10 @Gram:Det:Pos SUBSTITUTE:281 ADD:351 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:14 00:00:21 tt-1507 AF006_1968_EP_SU2011_AD_10 
 "<,>"
@@ -109,7 +109,7 @@
 "<se>"
 	"se" Other SE lang:es 00:00:14 00:00:21 tt-1515 AF006_1968_EP_SU2011_AD_10 
 "<graduó>"
-	"graduar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:14 00:00:21 tt-1516 AF006_1968_EP_SU2011_AD_10 @Gram:Indefinido 
+	"graduar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:14 00:00:21 tt-1516 AF006_1968_EP_SU2011_AD_10 @Gram:Indefinido ADD:546 
 "<Ceci>"
 	"Ceci" Noun NP Singular lang:es 00:00:14 00:00:21 tt-1517 AF006_1968_EP_SU2011_AD_10 
 "<,>"
@@ -121,13 +121,13 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:24 00:00:31 tt-1525 AF006_1968_EP_SU2011_AD_10 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:24 00:00:31 tt-1526 AF006_1968_EP_SU2011_AD_10 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:24 00:00:31 tt-1526 AF006_1968_EP_SU2011_AD_10 @Gram:Det:Art ADD:324 
 "<Lupita>"
 	"UNK" Noun NP Singular lang:es 00:00:24 00:00:31 tt-1527 AF006_1968_EP_SU2011_AD_10 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:24 00:00:31 tt-1528 AF006_1968_EP_SU2011_AD_10 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:24 00:00:31 tt-1529 AF006_1968_EP_SU2011_AD_10 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:24 00:00:31 tt-1529 AF006_1968_EP_SU2011_AD_10 @Gram:SerEstar:Ser ADD:647 
 "<una>"
 	"un" Determiner ART Singular lang:es 00:00:24 00:00:31 tt-1530 AF006_1968_EP_SU2011_AD_10 
 "<gifted>"
@@ -139,7 +139,7 @@
 "<eso>"
 	"ese" Determiner DM Singular lang:es 00:00:24 00:00:31 tt-1536 AF006_1968_EP_SU2011_AD_10 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:24 00:00:31 tt-1537 AF006_1968_EP_SU2011_AD_10 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:24 00:00:31 tt-1537 AF006_1968_EP_SU2011_AD_10 @Gram:Pron:Objeto ADD:506 
 "<hace>"
 	"hacer" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:24 00:00:31 tt-1538 AF006_1968_EP_SU2011_AD_10 
 "<orgullosa>"
@@ -147,15 +147,15 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:24 00:00:31 tt-1540 AF006_1968_EP_SU2011_AD_10 
 "<saber>"
-	"saber" Verb VLinf Infinitive lang:es 00:00:31 00:00:38 tt-1541 AF006_1968_EP_SU2011_AD_10 
+	"saber" Verb VLinf Infinitive lang:es 00:00:31 00:00:38 tt-1541 AF006_1968_EP_SU2011_AD_10 SUBSTITUTE:292 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:31 00:00:38 tt-1542 AF006_1968_EP_SU2011_AD_10 
 "<ellos>"
-	"él" Pronoun PPX Plural lang:es 00:00:31 00:00:38 tt-1543 AF006_1968_EP_SU2011_AD_10 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Plural lang:es 00:00:31 00:00:38 tt-1543 AF006_1968_EP_SU2011_AD_10 @Gram:Pron:Sujeto ADD:482 
 "<quieren>"
 	"querer" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:31 00:00:38 tt-1544 AF006_1968_EP_SU2011_AD_10 
 "<hacer>"
-	"hacer" Verb VLinf Infinitive lang:es 00:00:31 00:00:38 tt-1545 AF006_1968_EP_SU2011_AD_10 
+	"hacer" Verb VLinf Infinitive lang:es 00:00:31 00:00:38 tt-1545 AF006_1968_EP_SU2011_AD_10 SUBSTITUTE:292 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:31 00:00:38 tt-1546 AF006_1968_EP_SU2011_AD_10 
 "<que>"

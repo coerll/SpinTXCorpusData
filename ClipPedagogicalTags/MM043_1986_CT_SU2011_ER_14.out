@@ -3,15 +3,15 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:00 00:00:07 tt-4363 MM043_1986_CT_SU2011_ER_14 
 "<hablando>"
-	"hablar" Verb VLger lang:es 00:00:00 00:00:07 tt-4364 MM043_1986_CT_SU2011_ER_14 ID:2 R:Vocab:Fraseol:VerbPrep:3 
+	"hablar" Verb VLger lang:es 00:00:00 00:00:07 tt-4364 MM043_1986_CT_SU2011_ER_14 ID:2 R:Vocab:Fraseol:VerbPrep:3 ADDRELATION(Vocab:Fraseol:VerbPrep):985 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-4365 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ID:3 
+	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-4365 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ID:3 ADD:472 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:00 00:00:07 tt-4366 MM043_1986_CT_SU2011_ER_14 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-4367 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-4367 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<eso>"
-	"ese" Determiner DM Singular lang:es 00:00:00 00:00:07 tt-4368 MM043_1986_CT_SU2011_ER_14 
+	"ese" Determiner DM Singular lang:es 00:00:00 00:00:07 tt-4368 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Demo ADD:343 
 "<,>"
 	"," Punctuation CM lang:es 00:00:00 00:00:07 tt-4369 MM043_1986_CT_SU2011_ER_14 
 "<no>"
@@ -19,9 +19,9 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:00 00:00:07 tt-4371 MM043_1986_CT_SU2011_ER_14 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-4372 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-4372 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-4373 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-4373 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<identidad>"
 	"identidad" Noun NC Singular lang:es 00:00:00 00:00:07 tt-4374 MM043_1986_CT_SU2011_ER_14 
 "<hispana>"
@@ -39,17 +39,17 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-4381 MM043_1986_CT_SU2011_ER_14 
 "<tenga>"
-	"tener" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:00 00:00:07 tt-4382 MM043_1986_CT_SU2011_ER_14 @Gram:MSub:Pres 
+	"tener" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:00 00:00:07 tt-4382 MM043_1986_CT_SU2011_ER_14 @Gram:MSub:Pres ADD:616 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:10 00:00:17 tt-4383 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:10 00:00:17 tt-4383 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:10 00:00:17 tt-4384 MM043_1986_CT_SU2011_ER_14 
 "<para>"
-	"para" Preposition PREP lang:es 00:00:10 00:00:17 tt-4385 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Para 
+	"para" Preposition PREP lang:es 00:00:10 00:00:17 tt-4385 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Para ADD:444 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:10 00:00:17 tt-4386 MM043_1986_CT_SU2011_ER_14 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:10 00:00:17 tt-4387 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:10 00:00:17 tt-4387 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<origen>"
 	"origen" Noun NC Singular lang:es 00:00:10 00:00:17 tt-4388 MM043_1986_CT_SU2011_ER_14 
 "<hispano>"
@@ -92,13 +92,13 @@
 "<ya>"
 	"ya" Adverb ADV lang:es 00:00:21 00:00:26 tt-4407 MM043_1986_CT_SU2011_ER_14 
 "<por>"
-	"por" Preposition PREP lang:es 00:00:21 00:00:26 tt-4408 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Por ID:46 R:Prag:MarcadoresDisc:Igualdad:47 
+	"por" Preposition PREP lang:es 00:00:21 00:00:26 tt-4408 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Por ID:46 R:Prag:MarcadoresDisc:Igualdad:47 SUBSTITUTE:234 ADD:454 ADDRELATION(Prag:MarcadoresDisc:Igualdad):916 
 "<ejemplo>"
 	"ejemplo" Adverb ADV lang:es 00:00:21 00:00:26 tt-4409 MM043_1986_CT_SU2011_ER_14 ID:47 
 "<para>"
-	"para" Preposition PREP lang:es 00:00:21 00:00:26 tt-4410 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Para 
+	"para" Preposition PREP lang:es 00:00:21 00:00:26 tt-4410 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Para ADD:444 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:21 00:00:26 tt-4411 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:21 00:00:26 tt-4411 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<segunda>"
 	"segundo" Adjective ORD Singular lang:es 00:00:21 00:00:26 tt-4412 MM043_1986_CT_SU2011_ER_14 
 "<o>"
@@ -108,31 +108,31 @@
 "<generación>"
 	"generación" Noun NC Singular lang:es 00:00:21 00:00:26 tt-4415 MM043_1986_CT_SU2011_ER_14 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:21 00:00:26 tt-4416 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:21 00:00:26 tt-4416 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:21 00:00:26 tt-4417 MM043_1986_CT_SU2011_ER_14 
 "<se>"
 	"se" Other SE lang:es 00:00:26 00:00:32 tt-4418 MM043_1986_CT_SU2011_ER_14 
 "<empieza>"
-	"empezar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:26 00:00:32 tt-4419 MM043_1986_CT_SU2011_ER_14 ID:57 R:Vocab:Fraseol:VerbPrep:58 
+	"empezar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:26 00:00:32 tt-4419 MM043_1986_CT_SU2011_ER_14 ID:57 R:Vocab:Fraseol:VerbPrep:58 ADDRELATION(Vocab:Fraseol:VerbPrep):987 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:26 00:00:32 tt-4420 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ID:58 
+	"a" Preposition PREP lang:es 00:00:26 00:00:32 tt-4420 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ID:58 ADD:472 
 "<perder>"
-	"perder" Verb VLinf Infinitive lang:es 00:00:26 00:00:32 tt-4421 MM043_1986_CT_SU2011_ER_14 
+	"perder" Verb VLinf Infinitive lang:es 00:00:26 00:00:32 tt-4421 MM043_1986_CT_SU2011_ER_14 SUBSTITUTE:292 
 "<,>"
 	"," Punctuation CM lang:es 00:00:26 00:00:32 tt-4422 MM043_1986_CT_SU2011_ER_14 
 "<o>"
-	"o" Adverb ADV lang:es 00:00:26 00:00:32 tt-4423 MM043_1986_CT_SU2011_ER_14 ID:61 R:Prag:MarcadoresDisc:Igualdad:62 
+	"o" Adverb ADV lang:es 00:00:26 00:00:32 tt-4423 MM043_1986_CT_SU2011_ER_14 ID:61 R:Prag:MarcadoresDisc:Igualdad:62 ADDRELATION(Prag:MarcadoresDisc:Igualdad):921 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:00:26 00:00:32 tt-4424 MM043_1986_CT_SU2011_ER_14 ID:62 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:26 00:00:32 tt-4425 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:26 00:00:32 tt-4425 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser ADD:647 
 "<algo>"
 	"algo" Determiner QU lang:es 00:00:26 00:00:32 tt-4426 MM043_1986_CT_SU2011_ER_14 
 "<casi>"
 	"casi" Adverb ADV lang:es 00:00:26 00:00:32 tt-4427 MM043_1986_CT_SU2011_ER_14 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:26 00:00:32 tt-4429 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:26 00:00:32 tt-4429 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<ciertos>"
 	"cierto" Determiner QU lang:es 00:00:26 00:00:32 tt-4430 MM043_1986_CT_SU2011_ER_14 
 "<casos>"
@@ -148,7 +148,7 @@
 "<tiene>"
 	"tener" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:26 00:00:32 tt-4436 MM043_1986_CT_SU2011_ER_14 
 "<para>"
-	"para" Preposition PREP lang:es 00:00:32 00:00:38 tt-4437 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Para 
+	"para" Preposition PREP lang:es 00:00:32 00:00:38 tt-4437 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Para ADD:437 
 "<ti>"
 	"tú" Pronoun PPX Singular lang:es 00:00:32 00:00:38 tt-4438 MM043_1986_CT_SU2011_ER_14 
 "<que>"
@@ -156,9 +156,9 @@
 "<se>"
 	"se" Other SE lang:es 00:00:32 00:00:38 tt-4440 MM043_1986_CT_SU2011_ER_14 
 "<mantenga>"
-	"mantener" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:32 00:00:38 tt-4441 MM043_1986_CT_SU2011_ER_14 @Gram:MSub:Pres 
+	"mantener" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:32 00:00:38 tt-4441 MM043_1986_CT_SU2011_ER_14 @Gram:MSub:Pres ADD:616 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:32 00:00:38 tt-4442 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ID:79 R:Gram:Genero:ExcepMasc:80 
+	"el" Determiner ART Singular lang:es 00:00:32 00:00:38 tt-4442 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ID:79 R:Gram:Genero:ExcepMasc:80 ADD:324 ADDRELATION(Gram:Genero:ExcepMasc):371 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:00:32 00:00:38 tt-4443 MM043_1986_CT_SU2011_ER_14 ID:80 
 "<como>"
@@ -166,11 +166,11 @@
 "<parte>"
 	"parte" Noun NC Singular lang:es 00:00:32 00:00:38 tt-4445 MM043_1986_CT_SU2011_ER_14 
 "<no>"
-	"no" Adverb NEG lang:es 00:00:32 00:00:38 tt-4446 MM043_1986_CT_SU2011_ER_14 ID:83 R:Prag:MarcadoresDisc:Igualdad:84 
+	"no" Adverb NEG lang:es 00:00:32 00:00:38 tt-4446 MM043_1986_CT_SU2011_ER_14 ID:83 R:Prag:MarcadoresDisc:Igualdad:84 ADDRELATION(Prag:MarcadoresDisc:Igualdad):926 
 "<sólo>"
 	"sólo" Adverb ADV lang:es 00:00:32 00:00:38 tt-4447 MM043_1986_CT_SU2011_ER_14 ID:84 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:32 00:00:38 tt-4448 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:32 00:00:38 tt-4448 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<,>"
 	"," Punctuation CM lang:es 00:00:32 00:00:38 tt-4449 MM043_1986_CT_SU2011_ER_14 
 "<sólo>"
@@ -178,7 +178,7 @@
 "<como>"
 	"como" Conjunction CSUBX lang:es 00:00:32 00:00:38 tt-4451 MM043_1986_CT_SU2011_ER_14 
 "<un>"
-	"un" Determiner ART Singular lang:es 00:00:32 00:00:38 tt-4452 MM043_1986_CT_SU2011_ER_14 ID:89 R:Gram:Genero:ExcepMasc:90 
+	"un" Determiner ART Singular lang:es 00:00:32 00:00:38 tt-4452 MM043_1986_CT_SU2011_ER_14 ID:89 R:Gram:Genero:ExcepMasc:90 ADDRELATION(Gram:Genero:ExcepMasc):371 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:00:32 00:00:38 tt-4453 MM043_1986_CT_SU2011_ER_14 ID:90 
 "<,>"
@@ -198,7 +198,7 @@
 "<tipo>"
 	"tipo" Noun NC Singular lang:es 00:00:38 00:00:41 tt-4461 MM043_1986_CT_SU2011_ER_14 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:38 00:00:41 tt-4462 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:38 00:00:41 tt-4462 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<identidad>"
 	"identidad" Noun NC Singular lang:es 00:00:38 00:00:41 tt-4463 MM043_1986_CT_SU2011_ER_14 
 "<$?>"
@@ -207,13 +207,13 @@
 <speaker type="subj">
 
 "<Yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:41 00:00:48 tt-4465 MM043_1986_CT_SU2011_ER_14 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:41 00:00:48 tt-4465 MM043_1986_CT_SU2011_ER_14 @Gram:Pron:Sujeto ADD:482 
 "<creo>"
 	"crear|creer" Verb VLfin Pres Indi Sing 1st lang:es 00:00:41 00:00:48 tt-4466 MM043_1986_CT_SU2011_ER_14 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:41 00:00:48 tt-4467 MM043_1986_CT_SU2011_ER_14 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:41 00:00:48 tt-4468 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:41 00:00:48 tt-4468 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser ADD:647 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:41 00:00:48 tt-4469 MM043_1986_CT_SU2011_ER_14 
 "<importante>"
@@ -221,13 +221,13 @@
 "<especialmente>"
 	"especialmente" Adverb ADV lang:es 00:00:41 00:00:48 tt-4471 MM043_1986_CT_SU2011_ER_14 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:41 00:00:48 tt-4472 MM043_1986_CT_SU2011_ER_14 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:00:41 00:00:48 tt-4472 MM043_1986_CT_SU2011_ER_14 @Prag:MarcadoresDisc:Causa ADD:879 
 "<se>"
 	"se" Other SE lang:es 00:00:41 00:00:48 tt-4473 MM043_1986_CT_SU2011_ER_14 
 "<ve>"
 	"ver" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:41 00:00:48 tt-4474 MM043_1986_CT_SU2011_ER_14 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:41 00:00:48 tt-4475 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:41 00:00:48 tt-4475 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<injusticia>"
 	"injusticia" Noun NC Singular lang:es 00:00:41 00:00:48 tt-4476 MM043_1986_CT_SU2011_ER_14 
 "<que>"
@@ -237,7 +237,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:41 00:00:48 tt-4479 MM043_1986_CT_SU2011_ER_14 
 "<hay>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:41 00:00:48 tt-4480 MM043_1986_CT_SU2011_ER_14 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:41 00:00:48 tt-4480 MM043_1986_CT_SU2011_ER_14 @Gram:Haber:Exist ADD:663 
 "<,>"
 	"," Punctuation CM lang:es 00:00:41 00:00:48 tt-4481 MM043_1986_CT_SU2011_ER_14 
 "<no>"
@@ -245,13 +245,13 @@
 "<solamente>"
 	"solamente" Adverb ADV lang:es 00:00:55 00:01:02 tt-4483 MM043_1986_CT_SU2011_ER_14 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:55 00:01:02 tt-4484 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:55 00:01:02 tt-4484 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<Latinoamérica>"
 	"Latinoamérica" Noun NP Singular lang:es 00:00:55 00:01:02 tt-4485 MM043_1986_CT_SU2011_ER_14 
 "<,>"
 	"," Punctuation CM lang:es 00:00:55 00:01:02 tt-4486 MM043_1986_CT_SU2011_ER_14 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:55 00:01:02 tt-4487 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:55 00:01:02 tt-4487 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<América>"
 	"América" Noun NP Singular lang:es 00:00:55 00:01:02 tt-4488 MM043_1986_CT_SU2011_ER_14 
 "<Latina>"
@@ -261,17 +261,17 @@
 "<aquí>"
 	"aquí" Adverb ADV lang:es 00:00:55 00:01:02 tt-4491 MM043_1986_CT_SU2011_ER_14 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:55 00:01:02 tt-4492 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:55 00:01:02 tt-4492 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:55 00:01:02 tt-4493 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:00:55 00:01:02 tt-4493 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<Estados>"
-	"Estados" Noun NP Plural lang:es 00:00:55 00:01:02 tt-4494 MM043_1986_CT_SU2011_ER_14 ID:131 R:Vocab:Entities:Geo:132 
+	"Estados" Noun NP Plural lang:es 00:00:55 00:01:02 tt-4494 MM043_1986_CT_SU2011_ER_14 ID:131 R:Vocab:Entities:Geo:132 ADDRELATION(Vocab:Entities:Geo):978 
 "<Unidos>"
 	"Unidos" Noun NP Plural lang:es 00:00:55 00:01:02 tt-4495 MM043_1986_CT_SU2011_ER_14 ID:132 
 "<todavía>"
 	"todavía" Adverb ADV lang:es 00:00:55 00:01:02 tt-4496 MM043_1986_CT_SU2011_ER_14 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:01:04 00:01:09 tt-4497 MM043_1986_CT_SU2011_ER_14 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:01:04 00:01:09 tt-4497 MM043_1986_CT_SU2011_ER_14 @Gram:Pron:Objeto ADD:506 
 "<ven>"
 	"ver" Verb VLfin Pres Indi Plural 3rd lang:es 00:01:04 00:01:09 tt-4498 MM043_1986_CT_SU2011_ER_14 
 "<raro>"
@@ -288,25 +288,25 @@
 "<No>"
 	"no" Adverb NEG lang:es 00:01:04 00:01:09 tt-4504 MM043_1986_CT_SU2011_ER_14 
 "<en>"
-	"en" Preposition PREP lang:es 00:01:04 00:01:09 tt-4505 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:01:04 00:01:09 tt-4505 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<todos>"
 	"todo" Determiner QU lang:es 00:01:04 00:01:09 tt-4506 MM043_1986_CT_SU2011_ER_14 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:01:04 00:01:09 tt-4507 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:01:04 00:01:09 tt-4507 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<lugares>"
 	"lugar" Noun NC Plural lang:es 00:01:04 00:01:09 tt-4508 MM043_1986_CT_SU2011_ER_14 
 "<pero>"
-	"pero" Conjunction CCAD lang:es 00:01:04 00:01:09 tt-4509 MM043_1986_CT_SU2011_ER_14 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:01:04 00:01:09 tt-4509 MM043_1986_CT_SU2011_ER_14 @Prag:MarcadoresDisc:Revision ADD:826 
 "<por>"
-	"por" Preposition PREP lang:es 00:01:04 00:01:09 tt-4510 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Por 
+	"por" Preposition PREP lang:es 00:01:04 00:01:09 tt-4510 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Por SUBSTITUTE:234 ADD:466 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:04 00:01:09 tt-4511 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:01:04 00:01:09 tt-4511 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<mayoría>"
 	"mayoría" Noun NC Singular lang:es 00:01:04 00:01:09 tt-4512 MM043_1986_CT_SU2011_ER_14 
 "<todavía>"
 	"todavía" Adverb ADV lang:es 00:01:04 00:01:09 tt-4513 MM043_1986_CT_SU2011_ER_14 
 "<soy>"
-	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:01:09 00:01:16 tt-4514 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:01:09 00:01:16 tt-4514 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser ADD:647 
 "<visto>"
 	"ver" Verb VLadj lang:es 00:01:09 00:01:16 tt-4515 MM043_1986_CT_SU2011_ER_14 
 "<como>"
@@ -318,7 +318,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:09 00:01:16 tt-4522 MM043_1986_CT_SU2011_ER_14 
 "<soy>"
-	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:01:09 00:01:16 tt-4523 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:01:09 00:01:16 tt-4523 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser ADD:647 
 "<visto>"
 	"ver" Verb VLadj lang:es 00:01:09 00:01:16 tt-4524 MM043_1986_CT_SU2011_ER_14 
 "<como>"
@@ -334,7 +334,7 @@
 "<o>"
 	"o" Conjunction CC lang:es 00:01:09 00:01:16 tt-4530 MM043_1986_CT_SU2011_ER_14 
 "<soy>"
-	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:01:09 00:01:16 tt-4531 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:01:09 00:01:16 tt-4531 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser ADD:647 
 "<inmigrante>"
 	"inmigrante" Noun NC Singular lang:es 00:01:09 00:01:16 tt-4532 MM043_1986_CT_SU2011_ER_14 
 "<,>"
@@ -342,11 +342,11 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:01:23 00:01:30 tt-4534 MM043_1986_CT_SU2011_ER_14 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:01:23 00:01:30 tt-4535 MM043_1986_CT_SU2011_ER_14 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:01:23 00:01:30 tt-4535 MM043_1986_CT_SU2011_ER_14 @Gram:Pron:Objeto ADD:506 
 "<merezco>"
 	"merecer" Verb VLfin Pres Indi Sing 1st lang:es 00:01:23 00:01:30 tt-4536 MM043_1986_CT_SU2011_ER_14 
 "<estar>"
-	"estar" Verb VEinf Infinitive lang:es 00:01:23 00:01:30 tt-4537 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Estar 
+	"estar" Verb VLinf VEinf Infinitive lang:es 00:01:23 00:01:30 tt-4537 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Estar SUBSTITUTE:292 ADD:656 
 "<aquí>"
 	"aquí" Adverb ADV lang:es 00:01:23 00:01:30 tt-4538 MM043_1986_CT_SU2011_ER_14 
 "<$.>"
@@ -357,19 +357,19 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:23 00:01:30 tt-4541 MM043_1986_CT_SU2011_ER_14 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:23 00:01:30 tt-4542 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:23 00:01:30 tt-4542 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser ADD:647 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:01:23 00:01:30 tt-4543 MM043_1986_CT_SU2011_ER_14 
 "<importante>"
 	"importante" Adjective ADJ Singular lang:es 00:01:23 00:01:30 tt-4544 MM043_1986_CT_SU2011_ER_14 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:01:23 00:01:30 tt-4545 MM043_1986_CT_SU2011_ER_14 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:01:23 00:01:30 tt-4545 MM043_1986_CT_SU2011_ER_14 @Prag:MarcadoresDisc:Causa ADD:879 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:23 00:01:30 tt-4546 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"al" Preposition PAL lang:es 00:01:23 00:01:30 tt-4546 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<final>"
 	"final" Noun NC Singular lang:es 00:01:23 00:01:30 tt-4547 MM043_1986_CT_SU2011_ER_14 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:23 00:01:30 tt-4548 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:01:23 00:01:30 tt-4548 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<cuentas>"
 	"cuenta" Noun NC Plural lang:es 00:01:23 00:01:30 tt-4549 MM043_1986_CT_SU2011_ER_14 
 "<todavía>"
@@ -392,9 +392,9 @@
 "<esa>"
 	"ese" Determiner DM Singular lang:es 00:01:33 00:01:40 tt-4558 MM043_1986_CT_SU2011_ER_14 
 "<sería>"
-	"ser" Verb VSfin Cond Indi Sing 1st_or_3rd lang:es 00:01:33 00:01:40 tt-4559 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Cond Indi Sing 1st_or_3rd lang:es 00:01:33 00:01:40 tt-4559 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser ADD:647 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:33 00:01:40 tt-4560 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:01:33 00:01:40 tt-4560 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<mejor>"
 	"bueno" Adjective ADJ Singular lang:es 00:01:33 00:01:40 tt-4561 MM043_1986_CT_SU2011_ER_14 
 "<manera>"
@@ -408,37 +408,37 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:01:41 00:01:48 tt-4566 MM043_1986_CT_SU2011_ER_14 
 "<hablo>"
-	"hablar" Verb VLfin Pres Indi Sing 1st lang:es 00:01:41 00:01:48 tt-4567 MM043_1986_CT_SU2011_ER_14 ID:201 R:Vocab:Fraseol:VerbPrep:202 
+	"hablar" Verb VLfin Pres Indi Sing 1st lang:es 00:01:41 00:01:48 tt-4567 MM043_1986_CT_SU2011_ER_14 ID:201 R:Vocab:Fraseol:VerbPrep:202 ADDRELATION(Vocab:Fraseol:VerbPrep):985 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:41 00:01:48 tt-4568 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ID:202 
+	"de" Preposition PREP lang:es 00:01:41 00:01:48 tt-4568 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ID:202 ADD:472 
 "<revolución>"
 	"revolución" Noun NC Singular lang:es 00:01:41 00:01:48 tt-4569 MM043_1986_CT_SU2011_ER_14 
 "<hablo>"
-	"hablar" Verb VLfin Pres Indi Sing 1st lang:es 00:01:41 00:01:48 tt-4570 MM043_1986_CT_SU2011_ER_14 ID:204 R:Vocab:Fraseol:VerbPrep:205 
+	"hablar" Verb VLfin Pres Indi Sing 1st lang:es 00:01:41 00:01:48 tt-4570 MM043_1986_CT_SU2011_ER_14 ID:204 R:Vocab:Fraseol:VerbPrep:205 ADDRELATION(Vocab:Fraseol:VerbPrep):985 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:41 00:01:48 tt-4571 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ID:205 
+	"de" Preposition PREP lang:es 00:01:41 00:01:48 tt-4571 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ID:205 ADD:472 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:41 00:01:48 tt-4572 MM043_1986_CT_SU2011_ER_14 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:41 00:01:48 tt-4573 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:01:41 00:01:48 tt-4573 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:41 00:01:48 tt-4574 MM043_1986_CT_SU2011_ER_14 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:41 00:01:48 tt-4575 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:01:41 00:01:48 tt-4575 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:41 00:01:48 tt-4576 MM043_1986_CT_SU2011_ER_14 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:41 00:01:48 tt-4577 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:01:41 00:01:48 tt-4577 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<darle>"
 	"darle" Verb VCLIinf lang:es 00:01:41 00:01:48 tt-4578 MM043_1986_CT_SU2011_ER_14 
 "<a>"
-	"a" Preposition PREP lang:es 00:01:41 00:01:48 tt-4579 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:01:41 00:01:48 tt-4579 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:41 00:01:48 tt-4580 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:01:41 00:01:48 tt-4580 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:01:41 00:01:48 tt-4581 MM043_1986_CT_SU2011_ER_14 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:41 00:01:48 tt-4582 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:01:41 00:01:48 tt-4582 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<América>"
 	"América" Noun NP Singular lang:es 00:01:41 00:01:48 tt-4583 MM043_1986_CT_SU2011_ER_14 
 "<Latina>"
@@ -456,7 +456,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:49 00:01:56 tt-4590 MM043_1986_CT_SU2011_ER_14 
 "<quitarles>"
-	"quitar" Verb VLinf Pres Subj Sing 2nd lang:es 00:01:49 00:01:56 tt-4591 MM043_1986_CT_SU2011_ER_14 @Gram:MSub:Pres 
+	"quitar" Verb VLinf Pres Subj Sing 2nd lang:es 00:01:49 00:01:56 tt-4591 MM043_1986_CT_SU2011_ER_14 @Gram:MSub:Pres ADD:616 
 "<todas>"
 	"todo" Determiner QU lang:es 00:01:49 00:01:56 tt-4592 MM043_1986_CT_SU2011_ER_14 
 "<esas>"
@@ -466,7 +466,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:49 00:01:56 tt-4595 MM043_1986_CT_SU2011_ER_14 
 "<son>"
-	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:01:49 00:01:56 tt-4596 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:01:49 00:01:56 tt-4596 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser ADD:647 
 "<,>"
 	"," Punctuation CM lang:es 00:01:49 00:01:56 tt-4597 MM043_1986_CT_SU2011_ER_14 
 "<que>"
@@ -474,55 +474,55 @@
 "<se>"
 	"se" Other SE lang:es 00:01:49 00:01:56 tt-4599 MM043_1986_CT_SU2011_ER_14 
 "<han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:01:49 00:01:56 tt-4600 MM043_1986_CT_SU2011_ER_14 ID:234 R:Gram:Aux:Haber:235 R:Gram:PerfPerif:235 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:01:49 00:01:56 tt-4600 MM043_1986_CT_SU2011_ER_14 ID:234 R:Gram:Aux:Haber:235 R:Gram:PerfPerif:235 ADDRELATION():553 
 "<hecho>"
 	"hacer" Verb VLadj lang:es 00:01:49 00:01:56 tt-4601 MM043_1986_CT_SU2011_ER_14 ID:235 
 "<realidad>"
 	"realidad" Noun NC Singular lang:es 00:01:49 00:01:56 tt-4602 MM043_1986_CT_SU2011_ER_14 
 "<por>"
-	"por" Preposition PREP lang:es 00:01:58 00:02:03 tt-4603 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Por 
+	"por" Preposition PREP lang:es 00:01:58 00:02:03 tt-4603 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Por SUBSTITUTE:234 ADD:466 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:58 00:02:03 tt-4604 MM043_1986_CT_SU2011_ER_14 
 "<por>"
-	"por" Preposition PREP lang:es 00:01:58 00:02:03 tt-4605 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Por 
+	"por" Preposition PREP lang:es 00:01:58 00:02:03 tt-4605 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Por SUBSTITUTE:234 ADD:466 
 "<lo>"
 	"el" Determiner ART Singular lang:es 00:01:58 00:02:03 tt-4606 MM043_1986_CT_SU2011_ER_14 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:58 00:02:03 tt-4607 MM043_1986_CT_SU2011_ER_14 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:01:58 00:02:03 tt-4608 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:01:58 00:02:03 tt-4608 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<Estados>"
-	"Estados" Noun NP Plural lang:es 00:01:58 00:02:03 tt-4609 MM043_1986_CT_SU2011_ER_14 ID:243 R:Vocab:Entities:Geo:244 
+	"Estados" Noun NP Plural lang:es 00:01:58 00:02:03 tt-4609 MM043_1986_CT_SU2011_ER_14 ID:243 R:Vocab:Entities:Geo:244 ADDRELATION(Vocab:Entities:Geo):978 
 "<Unidos>"
 	"Unidos" Noun NP Plural lang:es 00:01:58 00:02:03 tt-4610 MM043_1986_CT_SU2011_ER_14 ID:244 
 "<,>"
 	"," Punctuation CM lang:es 00:01:58 00:02:03 tt-4611 MM043_1986_CT_SU2011_ER_14 
 "<por>"
-	"por" Preposition PREP lang:es 00:01:58 00:02:03 tt-4612 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Por 
+	"por" Preposition PREP lang:es 00:01:58 00:02:03 tt-4612 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Por SUBSTITUTE:234 ADD:466 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:58 00:02:03 tt-4613 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:01:58 00:02:03 tt-4613 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<papel>"
 	"papel" Noun NC Singular lang:es 00:01:58 00:02:03 tt-4614 MM043_1986_CT_SU2011_ER_14 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:58 00:02:03 tt-4615 MM043_1986_CT_SU2011_ER_14 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:01:58 00:02:03 tt-4616 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:01:58 00:02:03 tt-4616 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<Estados>"
-	"Estados" Noun NP Plural lang:es 00:01:58 00:02:03 tt-4617 MM043_1986_CT_SU2011_ER_14 ID:251 R:Vocab:Entities:Geo:252 
+	"Estados" Noun NP Plural lang:es 00:01:58 00:02:03 tt-4617 MM043_1986_CT_SU2011_ER_14 ID:251 R:Vocab:Entities:Geo:252 ADDRELATION(Vocab:Entities:Geo):978 
 "<Unidos>"
 	"Unidos" Noun NP Plural lang:es 00:01:58 00:02:03 tt-4618 MM043_1986_CT_SU2011_ER_14 ID:252 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:58 00:02:03 tt-4619 MM043_1986_CT_SU2011_ER_14 ID:253 R:Gram:Aux:Haber:254 R:Gram:PerfPerif:254 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:58 00:02:03 tt-4619 MM043_1986_CT_SU2011_ER_14 ID:253 R:Gram:Aux:Haber:254 R:Gram:PerfPerif:254 ADDRELATION():553 
 "<tomado>"
 	"tomar" Verb VLadj lang:es 00:01:58 00:02:03 tt-4620 MM043_1986_CT_SU2011_ER_14 ID:254 
 "<en>"
-	"en" Preposition PREP lang:es 00:01:58 00:02:03 tt-4621 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:01:58 00:02:03 tt-4621 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:02:03 00:02:10 tt-4622 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:02:03 00:02:10 tt-4622 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<países>"
 	"país" Noun NC Plural lang:es 00:02:03 00:02:10 tt-4623 MM043_1986_CT_SU2011_ER_14 
 "<de>"
-	"de" Preposition PREP lang:es 00:02:03 00:02:10 tt-4624 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:02:03 00:02:10 tt-4624 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<América>"
 	"América" Noun NP Singular lang:es 00:02:03 00:02:10 tt-4625 MM043_1986_CT_SU2011_ER_14 
 "<Latina>"
@@ -537,25 +537,25 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:02:03 00:02:10 tt-4630 MM043_1986_CT_SU2011_ER_14 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:02:03 00:02:10 tt-4631 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:02:03 00:02:10 tt-4631 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<español>"
 	"español" Noun NC Singular lang:es 00:02:03 00:02:10 tt-4632 MM043_1986_CT_SU2011_ER_14 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:02:03 00:02:10 tt-4633 MM043_1986_CT_SU2011_ER_14 
 "<espero>"
-	"esperar" Verb VLfin Pres Indi Sing 1st lang:es 00:02:03 00:02:10 tt-4634 MM043_1986_CT_SU2011_ER_14 
+	"esperar" Verb VLfin Pres Indi Sing 1st lang:es 00:02:03 00:02:10 tt-4634 MM043_1986_CT_SU2011_ER_14 ID:268 R:Func:Deseos:Ajenos:273 ADDRELATION(Func:Deseos:Ajenos):722 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:02:03 00:02:10 tt-4635 MM043_1986_CT_SU2011_ER_14 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:02:03 00:02:10 tt-4636 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:02:03 00:02:10 tt-4636 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<español>"
 	"español" Noun NC Singular lang:es 00:02:03 00:02:10 tt-4637 MM043_1986_CT_SU2011_ER_14 
 "<se>"
 	"se" Other SE lang:es 00:02:03 00:02:10 tt-4638 MM043_1986_CT_SU2011_ER_14 
 "<vuelva>"
-	"volver" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:02:03 00:02:10 tt-4639 MM043_1986_CT_SU2011_ER_14 @Gram:MSub:Pres 
+	"volver" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:02:03 00:02:10 tt-4639 MM043_1986_CT_SU2011_ER_14 @Gram:MSub:Pres ID:273 ADD:616 
 "<tal>"
-	"tal" Adverb ADV lang:es 00:02:16 00:02:23 tt-4640 MM043_1986_CT_SU2011_ER_14 ID:274 R:Prag:MarcadoresDisc:Igualdad:275 
+	"tal" Adverb ADV lang:es 00:02:16 00:02:23 tt-4640 MM043_1986_CT_SU2011_ER_14 ID:274 R:Prag:MarcadoresDisc:Igualdad:275 ADDRELATION(Prag:MarcadoresDisc:Igualdad):931 
 "<vez>"
 	"vez" Adverb ADV lang:es 00:02:16 00:02:23 tt-4641 MM043_1986_CT_SU2011_ER_14 ID:275 
 "<otro>"
@@ -565,15 +565,15 @@
 "<oficial>"
 	"oficial" Adjective ADJ Singular lang:es 00:02:16 00:02:23 tt-4644 MM043_1986_CT_SU2011_ER_14 
 "<de>"
-	"de" Preposition PREP lang:es 00:02:16 00:02:23 tt-4645 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:02:16 00:02:23 tt-4645 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:02:16 00:02:23 tt-4646 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:02:16 00:02:23 tt-4646 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<Estados>"
-	"Estados" Noun NP Plural lang:es 00:02:16 00:02:23 tt-4647 MM043_1986_CT_SU2011_ER_14 ID:281 R:Vocab:Entities:Geo:282 
+	"Estados" Noun NP Plural lang:es 00:02:16 00:02:23 tt-4647 MM043_1986_CT_SU2011_ER_14 ID:281 R:Vocab:Entities:Geo:282 ADDRELATION(Vocab:Entities:Geo):978 
 "<Unidos>"
 	"Unidos" Noun NP Plural lang:es 00:02:16 00:02:23 tt-4648 MM043_1986_CT_SU2011_ER_14 ID:282 
 "<en>"
-	"en" Preposition PREP lang:es 00:02:16 00:02:23 tt-4649 MM043_1986_CT_SU2011_ER_14 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:02:16 00:02:23 tt-4649 MM043_1986_CT_SU2011_ER_14 @Gram:Prep ADD:472 
 "<cierto>"
 	"cierto" Determiner QU lang:es 00:02:16 00:02:23 tt-4650 MM043_1986_CT_SU2011_ER_14 
 "<tiempo>"
@@ -584,9 +584,9 @@
 "<Ya>"
 	"ya" Adverb ADV lang:es 00:02:16 00:02:23 tt-4653 MM043_1986_CT_SU2011_ER_14 
 "<somos>"
-	"ser" Verb VSfin Pres Indi Plural 1st lang:es 00:02:16 00:02:23 tt-4654 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Plural 1st lang:es 00:02:16 00:02:23 tt-4654 MM043_1986_CT_SU2011_ER_14 @Gram:SerEstar:Ser ADD:647 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:02:16 00:02:23 tt-4655 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:02:16 00:02:23 tt-4655 MM043_1986_CT_SU2011_ER_14 @Gram:Det:Art ADD:324 
 "<mayoría>"
 	"mayoría" Noun NC Singular lang:es 00:02:16 00:02:23 tt-4656 MM043_1986_CT_SU2011_ER_14 
 "<,>"
@@ -594,7 +594,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:02:23 00:02:24 tt-4658 MM043_1986_CT_SU2011_ER_14 
 "<por>"
-	"por" Preposition PREP lang:es 00:02:23 00:02:24 tt-4659 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Por 
+	"por" Preposition PREP lang:es 00:02:23 00:02:24 tt-4659 MM043_1986_CT_SU2011_ER_14 @Gram:Prep:Por SUBSTITUTE:234 ADD:466 
 "<qué>"
 	"qué" Adverb ADV lang:es 00:02:23 00:02:24 tt-4660 MM043_1986_CT_SU2011_ER_14 
 "<no>"

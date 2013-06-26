@@ -33,11 +33,11 @@
 "<se>"
 	"se" Other SE lang:es 00:00:01 00:00:08 tt-295 OM024_1933_CT_SU2011_VA_02 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:01 00:00:08 tt-296 OM024_1933_CT_SU2011_VA_02 ID:15 R:Gram:Aux:Haber:16 R:Gram:PerfPerif:16 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:01 00:00:08 tt-296 OM024_1933_CT_SU2011_VA_02 ID:15 R:Gram:Aux:Haber:16 R:Gram:PerfPerif:16 ADDRELATION():553 
 "<llevado>"
 	"llevar" Verb VLadj lang:es 00:00:01 00:00:08 tt-297 OM024_1933_CT_SU2011_VA_02 ID:16 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:01 00:00:08 tt-298 OM024_1933_CT_SU2011_VA_02 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:01 00:00:08 tt-298 OM024_1933_CT_SU2011_VA_02 @Gram:Prep ADD:472 
 "<efecto>"
 	"efecto" Noun NC Singular lang:es 00:00:01 00:00:08 tt-299 OM024_1933_CT_SU2011_VA_02 
 "<esto>"
@@ -45,13 +45,13 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:01 00:00:08 tt-301 OM024_1933_CT_SU2011_VA_02 
 "<pero>"
-	"pero" Conjunction CCAD lang:es 00:00:01 00:00:08 tt-302 OM024_1933_CT_SU2011_VA_02 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:00:01 00:00:08 tt-302 OM024_1933_CT_SU2011_VA_02 @Prag:MarcadoresDisc:Revision ADD:826 
 "<aun>"
 	"aun" Adverb ADV lang:es 00:00:01 00:00:08 tt-303 OM024_1933_CT_SU2011_VA_02 
 "<así>"
 	"así" Adverb ADV lang:es 00:00:01 00:00:08 tt-304 OM024_1933_CT_SU2011_VA_02 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:01 00:00:08 tt-305 OM024_1933_CT_SU2011_VA_02 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:01 00:00:08 tt-305 OM024_1933_CT_SU2011_VA_02 @Gram:Prep ADD:472 
 "<Costa>"
 	"Costa" Noun NP Singular lang:es 00:00:01 00:00:08 tt-306 OM024_1933_CT_SU2011_VA_02 
 "<Rica>"
@@ -59,7 +59,7 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:11 00:00:18 tt-308 OM024_1933_CT_SU2011_VA_02 
 "<estuve>"
-	"estar" Verb VEfin Pret Indi Sing 1st lang:es 00:00:11 00:00:18 tt-309 OM024_1933_CT_SU2011_VA_02 @Gram:Indefinido @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pret Indi Sing 1st lang:es 00:00:11 00:00:18 tt-309 OM024_1933_CT_SU2011_VA_02 @Gram:Indefinido @Gram:SerEstar:Estar ADD:546 ADD:656 
 "<hace>"
 	"hacer" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:11 00:00:18 tt-310 OM024_1933_CT_SU2011_VA_02 
 "<dos>"
@@ -73,7 +73,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:11 00:00:18 tt-315 OM024_1933_CT_SU2011_VA_02 
 "<compre>"
-	"comprar" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:11 00:00:18 tt-316 OM024_1933_CT_SU2011_VA_02 @Gram:MSub:Pres 
+	"comprar" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:11 00:00:18 tt-316 OM024_1933_CT_SU2011_VA_02 @Gram:MSub:Pres ADD:616 
 "<algunos>"
 	"alguno" Determiner QU lang:es 00:00:11 00:00:18 tt-317 OM024_1933_CT_SU2011_VA_02 
 "<animales>"
@@ -83,15 +83,15 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:11 00:00:18 tt-320 OM024_1933_CT_SU2011_VA_02 
 "<pude>"
-	"poder" Verb VLfin Pret Indi Sing 1st lang:es 00:00:11 00:00:18 tt-321 OM024_1933_CT_SU2011_VA_02 @Gram:Indefinido 
+	"poder" Verb VLfin Pret Indi Sing 1st lang:es 00:00:11 00:00:18 tt-321 OM024_1933_CT_SU2011_VA_02 @Gram:Indefinido ADD:546 
 "<tenerlos>"
 	"tener" Verb VLinf Infinitive lang:es 00:00:11 00:00:18 tt-322 OM024_1933_CT_SU2011_VA_02 
 "<,>"
 	"," Punctuation CM lang:es 00:00:11 00:00:18 tt-323 OM024_1933_CT_SU2011_VA_02 
 "<entre>"
-	"entre" Preposition PREP lang:es 00:00:20 00:00:27 tt-324 OM024_1933_CT_SU2011_VA_02 @Gram:Prep 
+	"entre" Preposition PREP lang:es 00:00:20 00:00:27 tt-324 OM024_1933_CT_SU2011_VA_02 @Gram:Prep ADD:472 
 "<ellos>"
-	"él" Pronoun PPX Plural lang:es 00:00:20 00:00:27 tt-325 OM024_1933_CT_SU2011_VA_02 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Plural lang:es 00:00:20 00:00:27 tt-325 OM024_1933_CT_SU2011_VA_02 @Gram:Pron:Sujeto ADD:482 
 "<una>"
 	"un" Determiner ART Singular lang:es 00:00:20 00:00:27 tt-326 OM024_1933_CT_SU2011_VA_02 
 "<yegua>"
@@ -99,13 +99,13 @@
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:20 00:00:27 tt-328 OM024_1933_CT_SU2011_VA_02 
 "<pícara>"
-	"UNK" Verb VLfin Past Subj Sing 1st_or_3rd lang:es 00:00:20 00:00:27 tt-329 OM024_1933_CT_SU2011_VA_02 @Gram:MSub:Pret 
+	"UNK" Verb VLfin Past Subj Sing 1st_or_3rd lang:es 00:00:20 00:00:27 tt-329 OM024_1933_CT_SU2011_VA_02 @Gram:MSub:Pret ADD:617 
 "<,>"
 	"," Punctuation CM lang:es 00:00:20 00:00:27 tt-330 OM024_1933_CT_SU2011_VA_02 
 "<como>"
 	"como" Conjunction CSUBX lang:es 00:00:20 00:00:27 tt-331 OM024_1933_CT_SU2011_VA_02 
 "<dijera>"
-	"decir" Verb VLfin Past Subj Sing 1st_or_3rd lang:es 00:00:20 00:00:27 tt-332 OM024_1933_CT_SU2011_VA_02 @Gram:MSub:Pret 
+	"decir" Verb VLfin Past Subj Sing 1st_or_3rd lang:es 00:00:20 00:00:27 tt-332 OM024_1933_CT_SU2011_VA_02 @Gram:MSub:Pret ADD:617 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:20 00:00:27 tt-333 OM024_1933_CT_SU2011_VA_02 
 "<tricky>"
@@ -113,11 +113,11 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:20 00:00:27 tt-335 OM024_1933_CT_SU2011_VA_02 
 "<ella>"
-	"él" Pronoun PPX Singular lang:es 00:00:20 00:00:27 tt-336 OM024_1933_CT_SU2011_VA_02 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Singular lang:es 00:00:20 00:00:27 tt-336 OM024_1933_CT_SU2011_VA_02 @Gram:Pron:Sujeto ADD:482 
 "<se>"
 	"se" Other SE lang:es 00:00:20 00:00:27 tt-337 OM024_1933_CT_SU2011_VA_02 
 "<portaba>"
-	"portar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:20 00:00:27 tt-338 OM024_1933_CT_SU2011_VA_02 @Gram:Imperf 
+	"portar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:20 00:00:27 tt-338 OM024_1933_CT_SU2011_VA_02 @Gram:Imperf ADD:537 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:20 00:00:27 tt-339 OM024_1933_CT_SU2011_VA_02 
 "<difícil>"
@@ -127,7 +127,7 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:31 00:00:38 tt-342 OM024_1933_CT_SU2011_VA_02 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:31 00:00:38 tt-343 OM024_1933_CT_SU2011_VA_02 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:31 00:00:38 tt-343 OM024_1933_CT_SU2011_VA_02 @Gram:Imperf @Gram:SerEstar:Ser ADD:537 ADD:647 
 "<posible>"
 	"posible" Adjective ADJ Singular lang:es 00:00:31 00:00:38 tt-344 OM024_1933_CT_SU2011_VA_02 
 "<agarrarla>"
@@ -135,7 +135,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:31 00:00:38 tt-346 OM024_1933_CT_SU2011_VA_02 
 "<hasta>"
-	"hasta" Preposition PREP lang:es 00:00:31 00:00:38 tt-347 OM024_1933_CT_SU2011_VA_02 @Gram:Prep 
+	"hasta" Preposition PREP lang:es 00:00:31 00:00:38 tt-347 OM024_1933_CT_SU2011_VA_02 @Gram:Prep ADD:472 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:31 00:00:38 tt-348 OM024_1933_CT_SU2011_VA_02 
 "<al>"
@@ -145,17 +145,17 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:31 00:00:38 tt-351 OM024_1933_CT_SU2011_VA_02 
 "<al>"
-	"al" Preposition PREP lang:es 00:00:31 00:00:38 tt-352 OM024_1933_CT_SU2011_VA_02 @Gram:Prep 
+	"al" Preposition PREP lang:es 00:00:31 00:00:38 tt-352 OM024_1933_CT_SU2011_VA_02 @Gram:Prep ADD:472 
 "<cabo>"
-	"cabo" Preposition PREP lang:es 00:00:31 00:00:38 tt-353 OM024_1933_CT_SU2011_VA_02 @Gram:Prep 
+	"cabo" Preposition PREP lang:es 00:00:31 00:00:38 tt-353 OM024_1933_CT_SU2011_VA_02 @Gram:Prep ADD:472 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:31 00:00:38 tt-354 OM024_1933_CT_SU2011_VA_02 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:31 00:00:38 tt-354 OM024_1933_CT_SU2011_VA_02 @Gram:Prep ADD:472 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:31 00:00:38 tt-355 OM024_1933_CT_SU2011_VA_02 
 "<como>"
 	"como" Adverb ADV lang:es 00:00:31 00:00:38 tt-356 OM024_1933_CT_SU2011_VA_02 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:31 00:00:38 tt-357 OM024_1933_CT_SU2011_VA_02 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:31 00:00:38 tt-357 OM024_1933_CT_SU2011_VA_02 @Gram:Prep ADD:472 
 "<veinte>"
 	"veinte" Determiner CARD Singular lang:es 00:00:31 00:00:38 tt-358 OM024_1933_CT_SU2011_VA_02 
 "<días>"
@@ -171,23 +171,23 @@
 "<ya>"
 	"ya" Adverb ADV lang:es 00:00:31 00:00:38 tt-364 OM024_1933_CT_SU2011_VA_02 
 "<la>"
-	"él" Pronoun PPC Singular lang:es 00:00:39 00:00:46 tt-365 OM024_1933_CT_SU2011_VA_02 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:00:39 00:00:46 tt-365 OM024_1933_CT_SU2011_VA_02 @Gram:Pron:Objeto ADD:512 
 "<empezaba>"
-	"empezar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:39 00:00:46 tt-366 OM024_1933_CT_SU2011_VA_02 @Gram:Imperf ID:85 R:Vocab:Fraseol:VerbPrep:86 
+	"empezar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:39 00:00:46 tt-366 OM024_1933_CT_SU2011_VA_02 @Gram:Imperf ID:85 R:Vocab:Fraseol:VerbPrep:86 ADD:537 ADDRELATION(Vocab:Fraseol:VerbPrep):987 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:39 00:00:46 tt-367 OM024_1933_CT_SU2011_VA_02 @Gram:Prep ID:86 
+	"a" Preposition PREP lang:es 00:00:39 00:00:46 tt-367 OM024_1933_CT_SU2011_VA_02 @Gram:Prep ID:86 ADD:472 
 "<llamar>"
-	"llamar" Verb VLinf Infinitive lang:es 00:00:39 00:00:46 tt-368 OM024_1933_CT_SU2011_VA_02 
+	"llamar" Verb VLinf Infinitive lang:es 00:00:39 00:00:46 tt-368 OM024_1933_CT_SU2011_VA_02 SUBSTITUTE:292 
 "<y>"
 	"y" Conjunction CC lang:es 00:00:39 00:00:46 tt-369 OM024_1933_CT_SU2011_VA_02 
 "<venía>"
-	"venir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:39 00:00:46 tt-370 OM024_1933_CT_SU2011_VA_02 @Gram:Imperf 
+	"venir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:39 00:00:46 tt-370 OM024_1933_CT_SU2011_VA_02 @Gram:Imperf ADD:537 
 "<,>"
 	"," Punctuation CM lang:es 00:00:39 00:00:46 tt-371 OM024_1933_CT_SU2011_VA_02 
 "<y>"
 	"y" Conjunction CC lang:es 00:00:39 00:00:46 tt-372 OM024_1933_CT_SU2011_VA_02 
 "<nos>"
-	"nosotros" Pronoun PPX Plural lang:es 00:00:39 00:00:46 tt-373 OM024_1933_CT_SU2011_VA_02 @Gram:Pron:Objeto 
+	"nosotros" Pronoun PPX Plural lang:es 00:00:39 00:00:46 tt-373 OM024_1933_CT_SU2011_VA_02 @Gram:Pron:Objeto ADD:506 
 "<hicimos>"
 	"hacer" Verb VLfin Pres_or_Pret Indi Plural 1st lang:es 00:00:39 00:00:46 tt-374 OM024_1933_CT_SU2011_VA_02 
 "<buenos>"
@@ -199,41 +199,41 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:39 00:00:46 tt-378 OM024_1933_CT_SU2011_VA_02 
 "<la>"
-	"él" Pronoun PPC Singular lang:es 00:00:39 00:00:46 tt-379 OM024_1933_CT_SU2011_VA_02 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:00:39 00:00:46 tt-379 OM024_1933_CT_SU2011_VA_02 @Gram:Pron:Objeto ADD:512 
 "<montaba>"
-	"montar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:39 00:00:46 tt-380 OM024_1933_CT_SU2011_VA_02 @Gram:Imperf 
+	"montar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:39 00:00:46 tt-380 OM024_1933_CT_SU2011_VA_02 @Gram:Imperf ADD:537 
 "<y>"
 	"y" Conjunction CC lang:es 00:00:39 00:00:46 tt-381 OM024_1933_CT_SU2011_VA_02 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:39 00:00:46 tt-382 OM024_1933_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:39 00:00:46 tt-382 OM024_1933_CT_SU2011_VA_02 @Gram:Det:Art ADD:324 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:39 00:00:46 tt-383 OM024_1933_CT_SU2011_VA_02 
 "<se>"
 	"se" Other SE lang:es 00:00:39 00:00:46 tt-384 OM024_1933_CT_SU2011_VA_02 
 "<admiraba>"
-	"admirar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:48 00:00:51 tt-385 OM024_1933_CT_SU2011_VA_02 @Gram:Imperf 
+	"admirar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:48 00:00:51 tt-385 OM024_1933_CT_SU2011_VA_02 @Gram:Imperf ADD:537 
 "<de>"
 	"de" Conjunction CSUBI lang:es 00:00:48 00:00:51 tt-386 OM024_1933_CT_SU2011_VA_02 
 "<ver>"
-	"ver" Verb VLinf Infinitive lang:es 00:00:48 00:00:51 tt-387 OM024_1933_CT_SU2011_VA_02 
+	"ver" Verb VLinf Infinitive lang:es 00:00:48 00:00:51 tt-387 OM024_1933_CT_SU2011_VA_02 SUBSTITUTE:292 
 "<cómo>"
 	"cómo" Adverb ADV lang:es 00:00:48 00:00:51 tt-388 OM024_1933_CT_SU2011_VA_02 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:48 00:00:51 tt-389 OM024_1933_CT_SU2011_VA_02 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:48 00:00:51 tt-389 OM024_1933_CT_SU2011_VA_02 @Gram:Prep ADD:472 
 "<esta>"
-	"este" Determiner DM Singular lang:es 00:00:48 00:00:51 tt-390 OM024_1933_CT_SU2011_VA_02 @Gram:Det:Demo 
+	"este" Determiner DM Singular lang:es 00:00:48 00:00:51 tt-390 OM024_1933_CT_SU2011_VA_02 @Gram:Det:Demo ADD:336 
 "<yegua>"
 	"UNK" Noun NC Singular lang:es 00:00:48 00:00:51 tt-391 OM024_1933_CT_SU2011_VA_02 
 "<sí>"
 	"sí" Adverb ADV lang:es 00:00:48 00:00:51 tt-392 OM024_1933_CT_SU2011_VA_02 
 "<la>"
-	"él" Pronoun PPC Singular lang:es 00:00:48 00:00:51 tt-393 OM024_1933_CT_SU2011_VA_02 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:00:48 00:00:51 tt-393 OM024_1933_CT_SU2011_VA_02 @Gram:Pron:Objeto ADD:512 
 "<podía>"
-	"poder" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:48 00:00:51 tt-394 OM024_1933_CT_SU2011_VA_02 @Gram:Imperf 
+	"poder" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:48 00:00:51 tt-394 OM024_1933_CT_SU2011_VA_02 @Gram:Imperf ADD:537 
 "<ya>"
 	"ya" Adverb ADV lang:es 00:00:48 00:00:51 tt-395 OM024_1933_CT_SU2011_VA_02 
 "<manejar>"
-	"manejar" Verb VLinf Infinitive lang:es 00:00:48 00:00:51 tt-396 OM024_1933_CT_SU2011_VA_02 
+	"manejar" Verb VLinf Infinitive lang:es 00:00:48 00:00:51 tt-396 OM024_1933_CT_SU2011_VA_02 SUBSTITUTE:292 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:48 00:00:51 tt-397 OM024_1933_CT_SU2011_VA_02 
 </speaker>

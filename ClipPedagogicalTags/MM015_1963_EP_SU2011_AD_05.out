@@ -7,13 +7,13 @@
 "<viajas>"
 	"viajar" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:03 tt-882 MM015_1963_EP_SU2011_AD_05 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:00 00:00:03 tt-883 MM015_1963_EP_SU2011_AD_05 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:00 00:00:03 tt-883 MM015_1963_EP_SU2011_AD_05 @Gram:Prep ADD:472 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:03 tt-884 MM015_1963_EP_SU2011_AD_05 @Gram:Det:Pos 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:03 tt-884 MM015_1963_EP_SU2011_AD_05 @Gram:Det:Pos ADD:350 
 "<país>"
 	"país" Noun NC Plural lang:es 00:00:00 00:00:03 tt-885 MM015_1963_EP_SU2011_AD_05 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:00 00:00:03 tt-886 MM015_1963_EP_SU2011_AD_05 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:00 00:00:03 tt-886 MM015_1963_EP_SU2011_AD_05 @Gram:Prep ADD:472 
 "<origen>"
 	"origen" Noun NC Singular lang:es 00:00:00 00:00:03 tt-887 MM015_1963_EP_SU2011_AD_05 
 "<$?>"
@@ -31,7 +31,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:06 00:00:10 tt-893 MM015_1963_EP_SU2011_AD_05 
 "<Por>"
-	"por" Preposition PREP lang:es 00:00:06 00:00:10 tt-894 MM015_1963_EP_SU2011_AD_05 @Gram:Prep:Por 
+	"por" Preposition PREP lang:es 00:00:06 00:00:10 tt-894 MM015_1963_EP_SU2011_AD_05 @Gram:Prep:Por SUBSTITUTE:234 ADD:466 
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:06 00:00:10 tt-895 MM015_1963_EP_SU2011_AD_05 
 "<$?>"
@@ -50,31 +50,31 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:10 00:00:17 tt-901 MM015_1963_EP_SU2011_AD_05 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:10 00:00:17 tt-902 MM015_1963_EP_SU2011_AD_05 @Gram:Pron:Objeto ID:23 R:Gram:Gustar:Propios:24 
+	"yo" Pronoun PPX Singular lang:es 00:00:10 00:00:17 tt-902 MM015_1963_EP_SU2011_AD_05 @Gram:Pron:Objeto ID:23 R:Gram:Gustar:Propios:24 ADD:506 ADDRELATION(Gram:Gustar:Propios):563 
 "<gustaba>"
-	"gustar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:10 00:00:17 tt-903 MM015_1963_EP_SU2011_AD_05 @Gram:Imperf ID:24 
+	"gustar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:10 00:00:17 tt-903 MM015_1963_EP_SU2011_AD_05 @Gram:Imperf ID:24 ADD:537 
 "<mucho>"
 	"mucho" Adverb ADV lang:es 00:00:10 00:00:17 tt-904 MM015_1963_EP_SU2011_AD_05 
 "<salir>"
-	"salir" Verb VLinf Infinitive lang:es 00:00:10 00:00:17 tt-905 MM015_1963_EP_SU2011_AD_05 
+	"salir" Verb VLinf Infinitive lang:es 00:00:10 00:00:17 tt-905 MM015_1963_EP_SU2011_AD_05 SUBSTITUTE:292 
 "<al>"
-	"al" Preposition PAL lang:es 00:00:10 00:00:17 tt-906 MM015_1963_EP_SU2011_AD_05 @Gram:Prep 
+	"al" Preposition PAL lang:es 00:00:10 00:00:17 tt-906 MM015_1963_EP_SU2011_AD_05 @Gram:Prep ADD:472 
 "<sur>"
 	"sur" Other PE lang:es 00:00:10 00:00:17 tt-907 MM015_1963_EP_SU2011_AD_05 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:10 00:00:17 tt-908 MM015_1963_EP_SU2011_AD_05 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:10 00:00:17 tt-908 MM015_1963_EP_SU2011_AD_05 @Gram:Prep ADD:472 
 "<México>"
 	"México" Noun NP Singular lang:es 00:00:10 00:00:17 tt-909 MM015_1963_EP_SU2011_AD_05 
 "<,>"
 	"," Punctuation CM lang:es 00:00:10 00:00:17 tt-910 MM015_1963_EP_SU2011_AD_05 
 "<pero>"
-	"pero" Conjunction CCAD lang:es 00:00:10 00:00:17 tt-911 MM015_1963_EP_SU2011_AD_05 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:00:10 00:00:17 tt-911 MM015_1963_EP_SU2011_AD_05 @Prag:MarcadoresDisc:Revision ADD:826 
 "<nunca>"
 	"nunca" Adverb ADV lang:es 00:00:10 00:00:17 tt-912 MM015_1963_EP_SU2011_AD_05 
 "<tuve>"
-	"tener" Verb VLfin Pret Indi Sing 1st lang:es 00:00:10 00:00:17 tt-913 MM015_1963_EP_SU2011_AD_05 @Gram:Indefinido 
+	"tener" Verb VLfin Pret Indi Sing 1st lang:es 00:00:10 00:00:17 tt-913 MM015_1963_EP_SU2011_AD_05 @Gram:Indefinido ADD:546 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:10 00:00:17 tt-914 MM015_1963_EP_SU2011_AD_05 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:10 00:00:17 tt-914 MM015_1963_EP_SU2011_AD_05 @Gram:Det:Art ADD:324 
 "<oportunidad>"
 	"oportunidad" Noun NC Singular lang:es 00:00:10 00:00:17 tt-915 MM015_1963_EP_SU2011_AD_05 
 "<de>"
@@ -85,7 +85,7 @@
 	"." Punctuation FS lang:es 00:00:19 00:00:23 tt-918 MM015_1963_EP_SU2011_AD_05 
 
 "<Había>"
-	"haber" Verb VHfin Imp Indi Sing 1st_or_3rd lang:es 00:00:19 00:00:23 tt-919 MM015_1963_EP_SU2011_AD_05 @Gram:Haber:Exist 
+	"haber" Verb VHfin Imp Indi Sing 1st_or_3rd lang:es 00:00:19 00:00:23 tt-919 MM015_1963_EP_SU2011_AD_05 @Gram:Haber:Exist ADD:663 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:19 00:00:23 tt-920 MM015_1963_EP_SU2011_AD_05 
 "<oportunidades>"
@@ -93,15 +93,15 @@
 "<aquí>"
 	"aquí" Adverb ADV lang:es 00:00:19 00:00:23 tt-922 MM015_1963_EP_SU2011_AD_05 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:19 00:00:23 tt-923 MM015_1963_EP_SU2011_AD_05 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:19 00:00:23 tt-923 MM015_1963_EP_SU2011_AD_05 @Gram:Prep ADD:472 
 "<Estados>"
-	"Estados" Noun NP Plural lang:es 00:00:19 00:00:23 tt-924 MM015_1963_EP_SU2011_AD_05 ID:45 R:Vocab:Entities:Geo:46 
+	"Estados" Noun NP Plural lang:es 00:00:19 00:00:23 tt-924 MM015_1963_EP_SU2011_AD_05 ID:45 R:Vocab:Entities:Geo:46 ADDRELATION(Vocab:Entities:Geo):978 
 "<Unidos>"
 	"Unidos" Noun NP Plural lang:es 00:00:19 00:00:23 tt-925 MM015_1963_EP_SU2011_AD_05 ID:46 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:19 00:00:23 tt-926 MM015_1963_EP_SU2011_AD_05 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:00:19 00:00:23 tt-926 MM015_1963_EP_SU2011_AD_05 @Prag:MarcadoresDisc:Causa ADD:879 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:19 00:00:23 tt-927 MM015_1963_EP_SU2011_AD_05 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:19 00:00:23 tt-927 MM015_1963_EP_SU2011_AD_05 @Gram:Imperf @Gram:SerEstar:Ser ADD:537 ADD:647 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:19 00:00:23 tt-928 MM015_1963_EP_SU2011_AD_05 
 "<económico>"
@@ -111,29 +111,29 @@
 "<aparte>"
 	"aparte" Adverb ADV lang:es 00:00:23 00:00:29 tt-931 MM015_1963_EP_SU2011_AD_05 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:23 00:00:29 tt-932 MM015_1963_EP_SU2011_AD_05 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:23 00:00:29 tt-932 MM015_1963_EP_SU2011_AD_05 @Gram:Prep ADD:472 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:23 00:00:29 tt-933 MM015_1963_EP_SU2011_AD_05 
 "<crecieron>"
-	"crecer" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:23 00:00:29 tt-934 MM015_1963_EP_SU2011_AD_05 @Gram:Indefinido 
+	"crecer" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:23 00:00:29 tt-934 MM015_1963_EP_SU2011_AD_05 @Gram:Indefinido ADD:546 
 "<mis>"
-	"mío" Pronoun PPO Plural lang:es 00:00:23 00:00:29 tt-935 MM015_1963_EP_SU2011_AD_05 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:00:23 00:00:29 tt-935 MM015_1963_EP_SU2011_AD_05 @Gram:Det:Pos SUBSTITUTE:281 ADD:351 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:23 00:00:29 tt-936 MM015_1963_EP_SU2011_AD_05 
 "<y>"
 	"y" Conjunction CC lang:es 00:00:23 00:00:29 tt-937 MM015_1963_EP_SU2011_AD_05 
 "<ellos>"
-	"él" Pronoun PPX Plural lang:es 00:00:23 00:00:29 tt-938 MM015_1963_EP_SU2011_AD_05 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Plural lang:es 00:00:23 00:00:29 tt-938 MM015_1963_EP_SU2011_AD_05 @Gram:Pron:Sujeto ADD:482 
 "<no>"
 	"no" Adverb NEG lang:es 00:00:23 00:00:29 tt-939 MM015_1963_EP_SU2011_AD_05 
 "<quieren>"
 	"querer" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:23 00:00:29 tt-940 MM015_1963_EP_SU2011_AD_05 
 "<saber>"
-	"saber" Verb VLinf Infinitive lang:es 00:00:23 00:00:29 tt-941 MM015_1963_EP_SU2011_AD_05 
+	"saber" Verb VLinf Infinitive lang:es 00:00:23 00:00:29 tt-941 MM015_1963_EP_SU2011_AD_05 SUBSTITUTE:292 
 "<nada>"
 	"nada" Determiner QU lang:es 00:00:23 00:00:29 tt-942 MM015_1963_EP_SU2011_AD_05 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:23 00:00:29 tt-943 MM015_1963_EP_SU2011_AD_05 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:23 00:00:29 tt-943 MM015_1963_EP_SU2011_AD_05 @Gram:Prep ADD:472 
 "<mi>"
 	"mío" Pronoun PPO Singular lang:es 00:00:23 00:00:29 tt-944 MM015_1963_EP_SU2011_AD_05 
 "<país>"
@@ -142,7 +142,7 @@
 	"." Punctuation FS lang:es 00:00:23 00:00:29 tt-946 MM015_1963_EP_SU2011_AD_05 
 
 "<Ellos>"
-	"él" Pronoun PPX Plural lang:es 00:00:23 00:00:29 tt-947 MM015_1963_EP_SU2011_AD_05 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Plural lang:es 00:00:23 00:00:29 tt-947 MM015_1963_EP_SU2011_AD_05 @Gram:Pron:Sujeto ADD:482 
 "<nada>"
 	"nada" Determiner QU lang:es 00:00:23 00:00:29 tt-948 MM015_1963_EP_SU2011_AD_05 
 "<más>"

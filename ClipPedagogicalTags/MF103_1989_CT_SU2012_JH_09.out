@@ -12,13 +12,13 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:07 tt-1414 MF103_1989_CT_SU2012_JH_09 
 "<Hay>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-1415 MF103_1989_CT_SU2012_JH_09 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-1415 MF103_1989_CT_SU2012_JH_09 @Gram:Haber:Exist ADD:663 
 "<dialectos>"
 	"dialecto" Noun NC Plural lang:es 00:00:00 00:00:07 tt-1416 MF103_1989_CT_SU2012_JH_09 
 "<distintos>"
 	"distinto" Adjective ADJ Plural lang:es 00:00:00 00:00:07 tt-1417 MF103_1989_CT_SU2012_JH_09 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-1418 MF103_1989_CT_SU2012_JH_09 @Gram:Prep 
+	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-1418 MF103_1989_CT_SU2012_JH_09 @Gram:Prep ADD:472 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:00 00:00:07 tt-1419 MF103_1989_CT_SU2012_JH_09 
 "<que>"
@@ -26,30 +26,30 @@
 "<se>"
 	"se" Other SE lang:es 00:00:00 00:00:07 tt-1421 MF103_1989_CT_SU2012_JH_09 
 "<hablan>"
-	"hablar" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:00 00:00:07 tt-1422 MF103_1989_CT_SU2012_JH_09 ID:13 R:Vocab:Fraseol:VerbPrep:14 
+	"hablar" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:00 00:00:07 tt-1422 MF103_1989_CT_SU2012_JH_09 ID:13 R:Vocab:Fraseol:VerbPrep:14 ADDRELATION(Vocab:Fraseol:VerbPrep):985 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-1423 MF103_1989_CT_SU2012_JH_09 @Gram:Prep ID:14 
+	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-1423 MF103_1989_CT_SU2012_JH_09 @Gram:Prep ID:14 ADD:472 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:00 00:00:07 tt-1425 MF103_1989_CT_SU2012_JH_09 
 
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:00 00:00:07 tt-1426 MF103_1989_CT_SU2012_JH_09 
 "<por>"
-	"por" Preposition PREP lang:es 00:00:00 00:00:07 tt-1427 MF103_1989_CT_SU2012_JH_09 @Gram:Prep:Por 
+	"por" Preposition PREP lang:es 00:00:00 00:00:07 tt-1427 MF103_1989_CT_SU2012_JH_09 @Gram:Prep:Por SUBSTITUTE:234 ADD:466 
 "<dialectos>"
 	"dialecto" Noun NC Plural lang:es 00:00:00 00:00:07 tt-1428 MF103_1989_CT_SU2012_JH_09 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:11 00:00:15 tt-1429 MF103_1989_CT_SU2012_JH_09 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:11 00:00:15 tt-1429 MF103_1989_CT_SU2012_JH_09 @Gram:Pron:Objeto ADD:506 
 "<refiero>"
 	"referir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:11 00:00:15 tt-1430 MF103_1989_CT_SU2012_JH_09 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:11 00:00:15 tt-1431 MF103_1989_CT_SU2012_JH_09 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:11 00:00:15 tt-1431 MF103_1989_CT_SU2012_JH_09 @Gram:Prep ADD:472 
 "<diferentes>"
 	"diferente" Adjective ADJ Plural lang:es 00:00:11 00:00:15 tt-1432 MF103_1989_CT_SU2012_JH_09 
 "<variantes>"
 	"variante" Noun NC Plural lang:es 00:00:11 00:00:15 tt-1433 MF103_1989_CT_SU2012_JH_09 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:11 00:00:15 tt-1434 MF103_1989_CT_SU2012_JH_09 @Gram:Prep 
+	"del" Preposition PDEL lang:es 00:00:11 00:00:15 tt-1434 MF103_1989_CT_SU2012_JH_09 @Gram:Prep ADD:472 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:11 00:00:15 tt-1435 MF103_1989_CT_SU2012_JH_09 
 "<$?>"
@@ -58,17 +58,17 @@
 <speaker type="subj">
 
 "<Se>"
-	"se" Other SE lang:es 00:00:15 00:00:22 tt-1437 MF103_1989_CT_SU2012_JH_09 @Gram:Pron:Otros 
+	"se" Other SE lang:es 00:00:15 00:00:22 tt-1437 MF103_1989_CT_SU2012_JH_09 @Gram:Pron:Otros ADD:525 
 "<puede>"
 	"poder" Verb VMfin lang:es 00:00:15 00:00:22 tt-1438 MF103_1989_CT_SU2012_JH_09 
 "<decir>"
-	"decir" Verb VLinf Infinitive lang:es 00:00:15 00:00:22 tt-1439 MF103_1989_CT_SU2012_JH_09 
+	"decir" Verb VLinf Infinitive lang:es 00:00:15 00:00:22 tt-1439 MF103_1989_CT_SU2012_JH_09 SUBSTITUTE:292 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:15 00:00:22 tt-1440 MF103_1989_CT_SU2012_JH_09 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:15 00:00:22 tt-1440 MF103_1989_CT_SU2012_JH_09 @Gram:Det:Art ADD:324 
 "<parte>"
 	"parte" Noun NC Singular lang:es 00:00:15 00:00:22 tt-1441 MF103_1989_CT_SU2012_JH_09 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:15 00:00:22 tt-1442 MF103_1989_CT_SU2012_JH_09 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:15 00:00:22 tt-1442 MF103_1989_CT_SU2012_JH_09 @Gram:Prep ADD:472 
 "<regionales>"
 	"regional" Adjective ADJ Plural lang:es 00:00:15 00:00:22 tt-1443 MF103_1989_CT_SU2012_JH_09 
 "<,>"
@@ -76,17 +76,17 @@
 "<depende>"
 	"depender" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:15 00:00:22 tt-1445 MF103_1989_CT_SU2012_JH_09 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:15 00:00:22 tt-1446 MF103_1989_CT_SU2012_JH_09 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:15 00:00:22 tt-1446 MF103_1989_CT_SU2012_JH_09 @Gram:Prep ADD:472 
 "<donde>"
 	"donde" Adverb ADV lang:es 00:00:15 00:00:22 tt-1447 MF103_1989_CT_SU2012_JH_09 
 "<venga>"
-	"vengar|venir" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:15 00:00:22 tt-1448 MF103_1989_CT_SU2012_JH_09 @Gram:MSub:Pres 
+	"vengar|venir" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:15 00:00:22 tt-1448 MF103_1989_CT_SU2012_JH_09 @Gram:MSub:Pres ADD:616 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:15 00:00:22 tt-1449 MF103_1989_CT_SU2012_JH_09 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:15 00:00:22 tt-1449 MF103_1989_CT_SU2012_JH_09 @Gram:Det:Art ADD:324 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:15 00:00:22 tt-1450 MF103_1989_CT_SU2012_JH_09 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:15 00:00:22 tt-1451 MF103_1989_CT_SU2012_JH_09 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:15 00:00:22 tt-1451 MF103_1989_CT_SU2012_JH_09 @Gram:Det:Art ADD:324 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:15 00:00:22 tt-1452 MF103_1989_CT_SU2012_JH_09 
 "<$.>"
@@ -105,7 +105,7 @@
 "<ves>"
 	"ver" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:22 00:00:25 tt-1458 MF103_1989_CT_SU2012_JH_09 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:22 00:00:25 tt-1459 MF103_1989_CT_SU2012_JH_09 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:22 00:00:25 tt-1459 MF103_1989_CT_SU2012_JH_09 @Gram:Pron:Sujeto ADD:482 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:22 00:00:25 tt-1460 MF103_1989_CT_SU2012_JH_09 
 </speaker>
@@ -114,7 +114,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:25 00:00:30 tt-1462 MF103_1989_CT_SU2012_JH_09 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:25 00:00:30 tt-1463 MF103_1989_CT_SU2012_JH_09 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:25 00:00:30 tt-1463 MF103_1989_CT_SU2012_JH_09 @Gram:Pron:Sujeto ADD:482 
 "<diría>"
 	"decir" Verb VLfin Cond Indi Sing 1st_or_3rd lang:es 00:00:25 00:00:30 tt-1464 MF103_1989_CT_SU2012_JH_09 
 "<pues>"
@@ -122,17 +122,17 @@
 "<si>"
 	"si" Conjunction CSUBX lang:es 00:00:25 00:00:30 tt-1466 MF103_1989_CT_SU2012_JH_09 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:25 00:00:30 tt-1467 MF103_1989_CT_SU2012_JH_09 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:00:25 00:00:30 tt-1467 MF103_1989_CT_SU2012_JH_09 @Gram:Det:Art ADD:324 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:25 00:00:30 tt-1468 MF103_1989_CT_SU2012_JH_09 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:25 00:00:30 tt-1468 MF103_1989_CT_SU2012_JH_09 @Gram:Prep ADD:472 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:25 00:00:30 tt-1469 MF103_1989_CT_SU2012_JH_09 
 "<por>"
-	"por" Preposition PREP lang:es 00:00:25 00:00:30 tt-1470 MF103_1989_CT_SU2012_JH_09 @Gram:Prep:Por ID:59 R:Prag:MarcadoresDisc:Igualdad:60 
+	"por" Preposition PREP lang:es 00:00:25 00:00:30 tt-1470 MF103_1989_CT_SU2012_JH_09 @Gram:Prep:Por ID:59 R:Prag:MarcadoresDisc:Igualdad:60 SUBSTITUTE:234 ADD:454 ADDRELATION(Prag:MarcadoresDisc:Igualdad):916 
 "<ejemplo>"
 	"ejemplo" Adverb ADV lang:es 00:00:25 00:00:30 tt-1471 MF103_1989_CT_SU2012_JH_09 ID:60 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:25 00:00:30 tt-1472 MF103_1989_CT_SU2012_JH_09 @Gram:Prep 
+	"del" Preposition PDEL lang:es 00:00:25 00:00:30 tt-1472 MF103_1989_CT_SU2012_JH_09 @Gram:Prep ADD:472 
 "<D>"
 	"D" Other ALFS lang:es 00:00:25 00:00:30 tt-1473 MF103_1989_CT_SU2012_JH_09 
 "<$.>"
@@ -146,19 +146,19 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:25 00:00:30 tt-1477 MF103_1989_CT_SU2012_JH_09 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:25 00:00:30 tt-1478 MF103_1989_CT_SU2012_JH_09 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:00:25 00:00:30 tt-1478 MF103_1989_CT_SU2012_JH_09 @Gram:Det:Art ADD:324 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:25 00:00:30 tt-1479 MF103_1989_CT_SU2012_JH_09 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:25 00:00:30 tt-1479 MF103_1989_CT_SU2012_JH_09 @Gram:Prep ADD:472 
 "<Monterrey>"
 	"Monterrey" Noun NP Singular lang:es 00:00:25 00:00:30 tt-1480 MF103_1989_CT_SU2012_JH_09 
 "<,>"
 	"," Punctuation CM lang:es 00:00:25 00:00:30 tt-1481 MF103_1989_CT_SU2012_JH_09 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:25 00:00:30 tt-1482 MF103_1989_CT_SU2012_JH_09 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:00:25 00:00:30 tt-1482 MF103_1989_CT_SU2012_JH_09 @Gram:Det:Art ADD:324 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:25 00:00:30 tt-1483 MF103_1989_CT_SU2012_JH_09 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:25 00:00:30 tt-1483 MF103_1989_CT_SU2012_JH_09 @Gram:Prep ADD:472 
 "<esta>"
-	"este" Determiner DM Singular lang:es 00:00:30 00:00:36 tt-1484 MF103_1989_CT_SU2012_JH_09 @Gram:Det:Demo 
+	"este" Determiner DM Singular lang:es 00:00:30 00:00:36 tt-1484 MF103_1989_CT_SU2012_JH_09 @Gram:Det:Demo ADD:336 
 "<área>"
 	"área" Noun NC Singular lang:es 00:00:30 00:00:36 tt-1485 MF103_1989_CT_SU2012_JH_09 
 "<$.>"
@@ -177,9 +177,9 @@
 "<puede>"
 	"poder" Verb VMfin lang:es 00:00:30 00:00:36 tt-1492 MF103_1989_CT_SU2012_JH_09 
 "<entender>"
-	"entender" Verb VLinf Infinitive lang:es 00:00:30 00:00:36 tt-1493 MF103_1989_CT_SU2012_JH_09 
+	"entender" Verb VLinf Infinitive lang:es 00:00:30 00:00:36 tt-1493 MF103_1989_CT_SU2012_JH_09 SUBSTITUTE:292 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:30 00:00:36 tt-1494 MF103_1989_CT_SU2012_JH_09 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:30 00:00:36 tt-1494 MF103_1989_CT_SU2012_JH_09 @Gram:Prep ADD:472 
 "<diferente>"
 	"diferente" Adjective ADJ Singular lang:es 00:00:30 00:00:36 tt-1495 MF103_1989_CT_SU2012_JH_09 
 "<forma>"

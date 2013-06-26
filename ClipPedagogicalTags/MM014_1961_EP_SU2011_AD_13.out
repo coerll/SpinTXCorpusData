@@ -3,21 +3,21 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:07 tt-2582 MM014_1961_EP_SU2011_AD_13 
 "<En>"
-	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-2583 MM014_1961_EP_SU2011_AD_13 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-2583 MM014_1961_EP_SU2011_AD_13 @Gram:Prep ADD:472 
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:00 00:00:07 tt-2584 MM014_1961_EP_SU2011_AD_13 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-2585 MM014_1961_EP_SU2011_AD_13 ID:4 R:Gram:Aux:Haber:5 R:Gram:PerfPerif:5 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-2585 MM014_1961_EP_SU2011_AD_13 ID:4 R:Gram:Aux:Haber:5 R:Gram:PerfPerif:5 ADDRELATION():553 
 "<resultado>"
 	"resultar" Verb VLadj lang:es 00:00:00 00:00:07 tt-2586 MM014_1961_EP_SU2011_AD_13 ID:5 
 "<diferente>"
 	"diferente" Adjective ADJ Singular lang:es 00:00:00 00:00:07 tt-2587 MM014_1961_EP_SU2011_AD_13 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-2588 MM014_1961_EP_SU2011_AD_13 @Gram:Det:Pos 
+	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-2588 MM014_1961_EP_SU2011_AD_13 @Gram:Det:Pos ADD:350 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:00 00:00:07 tt-2589 MM014_1961_EP_SU2011_AD_13 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-2590 MM014_1961_EP_SU2011_AD_13 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-2590 MM014_1961_EP_SU2011_AD_13 @Gram:Prep ADD:472 
 "<lo>"
 	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-2591 MM014_1961_EP_SU2011_AD_13 
 "<que>"
@@ -48,19 +48,19 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:11 00:00:18 tt-2604 MM014_1961_EP_SU2011_AD_13 
 "<soñar>"
-	"soñar" Verb VLinf Infinitive lang:es 00:00:11 00:00:18 tt-2605 MM014_1961_EP_SU2011_AD_13 
+	"soñar" Verb VLinf Infinitive lang:es 00:00:11 00:00:18 tt-2605 MM014_1961_EP_SU2011_AD_13 SUBSTITUTE:292 
 "<para>"
 	"para" Conjunction CSUBI lang:es 00:00:11 00:00:18 tt-2606 MM014_1961_EP_SU2011_AD_13 
 "<poder>"
-	"poder" Verb VMinf lang:es 00:00:11 00:00:18 tt-2607 MM014_1961_EP_SU2011_AD_13 
+	"poder" Verb VLinf VMinf lang:es 00:00:11 00:00:18 tt-2607 MM014_1961_EP_SU2011_AD_13 SUBSTITUTE:292 
 "<lograr>"
-	"lograr" Verb VLinf Infinitive lang:es 00:00:11 00:00:18 tt-2608 MM014_1961_EP_SU2011_AD_13 
+	"lograr" Verb VLinf Infinitive lang:es 00:00:11 00:00:18 tt-2608 MM014_1961_EP_SU2011_AD_13 SUBSTITUTE:292 
 "<lo>"
 	"el" Determiner ART Singular lang:es 00:00:11 00:00:18 tt-2609 MM014_1961_EP_SU2011_AD_13 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:11 00:00:18 tt-2610 MM014_1961_EP_SU2011_AD_13 
 "<uno>"
-	"uno" Determiner CARD Singular lang:es 00:00:11 00:00:18 tt-2611 MM014_1961_EP_SU2011_AD_13 
+	"uno" Determiner CARD Singular lang:es 00:00:11 00:00:18 tt-2611 MM014_1961_EP_SU2011_AD_13 @Gram:Pron:Sujeto ADD:490 
 "<quiere>"
 	"querer" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:11 00:00:18 tt-2612 MM014_1961_EP_SU2011_AD_13 
 "<$.>"
@@ -71,7 +71,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:11 00:00:18 tt-2615 MM014_1961_EP_SU2011_AD_13 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:24 00:00:31 tt-2616 MM014_1961_EP_SU2011_AD_13 ID:34 R:Gram:Aux:Haber:35 R:Gram:PerfPerif:35 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:24 00:00:31 tt-2616 MM014_1961_EP_SU2011_AD_13 ID:34 R:Gram:Aux:Haber:35 R:Gram:PerfPerif:35 ADDRELATION():553 
 "<alcanzado>"
 	"alcanzar" Verb VLadj lang:es 00:00:24 00:00:31 tt-2617 MM014_1961_EP_SU2011_AD_13 ID:35 
 "<algunas>"
@@ -87,13 +87,13 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:24 00:00:31 tt-2623 MM014_1961_EP_SU2011_AD_13 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:24 00:00:31 tt-2624 MM014_1961_EP_SU2011_AD_13 ID:42 R:Gram:Aux:Haber:43 R:Gram:PerfPerif:43 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:24 00:00:31 tt-2624 MM014_1961_EP_SU2011_AD_13 ID:42 R:Gram:Aux:Haber:43 R:Gram:PerfPerif:43 ADDRELATION():553 
 "<cumplido>"
 	"cumplir" Verb VLadj lang:es 00:00:24 00:00:31 tt-2625 MM014_1961_EP_SU2011_AD_13 ID:43 
 "<todos>"
 	"todo" Determiner QU lang:es 00:00:24 00:00:31 tt-2626 MM014_1961_EP_SU2011_AD_13 
 "<mis>"
-	"mío" Pronoun PPO Plural lang:es 00:00:24 00:00:31 tt-2627 MM014_1961_EP_SU2011_AD_13 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:00:24 00:00:31 tt-2627 MM014_1961_EP_SU2011_AD_13 @Gram:Det:Pos SUBSTITUTE:281 ADD:351 
 "<sueños>"
 	"sueño" Noun NC Plural lang:es 00:00:24 00:00:31 tt-2628 MM014_1961_EP_SU2011_AD_13 
 "<,>"
@@ -105,7 +105,7 @@
 "<todavía>"
 	"todavía" Adverb ADV lang:es 00:00:32 00:00:39 tt-2632 MM014_1961_EP_SU2011_AD_13 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:32 00:00:39 tt-2633 MM014_1961_EP_SU2011_AD_13 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:32 00:00:39 tt-2633 MM014_1961_EP_SU2011_AD_13 @Gram:SerEstar:Estar ADD:656 
 "<vivo>"
 	"vivo" Adjective ADJ Singular lang:es 00:00:32 00:00:39 tt-2634 MM014_1961_EP_SU2011_AD_13 
 "<,>"
@@ -115,7 +115,7 @@
 "<pienso>"
 	"pensar" Verb VLfin Pres Indi Sing 1st lang:es 00:00:32 00:00:39 tt-2637 MM014_1961_EP_SU2011_AD_13 
 "<alcanzar>"
-	"alcanzar" Verb VLinf Infinitive lang:es 00:00:32 00:00:39 tt-2638 MM014_1961_EP_SU2011_AD_13 
+	"alcanzar" Verb VLinf Infinitive lang:es 00:00:32 00:00:39 tt-2638 MM014_1961_EP_SU2011_AD_13 SUBSTITUTE:292 
 "<una>"
 	"un" Determiner ART Singular lang:es 00:00:32 00:00:39 tt-2639 MM014_1961_EP_SU2011_AD_13 
 "<que>"
@@ -143,7 +143,7 @@
 "<arrepiente>"
 	"UNK" Verb VLfin Pres Command Plural 2nd lang:es 00:00:39 00:00:46 tt-2649 MM014_1961_EP_SU2011_AD_13 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:39 00:00:46 tt-2650 MM014_1961_EP_SU2011_AD_13 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:39 00:00:46 tt-2650 MM014_1961_EP_SU2011_AD_13 @Gram:Prep ADD:472 
 "<algo>"
 	"algo" Determiner QU lang:es 00:00:39 00:00:46 tt-2651 MM014_1961_EP_SU2011_AD_13 
 "<$?>"
@@ -156,7 +156,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:47 00:00:54 tt-2654 MM014_1961_EP_SU2011_AD_13 
 "<tal>"
-	"tal" Adverb ADV lang:es 00:00:47 00:00:54 tt-2655 MM014_1961_EP_SU2011_AD_13 ID:73 R:Prag:MarcadoresDisc:Igualdad:74 
+	"tal" Adverb ADV lang:es 00:00:47 00:00:54 tt-2655 MM014_1961_EP_SU2011_AD_13 ID:73 R:Prag:MarcadoresDisc:Igualdad:74 ADDRELATION(Prag:MarcadoresDisc:Igualdad):931 
 "<vez>"
 	"vez" Adverb ADV lang:es 00:00:47 00:00:54 tt-2656 MM014_1961_EP_SU2011_AD_13 ID:74 
 "<a>"
@@ -164,9 +164,9 @@
 "<veces>"
 	"veces" Adverb ADV lang:es 00:00:47 00:00:54 tt-2658 MM014_1961_EP_SU2011_AD_13 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:47 00:00:54 tt-2659 MM014_1961_EP_SU2011_AD_13 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:47 00:00:54 tt-2659 MM014_1961_EP_SU2011_AD_13 @Gram:Prep ADD:472 
 "<ser>"
-	"ser" Verb VSinf Infinitive lang:es 00:00:47 00:00:54 tt-2660 MM014_1961_EP_SU2011_AD_13 @Gram:SerEstar:Ser 
+	"ser" Verb VLinf VSinf Infinitive lang:es 00:00:47 00:00:54 tt-2660 MM014_1961_EP_SU2011_AD_13 @Gram:SerEstar:Ser SUBSTITUTE:292 ADD:647 
 "<demasiado>"
 	"demasiado" Adverb ADV lang:es 00:00:47 00:00:54 tt-2661 MM014_1961_EP_SU2011_AD_13 
 "<confiado>"
@@ -176,13 +176,13 @@
 "<de>"
 	"de" Conjunction CSUBI lang:es 00:00:47 00:00:54 tt-2664 MM014_1961_EP_SU2011_AD_13 
 "<confiar>"
-	"confiar" Verb VLinf Infinitive lang:es 00:00:47 00:00:54 tt-2665 MM014_1961_EP_SU2011_AD_13 
+	"confiar" Verb VLinf Infinitive lang:es 00:00:47 00:00:54 tt-2665 MM014_1961_EP_SU2011_AD_13 SUBSTITUTE:292 
 "<mucho>"
 	"mucho" Adverb ADV lang:es 00:00:47 00:00:54 tt-2666 MM014_1961_EP_SU2011_AD_13 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:47 00:00:54 tt-2667 MM014_1961_EP_SU2011_AD_13 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:47 00:00:54 tt-2667 MM014_1961_EP_SU2011_AD_13 @Gram:Prep ADD:472 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:47 00:00:54 tt-2668 MM014_1961_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:47 00:00:54 tt-2668 MM014_1961_EP_SU2011_AD_13 @Gram:Det:Art ADD:324 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:47 00:00:54 tt-2669 MM014_1961_EP_SU2011_AD_13 
 "<,>"
@@ -198,9 +198,9 @@
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:00:57 00:01:01 tt-2675 MM014_1961_EP_SU2011_AD_13 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:57 00:01:01 tt-2676 MM014_1961_EP_SU2011_AD_13 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:57 00:01:01 tt-2676 MM014_1961_EP_SU2011_AD_13 @Gram:SerEstar:Ser ADD:647 
 "<lo>"
-	"el" Determiner ART Singular lang:es 00:00:57 00:01:01 tt-2677 MM014_1961_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:57 00:01:01 tt-2677 MM014_1961_EP_SU2011_AD_13 @Gram:Det:Art ADD:329 
 "<mejor>"
 	"bueno" Adjective ADJ Singular lang:es 00:00:57 00:01:01 tt-2678 MM014_1961_EP_SU2011_AD_13 
 "<$.>"

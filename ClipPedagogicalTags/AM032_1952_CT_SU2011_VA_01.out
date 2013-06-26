@@ -10,9 +10,9 @@
 "<Hoy>"
 	"hoy" Adverb ADV lang:es 00:00:00 00:00:07 tt-4 AM032_1952_CT_SU2011_VA_01 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-5 AM032_1952_CT_SU2011_VA_01 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-5 AM032_1952_CT_SU2011_VA_01 @Gram:SerEstar:Ser ADD:647 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-6 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-6 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art ADD:324 
 "<veinte>"
 	"veinte" Determiner CARD Singular lang:es 00:00:00 00:00:07 tt-7 AM032_1952_CT_SU2011_VA_01 
 "<y>"
@@ -20,11 +20,11 @@
 "<ocho>"
 	"ocho" Determiner CARD Singular lang:es 00:00:00 00:00:07 tt-9 AM032_1952_CT_SU2011_VA_01 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-10 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-10 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<julio>"
 	"julio" Noun NC Singular lang:es 00:00:00 00:00:07 tt-11 AM032_1952_CT_SU2011_VA_01 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-12 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-12 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<dos>"
 	"dos" Determiner CARD Plural lang:es 00:00:00 00:00:07 tt-13 AM032_1952_CT_SU2011_VA_01 
 "<mil>"
@@ -35,11 +35,11 @@
 	"." Punctuation FS lang:es 00:00:00 00:00:07 tt-16 AM032_1952_CT_SU2011_VA_01 
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-17 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-17 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos ADD:350 
 "<nombre>"
 	"nombre" Noun NC Singular lang:es 00:00:00 00:00:07 tt-18 AM032_1952_CT_SU2011_VA_01 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-19 AM032_1952_CT_SU2011_VA_01 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-19 AM032_1952_CT_SU2011_VA_01 @Gram:SerEstar:Ser ADD:647 
 "<Paul>"
 	"Paul" Noun NP Singular lang:es 00:00:00 00:00:07 tt-20 AM032_1952_CT_SU2011_VA_01 
 "<...>"
@@ -47,17 +47,17 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:00 00:00:07 tt-22 AM032_1952_CT_SU2011_VA_01 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-23 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-23 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Sujeto ADD:482 
 "<nací>"
-	"nacer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:00 00:00:07 tt-24 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"nacer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:00 00:00:07 tt-24 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:09 00:00:16 tt-25 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:09 00:00:16 tt-25 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<Waco>"
 	"UNK" Noun NP Singular lang:es 00:00:09 00:00:16 tt-26 AM032_1952_CT_SU2011_VA_01 
 "<,>"
 	"," Punctuation CM lang:es 00:00:09 00:00:16 tt-27 AM032_1952_CT_SU2011_VA_01 
 "<Texas>"
-	"00:00:11,950" >>s lang:es 00:59:58 tt-28 AM032_1952_CT_SU2011_VA_01 
+	"00:00:11,950" >>s lang:es 00:59:58 00:59:58 tt-28 AM032_1952_CT_SU2011_VA_01 
 "<,>"
 	"," Punctuation CM lang:es 00:00:09 00:00:16 tt-29 AM032_1952_CT_SU2011_VA_01 
 "<mil>"
@@ -80,7 +80,7 @@
 "<quiere>"
 	"querer" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:09 00:00:16 tt-38 AM032_1952_CT_SU2011_VA_01 
 "<decir>"
-	"decir" Verb VLinf Infinitive lang:es 00:00:09 00:00:16 tt-39 AM032_1952_CT_SU2011_VA_01 
+	"decir" Verb VLinf Infinitive lang:es 00:00:09 00:00:16 tt-39 AM032_1952_CT_SU2011_VA_01 SUBSTITUTE:292 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:09 00:00:16 tt-40 AM032_1952_CT_SU2011_VA_01 
 "<tengo>"
@@ -103,15 +103,15 @@
 	"." Punctuation FS lang:es 00:00:09 00:00:16 tt-49 AM032_1952_CT_SU2011_VA_01 
 
 "<Nací>"
-	"nacer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:09 00:00:16 tt-50 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"nacer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:09 00:00:16 tt-50 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:09 00:00:16 tt-51 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:09 00:00:16 tt-51 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<Waco>"
 	"UNK" Noun NP Singular lang:es 00:00:21 00:00:28 tt-52 AM032_1952_CT_SU2011_VA_01 
 "<,>"
 	"," Punctuation CM lang:es 00:00:21 00:00:28 tt-53 AM032_1952_CT_SU2011_VA_01 
 "<Texas>"
-	"00:00:23,220" >>s lang:es 00:59:58 tt-54 AM032_1952_CT_SU2011_VA_01 
+	"00:00:23,220" >>s lang:es 00:59:58 00:59:58 tt-54 AM032_1952_CT_SU2011_VA_01 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:21 00:00:28 tt-55 AM032_1952_CT_SU2011_VA_01 
 
@@ -126,13 +126,13 @@
 "<resido>"
 	"UNK" Verb VLadj lang:es 00:00:21 00:00:28 tt-60 AM032_1952_CT_SU2011_VA_01 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:21 00:00:28 tt-61 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:21 00:00:28 tt-61 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<Irving>"
 	"UNK" Noun NP Singular lang:es 00:00:21 00:00:28 tt-62 AM032_1952_CT_SU2011_VA_01 
 "<,>"
 	"," Punctuation CM lang:es 00:00:21 00:00:28 tt-63 AM032_1952_CT_SU2011_VA_01 
 "<Texas>"
-	"00:00:23,220" >>s lang:es 00:59:58 tt-64 AM032_1952_CT_SU2011_VA_01 
+	"00:00:23,220" >>s lang:es 00:59:58 00:59:58 tt-64 AM032_1952_CT_SU2011_VA_01 
 "<,>"
 	"," Punctuation CM lang:es 00:00:21 00:00:28 tt-65 AM032_1952_CT_SU2011_VA_01 
 "<aquí>"
@@ -140,9 +140,9 @@
 "<cerca>"
 	"cerca" Adverb ADV lang:es 00:00:21 00:00:28 tt-67 AM032_1952_CT_SU2011_VA_01 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:21 00:00:28 tt-68 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:21 00:00:28 tt-68 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:21 00:00:28 tt-69 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:21 00:00:28 tt-69 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos ADD:350 
 "<amiga>"
 	"amigo" Noun NC Singular lang:es 00:00:21 00:00:28 tt-70 AM032_1952_CT_SU2011_VA_01 
 "<Vania>"
@@ -172,15 +172,15 @@
 "<Ahora>"
 	"ahora" Adverb ADV lang:es 00:00:31 00:00:37 tt-81 AM032_1952_CT_SU2011_VA_01 
 "<nos>"
-	"nosotros" Pronoun PPX Plural lang:es 00:00:31 00:00:37 tt-82 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto 
+	"nosotros" Pronoun PPX Plural lang:es 00:00:31 00:00:37 tt-82 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto ADD:506 
 "<puede>"
 	"poder" Verb VMfin lang:es 00:00:31 00:00:37 tt-83 AM032_1952_CT_SU2011_VA_01 
 "<platicar>"
-	"platicar" Verb VLinf Infinitive lang:es 00:00:31 00:00:37 tt-84 AM032_1952_CT_SU2011_VA_01 
+	"platicar" Verb VLinf Infinitive lang:es 00:00:31 00:00:37 tt-84 AM032_1952_CT_SU2011_VA_01 SUBSTITUTE:292 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:31 00:00:37 tt-85 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:31 00:00:37 tt-85 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:31 00:00:37 tt-86 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
+	"suyo" Pronoun PPO Singular lang:es 00:00:31 00:00:37 tt-86 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos ADD:350 
 "<niñez>"
 	"niñez" Noun NC Singular lang:es 00:00:31 00:00:37 tt-87 AM032_1952_CT_SU2011_VA_01 
 "<$?>"
@@ -200,13 +200,13 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:37 00:00:44 tt-94 AM032_1952_CT_SU2011_VA_01 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:37 00:00:44 tt-95 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art ID:95 R:Gram:Genero:ExcepMasc:96 
+	"el" Determiner ART Singular lang:es 00:00:37 00:00:44 tt-95 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art ID:95 R:Gram:Genero:ExcepMasc:96 ADD:324 ADDRELATION(Gram:Genero:ExcepMasc):371 
 "<día>"
 	"día" Noun NC Singular lang:es 00:00:37 00:00:44 tt-96 AM032_1952_CT_SU2011_VA_01 ID:96 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:37 00:00:44 tt-97 AM032_1952_CT_SU2011_VA_01 
 "<nací>"
-	"nacer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:37 00:00:44 tt-98 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"nacer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:37 00:00:44 tt-98 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<no>"
 	"no" Adverb NEG lang:es 00:00:37 00:00:44 tt-99 AM032_1952_CT_SU2011_VA_01 
 "<recuer>"
@@ -216,7 +216,7 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:37 00:00:44 tt-102 AM032_1952_CT_SU2011_VA_01 
 "<lo>"
-	"él" Pronoun PPC Singular lang:es 00:00:37 00:00:44 tt-103 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:00:37 00:00:44 tt-103 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto ADD:512 
 "<recuerdo>"
 	"recordar" Verb VLfin Pres Indi Sing 1st lang:es 00:00:37 00:00:44 tt-104 AM032_1952_CT_SU2011_VA_01 
 "<muy>"
@@ -227,9 +227,9 @@
 	"." Punctuation FS lang:es 00:00:37 00:00:44 tt-107 AM032_1952_CT_SU2011_VA_01 
 
 "<Pero>"
-	"pero" Conjunction CC lang:es 00:00:37 00:00:44 tt-108 AM032_1952_CT_SU2011_VA_01 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CC lang:es 00:00:37 00:00:44 tt-108 AM032_1952_CT_SU2011_VA_01 @Prag:MarcadoresDisc:Revision SUBSTITUTE:237 ADD:826 
 "<uh>"
-	"00:00:47,579" >>i lang:es 00:59:58 tt-109 AM032_1952_CT_SU2011_VA_01 
+	"00:00:47,579" >>i lang:es 00:59:58 00:59:58 tt-109 AM032_1952_CT_SU2011_VA_01 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:45 00:00:52 tt-110 AM032_1952_CT_SU2011_VA_01 
 "<lo>"
@@ -243,9 +243,9 @@
 "<momentos>"
 	"momento" Noun NC Plural lang:es 00:00:45 00:00:52 tt-115 AM032_1952_CT_SU2011_VA_01 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:45 00:00:52 tt-116 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:45 00:00:52 tt-116 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:45 00:00:52 tt-117 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:45 00:00:52 tt-117 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos ADD:350 
 "<niñez>"
 	"niñez" Noun NC Singular lang:es 00:00:45 00:00:52 tt-118 AM032_1952_CT_SU2011_VA_01 
 "<que>"
@@ -256,59 +256,59 @@
 	"." Punctuation FS lang:es 00:00:45 00:00:52 tt-121 AM032_1952_CT_SU2011_VA_01 
 
 "<Uno>"
-	"uno" Determiner CARD Singular lang:es 00:00:45 00:00:52 tt-122 AM032_1952_CT_SU2011_VA_01 
+	"uno" Determiner CARD Singular lang:es 00:00:45 00:00:52 tt-122 AM032_1952_CT_SU2011_VA_01 @Gram:Det:CuantIndef ADD:362 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:45 00:00:52 tt-123 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:45 00:00:52 tt-123 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<ellos>"
-	"él" Pronoun PPX Plural lang:es 00:00:45 00:00:52 tt-124 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Plural lang:es 00:00:45 00:00:52 tt-124 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Sujeto ADD:482 
 "<uh>"
-	"00:00:47,579" >>i lang:es 00:59:58 tt-125 AM032_1952_CT_SU2011_VA_01 
+	"00:00:47,579" >>i lang:es 00:59:58 00:59:58 tt-125 AM032_1952_CT_SU2011_VA_01 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:45 00:00:52 tt-126 AM032_1952_CT_SU2011_VA_01 
 "<fue>"
-	"ir" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:45 00:00:52 tt-127 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"ir" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:45 00:00:52 tt-127 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:45 00:00:52 tt-128 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:00:56,620" >>i lang:es 00:59:58 tt-129 AM032_1952_CT_SU2011_VA_01 
+	"00:00:56,620" >>i lang:es 00:59:58 00:59:58 tt-129 AM032_1952_CT_SU2011_VA_01 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:54 00:01:01 tt-130 AM032_1952_CT_SU2011_VA_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:54 00:01:01 tt-131 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:54 00:01:01 tt-131 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos ADD:350 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:54 00:01:01 tt-132 AM032_1952_CT_SU2011_VA_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:54 00:01:01 tt-133 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:54 00:01:01 tt-133 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos ADD:350 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:54 00:01:01 tt-134 AM032_1952_CT_SU2011_VA_01 
 "<nos>"
-	"nosotros" Pronoun PPX Plural lang:es 00:00:54 00:01:01 tt-135 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto 
+	"nosotros" Pronoun PPX Plural lang:es 00:00:54 00:01:01 tt-135 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto ADD:506 
 "<cambió>"
-	"cambiar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:54 00:01:01 tt-136 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"cambiar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:54 00:01:01 tt-136 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:54 00:01:01 tt-137 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:54 00:01:01 tt-137 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:54 00:01:01 tt-138 AM032_1952_CT_SU2011_VA_01 
 "<bueno>"
 	"bueno" Adjective ADJ Singular lang:es 00:00:54 00:01:01 tt-139 AM032_1952_CT_SU2011_VA_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:54 00:01:01 tt-140 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:54 00:01:01 tt-140 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos ADD:350 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:54 00:01:01 tt-141 AM032_1952_CT_SU2011_VA_01 
 "<vivió>"
-	"vivir" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:54 00:01:01 tt-142 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"vivir" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:54 00:01:01 tt-142 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:54 00:01:01 tt-143 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:54 00:01:01 tt-143 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<muchos>"
 	"mucho" Determiner QU lang:es 00:00:54 00:01:01 tt-144 AM032_1952_CT_SU2011_VA_01 
 "<lugares>"
 	"lugar" Noun NC Plural lang:es 00:00:54 00:01:01 tt-145 AM032_1952_CT_SU2011_VA_01 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:54 00:01:01 tt-146 AM032_1952_CT_SU2011_VA_01 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:00:54 00:01:01 tt-146 AM032_1952_CT_SU2011_VA_01 @Prag:MarcadoresDisc:Causa ADD:879 
 "<él>"
-	"él" Pronoun PPX Singular lang:es 00:00:54 00:01:01 tt-147 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Singular lang:es 00:00:54 00:01:01 tt-147 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Sujeto ADD:482 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:04 00:01:11 tt-148 AM032_1952_CT_SU2011_VA_01 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:04 00:01:11 tt-148 AM032_1952_CT_SU2011_VA_01 @Gram:Imperf @Gram:SerEstar:Ser ADD:537 ADD:647 
 "<predicador>"
 	"UNK" Adjective ADJ Singular lang:es 00:01:04 00:01:11 tt-149 AM032_1952_CT_SU2011_VA_01 
 "<$.>"
@@ -325,11 +325,11 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:01:04 00:01:11 tt-155 AM032_1952_CT_SU2011_VA_01 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:01:04 00:01:11 tt-156 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:01:04 00:01:11 tt-156 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Sujeto ADD:482 
 "<nací>"
-	"nacer" Verb VLfin Pret Indi Sing 1st lang:es 00:01:04 00:01:11 tt-157 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"nacer" Verb VLfin Pret Indi Sing 1st lang:es 00:01:04 00:01:11 tt-157 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<en>"
-	"en" Preposition PREP lang:es 00:01:04 00:01:11 tt-158 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:01:04 00:01:11 tt-158 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<Waco>"
 	"UNK" Noun NP Singular lang:es 00:01:04 00:01:11 tt-159 AM032_1952_CT_SU2011_VA_01 
 "<,>"
@@ -339,13 +339,13 @@
 "<fuimos>"
 	"ir|ser" Verb VLfin Pres_or_Pret Indi Plural 1st lang:es 00:01:04 00:01:11 tt-162 AM032_1952_CT_SU2011_VA_01 
 "<a>"
-	"a" Preposition PREP lang:es 00:01:04 00:01:11 tt-163 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:01:04 00:01:11 tt-163 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<Red>"
-	"00:01:06,580" >>i lang:es 00:59:58 tt-164 AM032_1952_CT_SU2011_VA_01 
+	"00:01:06,580" >>i lang:es 00:59:58 00:59:58 tt-164 AM032_1952_CT_SU2011_VA_01 
 "<Wood>"
-	"00:01:06,580" >>i lang:es 00:59:58 tt-165 AM032_1952_CT_SU2011_VA_01 
+	"00:01:06,580" >>i lang:es 00:59:58 00:59:58 tt-165 AM032_1952_CT_SU2011_VA_01 
 "<City>"
-	"00:01:13,090" >>i lang:es 00:59:58 tt-166 AM032_1952_CT_SU2011_VA_01 
+	"00:01:13,090" >>i lang:es 00:59:58 00:59:58 tt-166 AM032_1952_CT_SU2011_VA_01 
 "<,>"
 	"," Punctuation CM lang:es 00:01:11 00:01:18 tt-167 AM032_1952_CT_SU2011_VA_01 
 "<California>"
@@ -370,21 +370,21 @@
 "<precisamente>"
 	"precisamente" Adverb ADV lang:es 00:01:11 00:01:18 tt-177 AM032_1952_CT_SU2011_VA_01 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:01:11 00:01:18 tt-178 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:01:11 00:01:18 tt-178 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Sujeto ADD:482 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:01:11 00:01:18 tt-179 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:01:11 00:01:18 tt-179 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto ADD:506 
 "<tomé>"
-	"tomar" Verb VLfin Pret Indi Sing 1st lang:es 00:01:11 00:01:18 tt-180 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"tomar" Verb VLfin Pret Indi Sing 1st lang:es 00:01:11 00:01:18 tt-180 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:11 00:01:18 tt-181 AM032_1952_CT_SU2011_VA_01 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:01:11 00:01:18 tt-182 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:01:11 00:01:18 tt-182 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto ADD:506 
 "<tomaron>"
-	"tomar" Verb VLfin Pret Indi Plural 3rd lang:es 00:01:11 00:01:18 tt-183 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"tomar" Verb VLfin Pret Indi Plural 3rd lang:es 00:01:11 00:01:18 tt-183 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<fotos>"
 	"foto" Noun NC Plural lang:es 00:01:11 00:01:18 tt-184 AM032_1952_CT_SU2011_VA_01 
 "<en>"
-	"en" Preposition PREP lang:es 00:01:18 00:01:25 tt-185 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:01:18 00:01:25 tt-185 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:01:18 00:01:25 tt-186 AM032_1952_CT_SU2011_VA_01 
 "<...>"
@@ -394,37 +394,37 @@
 "<estudio>"
 	"estudio" Noun NC Singular lang:es 00:01:18 00:01:25 tt-189 AM032_1952_CT_SU2011_VA_01 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:18 00:01:25 tt-190 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:01:18 00:01:25 tt-190 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<fotografía>"
 	"fotografía" Noun NC Singular lang:es 00:01:18 00:01:25 tt-191 AM032_1952_CT_SU2011_VA_01 
 "<y>"
 	"y" Conjunction CC lang:es 00:01:18 00:01:25 tt-192 AM032_1952_CT_SU2011_VA_01 
 "<según>"
-	"según" Preposition PREP lang:es 00:01:18 00:01:25 tt-193 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"según" Preposition PREP lang:es 00:01:18 00:01:25 tt-193 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<lo>"
 	"el" Determiner ART Singular lang:es 00:01:18 00:01:25 tt-194 AM032_1952_CT_SU2011_VA_01 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:18 00:01:25 tt-195 AM032_1952_CT_SU2011_VA_01 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:18 00:01:25 tt-196 AM032_1952_CT_SU2011_VA_01 ID:196 R:Gram:Aux:Haber:197 R:Gram:PerfPerif:197 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:01:18 00:01:25 tt-196 AM032_1952_CT_SU2011_VA_01 ID:196 R:Gram:Aux:Haber:197 R:Gram:PerfPerif:197 ADDRELATION():553 
 "<visto>"
 	"ver" Verb VLadj lang:es 00:01:18 00:01:25 tt-197 AM032_1952_CT_SU2011_VA_01 ID:197 
 "<,>"
 	"," Punctuation CM lang:es 00:01:18 00:01:25 tt-198 AM032_1952_CT_SU2011_VA_01 
 "<fui>"
-	"ir|ser" Verb VLfin Pret Indi Sing 1st lang:es 00:01:18 00:01:25 tt-199 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"ir|ser" Verb VLfin Pret Indi Sing 1st lang:es 00:01:18 00:01:25 tt-199 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:18 00:01:25 tt-200 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:01:18 00:01:25 tt-200 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art ADD:324 
 "<bebé>"
 	"bebé" Noun NC Singular lang:es 00:01:18 00:01:25 tt-201 AM032_1952_CT_SU2011_VA_01 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:18 00:01:25 tt-202 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:01:18 00:01:25 tt-202 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:18 00:01:25 tt-203 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:01:18 00:01:25 tt-203 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art ADD:324 
 "<semana>"
 	"semana" Noun NC Singular lang:es 00:01:18 00:01:25 tt-204 AM032_1952_CT_SU2011_VA_01 
 "<por>"
-	"por" Preposition PREP lang:es 00:01:28 00:01:35 tt-205 AM032_1952_CT_SU2011_VA_01 @Gram:Prep:Por 
+	"por" Preposition PREP lang:es 00:01:28 00:01:35 tt-205 AM032_1952_CT_SU2011_VA_01 @Gram:Prep:Por SUBSTITUTE:234 ADD:466 
 "<lo>"
 	"el" Determiner ART Singular lang:es 00:01:28 00:01:35 tt-206 AM032_1952_CT_SU2011_VA_01 
 "<guapo>"
@@ -432,9 +432,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:28 00:01:35 tt-208 AM032_1952_CT_SU2011_VA_01 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:01:28 00:01:35 tt-209 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:01:28 00:01:35 tt-209 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Sujeto ADD:482 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:28 00:01:35 tt-210 AM032_1952_CT_SU2011_VA_01 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:28 00:01:35 tt-210 AM032_1952_CT_SU2011_VA_01 @Gram:Imperf @Gram:SerEstar:Ser ADD:537 ADD:647 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:28 00:01:35 tt-211 AM032_1952_CT_SU2011_VA_01 
 
@@ -444,27 +444,27 @@
 	"." Punctuation FS lang:es 00:01:28 00:01:35 tt-213 AM032_1952_CT_SU2011_VA_01 
 
 "<Ah>"
-	"00:01:30,070" >>i lang:es 00:59:58 tt-214 AM032_1952_CT_SU2011_VA_01 
+	"00:01:30,070" >>i lang:es 00:59:58 00:59:58 tt-214 AM032_1952_CT_SU2011_VA_01 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:28 00:01:35 tt-215 AM032_1952_CT_SU2011_VA_01 
 "<entonces>"
 	"entonces" Adverb ADV lang:es 00:01:28 00:01:35 tt-216 AM032_1952_CT_SU2011_VA_01 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:28 00:01:35 tt-217 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:01:28 00:01:35 tt-217 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<allí>"
 	"allí" Adverb ADV lang:es 00:01:28 00:01:35 tt-218 AM032_1952_CT_SU2011_VA_01 
 "<nos>"
-	"nosotros" Pronoun PPX Plural lang:es 00:01:28 00:01:35 tt-219 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto 
+	"nosotros" Pronoun PPX Plural lang:es 00:01:28 00:01:35 tt-219 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto ADD:506 
 "<cambiamos>"
 	"cambiar" Verb VLfin Pres_or_Pret Indi Plural 1st lang:es 00:01:28 00:01:35 tt-220 AM032_1952_CT_SU2011_VA_01 
 "<a>"
-	"a" Preposition PREP lang:es 00:01:28 00:01:35 tt-221 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:01:28 00:01:35 tt-221 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:28 00:01:35 tt-222 AM032_1952_CT_SU2011_VA_01 
 "<a>"
-	"a" Preposition PREP lang:es 00:01:28 00:01:35 tt-223 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:01:28 00:01:35 tt-223 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<Texas>"
-	"00:01:30,070" >>i lang:es 00:59:58 tt-224 AM032_1952_CT_SU2011_VA_01 
+	"00:01:30,070" >>i lang:es 00:59:58 00:59:58 tt-224 AM032_1952_CT_SU2011_VA_01 
 "<otra>"
 	"otro" Determiner QU lang:es 00:01:28 00:01:35 tt-225 AM032_1952_CT_SU2011_VA_01 
 "<vez>"
@@ -474,13 +474,13 @@
 "<aquí>"
 	"aquí" Adverb ADV lang:es 00:01:39 00:01:46 tt-228 AM032_1952_CT_SU2011_VA_01 
 "<a>"
-	"a" Preposition PREP lang:es 00:01:39 00:01:46 tt-229 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:01:39 00:01:46 tt-229 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<Stephenville>"
 	"UNK" Noun NP Singular lang:es 00:01:39 00:01:46 tt-230 AM032_1952_CT_SU2011_VA_01 
 "<,>"
 	"," Punctuation CM lang:es 00:01:39 00:01:46 tt-231 AM032_1952_CT_SU2011_VA_01 
 "<a>"
-	"a" Preposition PREP lang:es 00:01:39 00:01:46 tt-232 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:01:39 00:01:46 tt-232 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<otro>"
 	"otro" Determiner QU lang:es 00:01:39 00:01:46 tt-233 AM032_1952_CT_SU2011_VA_01 
 "<lugar>"
@@ -496,13 +496,13 @@
 "<ya>"
 	"ya" Adverb ADV lang:es 00:01:39 00:01:46 tt-239 AM032_1952_CT_SU2011_VA_01 
 "<se>"
-	"se" Other SE lang:es 00:01:39 00:01:46 tt-240 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Otros 
+	"se" Other SE lang:es 00:01:39 00:01:46 tt-240 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Otros ADD:525 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:01:39 00:01:46 tt-241 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:01:39 00:01:46 tt-241 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto ADD:506 
 "<olvidó>"
-	"olvidar" Verb VLfin Pret Indi Sing 3rd lang:es 00:01:39 00:01:46 tt-242 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"olvidar" Verb VLfin Pret Indi Sing 3rd lang:es 00:01:39 00:01:46 tt-242 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:39 00:01:46 tt-243 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:01:39 00:01:46 tt-243 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art ADD:324 
 "<nombre>"
 	"nombre" Noun NC Singular lang:es 00:01:39 00:01:46 tt-244 AM032_1952_CT_SU2011_VA_01 
 "<,>"
@@ -510,17 +510,17 @@
 "<cerca>"
 	"cerca" Adverb ADV lang:es 00:01:39 00:01:46 tt-246 AM032_1952_CT_SU2011_VA_01 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:48 00:01:53 tt-247 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:01:48 00:01:53 tt-247 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<Stephenville>"
 	"UNK" Noun NP Singular lang:es 00:01:48 00:01:53 tt-248 AM032_1952_CT_SU2011_VA_01 
 "<en>"
-	"en" Preposition PREP lang:es 00:01:48 00:01:53 tt-249 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:01:48 00:01:53 tt-249 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<donde>"
 	"donde" Adverb ADV lang:es 00:01:48 00:01:53 tt-250 AM032_1952_CT_SU2011_VA_01 
 "<nació>"
-	"nacer" Verb VLfin Pret Indi Sing 3rd lang:es 00:01:48 00:01:53 tt-251 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"nacer" Verb VLfin Pret Indi Sing 3rd lang:es 00:01:48 00:01:53 tt-251 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:01:48 00:01:53 tt-252 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:01:48 00:01:53 tt-252 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos ADD:350 
 "<hermana>"
 	"hermano" Noun NC Singular lang:es 00:01:48 00:01:53 tt-253 AM032_1952_CT_SU2011_VA_01 
 "<y>"
@@ -534,13 +534,13 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:48 00:01:53 tt-258 AM032_1952_CT_SU2011_VA_01 
 "<hasta>"
-	"hasta" Preposition PREP lang:es 00:01:48 00:01:53 tt-259 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"hasta" Preposition PREP lang:es 00:01:48 00:01:53 tt-259 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:48 00:01:53 tt-260 AM032_1952_CT_SU2011_VA_01 
 "<le>"
-	"él" Pronoun PPC Singular lang:es 00:01:48 00:01:53 tt-261 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:01:48 00:01:53 tt-261 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto ADD:512 
 "<encontraron>"
-	"encontrar" Verb VLfin Pret Indi Plural 3rd lang:es 00:01:48 00:01:53 tt-262 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"encontrar" Verb VLfin Pret Indi Plural 3rd lang:es 00:01:48 00:01:53 tt-262 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:53 00:02:00 tt-263 AM032_1952_CT_SU2011_VA_01 
 "<lo>"
@@ -548,13 +548,13 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:53 00:02:00 tt-265 AM032_1952_CT_SU2011_VA_01 
 "<necesitaba>"
-	"necesitar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:53 00:02:00 tt-266 AM032_1952_CT_SU2011_VA_01 @Gram:Imperf 
+	"necesitar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:53 00:02:00 tt-266 AM032_1952_CT_SU2011_VA_01 @Gram:Imperf ADD:537 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:53 00:02:00 tt-267 AM032_1952_CT_SU2011_VA_01 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:53 00:02:00 tt-267 AM032_1952_CT_SU2011_VA_01 @Gram:Imperf @Gram:SerEstar:Ser ADD:537 ADD:647 
 "<leche>"
 	"leche" Noun NC Singular lang:es 00:01:53 00:02:00 tt-268 AM032_1952_CT_SU2011_VA_01 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:53 00:02:00 tt-269 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:01:53 00:02:00 tt-269 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<cabra>"
 	"cabra" Noun NC Singular lang:es 00:01:53 00:02:00 tt-270 AM032_1952_CT_SU2011_VA_01 
 "<$.>"
@@ -565,11 +565,11 @@
 "<eso>"
 	"ese" Determiner DM Singular lang:es 00:01:53 00:02:00 tt-273 AM032_1952_CT_SU2011_VA_01 
 "<la>"
-	"él" Pronoun PPC Singular lang:es 00:01:53 00:02:00 tt-274 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:01:53 00:02:00 tt-274 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto ADD:512 
 "<hizo>"
 	"hacer" Verb VLfin Pres Indi Sing 1st lang:es 00:01:53 00:02:00 tt-275 AM032_1952_CT_SU2011_VA_01 
 "<mejorar>"
-	"mejorar" Verb VLinf Infinitive lang:es 00:01:53 00:02:00 tt-276 AM032_1952_CT_SU2011_VA_01 
+	"mejorar" Verb VLinf Infinitive lang:es 00:01:53 00:02:00 tt-276 AM032_1952_CT_SU2011_VA_01 SUBSTITUTE:292 
 "<y>"
 	"y" Conjunction CC lang:es 00:01:53 00:02:00 tt-277 AM032_1952_CT_SU2011_VA_01 
 "<así>"
@@ -577,11 +577,11 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:01:53 00:02:00 tt-279 AM032_1952_CT_SU2011_VA_01 
 "<murió>"
-	"morir" Verb VLfin Pret Indi Sing 3rd lang:es 00:01:53 00:02:00 tt-280 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"morir" Verb VLfin Pret Indi Sing 3rd lang:es 00:01:53 00:02:00 tt-280 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:01:53 00:02:00 tt-281 AM032_1952_CT_SU2011_VA_01 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:01:53 00:02:00 tt-281 AM032_1952_CT_SU2011_VA_01 @Prag:MarcadoresDisc:Causa ADD:879 
 "<estaba>"
-	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:02:00 00:02:07 tt-282 AM032_1952_CT_SU2011_VA_01 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:02:00 00:02:07 tt-282 AM032_1952_CT_SU2011_VA_01 @Gram:Imperf @Gram:SerEstar:Estar ADD:537 ADD:656 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:02:00 00:02:07 tt-283 AM032_1952_CT_SU2011_VA_01 
 "<seriamente>"
@@ -589,7 +589,7 @@
 "<grave>"
 	"grave" Adjective ADJ Singular lang:es 00:02:00 00:02:07 tt-285 AM032_1952_CT_SU2011_VA_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:00 00:02:07 tt-286 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:02:00 00:02:07 tt-286 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos ADD:350 
 "<hermanita>"
 	"hermano" Noun NC Singular lang:es 00:02:00 00:02:07 tt-287 AM032_1952_CT_SU2011_VA_01 
 "<$.>"
@@ -598,11 +598,11 @@
 "<Luego>"
 	"luego" Conjunction CSUBF lang:es 00:02:00 00:02:07 tt-289 AM032_1952_CT_SU2011_VA_01 
 "<nos>"
-	"nosotros" Pronoun PPX Plural lang:es 00:02:00 00:02:07 tt-290 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto 
+	"nosotros" Pronoun PPX Plural lang:es 00:02:00 00:02:07 tt-290 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto ADD:506 
 "<cambiamos>"
 	"cambiar" Verb VLfin Pres_or_Pret Indi Plural 1st lang:es 00:02:00 00:02:07 tt-291 AM032_1952_CT_SU2011_VA_01 
 "<a>"
-	"a" Preposition PREP lang:es 00:02:00 00:02:07 tt-292 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:02:00 00:02:07 tt-292 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<otro>"
 	"otro" Determiner QU lang:es 00:02:00 00:02:07 tt-293 AM032_1952_CT_SU2011_VA_01 
 "<lugar>"
@@ -616,13 +616,13 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:02:00 00:02:07 tt-298 AM032_1952_CT_SU2011_VA_01 
 "<Las>"
-	"el" Determiner ART Plural lang:es 00:02:10 00:02:17 tt-299 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:02:10 00:02:17 tt-299 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art ADD:324 
 "<Vegas>"
 	"UNK" Noun NP Plural lang:es 00:02:10 00:02:17 tt-300 AM032_1952_CT_SU2011_VA_01 
 "<,>"
 	"," Punctuation CM lang:es 00:02:10 00:02:17 tt-301 AM032_1952_CT_SU2011_VA_01 
 "<New>"
-	"00:02:12,249" >>i lang:es 00:59:58 tt-302 AM032_1952_CT_SU2011_VA_01 
+	"00:02:12,249" >>i lang:es 00:59:58 00:59:58 tt-302 AM032_1952_CT_SU2011_VA_01 
 "<Mexico>"
 	"UNK" Noun NP Singular lang:es 00:02:10 00:02:17 tt-303 AM032_1952_CT_SU2011_VA_01 
 "<,>"
@@ -630,7 +630,7 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:02:10 00:02:17 tt-305 AM032_1952_CT_SU2011_VA_01 
 "<Las>"
-	"el" Determiner ART Plural lang:es 00:02:10 00:02:17 tt-306 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:02:10 00:02:17 tt-306 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art ADD:324 
 "<Vegas>"
 	"vega" Noun NC Plural lang:es 00:02:10 00:02:17 tt-307 AM032_1952_CT_SU2011_VA_01 
 "<,>"
@@ -652,7 +652,7 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:02:10 00:02:17 tt-315 AM032_1952_CT_SU2011_VA_01 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:02:10 00:02:17 tt-316 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:02:10 00:02:17 tt-316 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art ADD:324 
 "<mejor>"
 	"bueno" Adjective ADJ Singular lang:es 00:02:10 00:02:17 tt-317 AM032_1952_CT_SU2011_VA_01 
 "<recuerdo>"
@@ -662,43 +662,43 @@
 "<tengo>"
 	"tener" Verb VLfin Pres Indi Sing 1st lang:es 00:02:19 00:02:26 tt-320 AM032_1952_CT_SU2011_VA_01 
 "<de>"
-	"de" Preposition PREP lang:es 00:02:19 00:02:26 tt-321 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:02:19 00:02:26 tt-321 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<ahí>"
 	"ahí" Adverb ADV lang:es 00:02:19 00:02:26 tt-322 AM032_1952_CT_SU2011_VA_01 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:02:19 00:02:26 tt-323 AM032_1952_CT_SU2011_VA_01 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:02:19 00:02:26 tt-323 AM032_1952_CT_SU2011_VA_01 @Gram:SerEstar:Ser ADD:647 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:02:19 00:02:26 tt-324 AM032_1952_CT_SU2011_VA_01 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:02:19 00:02:26 tt-325 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:02:19 00:02:26 tt-325 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto ADD:506 
 "<caí>"
-	"caer" Verb VLfin Pret Indi Sing 1st lang:es 00:02:19 00:02:26 tt-326 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"caer" Verb VLfin Pret Indi Sing 1st lang:es 00:02:19 00:02:26 tt-326 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<al>"
 	"al" Conjunction CSUBI lang:es 00:02:19 00:02:26 tt-327 AM032_1952_CT_SU2011_VA_01 
 "<ir>"
-	"ir" Verb VLinf Infinitive lang:es 00:02:19 00:02:26 tt-328 AM032_1952_CT_SU2011_VA_01 
+	"ir" Verb VLinf Infinitive lang:es 00:02:19 00:02:26 tt-328 AM032_1952_CT_SU2011_VA_01 SUBSTITUTE:292 
 "<subiendo>"
 	"subir" Verb VLger lang:es 00:02:19 00:02:26 tt-329 AM032_1952_CT_SU2011_VA_01 
 "<las>"
-	"el" Determiner ART Plural lang:es 00:02:19 00:02:26 tt-330 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:02:19 00:02:26 tt-330 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art ADD:324 
 "<escaleras>"
 	"escalera" Noun NC Plural lang:es 00:02:19 00:02:26 tt-331 AM032_1952_CT_SU2011_VA_01 
 "<de>"
-	"de" Preposition PREP lang:es 00:02:19 00:02:26 tt-332 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:02:19 00:02:26 tt-332 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:02:19 00:02:26 tt-333 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:02:19 00:02:26 tt-333 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos ADD:350 
 "<casa>"
 	"casa" Noun NC Singular lang:es 00:02:19 00:02:26 tt-334 AM032_1952_CT_SU2011_VA_01 
 "<y>"
 	"y" Conjunction CC lang:es 00:02:19 00:02:26 tt-335 AM032_1952_CT_SU2011_VA_01 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:02:19 00:02:26 tt-336 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:02:19 00:02:26 tt-336 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto ADD:506 
 "<pegué>"
-	"pegar" Verb VLfin Pret Indi Sing 1st lang:es 00:02:19 00:02:26 tt-337 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"pegar" Verb VLfin Pret Indi Sing 1st lang:es 00:02:19 00:02:26 tt-337 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<en>"
-	"en" Preposition PREP lang:es 00:02:19 00:02:26 tt-338 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:02:19 00:02:26 tt-338 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:02:19 00:02:26 tt-339 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:02:19 00:02:26 tt-339 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art ADD:324 
 "<labio>"
 	"labio" Noun NC Singular lang:es 00:02:28 00:02:35 tt-340 AM032_1952_CT_SU2011_VA_01 
 "<inferior>"
@@ -736,21 +736,21 @@
 "<,>"
 	"," Punctuation CM lang:es 00:02:40 00:02:47 tt-357 AM032_1952_CT_SU2011_VA_01 
 "<pero>"
-	"pero" Conjunction CCAD lang:es 00:02:40 00:02:47 tt-358 AM032_1952_CT_SU2011_VA_01 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:02:40 00:02:47 tt-358 AM032_1952_CT_SU2011_VA_01 @Prag:MarcadoresDisc:Revision ADD:826 
 "<está>"
-	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:02:40 00:02:47 tt-359 AM032_1952_CT_SU2011_VA_01 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:02:40 00:02:47 tt-359 AM032_1952_CT_SU2011_VA_01 @Gram:SerEstar:Estar ADD:656 
 "<levantado>"
 	"levantar" Verb VLadj lang:es 00:02:40 00:02:47 tt-360 AM032_1952_CT_SU2011_VA_01 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:02:40 00:02:47 tt-361 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:02:40 00:02:47 tt-361 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art ADD:324 
 "<labio>"
 	"labio" Noun NC Singular lang:es 00:02:40 00:02:47 tt-362 AM032_1952_CT_SU2011_VA_01 
 "<por>"
-	"por" Preposition PREP lang:es 00:02:40 00:02:47 tt-363 AM032_1952_CT_SU2011_VA_01 @Gram:Prep:Por 
+	"por" Preposition PREP lang:es 00:02:40 00:02:47 tt-363 AM032_1952_CT_SU2011_VA_01 @Gram:Prep:Por SUBSTITUTE:234 ADD:466 
 "<cuestión>"
 	"cuestión" Noun NC Singular lang:es 00:02:40 00:02:47 tt-364 AM032_1952_CT_SU2011_VA_01 
 "<de>"
-	"de" Preposition PREP lang:es 00:02:40 00:02:47 tt-365 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:02:40 00:02:47 tt-365 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<no>"
 	"no" Adverb NEG lang:es 00:02:40 00:02:47 tt-366 AM032_1952_CT_SU2011_VA_01 
 "<nada>"
@@ -758,7 +758,7 @@
 "<más>"
 	"más" Adverb ADV lang:es 00:02:40 00:02:47 tt-368 AM032_1952_CT_SU2011_VA_01 
 "<fue>"
-	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:02:40 00:02:47 tt-369 AM032_1952_CT_SU2011_VA_01 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:02:40 00:02:47 tt-369 AM032_1952_CT_SU2011_VA_01 @Gram:SerEstar:Ser ADD:647 
 "<ese>"
 	"ese" Determiner DM Singular lang:es 00:02:40 00:02:47 tt-370 AM032_1952_CT_SU2011_VA_01 
 "<golpe>"
@@ -766,15 +766,15 @@
 "<,>"
 	"," Punctuation CM lang:es 00:02:40 00:02:47 tt-372 AM032_1952_CT_SU2011_VA_01 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:02:40 00:02:47 tt-373 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:02:40 00:02:47 tt-373 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto ADD:506 
 "<golpee>"
-	"UNK" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:02:40 00:02:47 tt-374 AM032_1952_CT_SU2011_VA_01 @Gram:MSub:Pres 
+	"UNK" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:02:40 00:02:47 tt-374 AM032_1952_CT_SU2011_VA_01 @Gram:MSub:Pres ADD:616 
 "<,>"
 	"," Punctuation CM lang:es 00:02:40 00:02:47 tt-375 AM032_1952_CT_SU2011_VA_01 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:02:47 00:02:54 tt-376 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:02:47 00:02:54 tt-376 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto ADD:506 
 "<seguí>"
-	"seguir" Verb VLfin Pret Indi Sing 1st lang:es 00:02:47 00:02:54 tt-377 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"seguir" Verb VLfin Pret Indi Sing 1st lang:es 00:02:47 00:02:54 tt-377 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<cayendo>"
 	"caer" Verb VLadj lang:es 00:02:47 00:02:54 tt-378 AM032_1952_CT_SU2011_VA_01 
 "<,>"
@@ -790,15 +790,15 @@
 "<sé>"
 	"saber|ser" Verb VLfin Pres Indi Sing 1st lang:es 00:02:47 00:02:54 tt-384 AM032_1952_CT_SU2011_VA_01 
 "<tal>"
-	"tal" Adverb ADV lang:es 00:02:47 00:02:54 tt-385 AM032_1952_CT_SU2011_VA_01 ID:385 R:Prag:MarcadoresDisc:Igualdad:386 
+	"tal" Adverb ADV lang:es 00:02:47 00:02:54 tt-385 AM032_1952_CT_SU2011_VA_01 ID:385 R:Prag:MarcadoresDisc:Igualdad:386 ADDRELATION(Prag:MarcadoresDisc:Igualdad):931 
 "<vez>"
 	"vez" Adverb ADV lang:es 00:02:47 00:02:54 tt-386 AM032_1952_CT_SU2011_VA_01 ID:386 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:02:47 00:02:54 tt-387 AM032_1952_CT_SU2011_VA_01 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:02:47 00:02:54 tt-387 AM032_1952_CT_SU2011_VA_01 @Prag:MarcadoresDisc:Causa ADD:879 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:02:47 00:02:54 tt-388 AM032_1952_CT_SU2011_VA_01 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:02:47 00:02:54 tt-388 AM032_1952_CT_SU2011_VA_01 @Gram:SerEstar:Ser ADD:647 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:02:47 00:02:54 tt-389 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:02:47 00:02:54 tt-389 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art ADD:324 
 "<lugar>"
 	"lugar" Noun NC Singular lang:es 00:02:47 00:02:54 tt-390 AM032_1952_CT_SU2011_VA_01 
 "<más>"
@@ -806,7 +806,7 @@
 "<cercano>"
 	"cercano" Adjective ADJ Singular lang:es 00:02:47 00:02:54 tt-392 AM032_1952_CT_SU2011_VA_01 
 "<al>"
-	"al" Preposition PAL lang:es 00:02:47 00:02:54 tt-393 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"al" Preposition PAL lang:es 00:02:47 00:02:54 tt-393 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<piso>"
 	"piso" Noun NC Singular lang:es 00:02:47 00:02:54 tt-394 AM032_1952_CT_SU2011_VA_01 
 "<cuando>"
@@ -818,13 +818,13 @@
 "<cae>"
 	"caer" Verb VLfin Pres Indi Sing 3rd lang:es 00:02:55 00:03:02 tt-398 AM032_1952_CT_SU2011_VA_01 
 "<pero>"
-	"pero" Conjunction CC lang:es 00:02:55 00:03:02 tt-399 AM032_1952_CT_SU2011_VA_01 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CC lang:es 00:02:55 00:03:02 tt-399 AM032_1952_CT_SU2011_VA_01 @Prag:MarcadoresDisc:Revision SUBSTITUTE:237 ADD:826 
 "<allí>"
 	"allí" Adverb ADV lang:es 00:02:55 00:03:02 tt-400 AM032_1952_CT_SU2011_VA_01 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:02:55 00:03:02 tt-401 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:02:55 00:03:02 tt-401 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto ADD:506 
 "<pegué>"
-	"pegar" Verb VLfin Pret Indi Sing 1st lang:es 00:02:55 00:03:02 tt-402 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"pegar" Verb VLfin Pret Indi Sing 1st lang:es 00:02:55 00:03:02 tt-402 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<varias>"
 	"varios" Determiner QU lang:es 00:02:55 00:03:02 tt-403 AM032_1952_CT_SU2011_VA_01 
 "<veces>"
@@ -835,22 +835,22 @@
 "<Recuerdo>"
 	"recordar" Verb VLfin Pres Indi Sing 1st lang:es 00:02:55 00:03:02 tt-406 AM032_1952_CT_SU2011_VA_01 
 "<eso>"
-	"ese" Determiner DM Singular lang:es 00:02:55 00:03:02 tt-407 AM032_1952_CT_SU2011_VA_01 
+	"ese" Determiner DM Singular lang:es 00:02:55 00:03:02 tt-407 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Demo ADD:343 
 "<$.>"
 	"." Punctuation FS lang:es 00:02:55 00:03:02 tt-408 AM032_1952_CT_SU2011_VA_01 
 
 "<Entonces>"
 	"entonces" Adverb ADV lang:es 00:02:55 00:03:02 tt-409 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:02:57,529" >>i lang:es 00:59:58 tt-410 AM032_1952_CT_SU2011_VA_01 
+	"00:02:57,529" >>i lang:es 00:59:58 00:59:58 tt-410 AM032_1952_CT_SU2011_VA_01 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:02:55 00:03:02 tt-411 AM032_1952_CT_SU2011_VA_01 
 "<nos>"
-	"nosotros" Pronoun PPX Plural lang:es 00:02:55 00:03:02 tt-412 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto 
+	"nosotros" Pronoun PPX Plural lang:es 00:02:55 00:03:02 tt-412 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Objeto ADD:506 
 "<cambiamos>"
 	"cambiar" Verb VLfin Pres_or_Pret Indi Plural 1st lang:es 00:02:55 00:03:02 tt-413 AM032_1952_CT_SU2011_VA_01 
 "<a>"
-	"a" Preposition PREP lang:es 00:03:04 00:03:11 tt-414 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:03:04 00:03:11 tt-414 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<Dallas>"
 	"Dallas" Noun NP Plural lang:es 00:03:04 00:03:11 tt-415 AM032_1952_CT_SU2011_VA_01 
 "<,>"
@@ -858,9 +858,9 @@
 "<allí>"
 	"allí" Adverb ADV lang:es 00:03:04 00:03:11 tt-417 AM032_1952_CT_SU2011_VA_01 
 "<nació>"
-	"nacer" Verb VLfin Pret Indi Sing 3rd lang:es 00:03:04 00:03:11 tt-418 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido 
+	"nacer" Verb VLfin Pret Indi Sing 3rd lang:es 00:03:04 00:03:11 tt-418 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido ADD:546 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:03:04 00:03:11 tt-419 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:03:04 00:03:11 tt-419 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos ADD:350 
 "<otra>"
 	"otro" Determiner QU lang:es 00:03:04 00:03:11 tt-420 AM032_1952_CT_SU2011_VA_01 
 "<hermanita>"
@@ -873,19 +873,19 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:03:04 00:03:11 tt-424 AM032_1952_CT_SU2011_VA_01 
 "<a>"
-	"a" Preposition PREP lang:es 00:03:04 00:03:11 tt-425 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:03:04 00:03:11 tt-425 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:03:04 00:03:11 tt-426 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:03:04 00:03:11 tt-426 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art ADD:324 
 "<seis>"
 	"seis" Determiner CARD Plural lang:es 00:03:04 00:03:11 tt-427 AM032_1952_CT_SU2011_VA_01 
 "<años>"
 	"año" Noun NC Plural lang:es 00:03:04 00:03:11 tt-428 AM032_1952_CT_SU2011_VA_01 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:03:04 00:03:11 tt-429 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:03:04 00:03:11 tt-429 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Sujeto ADD:482 
 "<estuve>"
-	"estar" Verb VEfin Pret Indi Sing 1st lang:es 00:03:04 00:03:11 tt-430 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pret Indi Sing 1st lang:es 00:03:04 00:03:11 tt-430 AM032_1952_CT_SU2011_VA_01 @Gram:Indefinido @Gram:SerEstar:Estar ADD:546 ADD:656 
 "<en>"
-	"en" Preposition PREP lang:es 00:03:04 00:03:11 tt-431 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:03:04 00:03:11 tt-431 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:03:04 00:03:11 tt-432 AM032_1952_CT_SU2011_VA_01 
 "<kínder>"
@@ -898,37 +898,37 @@
 "<Aquí>"
 	"aquí" Adverb ADV lang:es 00:03:14 00:03:21 tt-436 AM032_1952_CT_SU2011_VA_01 
 "<en>"
-	"en" Preposition PREP lang:es 00:03:14 00:03:21 tt-437 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:03:14 00:03:21 tt-437 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<Dallas>"
 	"Dallas" Noun NP Plural lang:es 00:03:14 00:03:21 tt-438 AM032_1952_CT_SU2011_VA_01 
 "<,>"
 	"," Punctuation CM lang:es 00:03:14 00:03:21 tt-439 AM032_1952_CT_SU2011_VA_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:03:14 00:03:21 tt-440 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:03:14 00:03:21 tt-440 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos ADD:350 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:03:14 00:03:21 tt-441 AM032_1952_CT_SU2011_VA_01 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:03:14 00:03:21 tt-442 AM032_1952_CT_SU2011_VA_01 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:03:14 00:03:21 tt-442 AM032_1952_CT_SU2011_VA_01 @Gram:Imperf @Gram:SerEstar:Ser ADD:537 ADD:647 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:03:14 00:03:21 tt-443 AM032_1952_CT_SU2011_VA_01 
 "<maestro>"
-	"maestro" Plural Singular Noun NC lang:es 00:03:14 00:03:21 tt-444 AM032_1952_CT_SU2011_VA_01 
+	"maestro" Plural Singular Noun NC lang:es 00:03:14 00:03:21 tt-444 AM032_1952_CT_SU2011_VA_01 SUBSTITUTE:269 SUBSTITUTE:270 
 "<allí>"
 	"allí" Adverb ADV lang:es 00:03:14 00:03:21 tt-445 AM032_1952_CT_SU2011_VA_01 
 "<y>"
 	"y" Conjunction CC lang:es 00:03:14 00:03:21 tt-446 AM032_1952_CT_SU2011_VA_01 
 "<estaba>"
-	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:03:14 00:03:21 tt-447 AM032_1952_CT_SU2011_VA_01 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:03:14 00:03:21 tt-447 AM032_1952_CT_SU2011_VA_01 @Gram:Imperf @Gram:SerEstar:Estar ADD:537 ADD:656 
 "<él>"
-	"él" Pronoun PPX Singular lang:es 00:03:14 00:03:21 tt-448 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Singular lang:es 00:03:14 00:03:21 tt-448 AM032_1952_CT_SU2011_VA_01 @Gram:Pron:Sujeto ADD:482 
 "<siendo>"
-	"ser" Verb VSger Gerund lang:es 00:03:14 00:03:21 tt-449 AM032_1952_CT_SU2011_VA_01 @Gram:SerEstar:Ser 
+	"ser" Verb VSger Gerund lang:es 00:03:14 00:03:21 tt-449 AM032_1952_CT_SU2011_VA_01 @Gram:SerEstar:Ser ADD:647 
 "<entrenado>"
 	"entrenar" Verb VLadj lang:es 00:03:14 00:03:21 tt-450 AM032_1952_CT_SU2011_VA_01 
 "<para>"
-	"para" Preposition PREP lang:es 00:03:21 00:03:28 tt-451 AM032_1952_CT_SU2011_VA_01 @Gram:Prep:Para 
+	"para" Preposition PREP lang:es 00:03:21 00:03:28 tt-451 AM032_1952_CT_SU2011_VA_01 @Gram:Prep:Para ADD:418 
 "<ser>"
-	"ser" Verb VSinf Infinitive lang:es 00:03:21 00:03:28 tt-452 AM032_1952_CT_SU2011_VA_01 @Gram:SerEstar:Ser 
+	"ser" Verb VLinf VSinf Infinitive lang:es 00:03:21 00:03:28 tt-452 AM032_1952_CT_SU2011_VA_01 @Gram:SerEstar:Ser SUBSTITUTE:292 ADD:647 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:03:21 00:03:28 tt-453 AM032_1952_CT_SU2011_VA_01 
 "<trabajador>"
@@ -943,7 +943,7 @@
 "<se>"
 	"se" Other SE lang:es 00:03:21 00:03:28 tt-458 AM032_1952_CT_SU2011_VA_01 
 "<oye>"
-	"oír" Verb VLfin Pres Indi_Command Sing 2nd_3rd lang:es 00:03:21 00:03:28 tt-459 AM032_1952_CT_SU2011_VA_01 
+	"oír" Verb VLfin Pres Indi_Command Sing 2nd_3rd lang:es 00:03:21 00:03:28 tt-459 AM032_1952_CT_SU2011_VA_01 SUBSTITUTE:257 
 "<$.>"
 	"." Punctuation FS lang:es 00:03:21 00:03:28 tt-460 AM032_1952_CT_SU2011_VA_01 
 
@@ -959,9 +959,9 @@
 "<ahí>"
 	"ahí" Adverb ADV lang:es 00:03:21 00:03:28 tt-465 AM032_1952_CT_SU2011_VA_01 
 "<a>"
-	"a" Preposition PREP lang:es 00:03:21 00:03:28 tt-466 AM032_1952_CT_SU2011_VA_01 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:03:21 00:03:28 tt-466 AM032_1952_CT_SU2011_VA_01 @Gram:Prep ADD:472 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:03:21 00:03:28 tt-467 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art 
+	"el" Determiner ART Plural lang:es 00:03:21 00:03:28 tt-467 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Art ADD:324 
 "<seis>"
 	"seis" Determiner CARD Plural lang:es 00:03:21 00:03:28 tt-468 AM032_1952_CT_SU2011_VA_01 
 "<años>"
@@ -969,373 +969,373 @@
 "<,>"
 	"," Punctuation CM lang:es 00:03:21 00:03:28 tt-470 AM032_1952_CT_SU2011_VA_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:03:21 00:03:28 tt-471 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:03:21 00:03:28 tt-471 AM032_1952_CT_SU2011_VA_01 @Gram:Det:Pos ADD:350 
 "<maestra>"
-	"maestro" Plural Singular Noun NC lang:es 00:03:21 00:03:28 tt-472 AM032_1952_CT_SU2011_VA_01 
+	"maestro" Plural Singular Noun NC lang:es 00:03:21 00:03:28 tt-472 AM032_1952_CT_SU2011_VA_01 SUBSTITUTE:269 SUBSTITUTE:270 
 "<uh>"
-	"00:03:58,439" >>i lang:es 00:59:58 tt-552 AM032_1952_CT_SU2011_VA_01 
+	"00:03:58,439" >>i lang:es 00:59:58 00:59:58 tt-552 AM032_1952_CT_SU2011_VA_01 
 "<North>"
-	"00:04:20,060" >>i lang:es 00:59:58 tt-579 AM032_1952_CT_SU2011_VA_01 
+	"00:04:20,060" >>i lang:es 00:59:58 00:59:58 tt-579 AM032_1952_CT_SU2011_VA_01 
 "<Ah>"
-	"00:05:30,580" >>i lang:es 00:59:58 tt-740 AM032_1952_CT_SU2011_VA_01 
+	"00:05:30,580" >>i lang:es 00:59:58 00:59:58 tt-740 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:05:30,580" >>i lang:es 00:59:58 tt-749 AM032_1952_CT_SU2011_VA_01 
+	"00:05:30,580" >>i lang:es 00:59:58 00:59:58 tt-749 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:06:24,639" >>i lang:es 00:59:58 tt-874 AM032_1952_CT_SU2011_VA_01 
+	"00:06:24,639" >>i lang:es 00:59:58 00:59:58 tt-874 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:06:42,659" >>i lang:es 00:59:58 tt-898 AM032_1952_CT_SU2011_VA_01 
+	"00:06:42,659" >>i lang:es 00:59:58 00:59:58 tt-898 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:06:49,599" >>i lang:es 00:59:58 tt-925 AM032_1952_CT_SU2011_VA_01 
+	"00:06:49,599" >>i lang:es 00:59:58 00:59:58 tt-925 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:07:14,469" >>i lang:es 00:59:58 tt-992 AM032_1952_CT_SU2011_VA_01 
+	"00:07:14,469" >>i lang:es 00:59:58 00:59:58 tt-992 AM032_1952_CT_SU2011_VA_01 
 "<escape>"
-	"00:07:44,560" >>i lang:es 00:59:58 tt-1044 AM032_1952_CT_SU2011_VA_01 
+	"00:07:44,560" >>i lang:es 00:59:58 00:59:58 tt-1044 AM032_1952_CT_SU2011_VA_01 
 "<Town>"
-	"00:09:21,019" >>i lang:es 00:59:58 tt-1284 AM032_1952_CT_SU2011_VA_01 
+	"00:09:21,019" >>i lang:es 00:59:58 00:59:58 tt-1284 AM032_1952_CT_SU2011_VA_01 
 "<Brown>"
-	"00:09:21,019" >>i lang:es 00:59:58 tt-1288 AM032_1952_CT_SU2011_VA_01 
+	"00:09:21,019" >>i lang:es 00:59:58 00:59:58 tt-1288 AM032_1952_CT_SU2011_VA_01 
 "<Brown>"
-	"00:09:28,800" >>i lang:es 00:59:58 tt-1292 AM032_1952_CT_SU2011_VA_01 
+	"00:09:28,800" >>i lang:es 00:59:58 00:59:58 tt-1292 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:09:28,800" >>i lang:es 00:59:58 tt-1297 AM032_1952_CT_SU2011_VA_01 
+	"00:09:28,800" >>i lang:es 00:59:58 00:59:58 tt-1297 AM032_1952_CT_SU2011_VA_01 
 "<mobile>"
-	"00:09:39,410" >>i lang:es 00:59:58 tt-1312 AM032_1952_CT_SU2011_VA_01 
+	"00:09:39,410" >>i lang:es 00:59:58 00:59:58 tt-1312 AM032_1952_CT_SU2011_VA_01 
 "<homes>"
-	"00:09:39,410" >>i lang:es 00:59:58 tt-1313 AM032_1952_CT_SU2011_VA_01 
+	"00:09:39,410" >>i lang:es 00:59:58 00:59:58 tt-1313 AM032_1952_CT_SU2011_VA_01 
 "<pies>"
-	"00:10:42,459" >>i lang:es 00:59:58 tt-1484 AM032_1952_CT_SU2011_VA_01 
+	"00:10:42,459" >>i lang:es 00:59:58 00:59:58 tt-1484 AM032_1952_CT_SU2011_VA_01 
 "<no>"
-	"00:11:32,600" >>i lang:es 00:59:58 tt-1608 AM032_1952_CT_SU2011_VA_01 
+	"00:11:32,600" >>i lang:es 00:59:58 00:59:58 tt-1608 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:11:49,940" >>i lang:es 00:59:58 tt-1651 AM032_1952_CT_SU2011_VA_01 
+	"00:11:49,940" >>i lang:es 00:59:58 00:59:58 tt-1651 AM032_1952_CT_SU2011_VA_01 
 "<off>"
-	"00:12:12,720" >>i lang:es 00:59:58 tt-1705 AM032_1952_CT_SU2011_VA_01 
+	"00:12:12,720" >>i lang:es 00:59:58 00:59:58 tt-1705 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:12:47,440" >>i lang:es 00:59:58 tt-1782 AM032_1952_CT_SU2011_VA_01 
+	"00:12:47,440" >>i lang:es 00:59:58 00:59:58 tt-1782 AM032_1952_CT_SU2011_VA_01 
 "<miles>"
-	"00:13:48,899" >>i lang:es 00:59:58 tt-1919 AM032_1952_CT_SU2011_VA_01 
+	"00:13:48,899" >>i lang:es 00:59:58 00:59:58 tt-1919 AM032_1952_CT_SU2011_VA_01 
 "<miles>"
-	"00:13:56,259" >>i lang:es 00:59:58 tt-1923 AM032_1952_CT_SU2011_VA_01 
+	"00:13:56,259" >>i lang:es 00:59:58 00:59:58 tt-1923 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:14:10,699" >>i lang:es 00:59:58 tt-1964 AM032_1952_CT_SU2011_VA_01 
+	"00:14:10,699" >>i lang:es 00:59:58 00:59:58 tt-1964 AM032_1952_CT_SU2011_VA_01 
 "<Uh>"
-	"00:14:30,120" >>i lang:es 00:59:58 tt-1996 AM032_1952_CT_SU2011_VA_01 
+	"00:14:30,120" >>i lang:es 00:59:58 00:59:58 tt-1996 AM032_1952_CT_SU2011_VA_01 
 "<Uh>"
-	"00:14:55,660" >>i lang:es 00:59:58 tt-2069 AM032_1952_CT_SU2011_VA_01 
+	"00:14:55,660" >>i lang:es 00:59:58 00:59:58 tt-2069 AM032_1952_CT_SU2011_VA_01 
 "<Ah>"
-	"00:15:08,769" >>i lang:es 00:59:58 tt-2094 AM032_1952_CT_SU2011_VA_01 
+	"00:15:08,769" >>i lang:es 00:59:58 00:59:58 tt-2094 AM032_1952_CT_SU2011_VA_01 
 "<ah>"
-	"00:15:08,769" >>i lang:es 00:59:58 tt-2098 AM032_1952_CT_SU2011_VA_01 
+	"00:15:08,769" >>i lang:es 00:59:58 00:59:58 tt-2098 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:15:33,649" >>i lang:es 00:59:58 tt-2134 AM032_1952_CT_SU2011_VA_01 
+	"00:15:33,649" >>i lang:es 00:59:58 00:59:58 tt-2134 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:15:58,779" >>i lang:es 00:59:58 tt-2191 AM032_1952_CT_SU2011_VA_01 
+	"00:15:58,779" >>i lang:es 00:59:58 00:59:58 tt-2191 AM032_1952_CT_SU2011_VA_01 
 "<Uh>"
-	"00:16:29,699" >>i lang:es 00:59:58 tt-2280 AM032_1952_CT_SU2011_VA_01 
+	"00:16:29,699" >>i lang:es 00:59:58 00:59:58 tt-2280 AM032_1952_CT_SU2011_VA_01 
 "<Ah>"
-	"00:17:08,180" >>i lang:es 00:59:58 tt-2368 AM032_1952_CT_SU2011_VA_01 
+	"00:17:08,180" >>i lang:es 00:59:58 00:59:58 tt-2368 AM032_1952_CT_SU2011_VA_01 
 "<pies>"
-	"00:18:21,740" >>i lang:es 00:59:58 tt-2521 AM032_1952_CT_SU2011_VA_01 
+	"00:18:21,740" >>i lang:es 00:59:58 00:59:58 tt-2521 AM032_1952_CT_SU2011_VA_01 
 "<acres>"
-	"00:19:04,880" >>i lang:es 00:59:58 tt-2630 AM032_1952_CT_SU2011_VA_01 
+	"00:19:04,880" >>i lang:es 00:59:58 00:59:58 tt-2630 AM032_1952_CT_SU2011_VA_01 
 "<wheat>"
-	"00:19:19,330" >>i lang:es 00:59:58 tt-2670 AM032_1952_CT_SU2011_VA_01 
+	"00:19:19,330" >>i lang:es 00:59:58 00:59:58 tt-2670 AM032_1952_CT_SU2011_VA_01 
 "<field>"
-	"00:19:19,330" >>i lang:es 00:59:58 tt-2671 AM032_1952_CT_SU2011_VA_01 
+	"00:19:19,330" >>i lang:es 00:59:58 00:59:58 tt-2671 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:20:55,080" >>i lang:es 00:59:58 tt-2893 AM032_1952_CT_SU2011_VA_01 
+	"00:20:55,080" >>i lang:es 00:59:58 00:59:58 tt-2893 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:20:55,080" >>i lang:es 00:59:58 tt-2910 AM032_1952_CT_SU2011_VA_01 
+	"00:20:55,080" >>i lang:es 00:59:58 00:59:58 tt-2910 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:21:18,760" >>i lang:es 00:59:58 tt-2945 AM032_1952_CT_SU2011_VA_01 
+	"00:21:18,760" >>i lang:es 00:59:58 00:59:58 tt-2945 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:22:20,150" >>i lang:es 00:59:58 tt-3091 AM032_1952_CT_SU2011_VA_01 
+	"00:22:20,150" >>i lang:es 00:59:58 00:59:58 tt-3091 AM032_1952_CT_SU2011_VA_01 
 "<media>"
-	"00:23:10,920" >>i lang:es 00:59:58 tt-3226 AM032_1952_CT_SU2011_VA_01 
+	"00:23:10,920" >>i lang:es 00:59:58 00:59:58 tt-3226 AM032_1952_CT_SU2011_VA_01 
 "<media>"
-	"00:23:10,920" >>i lang:es 00:59:58 tt-3243 AM032_1952_CT_SU2011_VA_01 
+	"00:23:10,920" >>i lang:es 00:59:58 00:59:58 tt-3243 AM032_1952_CT_SU2011_VA_01 
 "<Ah>"
-	"00:23:48,330" >>i lang:es 00:59:58 tt-3326 AM032_1952_CT_SU2011_VA_01 
+	"00:23:48,330" >>i lang:es 00:59:58 00:59:58 tt-3326 AM032_1952_CT_SU2011_VA_01 
 "<rural>"
-	"00:24:05,260" >>i lang:es 00:59:58 tt-3375 AM032_1952_CT_SU2011_VA_01 
+	"00:24:05,260" >>i lang:es 00:59:58 00:59:58 tt-3375 AM032_1952_CT_SU2011_VA_01 
 "<Federal>"
-	"00:24:05,260" >>i lang:es 00:59:58 tt-3376 AM032_1952_CT_SU2011_VA_01 
+	"00:24:05,260" >>i lang:es 00:59:58 00:59:58 tt-3376 AM032_1952_CT_SU2011_VA_01 
 "<Um>"
-	"00:24:35,180" >>i lang:es 00:59:58 tt-3447 AM032_1952_CT_SU2011_VA_01 
+	"00:24:35,180" >>i lang:es 00:59:58 00:59:58 tt-3447 AM032_1952_CT_SU2011_VA_01 
 "<rural>"
-	"00:24:41,720" >>i lang:es 00:59:58 tt-3458 AM032_1952_CT_SU2011_VA_01 
+	"00:24:41,720" >>i lang:es 00:59:58 00:59:58 tt-3458 AM032_1952_CT_SU2011_VA_01 
 "<Uh>"
-	"00:24:41,720" >>i lang:es 00:59:58 tt-3460 AM032_1952_CT_SU2011_VA_01 
+	"00:24:41,720" >>i lang:es 00:59:58 00:59:58 tt-3460 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:24:58,820" >>i lang:es 00:59:58 tt-3499 AM032_1952_CT_SU2011_VA_01 
+	"00:24:58,820" >>i lang:es 00:59:58 00:59:58 tt-3499 AM032_1952_CT_SU2011_VA_01 
 "<media>"
-	"00:25:15,710" >>i lang:es 00:59:58 tt-3553 AM032_1952_CT_SU2011_VA_01 
+	"00:25:15,710" >>i lang:es 00:59:58 00:59:58 tt-3553 AM032_1952_CT_SU2011_VA_01 
 "<local>"
-	"00:25:24,370" >>i lang:es 00:59:58 tt-3560 AM032_1952_CT_SU2011_VA_01 
+	"00:25:24,370" >>i lang:es 00:59:58 00:59:58 tt-3560 AM032_1952_CT_SU2011_VA_01 
 "<Ah>"
-	"00:26:38,170" >>i lang:es 00:59:58 tt-3757 AM032_1952_CT_SU2011_VA_01 
+	"00:26:38,170" >>i lang:es 00:59:58 00:59:58 tt-3757 AM032_1952_CT_SU2011_VA_01 
 "<Ah>"
-	"00:26:54,630" >>i lang:es 00:59:58 tt-3794 AM032_1952_CT_SU2011_VA_01 
+	"00:26:54,630" >>i lang:es 00:59:58 00:59:58 tt-3794 AM032_1952_CT_SU2011_VA_01 
 "<tile>"
-	"00:27:26,840" >>i lang:es 00:59:58 tt-3860 AM032_1952_CT_SU2011_VA_01 
+	"00:27:26,840" >>i lang:es 00:59:58 00:59:58 tt-3860 AM032_1952_CT_SU2011_VA_01 
 "<tile>"
-	"00:27:26,840" >>i lang:es 00:59:58 tt-3866 AM032_1952_CT_SU2011_VA_01 
+	"00:27:26,840" >>i lang:es 00:59:58 00:59:58 tt-3866 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:27:35,120" >>i lang:es 00:59:58 tt-3891 AM032_1952_CT_SU2011_VA_01 
+	"00:27:35,120" >>i lang:es 00:59:58 00:59:58 tt-3891 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:28:20,910" >>i lang:es 00:59:58 tt-4007 AM032_1952_CT_SU2011_VA_01 
+	"00:28:20,910" >>i lang:es 00:59:58 00:59:58 tt-4007 AM032_1952_CT_SU2011_VA_01 
 "<ah>"
-	"00:28:34,020" >>i lang:es 00:59:58 tt-4013 AM032_1952_CT_SU2011_VA_01 
+	"00:28:34,020" >>i lang:es 00:59:58 00:59:58 tt-4013 AM032_1952_CT_SU2011_VA_01 
 "<seventh>"
-	"00:28:51,710" >>i lang:es 00:59:58 tt-4050 AM032_1952_CT_SU2011_VA_01 
+	"00:28:51,710" >>i lang:es 00:59:58 00:59:58 tt-4050 AM032_1952_CT_SU2011_VA_01 
 "<grade>"
-	"00:28:51,710" >>i lang:es 00:59:58 tt-4051 AM032_1952_CT_SU2011_VA_01 
+	"00:28:51,710" >>i lang:es 00:59:58 00:59:58 tt-4051 AM032_1952_CT_SU2011_VA_01 
 "<federal>"
-	"00:29:03,230" >>i lang:es 00:59:58 tt-4096 AM032_1952_CT_SU2011_VA_01 
+	"00:29:03,230" >>i lang:es 00:59:58 00:59:58 tt-4096 AM032_1952_CT_SU2011_VA_01 
 "<federal>"
-	"00:29:15,110" >>i lang:es 00:59:58 tt-4130 AM032_1952_CT_SU2011_VA_01 
+	"00:29:15,110" >>i lang:es 00:59:58 00:59:58 tt-4130 AM032_1952_CT_SU2011_VA_01 
 "<Not>"
-	"00:29:20,600" >>i lang:es 00:59:58 tt-4149 AM032_1952_CT_SU2011_VA_01 
+	"00:29:20,600" >>i lang:es 00:59:58 00:59:58 tt-4149 AM032_1952_CT_SU2011_VA_01 
 "<enough>"
-	"00:29:20,600" >>i lang:es 00:59:58 tt-4150 AM032_1952_CT_SU2011_VA_01 
+	"00:29:20,600" >>i lang:es 00:59:58 00:59:58 tt-4150 AM032_1952_CT_SU2011_VA_01 
 "<money>"
-	"00:29:20,600" >>i lang:es 00:59:58 tt-4151 AM032_1952_CT_SU2011_VA_01 
+	"00:29:20,600" >>i lang:es 00:59:58 00:59:58 tt-4151 AM032_1952_CT_SU2011_VA_01 
 "<for>"
-	"00:29:20,600" >>i lang:es 00:59:58 tt-4152 AM032_1952_CT_SU2011_VA_01 
+	"00:29:20,600" >>i lang:es 00:59:58 00:59:58 tt-4152 AM032_1952_CT_SU2011_VA_01 
 "<all>"
-	"00:29:20,600" >>i lang:es 00:59:58 tt-4153 AM032_1952_CT_SU2011_VA_01 
+	"00:29:20,600" >>i lang:es 00:59:58 00:59:58 tt-4153 AM032_1952_CT_SU2011_VA_01 
 "<that>"
-	"00:29:20,600" >>i lang:es 00:59:58 tt-4154 AM032_1952_CT_SU2011_VA_01 
+	"00:29:20,600" >>i lang:es 00:59:58 00:59:58 tt-4154 AM032_1952_CT_SU2011_VA_01 
 "<the>"
-	"00:30:52,170" >>i lang:es 00:59:58 tt-4404 AM032_1952_CT_SU2011_VA_01 
+	"00:30:52,170" >>i lang:es 00:59:58 00:59:58 tt-4404 AM032_1952_CT_SU2011_VA_01 
 "<grade>"
-	"00:30:52,170" >>i lang:es 00:59:58 tt-4406 AM032_1952_CT_SU2011_VA_01 
+	"00:30:52,170" >>i lang:es 00:59:58 00:59:58 tt-4406 AM032_1952_CT_SU2011_VA_01 
 "<West>"
-	"00:31:12,900" >>i lang:es 00:59:58 tt-4463 AM032_1952_CT_SU2011_VA_01 
+	"00:31:12,900" >>i lang:es 00:59:58 00:59:58 tt-4463 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:31:50,320" >>i lang:es 00:59:58 tt-4559 AM032_1952_CT_SU2011_VA_01 
+	"00:31:50,320" >>i lang:es 00:59:58 00:59:58 tt-4559 AM032_1952_CT_SU2011_VA_01 
 "<Ah>"
-	"00:32:11,660" >>i lang:es 00:59:58 tt-4605 AM032_1952_CT_SU2011_VA_01 
+	"00:32:11,660" >>i lang:es 00:59:58 00:59:58 tt-4605 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:32:25,210" >>i lang:es 00:59:58 tt-4646 AM032_1952_CT_SU2011_VA_01 
+	"00:32:25,210" >>i lang:es 00:59:58 00:59:58 tt-4646 AM032_1952_CT_SU2011_VA_01 
 "<shirts>"
-	"00:32:33,010" >>i lang:es 00:59:58 tt-4665 AM032_1952_CT_SU2011_VA_01 
+	"00:32:33,010" >>i lang:es 00:59:58 00:59:58 tt-4665 AM032_1952_CT_SU2011_VA_01 
 "<Ah>"
-	"00:33:47,480" >>i lang:es 00:59:58 tt-4848 AM032_1952_CT_SU2011_VA_01 
+	"00:33:47,480" >>i lang:es 00:59:58 00:59:58 tt-4848 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:33:54,220" >>i lang:es 00:59:58 tt-4876 AM032_1952_CT_SU2011_VA_01 
+	"00:33:54,220" >>i lang:es 00:59:58 00:59:58 tt-4876 AM032_1952_CT_SU2011_VA_01 
 "<the>"
-	"00:34:02,340" >>i lang:es 00:59:58 tt-4894 AM032_1952_CT_SU2011_VA_01 
+	"00:34:02,340" >>i lang:es 00:59:58 00:59:58 tt-4894 AM032_1952_CT_SU2011_VA_01 
 "<grade>"
-	"00:34:02,340" >>i lang:es 00:59:58 tt-4896 AM032_1952_CT_SU2011_VA_01 
+	"00:34:02,340" >>i lang:es 00:59:58 00:59:58 tt-4896 AM032_1952_CT_SU2011_VA_01 
 "<I>"
-	"00:34:02,340" >>i lang:es 00:59:58 tt-4898 AM032_1952_CT_SU2011_VA_01 
+	"00:34:02,340" >>i lang:es 00:59:58 00:59:58 tt-4898 AM032_1952_CT_SU2011_VA_01 
 "<skipped>"
-	"00:34:02,340" >>i lang:es 00:59:58 tt-4899 AM032_1952_CT_SU2011_VA_01 
+	"00:34:02,340" >>i lang:es 00:59:58 00:59:58 tt-4899 AM032_1952_CT_SU2011_VA_01 
 "<the>"
-	"00:34:02,340" >>i lang:es 00:59:58 tt-4900 AM032_1952_CT_SU2011_VA_01 
+	"00:34:02,340" >>i lang:es 00:59:58 00:59:58 tt-4900 AM032_1952_CT_SU2011_VA_01 
 "<grade>"
-	"00:34:02,340" >>i lang:es 00:59:58 tt-4902 AM032_1952_CT_SU2011_VA_01 
+	"00:34:02,340" >>i lang:es 00:59:58 00:59:58 tt-4902 AM032_1952_CT_SU2011_VA_01 
 "<because>"
-	"00:34:02,340" >>i lang:es 00:59:58 tt-4903 AM032_1952_CT_SU2011_VA_01 
+	"00:34:02,340" >>i lang:es 00:59:58 00:59:58 tt-4903 AM032_1952_CT_SU2011_VA_01 
 "<my>"
-	"00:34:08,070" >>i lang:es 00:59:58 tt-4904 AM032_1952_CT_SU2011_VA_01 
+	"00:34:08,070" >>i lang:es 00:59:58 00:59:58 tt-4904 AM032_1952_CT_SU2011_VA_01 
 "<class>"
-	"00:34:08,070" >>i lang:es 00:59:58 tt-4905 AM032_1952_CT_SU2011_VA_01 
+	"00:34:08,070" >>i lang:es 00:59:58 00:59:58 tt-4905 AM032_1952_CT_SU2011_VA_01 
 "<my>"
-	"00:34:08,070" >>i lang:es 00:59:58 tt-4906 AM032_1952_CT_SU2011_VA_01 
+	"00:34:08,070" >>i lang:es 00:59:58 00:59:58 tt-4906 AM032_1952_CT_SU2011_VA_01 
 "<class>"
-	"00:34:08,070" >>i lang:es 00:59:58 tt-4907 AM032_1952_CT_SU2011_VA_01 
+	"00:34:08,070" >>i lang:es 00:59:58 00:59:58 tt-4907 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:34:08,070" >>i lang:es 00:59:58 tt-4909 AM032_1952_CT_SU2011_VA_01 
+	"00:34:08,070" >>i lang:es 00:59:58 00:59:58 tt-4909 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:34:08,070" >>i lang:es 00:59:58 tt-4912 AM032_1952_CT_SU2011_VA_01 
+	"00:34:08,070" >>i lang:es 00:59:58 00:59:58 tt-4912 AM032_1952_CT_SU2011_VA_01 
 "<so>"
-	"00:34:08,070" >>i lang:es 00:59:58 tt-4915 AM032_1952_CT_SU2011_VA_01 
+	"00:34:08,070" >>i lang:es 00:59:58 00:59:58 tt-4915 AM032_1952_CT_SU2011_VA_01 
 "<impressive>"
-	"00:34:08,070" >>i lang:es 00:59:58 tt-4916 AM032_1952_CT_SU2011_VA_01 
+	"00:34:08,070" >>i lang:es 00:59:58 00:59:58 tt-4916 AM032_1952_CT_SU2011_VA_01 
 "<that>"
-	"00:34:08,070" >>i lang:es 00:59:58 tt-4917 AM032_1952_CT_SU2011_VA_01 
+	"00:34:08,070" >>i lang:es 00:59:58 00:59:58 tt-4917 AM032_1952_CT_SU2011_VA_01 
 "<the>"
-	"00:34:08,070" >>i lang:es 00:59:58 tt-4918 AM032_1952_CT_SU2011_VA_01 
+	"00:34:08,070" >>i lang:es 00:59:58 00:59:58 tt-4918 AM032_1952_CT_SU2011_VA_01 
 "<counselor>"
-	"00:34:08,070" >>i lang:es 00:59:58 tt-4919 AM032_1952_CT_SU2011_VA_01 
+	"00:34:08,070" >>i lang:es 00:59:58 00:59:58 tt-4919 AM032_1952_CT_SU2011_VA_01 
 "<said>"
-	"00:34:08,070" >>i lang:es 00:59:58 tt-4920 AM032_1952_CT_SU2011_VA_01 
+	"00:34:08,070" >>i lang:es 00:59:58 00:59:58 tt-4920 AM032_1952_CT_SU2011_VA_01 
 "<we>"
-	"00:34:08,070" >>i lang:es 00:59:58 tt-4922 AM032_1952_CT_SU2011_VA_01 
+	"00:34:08,070" >>i lang:es 00:59:58 00:59:58 tt-4922 AM032_1952_CT_SU2011_VA_01 
 "<ll>"
-	"00:34:08,070" >>i lang:es 00:59:58 tt-4923 AM032_1952_CT_SU2011_VA_01 
+	"00:34:08,070" >>i lang:es 00:59:58 00:59:58 tt-4923 AM032_1952_CT_SU2011_VA_01 
 "<>"
-	"_00:34:08,070" >>i lang:es 00:59:58 tt-4923 AM032_1952_CT_SU2011_VA_01 
+	"_00:34:08,070" >>i lang:es 00:59:58 00:59:58 tt-4923 AM032_1952_CT_SU2011_VA_01 
 "<'ll>"
-	"00:34:08,070" >>i lang:es 00:59:58 tt-4924 AM032_1952_CT_SU2011_VA_01 
+	"00:34:08,070" >>i lang:es 00:59:58 00:59:58 tt-4924 AM032_1952_CT_SU2011_VA_01 
 "<put>"
-	"00:34:13,059" >>i lang:es 00:59:58 tt-4925 AM032_1952_CT_SU2011_VA_01 
+	"00:34:13,059" >>i lang:es 00:59:58 00:59:58 tt-4925 AM032_1952_CT_SU2011_VA_01 
 "<you>"
-	"00:34:13,059" >>i lang:es 00:59:58 tt-4926 AM032_1952_CT_SU2011_VA_01 
+	"00:34:13,059" >>i lang:es 00:59:58 00:59:58 tt-4926 AM032_1952_CT_SU2011_VA_01 
 "<in>"
-	"00:34:13,059" >>i lang:es 00:59:58 tt-4927 AM032_1952_CT_SU2011_VA_01 
+	"00:34:13,059" >>i lang:es 00:59:58 00:59:58 tt-4927 AM032_1952_CT_SU2011_VA_01 
 "<the>"
-	"00:34:13,059" >>i lang:es 00:59:58 tt-4928 AM032_1952_CT_SU2011_VA_01 
+	"00:34:13,059" >>i lang:es 00:59:58 00:59:58 tt-4928 AM032_1952_CT_SU2011_VA_01 
 "<grade>"
-	"00:34:13,059" >>i lang:es 00:59:58 tt-4930 AM032_1952_CT_SU2011_VA_01 
+	"00:34:13,059" >>i lang:es 00:59:58 00:59:58 tt-4930 AM032_1952_CT_SU2011_VA_01 
 "<yeah>"
-	"00:34:13,059" >>i lang:es 00:59:58 tt-4932 AM032_1952_CT_SU2011_VA_01 
+	"00:34:13,059" >>i lang:es 00:59:58 00:59:58 tt-4932 AM032_1952_CT_SU2011_VA_01 
 "<the>"
-	"00:34:13,059" >>i lang:es 00:59:58 tt-4934 AM032_1952_CT_SU2011_VA_01 
+	"00:34:13,059" >>i lang:es 00:59:58 00:59:58 tt-4934 AM032_1952_CT_SU2011_VA_01 
 "<grade>"
-	"00:34:13,059" >>i lang:es 00:59:58 tt-4936 AM032_1952_CT_SU2011_VA_01 
+	"00:34:13,059" >>i lang:es 00:59:58 00:59:58 tt-4936 AM032_1952_CT_SU2011_VA_01 
 "<so>"
-	"00:34:13,059" >>i lang:es 00:59:58 tt-4938 AM032_1952_CT_SU2011_VA_01 
+	"00:34:13,059" >>i lang:es 00:59:58 00:59:58 tt-4938 AM032_1952_CT_SU2011_VA_01 
 "<I>"
-	"00:34:13,059" >>i lang:es 00:59:58 tt-4939 AM032_1952_CT_SU2011_VA_01 
+	"00:34:13,059" >>i lang:es 00:59:58 00:59:58 tt-4939 AM032_1952_CT_SU2011_VA_01 
 "<skipped>"
-	"00:34:13,059" >>i lang:es 00:59:58 tt-4940 AM032_1952_CT_SU2011_VA_01 
+	"00:34:13,059" >>i lang:es 00:59:58 00:59:58 tt-4940 AM032_1952_CT_SU2011_VA_01 
 "<the>"
-	"00:34:13,059" >>i lang:es 00:59:58 tt-4941 AM032_1952_CT_SU2011_VA_01 
+	"00:34:13,059" >>i lang:es 00:59:58 00:59:58 tt-4941 AM032_1952_CT_SU2011_VA_01 
 "<And>"
-	"00:34:13,059" >>i lang:es 00:59:58 tt-4944 AM032_1952_CT_SU2011_VA_01 
+	"00:34:13,059" >>i lang:es 00:59:58 00:59:58 tt-4944 AM032_1952_CT_SU2011_VA_01 
 "<besides>"
-	"00:34:13,059" >>i lang:es 00:59:58 tt-4945 AM032_1952_CT_SU2011_VA_01 
+	"00:34:13,059" >>i lang:es 00:59:58 00:59:58 tt-4945 AM032_1952_CT_SU2011_VA_01 
 "<that>"
-	"00:34:20,119" >>i lang:es 00:59:58 tt-4946 AM032_1952_CT_SU2011_VA_01 
+	"00:34:20,119" >>i lang:es 00:59:58 00:59:58 tt-4946 AM032_1952_CT_SU2011_VA_01 
 "<my>"
-	"00:34:20,119" >>i lang:es 00:59:58 tt-4948 AM032_1952_CT_SU2011_VA_01 
+	"00:34:20,119" >>i lang:es 00:59:58 00:59:58 tt-4948 AM032_1952_CT_SU2011_VA_01 
 "<grade>"
-	"00:34:20,119" >>i lang:es 00:59:58 tt-4950 AM032_1952_CT_SU2011_VA_01 
+	"00:34:20,119" >>i lang:es 00:59:58 00:59:58 tt-4950 AM032_1952_CT_SU2011_VA_01 
 "<I>"
-	"00:34:20,119" >>i lang:es 00:59:58 tt-4952 AM032_1952_CT_SU2011_VA_01 
+	"00:34:20,119" >>i lang:es 00:59:58 00:59:58 tt-4952 AM032_1952_CT_SU2011_VA_01 
 "<only>"
-	"00:34:20,119" >>i lang:es 00:59:58 tt-4953 AM032_1952_CT_SU2011_VA_01 
+	"00:34:20,119" >>i lang:es 00:59:58 00:59:58 tt-4953 AM032_1952_CT_SU2011_VA_01 
 "<did>"
-	"00:34:20,119" >>i lang:es 00:59:58 tt-4954 AM032_1952_CT_SU2011_VA_01 
+	"00:34:20,119" >>i lang:es 00:59:58 00:59:58 tt-4954 AM032_1952_CT_SU2011_VA_01 
 "<it>"
-	"00:34:20,119" >>i lang:es 00:59:58 tt-4955 AM032_1952_CT_SU2011_VA_01 
+	"00:34:20,119" >>i lang:es 00:59:58 00:59:58 tt-4955 AM032_1952_CT_SU2011_VA_01 
 "<in>"
-	"00:34:20,119" >>i lang:es 00:59:58 tt-4956 AM032_1952_CT_SU2011_VA_01 
+	"00:34:20,119" >>i lang:es 00:59:58 00:59:58 tt-4956 AM032_1952_CT_SU2011_VA_01 
 "<half>"
-	"00:34:20,119" >>i lang:es 00:59:58 tt-4957 AM032_1952_CT_SU2011_VA_01 
+	"00:34:20,119" >>i lang:es 00:59:58 00:59:58 tt-4957 AM032_1952_CT_SU2011_VA_01 
 "<year>"
-	"00:34:20,119" >>i lang:es 00:59:58 tt-4959 AM032_1952_CT_SU2011_VA_01 
+	"00:34:20,119" >>i lang:es 00:59:58 00:59:58 tt-4959 AM032_1952_CT_SU2011_VA_01 
 "<So>"
-	"00:34:20,119" >>i lang:es 00:59:58 tt-4961 AM032_1952_CT_SU2011_VA_01 
+	"00:34:20,119" >>i lang:es 00:59:58 00:59:58 tt-4961 AM032_1952_CT_SU2011_VA_01 
 "<actually>"
-	"00:34:20,119" >>i lang:es 00:59:58 tt-4962 AM032_1952_CT_SU2011_VA_01 
+	"00:34:20,119" >>i lang:es 00:59:58 00:59:58 tt-4962 AM032_1952_CT_SU2011_VA_01 
 "<I>"
-	"00:34:20,119" >>i lang:es 00:59:58 tt-4963 AM032_1952_CT_SU2011_VA_01 
+	"00:34:20,119" >>i lang:es 00:59:58 00:59:58 tt-4963 AM032_1952_CT_SU2011_VA_01 
 "<finished>"
-	"00:34:20,119" >>i lang:es 00:59:58 tt-4964 AM032_1952_CT_SU2011_VA_01 
+	"00:34:20,119" >>i lang:es 00:59:58 00:59:58 tt-4964 AM032_1952_CT_SU2011_VA_01 
 "<high>"
-	"00:34:20,119" >>i lang:es 00:59:58 tt-4965 AM032_1952_CT_SU2011_VA_01 
+	"00:34:20,119" >>i lang:es 00:59:58 00:59:58 tt-4965 AM032_1952_CT_SU2011_VA_01 
 "<school>"
-	"00:34:20,119" >>i lang:es 00:59:58 tt-4966 AM032_1952_CT_SU2011_VA_01 
+	"00:34:20,119" >>i lang:es 00:59:58 00:59:58 tt-4966 AM032_1952_CT_SU2011_VA_01 
 "<in>"
-	"00:34:27,309" >>i lang:es 00:59:58 tt-4967 AM032_1952_CT_SU2011_VA_01 
+	"00:34:27,309" >>i lang:es 00:59:58 00:59:58 tt-4967 AM032_1952_CT_SU2011_VA_01 
 "<year>"
-	"00:34:27,309" >>i lang:es 00:59:58 tt-4969 AM032_1952_CT_SU2011_VA_01 
+	"00:34:27,309" >>i lang:es 00:59:58 00:59:58 tt-4969 AM032_1952_CT_SU2011_VA_01 
 "<and>"
-	"00:34:27,309" >>i lang:es 00:59:58 tt-4970 AM032_1952_CT_SU2011_VA_01 
+	"00:34:27,309" >>i lang:es 00:59:58 00:59:58 tt-4970 AM032_1952_CT_SU2011_VA_01 
 "<half>"
-	"00:34:27,309" >>i lang:es 00:59:58 tt-4972 AM032_1952_CT_SU2011_VA_01 
+	"00:34:27,309" >>i lang:es 00:59:58 00:59:58 tt-4972 AM032_1952_CT_SU2011_VA_01 
 "<instead>"
-	"00:34:27,309" >>i lang:es 00:59:58 tt-4973 AM032_1952_CT_SU2011_VA_01 
+	"00:34:27,309" >>i lang:es 00:59:58 00:59:58 tt-4973 AM032_1952_CT_SU2011_VA_01 
 "<of>"
-	"00:34:27,309" >>i lang:es 00:59:58 tt-4974 AM032_1952_CT_SU2011_VA_01 
+	"00:34:27,309" >>i lang:es 00:59:58 00:59:58 tt-4974 AM032_1952_CT_SU2011_VA_01 
 "<three>"
-	"00:34:27,309" >>i lang:es 00:59:58 tt-4975 AM032_1952_CT_SU2011_VA_01 
+	"00:34:27,309" >>i lang:es 00:59:58 00:59:58 tt-4975 AM032_1952_CT_SU2011_VA_01 
 "<years>"
-	"00:34:27,309" >>i lang:es 00:59:58 tt-4976 AM032_1952_CT_SU2011_VA_01 
+	"00:34:27,309" >>i lang:es 00:59:58 00:59:58 tt-4976 AM032_1952_CT_SU2011_VA_01 
 "<Colonial>"
-	"00:35:06,619" >>i lang:es 00:59:58 tt-5077 AM032_1952_CT_SU2011_VA_01 
+	"00:35:06,619" >>i lang:es 00:59:58 00:59:58 tt-5077 AM032_1952_CT_SU2011_VA_01 
 "<Inn>"
-	"00:35:06,619" >>i lang:es 00:59:58 tt-5078 AM032_1952_CT_SU2011_VA_01 
+	"00:35:06,619" >>i lang:es 00:59:58 00:59:58 tt-5078 AM032_1952_CT_SU2011_VA_01 
 "<the>"
-	"00:35:06,619" >>i lang:es 00:59:58 tt-5080 AM032_1952_CT_SU2011_VA_01 
+	"00:35:06,619" >>i lang:es 00:59:58 00:59:58 tt-5080 AM032_1952_CT_SU2011_VA_01 
 "<Colonial>"
-	"00:35:14,559" >>i lang:es 00:59:58 tt-5081 AM032_1952_CT_SU2011_VA_01 
+	"00:35:14,559" >>i lang:es 00:59:58 00:59:58 tt-5081 AM032_1952_CT_SU2011_VA_01 
 "<Inn>"
-	"00:35:14,559" >>i lang:es 00:59:58 tt-5082 AM032_1952_CT_SU2011_VA_01 
+	"00:35:14,559" >>i lang:es 00:59:58 00:59:58 tt-5082 AM032_1952_CT_SU2011_VA_01 
 "<pizza>"
-	"00:35:14,559" >>i lang:es 00:59:58 tt-5092 AM032_1952_CT_SU2011_VA_01 
+	"00:35:14,559" >>i lang:es 00:59:58 00:59:58 tt-5092 AM032_1952_CT_SU2011_VA_01 
 "<hot>"
-	"00:35:14,559" >>i lang:es 00:59:58 tt-5094 AM032_1952_CT_SU2011_VA_01 
+	"00:35:14,559" >>i lang:es 00:59:58 00:59:58 tt-5094 AM032_1952_CT_SU2011_VA_01 
 "<dogs>"
-	"00:35:14,559" >>i lang:es 00:59:58 tt-5095 AM032_1952_CT_SU2011_VA_01 
+	"00:35:14,559" >>i lang:es 00:59:58 00:59:58 tt-5095 AM032_1952_CT_SU2011_VA_01 
 "<Uh>"
-	"00:36:08,329" >>i lang:es 00:59:58 tt-5218 AM032_1952_CT_SU2011_VA_01 
+	"00:36:08,329" >>i lang:es 00:59:58 00:59:58 tt-5218 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:36:08,329" >>i lang:es 00:59:58 tt-5225 AM032_1952_CT_SU2011_VA_01 
+	"00:36:08,329" >>i lang:es 00:59:58 00:59:58 tt-5225 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:36:15,549" >>i lang:es 00:59:58 tt-5245 AM032_1952_CT_SU2011_VA_01 
+	"00:36:15,549" >>i lang:es 00:59:58 00:59:58 tt-5245 AM032_1952_CT_SU2011_VA_01 
 "<manager>"
-	"00:36:15,549" >>i lang:es 00:59:58 tt-5247 AM032_1952_CT_SU2011_VA_01 
+	"00:36:15,549" >>i lang:es 00:59:58 00:59:58 tt-5247 AM032_1952_CT_SU2011_VA_01 
 "<pizzas>"
-	"00:37:06,730" >>i lang:es 00:59:58 tt-5351 AM032_1952_CT_SU2011_VA_01 
+	"00:37:06,730" >>i lang:es 00:59:58 00:59:58 tt-5351 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:37:06,730" >>i lang:es 00:59:58 tt-5357 AM032_1952_CT_SU2011_VA_01 
+	"00:37:06,730" >>i lang:es 00:59:58 00:59:58 tt-5357 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:38:05,700" >>i lang:es 00:59:58 tt-5496 AM032_1952_CT_SU2011_VA_01 
+	"00:38:05,700" >>i lang:es 00:59:58 00:59:58 tt-5496 AM032_1952_CT_SU2011_VA_01 
 "<we>"
-	"00:38:30,519" >>i lang:es 00:59:58 tt-5556 AM032_1952_CT_SU2011_VA_01 
+	"00:38:30,519" >>i lang:es 00:59:58 00:59:58 tt-5556 AM032_1952_CT_SU2011_VA_01 
 "<got>"
-	"00:38:30,519" >>i lang:es 00:59:58 tt-5557 AM032_1952_CT_SU2011_VA_01 
+	"00:38:30,519" >>i lang:es 00:59:58 00:59:58 tt-5557 AM032_1952_CT_SU2011_VA_01 
 "<away>"
-	"00:38:30,519" >>i lang:es 00:59:58 tt-5558 AM032_1952_CT_SU2011_VA_01 
+	"00:38:30,519" >>i lang:es 00:59:58 00:59:58 tt-5558 AM032_1952_CT_SU2011_VA_01 
 "<with>"
-	"00:38:30,519" >>i lang:es 00:59:58 tt-5559 AM032_1952_CT_SU2011_VA_01 
+	"00:38:30,519" >>i lang:es 00:59:58 00:59:58 tt-5559 AM032_1952_CT_SU2011_VA_01 
 "<it>"
-	"00:38:30,519" >>i lang:es 00:59:58 tt-5560 AM032_1952_CT_SU2011_VA_01 
+	"00:38:30,519" >>i lang:es 00:59:58 00:59:58 tt-5560 AM032_1952_CT_SU2011_VA_01 
 "<Uh>"
-	"00:38:30,519" >>i lang:es 00:59:58 tt-5562 AM032_1952_CT_SU2011_VA_01 
+	"00:38:30,519" >>i lang:es 00:59:58 00:59:58 tt-5562 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:38:41,319" >>i lang:es 00:59:58 tt-5584 AM032_1952_CT_SU2011_VA_01 
+	"00:38:41,319" >>i lang:es 00:59:58 00:59:58 tt-5584 AM032_1952_CT_SU2011_VA_01 
 "<pies>"
-	"00:38:58,750" >>i lang:es 00:59:58 tt-5627 AM032_1952_CT_SU2011_VA_01 
+	"00:38:58,750" >>i lang:es 00:59:58 00:59:58 tt-5627 AM032_1952_CT_SU2011_VA_01 
 "<OK>"
-	"00:39:45,049" >>i lang:es 00:59:58 tt-5755 AM032_1952_CT_SU2011_VA_01 
+	"00:39:45,049" >>i lang:es 00:59:58 00:59:58 tt-5755 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:39:45,049" >>i lang:es 00:59:58 tt-5759 AM032_1952_CT_SU2011_VA_01 
+	"00:39:45,049" >>i lang:es 00:59:58 00:59:58 tt-5759 AM032_1952_CT_SU2011_VA_01 
 "<golf>"
-	"00:40:35,440" >>i lang:es 00:59:58 tt-5866 AM032_1952_CT_SU2011_VA_01 
+	"00:40:35,440" >>i lang:es 00:59:58 00:59:58 tt-5866 AM032_1952_CT_SU2011_VA_01 
 "<golf>"
-	"00:40:35,440" >>i lang:es 00:59:58 tt-5882 AM032_1952_CT_SU2011_VA_01 
+	"00:40:35,440" >>i lang:es 00:59:58 00:59:58 tt-5882 AM032_1952_CT_SU2011_VA_01 
 "<Ball>"
-	"00:40:42,309" >>i lang:es 00:59:58 tt-5900 AM032_1952_CT_SU2011_VA_01 
+	"00:40:42,309" >>i lang:es 00:59:58 00:59:58 tt-5900 AM032_1952_CT_SU2011_VA_01 
 "<Road>"
-	"00:40:42,309" >>i lang:es 00:59:58 tt-5901 AM032_1952_CT_SU2011_VA_01 
+	"00:40:42,309" >>i lang:es 00:59:58 00:59:58 tt-5901 AM032_1952_CT_SU2011_VA_01 
 "<can>"
-	"00:41:20,359" >>i lang:es 00:59:58 tt-5956 AM032_1952_CT_SU2011_VA_01 
+	"00:41:20,359" >>i lang:es 00:59:58 00:59:58 tt-5956 AM032_1952_CT_SU2011_VA_01 
 "<t>"
-	"00:41:20,359" >>i lang:es 00:59:58 tt-5957 AM032_1952_CT_SU2011_VA_01 
+	"00:41:20,359" >>i lang:es 00:59:58 00:59:58 tt-5957 AM032_1952_CT_SU2011_VA_01 
 "<>"
-	"_00:41:20,359" >>i lang:es 00:59:58 tt-5957 AM032_1952_CT_SU2011_VA_01 
+	"_00:41:20,359" >>i lang:es 00:59:58 00:59:58 tt-5957 AM032_1952_CT_SU2011_VA_01 
 "<'t>"
-	"00:41:20,359" >>i lang:es 00:59:58 tt-5958 AM032_1952_CT_SU2011_VA_01 
+	"00:41:20,359" >>i lang:es 00:59:58 00:59:58 tt-5958 AM032_1952_CT_SU2011_VA_01 
 "<hear>"
-	"00:41:20,359" >>i lang:es 00:59:58 tt-5959 AM032_1952_CT_SU2011_VA_01 
+	"00:41:20,359" >>i lang:es 00:59:58 00:59:58 tt-5959 AM032_1952_CT_SU2011_VA_01 
 "<it>"
-	"00:41:20,359" >>i lang:es 00:59:58 tt-5960 AM032_1952_CT_SU2011_VA_01 
+	"00:41:20,359" >>i lang:es 00:59:58 00:59:58 tt-5960 AM032_1952_CT_SU2011_VA_01 
 "<Ah>"
-	"00:43:35,630" >>i lang:es 00:59:58 tt-6346 AM032_1952_CT_SU2011_VA_01 
+	"00:43:35,630" >>i lang:es 00:59:58 00:59:58 tt-6346 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:43:50,849" >>i lang:es 00:59:58 tt-6376 AM032_1952_CT_SU2011_VA_01 
+	"00:43:50,849" >>i lang:es 00:59:58 00:59:58 tt-6376 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:44:18,329" >>i lang:es 00:59:58 tt-6433 AM032_1952_CT_SU2011_VA_01 
+	"00:44:18,329" >>i lang:es 00:59:58 00:59:58 tt-6433 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:45:19,180" >>i lang:es 00:59:58 tt-6585 AM032_1952_CT_SU2011_VA_01 
+	"00:45:19,180" >>i lang:es 00:59:58 00:59:58 tt-6585 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:45:34,809" >>i lang:es 00:59:58 tt-6633 AM032_1952_CT_SU2011_VA_01 
+	"00:45:34,809" >>i lang:es 00:59:58 00:59:58 tt-6633 AM032_1952_CT_SU2011_VA_01 
 "<uh>"
-	"00:45:42,009" >>i lang:es 00:59:58 tt-6649 AM032_1952_CT_SU2011_VA_01 
+	"00:45:42,009" >>i lang:es 00:59:58 00:59:58 tt-6649 AM032_1952_CT_SU2011_VA_01 
 "<etc>"
-	"00:45:42,009" >>i lang:es 00:59:58 tt-6651 AM032_1952_CT_SU2011_VA_01 
+	"00:45:42,009" >>i lang:es 00:59:58 00:59:58 tt-6651 AM032_1952_CT_SU2011_VA_01 
 "<etc>"
-	"00:45:42,009" >>i lang:es 00:59:58 tt-6654 AM032_1952_CT_SU2011_VA_01 
+	"00:45:42,009" >>i lang:es 00:59:58 00:59:58 tt-6654 AM032_1952_CT_SU2011_VA_01 
 "<media>"
-	"00:46:43,109" >>i lang:es 00:59:58 tt-6798 AM032_1952_CT_SU2011_VA_01 
+	"00:46:43,109" >>i lang:es 00:59:58 00:59:58 tt-6798 AM032_1952_CT_SU2011_VA_01 
 "<.>"
-	"00:47:56,140" >>i lang:es 00:59:58 tt-6996 AM032_1952_CT_SU2011_VA_01 
+	"00:47:56,140" >>i lang:es 00:59:58 00:59:58 tt-6996 AM032_1952_CT_SU2011_VA_01 
 </speaker>
 </text>
 
