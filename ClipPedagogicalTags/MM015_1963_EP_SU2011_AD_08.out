@@ -14,23 +14,23 @@
 "<esfuerzo>"
 	"esfuerzo" Noun NC Singular lang:es 00:00:00 00:00:07 tt-2261 MM015_1963_EP_SU2011_AD_08 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2262 MM015_1963_EP_SU2011_AD_08 ID:7 R:Gram:Aux:Haber:8 R:Gram:PerfPerif:8 ADDRELATION():553 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2262 MM015_1963_EP_SU2011_AD_08 ID:7 R:Gram:Aux:Haber:8 R:Gram:PerfPerif:8 ADDRELATION():570 
 "<hecho>"
 	"hacer" Verb VLadj lang:es 00:00:00 00:00:07 tt-2263 MM015_1963_EP_SU2011_AD_08 ID:8 
 "<para>"
-	"para" Conjunction CSUBI lang:es 00:00:00 00:00:07 tt-2264 MM015_1963_EP_SU2011_AD_08 
+	"para" Preposition PREP lang:es 00:00:00 00:00:07 tt-2264 MM015_1963_EP_SU2011_AD_08 @Gram:Prep:Para SUBSTITUTE:312 ADD:435 
 "<conservar>"
-	"conservar" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-2265 MM015_1963_EP_SU2011_AD_08 SUBSTITUTE:292 
+	"conservar" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-2265 MM015_1963_EP_SU2011_AD_08 SUBSTITUTE:296 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:00 00:00:07 tt-2266 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Pos ADD:351 
+	"UNK" Noun NC Plural lang:es 00:00:00 00:00:07 tt-2266 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Pos ADD:368 
 "<tradiciones>"
 	"tradición" Noun NC Plural lang:es 00:00:00 00:00:07 tt-2267 MM015_1963_EP_SU2011_AD_08 
 "<culturales>"
 	"cultural" Adjective ADJ Plural lang:es 00:00:00 00:00:07 tt-2268 MM015_1963_EP_SU2011_AD_08 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:18 00:00:23 tt-2269 MM015_1963_EP_SU2011_AD_08 @Gram:Prep ADD:472 
+	"en" Preposition PREP lang:es 00:00:18 00:00:23 tt-2269 MM015_1963_EP_SU2011_AD_08 @Gram:Prep ADD:489 
 "<ese>"
-	"ese" Determiner DM Singular lang:es 00:00:18 00:00:23 tt-2270 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Demo ADD:336 
+	"ese" Determiner DM Singular lang:es 00:00:18 00:00:23 tt-2270 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Demo ADD:353 
 "<país>"
 	"país" Noun NC Plural lang:es 00:00:18 00:00:23 tt-2271 MM015_1963_EP_SU2011_AD_08 
 "<$?>"
@@ -43,7 +43,7 @@
 "<mucho>"
 	"mucho" Adverb ADV lang:es 00:00:23 00:00:30 tt-2274 MM015_1963_EP_SU2011_AD_08 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:23 00:00:30 tt-2275 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Pos ADD:350 
+	"mío" Pronoun PPO Singular lang:es 00:00:23 00:00:30 tt-2275 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Pos ADD:367 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:00:23 00:00:30 tt-2276 MM015_1963_EP_SU2011_AD_08 
 "<$.>"
@@ -52,7 +52,7 @@
 "<Éste>"
 	"este" Determiner DM Singular lang:es 00:00:23 00:00:30 tt-2278 MM015_1963_EP_SU2011_AD_08 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:23 00:00:30 tt-2279 MM015_1963_EP_SU2011_AD_08 @Gram:SerEstar:Ser ADD:647 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:23 00:00:30 tt-2279 MM015_1963_EP_SU2011_AD_08 @Gram:SerEstar:Ser ADD:664 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:23 00:00:30 tt-2280 MM015_1963_EP_SU2011_AD_08 
 "<extenso>"
@@ -68,11 +68,11 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:23 00:00:30 tt-2286 MM015_1963_EP_SU2011_AD_08 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:23 00:00:30 tt-2287 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Art ADD:324 
+	"el" Determiner ART Singular lang:es 00:00:23 00:00:30 tt-2287 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Art ADD:341 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:23 00:00:30 tt-2288 MM015_1963_EP_SU2011_AD_08 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:31 00:00:37 tt-2289 MM015_1963_EP_SU2011_AD_08 @Gram:SerEstar:Ser ADD:647 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:31 00:00:37 tt-2289 MM015_1963_EP_SU2011_AD_08 @Gram:SerEstar:Ser ADD:664 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:31 00:00:37 tt-2290 MM015_1963_EP_SU2011_AD_08 
 "<extenso>"
@@ -81,29 +81,29 @@
 	"." Punctuation FS lang:es 00:00:31 00:00:37 tt-2292 MM015_1963_EP_SU2011_AD_08 
 
 "<A>"
-	"a" Preposition PREP lang:es 00:00:31 00:00:37 tt-2293 MM015_1963_EP_SU2011_AD_08 @Gram:Prep ADD:472 
+	"a" Preposition PREP lang:es 00:00:31 00:00:37 tt-2293 MM015_1963_EP_SU2011_AD_08 @Gram:Prep ADD:489 
 "<mis>"
-	"mío" Pronoun PPO Plural lang:es 00:00:31 00:00:37 tt-2294 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Pos SUBSTITUTE:281 ADD:351 
+	"mío" Pronoun PPO Plural lang:es 00:00:31 00:00:37 tt-2294 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Pos SUBSTITUTE:285 ADD:368 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:31 00:00:37 tt-2295 MM015_1963_EP_SU2011_AD_08 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:31 00:00:37 tt-2296 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Art ADD:324 
+	"el" Determiner ART Plural lang:es 00:00:31 00:00:37 tt-2296 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Art ADD:341 
 "<regaño>"
 	"regaño" Noun NC Singular lang:es 00:00:31 00:00:37 tt-2297 MM015_1963_EP_SU2011_AD_08 
 "<,>"
 	"," Punctuation CM lang:es 00:00:31 00:00:37 tt-2298 MM015_1963_EP_SU2011_AD_08 
 "<les>"
-	"él" Pronoun PPC Plural lang:es 00:00:31 00:00:37 tt-2299 MM015_1963_EP_SU2011_AD_08 @Gram:Pron:Objeto ADD:512 
+	"él" Pronoun PPC Plural lang:es 00:00:31 00:00:37 tt-2299 MM015_1963_EP_SU2011_AD_08 @Gram:Pron:Objeto ADD:529 
 "<llamó>"
-	"llamar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:31 00:00:37 tt-2300 MM015_1963_EP_SU2011_AD_08 @Gram:Indefinido ADD:546 
+	"llamar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:31 00:00:37 tt-2300 MM015_1963_EP_SU2011_AD_08 @Gram:Indefinido ADD:563 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:31 00:00:37 tt-2301 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Art ADD:324 
+	"el" Determiner ART Singular lang:es 00:00:31 00:00:37 tt-2301 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Art ADD:341 
 "<atención>"
 	"atención" Noun NC Singular lang:es 00:00:31 00:00:37 tt-2302 MM015_1963_EP_SU2011_AD_08 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:31 00:00:37 tt-2303 MM015_1963_EP_SU2011_AD_08 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:31 00:00:37 tt-2304 MM015_1963_EP_SU2011_AD_08 @Prag:MarcadoresDisc:Causa ADD:879 
+	"porque" Conjunction CSUBX lang:es 00:00:31 00:00:37 tt-2304 MM015_1963_EP_SU2011_AD_08 @Prag:MarcadoresDisc:Causa ADD:902 
 "<no>"
 	"no" Adverb NEG lang:es 00:00:31 00:00:37 tt-2305 MM015_1963_EP_SU2011_AD_08 
 "<saben>"
@@ -121,7 +121,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:37 00:00:44 tt-2312 MM015_1963_EP_SU2011_AD_08 
 "<los>"
-	"él" Pronoun PPC Plural lang:es 00:00:37 00:00:44 tt-2313 MM015_1963_EP_SU2011_AD_08 @Gram:Pron:Objeto ADD:512 
+	"él" Pronoun PPC Plural lang:es 00:00:37 00:00:44 tt-2313 MM015_1963_EP_SU2011_AD_08 @Gram:Pron:Objeto ADD:529 
 "<corrijo>"
 	"corregir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:37 00:00:44 tt-2314 MM015_1963_EP_SU2011_AD_08 
 "<$.>"
@@ -130,13 +130,13 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:37 00:00:44 tt-2316 MM015_1963_EP_SU2011_AD_08 
 "<las>"
-	"el" Determiner ART Plural lang:es 00:00:37 00:00:44 tt-2317 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Art ADD:324 
+	"el" Determiner ART Plural lang:es 00:00:37 00:00:44 tt-2317 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Art ADD:341 
 "<tradiciones>"
 	"tradición" Noun NC Plural lang:es 00:00:37 00:00:44 tt-2318 MM015_1963_EP_SU2011_AD_08 
 "<mexicanas>"
 	"mexicano" Adjective ADJ Plural lang:es 00:00:37 00:00:44 tt-2319 MM015_1963_EP_SU2011_AD_08 
 "<son>"
-	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:00:37 00:00:44 tt-2320 MM015_1963_EP_SU2011_AD_08 @Gram:SerEstar:Ser ADD:647 
+	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:00:37 00:00:44 tt-2320 MM015_1963_EP_SU2011_AD_08 @Gram:SerEstar:Ser ADD:664 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:37 00:00:44 tt-2321 MM015_1963_EP_SU2011_AD_08 
 "<bonitas>"
@@ -145,7 +145,7 @@
 	"." Punctuation FS lang:es 00:00:37 00:00:44 tt-2323 MM015_1963_EP_SU2011_AD_08 
 
 "<Este>"
-	"este" Determiner DM Singular lang:es 00:00:37 00:00:44 tt-2324 MM015_1963_EP_SU2011_AD_08 @Prag:RecuDiscurso:GanarTiempo ADD:939 
+	"este" Determiner DM Singular lang:es 00:00:37 00:00:44 tt-2324 MM015_1963_EP_SU2011_AD_08 @Prag:RecuDiscurso:GanarTiempo ADD:962 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:37 00:00:44 tt-2325 MM015_1963_EP_SU2011_AD_08 
 "<th>"
@@ -155,15 +155,15 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:37 00:00:44 tt-2328 MM015_1963_EP_SU2011_AD_08 
 "<llegue>"
-	"llegar" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:46 00:00:52 tt-2329 MM015_1963_EP_SU2011_AD_08 @Gram:MSub:Pres ADD:616 
+	"llegar" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:46 00:00:52 tt-2329 MM015_1963_EP_SU2011_AD_08 @Gram:MSub:Pres ADD:633 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:46 00:00:52 tt-2330 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Pos ADD:350 
+	"suyo" Pronoun PPO Singular lang:es 00:00:46 00:00:52 tt-2330 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Pos ADD:367 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:46 00:00:52 tt-2331 MM015_1963_EP_SU2011_AD_08 
 "<y>"
 	"y" Conjunction CC lang:es 00:00:46 00:00:52 tt-2332 MM015_1963_EP_SU2011_AD_08 
 "<les>"
-	"él" Pronoun PPC Plural lang:es 00:00:46 00:00:52 tt-2333 MM015_1963_EP_SU2011_AD_08 @Gram:Pron:Objeto ADD:512 
+	"él" Pronoun PPC Plural lang:es 00:00:46 00:00:52 tt-2333 MM015_1963_EP_SU2011_AD_08 @Gram:Pron:Objeto ADD:529 
 "<tiene>"
 	"tener" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:46 00:00:52 tt-2334 MM015_1963_EP_SU2011_AD_08 
 "<comida>"
@@ -173,7 +173,7 @@
 "<comida>"
 	"comer" Verb VLadj lang:es 00:00:46 00:00:52 tt-2337 MM015_1963_EP_SU2011_AD_08 
 "<con>"
-	"con" Preposition PREP lang:es 00:00:46 00:00:52 tt-2338 MM015_1963_EP_SU2011_AD_08 @Gram:Prep ADD:472 
+	"con" Preposition PREP lang:es 00:00:46 00:00:52 tt-2338 MM015_1963_EP_SU2011_AD_08 @Gram:Prep ADD:489 
 "<chile>"
 	"chile" Noun NC Singular lang:es 00:00:46 00:00:52 tt-2339 MM015_1963_EP_SU2011_AD_08 
 "<,>"
@@ -188,11 +188,11 @@
 	"." Punctuation FS lang:es 00:00:46 00:00:52 tt-2344 MM015_1963_EP_SU2011_AD_08 
 
 "<Sus>"
-	"suyo" Pronoun PPO Plural lang:es 00:00:46 00:00:52 tt-2345 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Pos ADD:351 
+	"suyo" Pronoun PPO Plural lang:es 00:00:46 00:00:52 tt-2345 MM015_1963_EP_SU2011_AD_08 @Gram:Det:Pos ADD:368 
 "<tortillitas>"
 	"UNK" Noun NC Plural lang:es 00:00:46 00:00:52 tt-2346 MM015_1963_EP_SU2011_AD_08 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:52 00:00:59 tt-2347 MM015_1963_EP_SU2011_AD_08 @Gram:Prep ADD:472 
+	"de" Preposition PREP lang:es 00:00:52 00:00:59 tt-2347 MM015_1963_EP_SU2011_AD_08 @Gram:Prep ADD:489 
 "<harina>"
 	"harina" Noun NC Singular lang:es 00:00:52 00:00:59 tt-2348 MM015_1963_EP_SU2011_AD_08 
 "<,>"
@@ -200,14 +200,14 @@
 "<tortillas>"
 	"torta|tortilla" Noun NC Plural lang:es 00:00:52 00:00:59 tt-2350 MM015_1963_EP_SU2011_AD_08 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:52 00:00:59 tt-2351 MM015_1963_EP_SU2011_AD_08 @Gram:Prep ADD:472 
+	"de" Preposition PREP lang:es 00:00:52 00:00:59 tt-2351 MM015_1963_EP_SU2011_AD_08 @Gram:Prep ADD:489 
 "<maíz>"
 	"maíz" Noun NC Singular lang:es 00:00:52 00:00:59 tt-2352 MM015_1963_EP_SU2011_AD_08 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:52 00:00:59 tt-2353 MM015_1963_EP_SU2011_AD_08 
 
 "<Son>"
-	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:00:52 00:00:59 tt-2354 MM015_1963_EP_SU2011_AD_08 @Gram:SerEstar:Ser ADD:647 
+	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:00:52 00:00:59 tt-2354 MM015_1963_EP_SU2011_AD_08 @Gram:SerEstar:Ser ADD:664 
 "<cosas>"
 	"cosa" Noun NC Plural lang:es 00:00:52 00:00:59 tt-2355 MM015_1963_EP_SU2011_AD_08 
 "<mexicanas>"
@@ -218,7 +218,7 @@
 "<Que>"
 	"que" Conjunction CQUE lang:es 00:00:52 00:00:59 tt-2358 MM015_1963_EP_SU2011_AD_08 
 "<son>"
-	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:00:52 00:00:59 tt-2359 MM015_1963_EP_SU2011_AD_08 @Gram:SerEstar:Ser ADD:647 
+	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:00:52 00:00:59 tt-2359 MM015_1963_EP_SU2011_AD_08 @Gram:SerEstar:Ser ADD:664 
 "<costumbres>"
 	"costumbre" Noun NC Plural lang:es 00:00:52 00:00:59 tt-2360 MM015_1963_EP_SU2011_AD_08 
 "<muy>"
@@ -226,7 +226,7 @@
 "<bonitas>"
 	"bonito" Adjective ADJ Plural lang:es 00:00:52 00:00:59 tt-2362 MM015_1963_EP_SU2011_AD_08 
 "<también>"
-	"también" Adverb ADV lang:es 00:00:52 00:00:59 tt-2363 MM015_1963_EP_SU2011_AD_08 @Prag:MarcadoresDisc:Igualdad ADD:910 
+	"también" Adverb ADV lang:es 00:00:52 00:00:59 tt-2363 MM015_1963_EP_SU2011_AD_08 @Prag:MarcadoresDisc:Igualdad ADD:933 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:52 00:00:59 tt-2364 MM015_1963_EP_SU2011_AD_08 
 

@@ -7,7 +7,7 @@
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:00 00:00:01 tt-569 AM041_1990_CT_SU2011_ER_03 
 "<estás>"
-	"estar" Verb VEfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:01 tt-570 AM041_1990_CT_SU2011_ER_03 @Gram:SerEstar:Estar ID:4 R:Gram:SerEstar:EstarAux:5 ADD:656 ADDRELATION(Gram:SerEstar:EstarAux):672 
+	"estar" Verb VEfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:01 tt-570 AM041_1990_CT_SU2011_ER_03 @Gram:SerEstar:Estar ID:4 R:Gram:SerEstar:EstarAux:5 ADD:673 ADDRELATION(Gram:SerEstar:EstarAux):689 
 "<estudiando>"
 	"estudiar" Verb VLger lang:es 00:00:00 00:00:01 tt-571 AM041_1990_CT_SU2011_ER_03 ID:5 
 "<$?>"
@@ -16,9 +16,9 @@
 <speaker type="subj">
 
 "<Yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:01 00:00:07 tt-573 AM041_1990_CT_SU2011_ER_03 @Gram:Pron:Sujeto ADD:482 
+	"yo" Pronoun PPX Singular lang:es 00:00:01 00:00:07 tt-573 AM041_1990_CT_SU2011_ER_03 @Gram:Pron:Sujeto ADD:499 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:01 00:00:07 tt-574 AM041_1990_CT_SU2011_ER_03 @Gram:SerEstar:Estar ID:8 R:Gram:SerEstar:EstarAux:9 ADD:656 ADDRELATION(Gram:SerEstar:EstarAux):672 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:01 00:00:07 tt-574 AM041_1990_CT_SU2011_ER_03 @Gram:SerEstar:Estar ID:8 R:Gram:SerEstar:EstarAux:9 ADD:673 ADDRELATION(Gram:SerEstar:EstarAux):689 
 "<estudiando>"
 	"estudiar" Verb VLger lang:es 00:00:01 00:00:07 tt-575 AM041_1990_CT_SU2011_ER_03 ID:9 
 "<aquí>"
@@ -28,7 +28,7 @@
 "<un>"
 	"un" Determiner ART Singular lang:es 00:00:01 00:00:07 tt-580 AM041_1990_CT_SU2011_ER_03 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:01 00:00:07 tt-582 AM041_1990_CT_SU2011_ER_03 @Gram:Prep ADD:472 
+	"en" Preposition PREP lang:es 00:00:01 00:00:07 tt-582 AM041_1990_CT_SU2011_ER_03 @Gram:Prep ADD:489 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:01 00:00:07 tt-583 AM041_1990_CT_SU2011_ER_03 
 "<$.>"
@@ -41,11 +41,11 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:07 00:00:10 tt-586 AM041_1990_CT_SU2011_ER_03 
 "<te>"
-	"tú" Pronoun PPX Singular lang:es 00:00:07 00:00:10 tt-587 AM041_1990_CT_SU2011_ER_03 @Gram:Pron:Objeto ADD:506 
+	"tú" Pronoun PPX Singular lang:es 00:00:07 00:00:10 tt-587 AM041_1990_CT_SU2011_ER_03 @Gram:Pron:Objeto ADD:523 
 "<gusta>"
-	"gustar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:07 00:00:10 tt-588 AM041_1990_CT_SU2011_ER_03 @Gram:Gustar:Interlocutor ADD:575 
+	"gustar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:07 00:00:10 tt-588 AM041_1990_CT_SU2011_ER_03 @Gram:Gustar:Interlocutor ADD:592 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:07 00:00:10 tt-589 AM041_1990_CT_SU2011_ER_03 @Gram:Det:Art ADD:324 
+	"el" Determiner ART Singular lang:es 00:00:07 00:00:10 tt-589 AM041_1990_CT_SU2011_ER_03 @Gram:Det:Art ADD:341 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:00:07 00:00:10 tt-590 AM041_1990_CT_SU2011_ER_03 
 "<$?>"
@@ -54,23 +54,23 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:07 00:00:10 tt-592 AM041_1990_CT_SU2011_ER_03 
 "<Te>"
-	"tú" Pronoun PPX Singular lang:es 00:00:07 00:00:10 tt-593 AM041_1990_CT_SU2011_ER_03 @Gram:Pron:Objeto ADD:506 
+	"tú" Pronoun PPX Singular lang:es 00:00:07 00:00:10 tt-593 AM041_1990_CT_SU2011_ER_03 @Gram:Pron:Objeto ADD:523 
 "<gusta>"
-	"gustar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:07 00:00:10 tt-594 AM041_1990_CT_SU2011_ER_03 @Gram:Gustar:Interlocutor ADD:575 
+	"gustar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:07 00:00:10 tt-594 AM041_1990_CT_SU2011_ER_03 @Gram:Gustar:Interlocutor ADD:592 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:07 00:00:10 tt-595 AM041_1990_CT_SU2011_ER_03 @Gram:Det:Art ADD:324 
+	"el" Determiner ART Singular lang:es 00:00:07 00:00:10 tt-595 AM041_1990_CT_SU2011_ER_03 @Gram:Det:Art ADD:341 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:00:07 00:00:10 tt-596 AM041_1990_CT_SU2011_ER_03 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:07 00:00:10 tt-597 AM041_1990_CT_SU2011_ER_03 
 "<te>"
-	"tú" Pronoun PPX Singular lang:es 00:00:07 00:00:10 tt-598 AM041_1990_CT_SU2011_ER_03 @Gram:Pron:Objeto ADD:506 
+	"tú" Pronoun PPX Singular lang:es 00:00:07 00:00:10 tt-598 AM041_1990_CT_SU2011_ER_03 @Gram:Pron:Objeto ADD:523 
 "<gusta>"
-	"gustar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:07 00:00:10 tt-599 AM041_1990_CT_SU2011_ER_03 @Gram:Gustar:Interlocutor ADD:575 
+	"gustar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:07 00:00:10 tt-599 AM041_1990_CT_SU2011_ER_03 @Gram:Gustar:Interlocutor ADD:592 
 "<estudiar>"
-	"estudiar" Verb VLinf Infinitive lang:es 00:00:07 00:00:10 tt-600 AM041_1990_CT_SU2011_ER_03 SUBSTITUTE:292 
+	"estudiar" Verb VLinf Infinitive lang:es 00:00:07 00:00:10 tt-600 AM041_1990_CT_SU2011_ER_03 SUBSTITUTE:296 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:07 00:00:10 tt-601 AM041_1990_CT_SU2011_ER_03 @Gram:Det:Art ADD:324 
+	"el" Determiner ART Singular lang:es 00:00:07 00:00:10 tt-601 AM041_1990_CT_SU2011_ER_03 @Gram:Det:Art ADD:341 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:07 00:00:10 tt-602 AM041_1990_CT_SU2011_ER_03 
 "<$?>"
@@ -83,17 +83,17 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:10 00:00:13 tt-605 AM041_1990_CT_SU2011_ER_03 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:10 00:00:13 tt-606 AM041_1990_CT_SU2011_ER_03 @Gram:Det:Art ADD:324 
+	"el" Determiner ART Singular lang:es 00:00:10 00:00:13 tt-606 AM041_1990_CT_SU2011_ER_03 @Gram:Det:Art ADD:341 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:10 00:00:13 tt-607 AM041_1990_CT_SU2011_ER_03 
 "<sí>"
 	"sí" Adverb ADV lang:es 00:00:10 00:00:13 tt-608 AM041_1990_CT_SU2011_ER_03 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:10 00:00:13 tt-609 AM041_1990_CT_SU2011_ER_03 @Gram:Pron:Objeto ID:40 R:Gram:Gustar:Propios:41 ADD:506 ADDRELATION(Gram:Gustar:Propios):563 
+	"yo" Pronoun PPX Singular lang:es 00:00:10 00:00:13 tt-609 AM041_1990_CT_SU2011_ER_03 @Gram:Pron:Objeto ID:40 R:Gram:Gustar:Propios:41 ADD:523 ADDRELATION(Gram:Gustar:Propios):580 
 "<encanta>"
 	"encantar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:10 00:00:13 tt-610 AM041_1990_CT_SU2011_ER_03 ID:41 
 "<estudiar>"
-	"estudiar" Verb VLinf Infinitive lang:es 00:00:10 00:00:13 tt-611 AM041_1990_CT_SU2011_ER_03 SUBSTITUTE:292 
+	"estudiar" Verb VLinf Infinitive lang:es 00:00:10 00:00:13 tt-611 AM041_1990_CT_SU2011_ER_03 SUBSTITUTE:296 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:10 00:00:13 tt-612 AM041_1990_CT_SU2011_ER_03 
 </speaker>
