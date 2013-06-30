@@ -1,9 +1,10 @@
 AF006_1968_EP_SU2011_AD_22
-@Gram : 12
-@Gram:Det : 5
+@Gram : 22
+@Gram:Det : 6
 @Gram:Det:Art : 4
 @Gram:Det:Demo : 1
-@Gram:Prep : 4
+@Gram:Det:Pos : 1
+@Gram:Prep : 13
 @Gram:Prep:Por : 2
 @Gram:Pron : 2
 @Gram:Pron:Objeto : 1
@@ -13,6 +14,9 @@ AF006_1968_EP_SU2011_AD_22
 @Prag : 2
 @Prag:MarcadoresDisc : 2
 @Prag:MarcadoresDisc:Revision : 2
+R:Herit : 1
+R:Herit:Contacto : 1
+R:Herit:Contacto:Mixtas : 1
 R:Vocab : 2
 R:Vocab:Entities : 2
 R:Vocab:Entities:Geo : 2

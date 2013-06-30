@@ -16,9 +16,11 @@ MF017_1959_EP_SU2011_AD_08
 @Gram:SerEstar : 13
 @Gram:SerEstar:Estar : 2
 @Gram:SerEstar:Ser : 11
-@Prag : 4
+@Prag : 5
 @Prag:MarcadoresDisc : 4
 @Prag:MarcadoresDisc:Revision : 4
+@Prag:RecuDiscurso : 1
+@Prag:RecuDiscurso:GanarTiempo : 1
 R:Gram : 2
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepMasc : 1
@@ -27,6 +29,6 @@ R:Gram:Gustar:Propios : 1
 R:Prag : 4
 R:Prag:MarcadoresDisc : 4
 R:Prag:MarcadoresDisc:Igualdad : 4
-R:Vocab : 1
-R:Vocab:Entities : 1
-R:Vocab:Entities:Geo : 1
+R:Vocab : 3
+R:Vocab:Entities : 3
+R:Vocab:Entities:Geo : 3

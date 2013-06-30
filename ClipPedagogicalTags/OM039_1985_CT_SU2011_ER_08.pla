@@ -1,12 +1,13 @@
 OM039_1985_CT_SU2011_ER_08
-@Gram : 74
-@Gram:Det : 18
-@Gram:Det:Art : 13
+@Gram : 79
+@Gram:Det : 20
+@Gram:Det:Art : 14
 @Gram:Det:Demo : 1
-@Gram:Det:Pos : 4
+@Gram:Det:Pos : 5
 @Gram:Haber : 1
 @Gram:Haber:Exist : 1
-@Gram:Prep : 31
+@Gram:Prep : 34
+@Gram:Prep:Para : 1
 @Gram:Prep:Por : 2
 @Gram:Pron : 11
 @Gram:Pron:Objeto : 3
@@ -22,6 +23,9 @@ OM039_1985_CT_SU2011_ER_08
 R:Gram : 1
 R:Gram:SerEstar : 1
 R:Gram:SerEstar:EstarAux : 1
+R:Herit : 1
+R:Herit:Contacto : 1
+R:Herit:Contacto:Mixtas : 1
 R:Prag : 2
 R:Prag:MarcadoresDisc : 2
 R:Prag:MarcadoresDisc:Igualdad : 2

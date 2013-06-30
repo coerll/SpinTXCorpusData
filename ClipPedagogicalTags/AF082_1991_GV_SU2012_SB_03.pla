@@ -1,5 +1,5 @@
 AF082_1991_GV_SU2012_SB_03
-@Gram : 42
+@Gram : 54
 @Gram:Det : 7
 @Gram:Det:Art : 4
 @Gram:Det:Pos : 3
@@ -7,13 +7,13 @@ AF082_1991_GV_SU2012_SB_03
 @Gram:Haber:Exist : 5
 @Gram:Imperf : 3
 @Gram:Indefinido : 3
-@Gram:Prep : 18
+@Gram:Prep : 29
 @Gram:Prep:Para : 1
 @Gram:Pron : 2
 @Gram:Pron:Objeto : 2
-@Gram:SerEstar : 4
+@Gram:SerEstar : 5
 @Gram:SerEstar:Estar : 2
-@Gram:SerEstar:Ser : 2
+@Gram:SerEstar:Ser : 3
 @Prag : 4
 @Prag:MarcadoresDisc : 4
 @Prag:MarcadoresDisc:Causa : 1
@@ -23,3 +23,6 @@ R:Gram : 2
 R:Gram:Aux : 1
 R:Gram:Aux:Haber : 1
 R:Gram:PerfPerif : 1
+R:Prag : 1
+R:Prag:MarcadoresDisc : 1
+R:Prag:MarcadoresDisc:Igualdad : 1

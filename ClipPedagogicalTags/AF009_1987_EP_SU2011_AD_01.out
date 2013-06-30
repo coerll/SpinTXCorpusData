@@ -1,17 +1,21 @@
 <text id="AF009_1987_EP_SU2011_AD_01">
 <speaker type="int">
 "<Crecí>"
-	"crecer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:00 00:00:07 tt-53 AF009_1987_EP_SU2011_AD_01 @Gram:Indefinido ADD:563 
+	"crecer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:00 00:00:07 tt-53 AF009_1987_EP_SU2011_AD_01 @Gram:Indefinido 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-54 AF009_1987_EP_SU2011_AD_01 @Gram:Prep ADD:489 
+	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-54 AF009_1987_EP_SU2011_AD_01 @Gram:Prep 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-55 AF009_1987_EP_SU2011_AD_01 @Gram:Det:Art ADD:341 
+	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-55 AF009_1987_EP_SU2011_AD_01 @Gram:Det:Art 
+<lang code="en">
+"<Northeast>"
+	"Northeast" Noun NP Singular lang:en 00:00:00 00:00:07 tt-56 AF009_1987_EP_SU2011_AD_01 
+</lang>
 "<de>"
-	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-57 AF009_1987_EP_SU2011_AD_01 @Gram:Prep ADD:489 
+	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-57 AF009_1987_EP_SU2011_AD_01 @Gram:Prep 
 "<El>"
-	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-58 AF009_1987_EP_SU2011_AD_01 @Gram:Det:Art ID:5 R:Vocab:Entities:Geo:6 ADD:341 ADDRELATION(Vocab:Entities:Geo):1000 
+	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-58 AF009_1987_EP_SU2011_AD_01 @Gram:Det:Art ID:6 R:Vocab:Entities:Geo:7 
 "<Paso>"
-	"paso" Noun NC Singular lang:es 00:00:00 00:00:07 tt-59 AF009_1987_EP_SU2011_AD_01 ID:6 
+	"paso" Noun NC Singular lang:es 00:00:00 00:00:07 tt-59 AF009_1987_EP_SU2011_AD_01 ID:7 
 "<,>"
 	"," Punctuation CM lang:es 00:00:00 00:00:07 tt-60 AF009_1987_EP_SU2011_AD_01 
 "<y>"
@@ -23,99 +27,95 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:00 00:00:07 tt-64 AF009_1987_EP_SU2011_AD_01 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-65 AF009_1987_EP_SU2011_AD_01 @Gram:Pron:Objeto ID:12 R:Gram:Gustar:Propios:13 ADD:523 ADDRELATION(Gram:Gustar:Propios):580 
+	"yo" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-65 AF009_1987_EP_SU2011_AD_01 @Gram:Pron:Objeto ID:13 R:Gram:Gustar:Propios:14 
 "<gustaba>"
-	"gustar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:07 tt-66 AF009_1987_EP_SU2011_AD_01 @Gram:Imperf ID:13 ADD:554 
+	"gustar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:07 tt-66 AF009_1987_EP_SU2011_AD_01 @Gram:Imperf ID:14 
 "<,>"
 	"," Punctuation CM lang:es 00:00:00 00:00:07 tt-67 AF009_1987_EP_SU2011_AD_01 
 "<pero>"
-	"pero" Conjunction CCAD lang:es 00:00:00 00:00:07 tt-68 AF009_1987_EP_SU2011_AD_01 @Prag:MarcadoresDisc:Revision ADD:849 
+	"pero" Conjunction CCAD lang:es 00:00:00 00:00:07 tt-68 AF009_1987_EP_SU2011_AD_01 @Prag:MarcadoresDisc:Revision 
 "<ni>"
 	"ni" Conjunction CCNEG lang:es 00:00:00 00:00:07 tt-69 AF009_1987_EP_SU2011_AD_01 
 "<modo>"
 	"modo" Noun NC Singular lang:es 00:00:00 00:00:07 tt-70 AF009_1987_EP_SU2011_AD_01 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-71 AF009_1987_EP_SU2011_AD_01 @Gram:Pron:Objeto ADD:523 
+	"yo" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-71 AF009_1987_EP_SU2011_AD_01 @Gram:Pron:Objeto 
 "<tuve>"
-	"tener" Verb VLfin Pret Indi Sing 1st lang:es 00:00:00 00:00:07 tt-72 AF009_1987_EP_SU2011_AD_01 @Gram:Indefinido ADD:563 
+	"tener" Verb VLfin Pret Indi Sing 1st lang:es 00:00:00 00:00:07 tt-72 AF009_1987_EP_SU2011_AD_01 @Gram:Indefinido 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:12 00:00:13 tt-73 AF009_1987_EP_SU2011_AD_01 
 "<aguantar>"
-	"aguantar" Verb VLinf Infinitive lang:es 00:00:12 00:00:13 tt-74 AF009_1987_EP_SU2011_AD_01 SUBSTITUTE:296 
+	"aguantar" Verb VLinf Infinitive lang:es 00:00:12 00:00:13 tt-74 AF009_1987_EP_SU2011_AD_01 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:12 00:00:13 tt-75 AF009_1987_EP_SU2011_AD_01 
 
-"<(>"
-	"(" Punctuation LP lang:es 00:00:12 00:00:13 tt-76 AF009_1987_EP_SU2011_AD_01 
+"<[>"
+	"[" Punctuation LP lang:es 00:00:12 00:00:13 tt-76 AF009_1987_EP_SU2011_AD_01 
 "<Risas>"
-	"risa" Noun NC Plural lang:es 00:00:12 00:00:13 tt-77 AF009_1987_EP_SU2011_AD_01 
-"<)>"
-	")" Other RP lang:es 00:00:12 00:00:13 tt-78 AF009_1987_EP_SU2011_AD_01 
-"<$.>"
-	"." Punctuation FS lang:es 00:00:12 00:00:13 tt-79 AF009_1987_EP_SU2011_AD_01 
-
+	"UNK" Noun NP Plural lang:es 00:00:12 00:00:13 tt-77 AF009_1987_EP_SU2011_AD_01 
+"<]>"
+	"]" Other RP lang:es 00:00:12 00:00:13 tt-78 AF009_1987_EP_SU2011_AD_01 
 "<$¿>"
-	"¿" Punctuation FS lang:es 00:00:13 00:00:17 tt-80 AF009_1987_EP_SU2011_AD_01 
+	"¿" Punctuation FS lang:es 00:00:13 00:00:17 tt-79 AF009_1987_EP_SU2011_AD_01 
 "<Por>"
-	"por" Preposition PREP lang:es 00:00:13 00:00:17 tt-81 AF009_1987_EP_SU2011_AD_01 @Gram:Prep:Por SUBSTITUTE:238 ADD:483 
+	"por" Preposition PREP lang:es 00:00:13 00:00:17 tt-80 AF009_1987_EP_SU2011_AD_01 @Gram:Prep:Por 
 "<qué>"
-	"qué" Pronoun INT Singular lang:es 00:00:13 00:00:17 tt-82 AF009_1987_EP_SU2011_AD_01 
+	"qué" Pronoun INT Singular lang:es 00:00:13 00:00:17 tt-81 AF009_1987_EP_SU2011_AD_01 
 "<dices>"
-	"decir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:13 00:00:17 tt-83 AF009_1987_EP_SU2011_AD_01 
+	"decir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:13 00:00:17 tt-82 AF009_1987_EP_SU2011_AD_01 
 "<que>"
-	"que" Conjunction CQUE lang:es 00:00:13 00:00:17 tt-84 AF009_1987_EP_SU2011_AD_01 
+	"que" Conjunction CQUE lang:es 00:00:13 00:00:17 tt-83 AF009_1987_EP_SU2011_AD_01 
 "<no>"
-	"no" Adverb NEG lang:es 00:00:13 00:00:17 tt-85 AF009_1987_EP_SU2011_AD_01 
+	"no" Adverb NEG lang:es 00:00:13 00:00:17 tt-84 AF009_1987_EP_SU2011_AD_01 
 "<te>"
-	"tú" Pronoun PPX Singular lang:es 00:00:13 00:00:17 tt-86 AF009_1987_EP_SU2011_AD_01 @Gram:Pron:Objeto ADD:523 
+	"tú" Pronoun PPX Singular lang:es 00:00:13 00:00:17 tt-85 AF009_1987_EP_SU2011_AD_01 @Gram:Pron:Objeto 
 "<gustaba>"
-	"gustar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:13 00:00:17 tt-87 AF009_1987_EP_SU2011_AD_01 @Gram:Imperf @Gram:Gustar:Interlocutor ADD:554 ADD:592 
+	"gustar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:13 00:00:17 tt-86 AF009_1987_EP_SU2011_AD_01 @Gram:Imperf @Gram:Gustar:Interlocutor 
 "<$?>"
-	"?" Punctuation FS lang:es 00:00:13 00:00:17 tt-88 AF009_1987_EP_SU2011_AD_01 
+	"?" Punctuation FS lang:es 00:00:13 00:00:17 tt-87 AF009_1987_EP_SU2011_AD_01 
 
 "<Porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:17 00:00:21 tt-89 AF009_1987_EP_SU2011_AD_01 @Prag:MarcadoresDisc:Causa ADD:902 
+	"porque" Conjunction CSUBX lang:es 00:00:17 00:00:21 tt-88 AF009_1987_EP_SU2011_AD_01 @Prag:MarcadoresDisc:Causa 
 "<,>"
-	"," Punctuation CM lang:es 00:00:17 00:00:21 tt-90 AF009_1987_EP_SU2011_AD_01 
+	"," Punctuation CM lang:es 00:00:17 00:00:21 tt-89 AF009_1987_EP_SU2011_AD_01 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:17 00:00:21 tt-91 AF009_1987_EP_SU2011_AD_01 @Gram:Det:Art ID:38 R:Gram:Genero:ExcepArtFem:39 ADD:341 ADDRELATION(Gram:Genero:ExcepArtFem):395 
+	"el" Determiner ART Singular lang:es 00:00:17 00:00:21 tt-90 AF009_1987_EP_SU2011_AD_01 @Gram:Det:Art ID:38 R:Gram:Genero:ExcepArtFem:39 
 "<área>"
-	"área" Noun NC Singular lang:es 00:00:17 00:00:21 tt-92 AF009_1987_EP_SU2011_AD_01 ID:39 
+	"área" Noun NC Singular lang:es 00:00:17 00:00:21 tt-91 AF009_1987_EP_SU2011_AD_01 ID:39 
 "<que>"
-	"que" Conjunction CQUE lang:es 00:00:17 00:00:21 tt-93 AF009_1987_EP_SU2011_AD_01 
+	"que" Conjunction CQUE lang:es 00:00:17 00:00:21 tt-92 AF009_1987_EP_SU2011_AD_01 
 "<estábamos>"
-	"estar" Verb VEfin Imp Indi Plural 1st lang:es 00:00:17 00:00:21 tt-94 AF009_1987_EP_SU2011_AD_01 @Gram:Imperf @Gram:SerEstar:Estar ADD:554 ADD:673 
+	"estar" Verb VEfin Imp Indi Plural 1st lang:es 00:00:17 00:00:21 tt-93 AF009_1987_EP_SU2011_AD_01 @Gram:Imperf @Gram:SerEstar:Estar 
 "<...>"
-	"..." Punctuation DOTS lang:es 00:00:17 00:00:21 tt-95 AF009_1987_EP_SU2011_AD_01 
+	"..." Punctuation DOTS lang:es 00:00:17 00:00:21 tt-94 AF009_1987_EP_SU2011_AD_01 
 "<donde>"
-	"donde" Adverb ADV lang:es 00:00:17 00:00:21 tt-96 AF009_1987_EP_SU2011_AD_01 
+	"donde" Adverb ADV lang:es 00:00:17 00:00:21 tt-95 AF009_1987_EP_SU2011_AD_01 
 "<estábamos>"
-	"estar" Verb VEfin Imp Indi Plural 1st lang:es 00:00:17 00:00:21 tt-97 AF009_1987_EP_SU2011_AD_01 @Gram:Imperf ID:44 R:Gram:SerEstar:EstarAux:45 ADD:554 ADD:673 ADDRELATION(Gram:SerEstar:EstarAux):689 
-	"estar" Verb VEfin Imp Indi Plural 1st lang:es 00:00:17 00:00:21 tt-97 AF009_1987_EP_SU2011_AD_01 @Gram:SerEstar:Estar ID:44 R:Gram:SerEstar:EstarAux:45 ADD:554 ADD:673 
+	"estar" Verb VEfin Imp Indi Plural 1st lang:es 00:00:17 00:00:21 tt-96 AF009_1987_EP_SU2011_AD_01 @Gram:Imperf @Gram:SerEstar:Estar ID:44 R:Gram:SerEstar:EstarAux:45 
 "<viviendo>"
-	"vivir" Verb VLger lang:es 00:00:17 00:00:21 tt-98 AF009_1987_EP_SU2011_AD_01 ID:45 
+	"vivir" Verb VLger lang:es 00:00:17 00:00:21 tt-97 AF009_1987_EP_SU2011_AD_01 ID:45 
 "<había>"
-	"haber" Verb VHfin Imp Indi Sing 1st_or_3rd lang:es 00:00:17 00:00:21 tt-99 AF009_1987_EP_SU2011_AD_01 @Gram:Haber:Exist ADD:680 
+	"haber" Verb VHfin Imp Indi Sing 1st_or_3rd lang:es 00:00:17 00:00:21 tt-98 AF009_1987_EP_SU2011_AD_01 @Gram:Haber:Exist 
 "<muchas>"
-	"mucho" Determiner QU lang:es 00:00:17 00:00:21 tt-100 AF009_1987_EP_SU2011_AD_01 
+	"mucho" Determiner QU lang:es 00:00:17 00:00:21 tt-99 AF009_1987_EP_SU2011_AD_01 
 "<gangas>"
-	"ganga" Noun NC Plural lang:es 00:00:17 00:00:21 tt-101 AF009_1987_EP_SU2011_AD_01 
+	"ganga" Noun NC Plural lang:es 00:00:17 00:00:21 tt-100 AF009_1987_EP_SU2011_AD_01 
 "<,>"
-	"," Punctuation CM lang:es 00:00:17 00:00:21 tt-102 AF009_1987_EP_SU2011_AD_01 
+	"," Punctuation CM lang:es 00:00:17 00:00:21 tt-101 AF009_1987_EP_SU2011_AD_01 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:21 00:00:23 tt-103 AF009_1987_EP_SU2011_AD_01 
+	"y" Conjunction CC lang:es 00:00:21 00:00:23 tt-102 AF009_1987_EP_SU2011_AD_01 
 "<no>"
-	"no" Adverb NEG lang:es 00:00:21 00:00:23 tt-104 AF009_1987_EP_SU2011_AD_01 
+	"no" Adverb NEG lang:es 00:00:21 00:00:23 tt-103 AF009_1987_EP_SU2011_AD_01 
 "<se>"
-	"se" Other SE lang:es 00:00:21 00:00:23 tt-105 AF009_1987_EP_SU2011_AD_01 @Gram:Pron:Otros ADD:542 
+	"se" Other SE lang:es 00:00:21 00:00:23 tt-104 AF009_1987_EP_SU2011_AD_01 @Gram:Pron:Otros 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:21 00:00:23 tt-106 AF009_1987_EP_SU2011_AD_01 @Gram:Pron:Objeto ADD:523 
+	"yo" Pronoun PPX Singular lang:es 00:00:21 00:00:23 tt-105 AF009_1987_EP_SU2011_AD_01 @Gram:Pron:Objeto 
 "<hacía>"
-	"hacer" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:21 00:00:23 tt-107 AF009_1987_EP_SU2011_AD_01 @Gram:Imperf ADD:554 
+	"hacer" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:21 00:00:23 tt-106 AF009_1987_EP_SU2011_AD_01 @Gram:Imperf 
 "<seguro>"
-	"seguro" Adjective ADJ Singular lang:es 00:00:21 00:00:23 tt-108 AF009_1987_EP_SU2011_AD_01 
+	"seguro" Adjective ADJ Singular lang:es 00:00:21 00:00:23 tt-107 AF009_1987_EP_SU2011_AD_01 
 "<$.>"
-	"." Punctuation FS lang:es 00:00:21 00:00:23 tt-109 AF009_1987_EP_SU2011_AD_01 
+	"." Punctuation FS lang:es 00:00:21 00:00:23 tt-108 AF009_1987_EP_SU2011_AD_01 
 </speaker>
 </text>
 

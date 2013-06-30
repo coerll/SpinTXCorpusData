@@ -1,13 +1,14 @@
 AF006_1968_EP_SU2011_AD_14
-@Gram : 28
+@Gram : 30
 @Gram:Det : 2
 @Gram:Det:Art : 2
 @Gram:Haber : 1
 @Gram:Haber:Exist : 1
-@Gram:Prep : 12
+@Gram:Prep : 13
 @Gram:Prep:Por : 1
-@Gram:Pron : 11
+@Gram:Pron : 12
 @Gram:Pron:Objeto : 6
+@Gram:Pron:Otros : 1
 @Gram:Pron:Sujeto : 5
 @Gram:SerEstar : 2
 @Gram:SerEstar:Estar : 2
@@ -17,6 +18,9 @@ AF006_1968_EP_SU2011_AD_14
 R:Gram : 1
 R:Gram:SerEstar : 1
 R:Gram:SerEstar:EstarAux : 1
-R:Vocab : 4
-R:Vocab:Fraseol : 4
-R:Vocab:Fraseol:VerbPrep : 4
+R:Herit : 1
+R:Herit:Contacto : 1
+R:Herit:Contacto:Mixtas : 1
+R:Vocab : 5
+R:Vocab:Fraseol : 5
+R:Vocab:Fraseol:VerbPrep : 5
