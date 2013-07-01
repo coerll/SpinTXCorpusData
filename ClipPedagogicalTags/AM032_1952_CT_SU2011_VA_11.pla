@@ -1,15 +1,15 @@
 AM032_1952_CT_SU2011_VA_11
-@Gram : 121
-@Gram:Det : 38
-@Gram:Det:Art : 27
+@Gram : 124
+@Gram:Det : 39
+@Gram:Det:Art : 28
 @Gram:Det:Demo : 2
 @Gram:Det:Pos : 9
-@Gram:Imperf : 9
+@Gram:Imperf : 11
 @Gram:Indefinido : 5
 @Gram:MSub : 3
 @Gram:MSub:Pres : 3
 @Gram:Prep : 45
-@Gram:Prep:Para : 3
+@Gram:Prep:Para : 4
 @Gram:Pron : 8
 @Gram:Pron:Objeto : 6
 @Gram:Pron:Otros : 1
@@ -25,6 +25,9 @@ R:Gram : 2
 R:Gram:Aux : 1
 R:Gram:Aux:Haber : 1
 R:Gram:PerfPerif : 1
+R:Herit : 1
+R:Herit:Contacto : 1
+R:Herit:Contacto:Mixtas : 1
 R:Prag : 1
 R:Prag:MarcadoresDisc : 1
 R:Prag:MarcadoresDisc:Revision : 1

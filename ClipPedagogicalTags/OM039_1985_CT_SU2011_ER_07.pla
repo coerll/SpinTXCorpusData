@@ -1,15 +1,14 @@
 OM039_1985_CT_SU2011_ER_07
-@Gram : 65
-@Gram:Det : 16
+@Gram : 67
+@Gram:Det : 15
 @Gram:Det:Art : 13
-@Gram:Det:Demo : 1
 @Gram:Det:Pos : 2
 @Gram:Indefinido : 5
-@Gram:Prep : 29
+@Gram:Prep : 31
 @Gram:Prep:Para : 1
 @Gram:Prep:Por : 2
-@Gram:Pron : 7
-@Gram:Pron:Objeto : 3
+@Gram:Pron : 8
+@Gram:Pron:Objeto : 4
 @Gram:Pron:Sujeto : 4
 @Gram:SerEstar : 8
 @Gram:SerEstar:Estar : 1
@@ -27,9 +26,12 @@ R:Gram:Genero:ExcepMasc : 2
 R:Gram:Gustar : 1
 R:Gram:Gustar:Ajenos : 1
 R:Gram:PerfPerif : 1
-R:Prag : 4
-R:Prag:MarcadoresDisc : 4
-R:Prag:MarcadoresDisc:Igualdad : 3
+R:Herit : 2
+R:Herit:Contacto : 2
+R:Herit:Contacto:Mixtas : 2
+R:Prag : 5
+R:Prag:MarcadoresDisc : 5
+R:Prag:MarcadoresDisc:Igualdad : 4
 R:Prag:MarcadoresDisc:Revision : 1
 R:Vocab : 2
 R:Vocab:Entities : 2

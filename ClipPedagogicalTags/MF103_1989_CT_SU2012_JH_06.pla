@@ -1,5 +1,5 @@
 MF103_1989_CT_SU2012_JH_06
-@Gram : 41
+@Gram : 42
 @Gram:Det : 15
 @Gram:Det:Art : 14
 @Gram:Det:Demo : 1
@@ -11,8 +11,8 @@ MF103_1989_CT_SU2012_JH_06
 @Gram:Prep : 14
 @Gram:Prep:Para : 3
 @Gram:Prep:Por : 2
-@Gram:Pron : 3
-@Gram:Pron:Sujeto : 3
+@Gram:Pron : 4
+@Gram:Pron:Sujeto : 4
 @Gram:SerEstar : 6
 @Gram:SerEstar:Ser : 6
 @Prag : 2
@@ -25,3 +25,6 @@ R:Gram:Aux:Haber : 2
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepMasc : 1
 R:Gram:PerfPerif : 2
+R:Prag : 1
+R:Prag:MarcadoresDisc : 1
+R:Prag:MarcadoresDisc:Igualdad : 1
