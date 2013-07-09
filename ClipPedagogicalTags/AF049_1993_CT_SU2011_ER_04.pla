@@ -1,8 +1,8 @@
 AF049_1993_CT_SU2011_ER_04
-@Gram : 48
-@Gram:Det : 15
+@Gram : 46
+@Gram:Det : 14
 @Gram:Det:Art : 7
-@Gram:Det:Pos : 8
+@Gram:Det:Pos : 7
 @Gram:MSub : 1
 @Gram:MSub:Pres : 1
 @Gram:Prep : 22
@@ -10,12 +10,14 @@ AF049_1993_CT_SU2011_ER_04
 @Gram:Pron : 4
 @Gram:Pron:Objeto : 3
 @Gram:Pron:Sujeto : 1
-@Gram:SerEstar : 6
+@Gram:SerEstar : 5
 @Gram:SerEstar:Estar : 2
-@Gram:SerEstar:Ser : 4
-@Prag : 1
+@Gram:SerEstar:Ser : 3
+@Prag : 2
 @Prag:MarcadoresDisc : 1
 @Prag:MarcadoresDisc:Igualdad : 1
+@Prag:RecuDiscurso : 1
+@Prag:RecuDiscurso:GanarTiempo : 1
 R:Gram : 1
 R:Gram:SerEstar : 1
 R:Gram:SerEstar:EstarAux : 1
