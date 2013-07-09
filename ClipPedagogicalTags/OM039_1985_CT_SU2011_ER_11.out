@@ -407,7 +407,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:11 00:01:13 tt-6727 OM039_1985_CT_SU2011_ER_11 @Gram:Pron:Objeto 
 "<pondré>"
-	"poner" Verb VLfin Fut Indi Sing 1st lang:es 00:01:11 00:01:13 tt-6728 OM039_1985_CT_SU2011_ER_11 
+	"poner" Verb VLfin Fut Indi Sing 1st lang:es 00:01:11 00:01:13 tt-6728 OM039_1985_CT_SU2011_ER_11 @Gram:VFut:Conjugado 
 "<más>"
 	"más" Adverb ADV lang:es 00:01:11 00:01:13 tt-6729 OM039_1985_CT_SU2011_ER_11 
 "<y>"
@@ -639,13 +639,13 @@
 "<sea>"
 	"ser" Verb VSfin Pres Subj Sing 1st_or_3rd lang:es 00:01:44 00:01:51 tt-6837 OM039_1985_CT_SU2011_ER_11 @Gram:MSub:Pres @Gram:SerEstar:Ser 
 "<tendré>"
-	"tener" Verb VLfin Fut Indi Sing 1st lang:es 00:01:44 00:01:51 tt-6838 OM039_1985_CT_SU2011_ER_11 
+	"tener" Verb VLfin Fut Indi Sing 1st lang:es 00:01:44 00:01:51 tt-6838 OM039_1985_CT_SU2011_ER_11 @Gram:VFut:Conjugado 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:44 00:01:51 tt-6839 OM039_1985_CT_SU2011_ER_11 
 "<,>"
 	"," Punctuation CM lang:es 00:01:44 00:01:51 tt-6840 OM039_1985_CT_SU2011_ER_11 
 "<tendremos>"
-	"tener" Verb VLfin Fut Indi Plural 1st lang:es 00:01:44 00:01:51 tt-6841 OM039_1985_CT_SU2011_ER_11 
+	"tener" Verb VLfin Fut Indi Plural 1st lang:es 00:01:44 00:01:51 tt-6841 OM039_1985_CT_SU2011_ER_11 @Gram:VFut:Conjugado 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:44 00:01:51 tt-6842 OM039_1985_CT_SU2011_ER_11 
 "<definirlo>"

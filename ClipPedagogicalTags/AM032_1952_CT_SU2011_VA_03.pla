@@ -1,5 +1,5 @@
 AM032_1952_CT_SU2011_VA_03
-@Gram : 263
+@Gram : 264
 @Gram:Det : 56
 @Gram:Det:Art : 40
 @Gram:Det:Demo : 2
@@ -20,16 +20,20 @@ AM032_1952_CT_SU2011_VA_03
 @Gram:SerEstar : 23
 @Gram:SerEstar:Estar : 12
 @Gram:SerEstar:Ser : 11
+@Gram:VFut : 1
+@Gram:VFut:Conjugado : 1
 @Prag : 13
 @Prag:MarcadoresDisc : 13
 @Prag:MarcadoresDisc:Causa : 5
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:MarcadoresDisc:Revision : 7
-R:Gram : 2
+R:Gram : 5
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepMasc : 1
 R:Gram:SerEstar : 1
 R:Gram:SerEstar:EstarAux : 1
+R:Gram:VFut : 3
+R:Gram:VFut:Perifrasis : 3
 R:Prag : 1
 R:Prag:MarcadoresDisc : 1
 R:Prag:MarcadoresDisc:Revision : 1

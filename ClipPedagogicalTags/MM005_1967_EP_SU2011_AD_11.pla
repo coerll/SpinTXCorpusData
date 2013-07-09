@@ -1,5 +1,5 @@
 MM005_1967_EP_SU2011_AD_11
-@Gram : 170
+@Gram : 171
 @Gram:Det : 30
 @Gram:Det:Art : 22
 @Gram:Det:Pos : 8
@@ -20,11 +20,13 @@ MM005_1967_EP_SU2011_AD_11
 @Gram:SerEstar : 15
 @Gram:SerEstar:Estar : 3
 @Gram:SerEstar:Ser : 12
+@Gram:VFut : 1
+@Gram:VFut:Conjugado : 1
 @Prag : 8
 @Prag:MarcadoresDisc : 8
 @Prag:MarcadoresDisc:Causa : 2
 @Prag:MarcadoresDisc:Revision : 6
-R:Gram : 21
+R:Gram : 23
 R:Gram:Aux : 8
 R:Gram:Aux:Haber : 8
 R:Gram:Gustar : 1
@@ -33,6 +35,8 @@ R:Gram:PerfPerif : 8
 R:Gram:SerEstar : 4
 R:Gram:SerEstar:EstarAux : 1
 R:Gram:SerEstar:Ser : 3
+R:Gram:VFut : 2
+R:Gram:VFut:Perifrasis : 2
 R:Herit : 1
 R:Herit:Contacto : 1
 R:Herit:Contacto:Mixtas : 1

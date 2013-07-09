@@ -1,5 +1,5 @@
 OM039_1985_CT_SU2011_ER_10
-@Gram : 95
+@Gram : 96
 @Gram:Det : 16
 @Gram:Det:Art : 8
 @Gram:Det:Demo : 4
@@ -20,17 +20,21 @@ OM039_1985_CT_SU2011_ER_10
 @Gram:SerEstar : 13
 @Gram:SerEstar:Estar : 2
 @Gram:SerEstar:Ser : 11
+@Gram:VFut : 1
+@Gram:VFut:Conjugado : 1
 @Prag : 4
 @Prag:MarcadoresDisc : 4
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:MarcadoresDisc:Revision : 3
-R:Gram : 4
+R:Gram : 5
 R:Gram:Genero : 2
 R:Gram:Genero:ExcepMasc : 2
 R:Gram:MSub : 1
 R:Gram:MSub:Pres : 1
 R:Gram:SerEstar : 1
 R:Gram:SerEstar:Ser : 1
+R:Gram:VFut : 1
+R:Gram:VFut:Perifrasis : 1
 R:Herit : 2
 R:Herit:Contacto : 2
 R:Herit:Contacto:Mixtas : 2

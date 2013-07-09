@@ -1,5 +1,5 @@
 AF042_1991_CT_SU2011_ER_11
-@Gram : 55
+@Gram : 57
 @Gram:Det : 7
 @Gram:Det:Art : 5
 @Gram:Det:Demo : 1
@@ -15,10 +15,14 @@ AF042_1991_CT_SU2011_ER_11
 @Gram:SerEstar : 6
 @Gram:SerEstar:Estar : 1
 @Gram:SerEstar:Ser : 5
+@Gram:VFut : 2
+@Gram:VFut:Conjugado : 2
 @Prag : 2
 @Prag:MarcadoresDisc : 2
 @Prag:MarcadoresDisc:Causa : 1
 @Prag:MarcadoresDisc:Revision : 1
-R:Gram : 1
+R:Gram : 3
 R:Gram:SerEstar : 1
 R:Gram:SerEstar:EstarAux : 1
+R:Gram:VFut : 2
+R:Gram:VFut:Perifrasis : 2

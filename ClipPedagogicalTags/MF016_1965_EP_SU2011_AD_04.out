@@ -77,7 +77,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:11 00:00:18 tt-916 MF016_1965_EP_SU2011_AD_04 @Gram:Pron:Objeto 
 "<enamoré>"
-	"enamorar" Verb VLfin Fut Indi Sing 1st lang:es 00:00:11 00:00:18 tt-917 MF016_1965_EP_SU2011_AD_04 
+	"enamorar" Verb VLfin Fut Indi Sing 1st lang:es 00:00:11 00:00:18 tt-917 MF016_1965_EP_SU2011_AD_04 @Gram:VFut:Conjugado 
 "<muchísimo>"
 	"mucho" Adverb ADV lang:es 00:00:11 00:00:18 tt-918 MF016_1965_EP_SU2011_AD_04 
 "<de>"
@@ -769,11 +769,11 @@
 "<cómo>"
 	"cómo" Adverb ADV lang:es 00:02:22 00:02:29 tt-1252 MF016_1965_EP_SU2011_AD_04 
 "<iba>"
-	"ir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:02:22 00:02:29 tt-1253 MF016_1965_EP_SU2011_AD_04 @Gram:Imperf 
+	"ir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:02:22 00:02:29 tt-1253 MF016_1965_EP_SU2011_AD_04 @Gram:Imperf ID:373 R:Gram:VFut:Perifrasis:375 
 "<a>"
 	"a" Preposition PREP lang:es 00:02:22 00:02:29 tt-1254 MF016_1965_EP_SU2011_AD_04 @Gram:Prep 
 "<dejarme>"
-	"dejar" Verb VLinf Pres Subj Sing 1st_or_3rd lang:es 00:02:22 00:02:29 tt-1255 MF016_1965_EP_SU2011_AD_04 @Gram:MSub:Pres 
+	"dejar" Verb VLinf Pres Subj Sing 1st_or_3rd lang:es 00:02:22 00:02:29 tt-1255 MF016_1965_EP_SU2011_AD_04 @Gram:MSub:Pres ID:375 
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:02:30 00:02:37 tt-1256 MF016_1965_EP_SU2011_AD_04 @Gram:Pron:Sujeto 
 "<siendo>"

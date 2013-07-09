@@ -21,9 +21,11 @@ AM059_1951_SA_SU2012_JB_05
 @Prag:MarcadoresDisc:Revision : 2
 @Prag:RecuDiscurso : 2
 @Prag:RecuDiscurso:GanarTiempo : 2
-R:Gram : 4
+R:Gram : 5
 R:Gram:SerEstar : 4
 R:Gram:SerEstar:EstarAux : 4
+R:Gram:VFut : 1
+R:Gram:VFut:Perifrasis : 1
 R:Vocab : 6
 R:Vocab:Entities : 1
 R:Vocab:Entities:Geo : 1

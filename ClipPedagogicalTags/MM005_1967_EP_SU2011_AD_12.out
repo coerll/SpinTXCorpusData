@@ -88,7 +88,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:18 00:00:25 tt-3664 MM005_1967_EP_SU2011_AD_12 
 "<entré>"
-	"entrar" Verb VLfin Fut Indi Sing 1st lang:es 00:00:18 00:00:25 tt-3665 MM005_1967_EP_SU2011_AD_12 
+	"entrar" Verb VLfin Fut Indi Sing 1st lang:es 00:00:18 00:00:25 tt-3665 MM005_1967_EP_SU2011_AD_12 @Gram:VFut:Conjugado 
 "<en>"
 	"en" Preposition PREP lang:es 00:00:18 00:00:25 tt-3666 MM005_1967_EP_SU2011_AD_12 @Gram:Prep 
 "<la>"
@@ -180,7 +180,7 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:31 00:00:37 tt-3708 MM005_1967_EP_SU2011_AD_12 
 "<entré>"
-	"entrar" Verb VLfin Fut Indi Sing 1st lang:es 00:00:31 00:00:37 tt-3709 MM005_1967_EP_SU2011_AD_12 
+	"entrar" Verb VLfin Fut Indi Sing 1st lang:es 00:00:31 00:00:37 tt-3709 MM005_1967_EP_SU2011_AD_12 @Gram:VFut:Conjugado 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:37 00:00:43 tt-3710 MM005_1967_EP_SU2011_AD_12 @Gram:Prep 
 "<la>"
@@ -194,7 +194,7 @@
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:00:37 00:00:43 tt-3715 MM005_1967_EP_SU2011_AD_12 @Gram:Pron:Sujeto 
 "<entré>"
-	"entrar" Verb VLfin Fut Indi Sing 1st lang:es 00:00:37 00:00:43 tt-3716 MM005_1967_EP_SU2011_AD_12 
+	"entrar" Verb VLfin Fut Indi Sing 1st lang:es 00:00:37 00:00:43 tt-3716 MM005_1967_EP_SU2011_AD_12 @Gram:VFut:Conjugado 
 "<como>"
 	"como" Conjunction CSUBX lang:es 00:00:37 00:00:43 tt-3717 MM005_1967_EP_SU2011_AD_12 
 "<administración>"
@@ -359,7 +359,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:07 00:01:13 tt-3797 MM005_1967_EP_SU2011_AD_12 
 "<duré>"
-	"UNK" Verb VLfin Fut Indi Sing 1st lang:es 00:01:07 00:01:13 tt-3798 MM005_1967_EP_SU2011_AD_12 
+	"UNK" Verb VLfin Fut Indi Sing 1st lang:es 00:01:07 00:01:13 tt-3798 MM005_1967_EP_SU2011_AD_12 @Gram:VFut:Conjugado 
 "<catorce>"
 	"catorce" Determiner CARD Singular lang:es 00:01:07 00:01:13 tt-3799 MM005_1967_EP_SU2011_AD_12 
 "<años>"
@@ -645,11 +645,11 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:51 00:01:58 tt-3933 MM005_1967_EP_SU2011_AD_12 
 "<iba>"
-	"ir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:51 00:01:58 tt-3934 MM005_1967_EP_SU2011_AD_12 @Gram:Imperf 
+	"ir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:51 00:01:58 tt-3934 MM005_1967_EP_SU2011_AD_12 @Gram:Imperf ID:311 R:Gram:VFut:Perifrasis:313 
 "<a>"
 	"a" Preposition PREP lang:es 00:01:51 00:01:58 tt-3935 MM005_1967_EP_SU2011_AD_12 @Gram:Prep 
 "<hacer>"
-	"hacer" Verb VLinf Infinitive lang:es 00:01:51 00:01:58 tt-3936 MM005_1967_EP_SU2011_AD_12 
+	"hacer" Verb VLinf Infinitive lang:es 00:01:51 00:01:58 tt-3936 MM005_1967_EP_SU2011_AD_12 ID:313 
 "<administrador>"
 	"administrador" Noun NC Singular lang:es 00:01:51 00:01:58 tt-3937 MM005_1967_EP_SU2011_AD_12 
 "<...>"
@@ -994,11 +994,11 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:03:07 00:03:14 tt-4102 MM005_1967_EP_SU2011_AD_12 @Gram:Pron:Objeto 
 "<vayas>"
-	"ir" Verb VLfin Pres Subj Sing 2nd lang:es 00:03:07 00:03:14 tt-4103 MM005_1967_EP_SU2011_AD_12 @Gram:MSub:Pres 
+	"ir" Verb VLfin Pres Subj Sing 2nd lang:es 00:03:07 00:03:14 tt-4103 MM005_1967_EP_SU2011_AD_12 @Gram:MSub:Pres ID:480 R:Gram:VFut:Perifrasis:482 
 "<a>"
 	"a" Preposition PREP lang:es 00:03:07 00:03:14 tt-4104 MM005_1967_EP_SU2011_AD_12 @Gram:Prep 
 "<comprometer>"
-	"comprometer" Verb VLinf Infinitive lang:es 00:03:07 00:03:14 tt-4105 MM005_1967_EP_SU2011_AD_12 
+	"comprometer" Verb VLinf Infinitive lang:es 00:03:07 00:03:14 tt-4105 MM005_1967_EP_SU2011_AD_12 ID:482 
 "<con>"
 	"con" Preposition PREP lang:es 00:03:07 00:03:14 tt-4106 MM005_1967_EP_SU2011_AD_12 @Gram:Prep 
 "<mi>"
