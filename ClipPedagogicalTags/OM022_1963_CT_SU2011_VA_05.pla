@@ -1,5 +1,5 @@
 OM022_1963_CT_SU2011_VA_05
-@Gram : 125
+@Gram : 126
 @Gram:Det : 13
 @Gram:Det:Art : 4
 @Gram:Det:Demo : 1
@@ -23,13 +23,20 @@ OM022_1963_CT_SU2011_VA_05
 @Gram:SerEstar : 13
 @Gram:SerEstar:Estar : 7
 @Gram:SerEstar:Ser : 6
+@Gram:VFut : 1
+@Gram:VFut:Conjugado : 1
 @Prag : 2
 @Prag:MarcadoresDisc : 2
 @Prag:MarcadoresDisc:Causa : 1
 @Prag:MarcadoresDisc:Revision : 1
+R:Gram : 3
+R:Gram:VFut : 3
+R:Gram:VFut:Perifrasis : 3
 R:Prag : 1
 R:Prag:MarcadoresDisc : 1
 R:Prag:MarcadoresDisc:Igualdad : 1
-R:Vocab : 2
+R:Vocab : 3
+R:Vocab:Entities : 1
+R:Vocab:Entities:Geo : 1
 R:Vocab:Fraseol : 2
 R:Vocab:Fraseol:VerbPrep : 2

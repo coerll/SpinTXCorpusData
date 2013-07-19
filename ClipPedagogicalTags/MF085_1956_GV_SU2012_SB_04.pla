@@ -1,5 +1,5 @@
 MF085_1956_GV_SU2012_SB_04
-@Gram : 234
+@Gram : 235
 @Gram:Det : 55
 @Gram:Det:Art : 42
 @Gram:Det:Demo : 4
@@ -21,6 +21,8 @@ MF085_1956_GV_SU2012_SB_04
 @Gram:SerEstar : 25
 @Gram:SerEstar:Estar : 5
 @Gram:SerEstar:Ser : 20
+@Gram:VFut : 1
+@Gram:VFut:Conjugado : 1
 @Prag : 16
 @Prag:MarcadoresDisc : 10
 @Prag:MarcadoresDisc:Causa : 4
@@ -28,7 +30,7 @@ MF085_1956_GV_SU2012_SB_04
 @Prag:MarcadoresDisc:Revision : 5
 @Prag:RecuDiscurso : 6
 @Prag:RecuDiscurso:GanarTiempo : 6
-R:Gram : 8
+R:Gram : 12
 R:Gram:Aux : 2
 R:Gram:Aux:Haber : 2
 R:Gram:Genero : 2
@@ -39,6 +41,8 @@ R:Gram:Pron : 1
 R:Gram:Pron:ObjetoDoble : 1
 R:Gram:SerEstar : 1
 R:Gram:SerEstar:Ser : 1
+R:Gram:VFut : 4
+R:Gram:VFut:Perifrasis : 4
 R:Prag : 1
 R:Prag:MarcadoresDisc : 1
 R:Prag:MarcadoresDisc:Igualdad : 1

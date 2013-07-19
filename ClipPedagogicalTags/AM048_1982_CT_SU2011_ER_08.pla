@@ -20,9 +20,11 @@ AM048_1982_CT_SU2011_ER_08
 @Prag:MarcadoresDisc:Revision : 1
 @Prag:RecuDiscurso : 2
 @Prag:RecuDiscurso:GanarTiempo : 2
-R:Gram : 2
+R:Gram : 3
 R:Gram:SerEstar : 2
 R:Gram:SerEstar:EstarAux : 2
+R:Gram:VFut : 1
+R:Gram:VFut:Perifrasis : 1
 R:Vocab : 1
 R:Vocab:Fraseol : 1
 R:Vocab:Fraseol:VerbPrep : 1

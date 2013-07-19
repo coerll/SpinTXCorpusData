@@ -12,7 +12,7 @@
 "<gustaba>"
 	"gustar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:06 tt-4235 MM005_1967_EP_SU2011_AD_13 @Gram:Imperf @Gram:Gustar:Interlocutor 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:00 00:00:06 tt-4236 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:00 00:00:06 tt-4236 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:00:00 00:00:06 tt-4237 MM005_1967_EP_SU2011_AD_13 
 "<$?>"
@@ -66,7 +66,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:12 00:00:19 tt-4260 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:12 00:00:19 tt-4261 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:12 00:00:19 tt-4261 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<amigos>"
 	"amigo" Noun NC Plural lang:es 00:00:12 00:00:19 tt-4262 MM005_1967_EP_SU2011_AD_13 
 "<$.>"
@@ -131,7 +131,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:25 00:00:32 tt-4292 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:25 00:00:32 tt-4293 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:25 00:00:32 tt-4293 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<calle>"
 	"calle" Noun NC Singular lang:es 00:00:25 00:00:32 tt-4294 MM005_1967_EP_SU2011_AD_13 
 "<,>"
@@ -167,7 +167,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:33 00:00:38 tt-4310 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:33 00:00:38 tt-4311 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:33 00:00:38 tt-4311 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:00:33 00:00:38 tt-4312 MM005_1967_EP_SU2011_AD_13 
 "<y>"
@@ -183,7 +183,7 @@
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:00:33 00:00:38 tt-4318 MM005_1967_EP_SU2011_AD_13 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:33 00:00:38 tt-4319 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:33 00:00:38 tt-4319 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:00:33 00:00:38 tt-4320 MM005_1967_EP_SU2011_AD_13 
 "<para>"
@@ -193,7 +193,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:33 00:00:38 tt-4323 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:33 00:00:38 tt-4324 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:33 00:00:38 tt-4324 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<compañeros>"
 	"compañero" Noun NC Plural lang:es 00:00:33 00:00:38 tt-4325 MM005_1967_EP_SU2011_AD_13 
 "<de>"
@@ -233,11 +233,11 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:42 00:00:48 tt-4340 MM005_1967_EP_SU2011_AD_13 
 "<van>"
-	"ir" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:42 00:00:48 tt-4341 MM005_1967_EP_SU2011_AD_13 
+	"ir" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:42 00:00:48 tt-4341 MM005_1967_EP_SU2011_AD_13 ID:111 R:Gram:VFut:Perifrasis:113 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:42 00:00:48 tt-4342 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<oír>"
-	"oír" Verb VLinf VLfin Indi_Command Sing 2nd_3rd lang:es 00:00:42 00:00:48 tt-4343 MM005_1967_EP_SU2011_AD_13 
+	"oír" Verb VLinf VLfin Indi_Command Sing 2nd_3rd lang:es 00:00:42 00:00:48 tt-4343 MM005_1967_EP_SU2011_AD_13 ID:113 
 "<mis>"
 	"mío" Pronoun PPO Plural lang:es 00:00:42 00:00:48 tt-4344 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Pos 
 "<hijos>"
@@ -251,11 +251,11 @@
 "<los>"
 	"él" Pronoun PPC Plural lang:es 00:00:42 00:00:48 tt-4349 MM005_1967_EP_SU2011_AD_13 @Gram:Pron:Objeto 
 "<vas>"
-	"ir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:42 00:00:48 tt-4350 MM005_1967_EP_SU2011_AD_13 
+	"ir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:42 00:00:48 tt-4350 MM005_1967_EP_SU2011_AD_13 ID:120 R:Gram:VFut:Perifrasis:122 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:42 00:00:48 tt-4351 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<poner>"
-	"poner" Verb VLinf Infinitive lang:es 00:00:42 00:00:48 tt-4352 MM005_1967_EP_SU2011_AD_13 
+	"poner" Verb VLinf Infinitive lang:es 00:00:42 00:00:48 tt-4352 MM005_1967_EP_SU2011_AD_13 ID:122 
 "<allí>"
 	"allí" Adverb ADV lang:es 00:00:42 00:00:48 tt-4353 MM005_1967_EP_SU2011_AD_13 
 "<a>"
@@ -371,7 +371,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:03 00:01:10 tt-4408 MM005_1967_EP_SU2011_AD_13 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:03 00:01:10 tt-4409 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:03 00:01:10 tt-4409 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<maestro>"
 	"maestro" Plural Noun Singular lang:es 00:01:03 00:01:10 tt-4410 MM005_1967_EP_SU2011_AD_13 
 "<te>"
@@ -383,7 +383,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:01:03 00:01:10 tt-4414 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:03 00:01:10 tt-4415 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:03 00:01:10 tt-4415 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<pizarrón>"
 	"UNK" Noun NC Singular lang:es 00:01:03 00:01:10 tt-4416 MM005_1967_EP_SU2011_AD_13 
 "<yo>"
@@ -432,7 +432,7 @@
 "<ya>"
 	"ya" Adverb ADV lang:es 00:01:13 00:01:19 tt-4438 MM005_1967_EP_SU2011_AD_13 
 "<las>"
-	"el" Determiner ART Plural lang:es 00:01:13 00:01:19 tt-4439 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:01:13 00:01:19 tt-4439 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:19 00:01:24 tt-4440 MM005_1967_EP_SU2011_AD_13 
 "<me>"
@@ -468,7 +468,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:19 00:01:24 tt-4456 MM005_1967_EP_SU2011_AD_13 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:19 00:01:24 tt-4457 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:19 00:01:24 tt-4457 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<maestro>"
 	"maestro" Plural Noun Singular lang:es 00:01:19 00:01:24 tt-4458 MM005_1967_EP_SU2011_AD_13 
 "<nos>"
@@ -478,7 +478,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:01:24 00:01:31 tt-4461 MM005_1967_EP_SU2011_AD_13 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:24 00:01:31 tt-4462 MM005_1967_EP_SU2011_AD_13 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:24 00:01:31 tt-4462 MM005_1967_EP_SU2011_AD_13 @Gram:Imperf @Gram:SerEstar:Ser ID:232 R:Func:Expresar:Sugerencias:242 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:01:24 00:01:31 tt-4463 MM005_1967_EP_SU2011_AD_13 
 "<bueno>"
@@ -486,7 +486,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:01:24 00:01:31 tt-4465 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:24 00:01:31 tt-4466 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:24 00:01:31 tt-4466 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<,>"
 	"," Punctuation CM lang:es 00:01:24 00:01:31 tt-4467 MM005_1967_EP_SU2011_AD_13 
 "<con>"
@@ -498,7 +498,7 @@
 "<para>"
 	"para" Preposition PREP lang:es 00:01:24 00:01:31 tt-4471 MM005_1967_EP_SU2011_AD_13 @Gram:Prep:Para 
 "<recordar>"
-	"recordar" Verb VLinf Infinitive lang:es 00:01:24 00:01:31 tt-4472 MM005_1967_EP_SU2011_AD_13 
+	"recordar" Verb VLinf Infinitive lang:es 00:01:24 00:01:31 tt-4472 MM005_1967_EP_SU2011_AD_13 ID:242 
 "<todo>"
 	"todo" Determiner QU lang:es 00:01:24 00:01:31 tt-4473 MM005_1967_EP_SU2011_AD_13 
 "<lo>"
@@ -508,7 +508,7 @@
 "<decían>"
 	"decir" Verb VLfin Imp Indi Plural 3rd lang:es 00:01:24 00:01:31 tt-4476 MM005_1967_EP_SU2011_AD_13 @Gram:Imperf 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:01:24 00:01:31 tt-4477 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:01:24 00:01:31 tt-4477 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<maestros>"
 	"maestro" Plural Singular Noun NC lang:es 00:01:24 00:01:31 tt-4478 MM005_1967_EP_SU2011_AD_13 
 "<y>"
@@ -520,7 +520,7 @@
 "<pasaba>"
 	"pasar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:33 00:01:34 tt-4482 MM005_1967_EP_SU2011_AD_13 @Gram:Imperf 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:01:33 00:01:34 tt-4483 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:01:33 00:01:34 tt-4483 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<exámenes>"
 	"examen" Noun NC Plural lang:es 00:01:33 00:01:34 tt-4484 MM005_1967_EP_SU2011_AD_13 
 "<$.>"
@@ -560,7 +560,7 @@
 "<decían>"
 	"decir" Verb VLfin Imp Indi Plural 3rd lang:es 00:01:40 00:01:47 tt-4499 MM005_1967_EP_SU2011_AD_13 @Gram:Imperf 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:40 00:01:47 tt-4500 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:40 00:01:47 tt-4500 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<entumido>"
 	"UNK" Adjective ADJ Singular lang:es 00:01:40 00:01:47 tt-4501 MM005_1967_EP_SU2011_AD_13 
 "<,>"
@@ -578,7 +578,7 @@
 "<jugar>"
 	"jugar" Verb VLinf Infinitive lang:es 00:01:40 00:01:47 tt-4508 MM005_1967_EP_SU2011_AD_13 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:01:40 00:01:47 tt-4509 MM005_1967_EP_SU2011_AD_13 @Gram:Pron:Objeto 
+	"el" Determiner ART Plural Masc lang:es 00:01:40 00:01:47 tt-4509 MM005_1967_EP_SU2011_AD_13 @Gram:Pron:Objeto 
 "<deportes>"
 	"deportar" Verb VLfin Pres Subj Sing 2nd lang:es 00:01:40 00:01:47 tt-4510 MM005_1967_EP_SU2011_AD_13 @Gram:MSub:Pres 
 "<$.>"
@@ -633,7 +633,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:01:56 00:02:03 tt-4535 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:56 00:02:03 tt-4536 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:56 00:02:03 tt-4536 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:01:56 00:02:03 tt-4537 MM005_1967_EP_SU2011_AD_13 
 "<,>"
@@ -683,7 +683,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:02:03 00:02:07 tt-4560 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:02:03 00:02:07 tt-4561 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:02:03 00:02:07 tt-4561 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<más>"
 	"más" Adverb ADV lang:es 00:02:03 00:02:07 tt-4562 MM005_1967_EP_SU2011_AD_13 
 "<feos>"
@@ -693,7 +693,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:02:03 00:02:07 tt-4565 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:02:03 00:02:07 tt-4566 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:02:03 00:02:07 tt-4566 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<más>"
 	"más" Adverb ADV lang:es 00:02:03 00:02:07 tt-4567 MM005_1967_EP_SU2011_AD_13 
 "<guapos>"
@@ -703,7 +703,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:02:03 00:02:07 tt-4570 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:02:03 00:02:07 tt-4571 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:02:03 00:02:07 tt-4571 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<más>"
 	"más" Adverb ADV lang:es 00:02:03 00:02:07 tt-4572 MM005_1967_EP_SU2011_AD_13 
 "<inteligentes>"
@@ -713,7 +713,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:02:07 00:02:12 tt-4575 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:02:07 00:02:12 tt-4576 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:02:07 00:02:12 tt-4576 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<más>"
 	"más" Adverb ADV lang:es 00:02:07 00:02:12 tt-4577 MM005_1967_EP_SU2011_AD_13 
 "<burros>"
@@ -730,7 +730,7 @@
 "<todo>"
 	"todo" Determiner QU lang:es 00:02:07 00:02:12 tt-4583 MM005_1967_EP_SU2011_AD_13 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:02:07 00:02:12 tt-4584 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:02:07 00:02:12 tt-4584 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<mundo>"
 	"mundo" Noun NC Singular lang:es 00:02:07 00:02:12 tt-4585 MM005_1967_EP_SU2011_AD_13 
 "<en>"
@@ -752,13 +752,13 @@
 "<era>"
 	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:02:12 00:02:18 tt-4594 MM005_1967_EP_SU2011_AD_13 @Gram:Imperf @Gram:SerEstar:Ser 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:02:12 00:02:18 tt-4595 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:02:12 00:02:18 tt-4595 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<platicador>"
 	"UNK" Noun NC Singular lang:es 00:02:12 00:02:18 tt-4596 MM005_1967_EP_SU2011_AD_13 
 "<de>"
 	"de" Preposition PREP lang:es 00:02:12 00:02:18 tt-4597 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:02:12 00:02:18 tt-4598 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:02:12 00:02:18 tt-4598 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:02:12 00:02:18 tt-4599 MM005_1967_EP_SU2011_AD_13 
 "<,>"
@@ -791,7 +791,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:02:18 00:02:24 tt-4612 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:02:18 00:02:24 tt-4613 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:02:18 00:02:24 tt-4613 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:02:18 00:02:24 tt-4614 MM005_1967_EP_SU2011_AD_13 
 "<$?>"
@@ -830,7 +830,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:02:24 00:02:31 tt-4629 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:02:24 00:02:31 tt-4630 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:02:24 00:02:31 tt-4630 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<preparatoria>"
 	"preparatorio" Adjective ADJ Singular lang:es 00:02:24 00:02:31 tt-4631 MM005_1967_EP_SU2011_AD_13 
 "<creo>"
@@ -838,7 +838,7 @@
 "<fue>"
 	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:02:24 00:02:31 tt-4633 MM005_1967_EP_SU2011_AD_13 @Gram:SerEstar:Ser 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:02:34 00:02:40 tt-4634 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:02:34 00:02:40 tt-4634 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:02:34 00:02:40 tt-4635 MM005_1967_EP_SU2011_AD_13 
 "<que>"
@@ -864,7 +864,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:02:34 00:02:40 tt-4646 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:02:34 00:02:40 tt-4647 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:02:34 00:02:40 tt-4647 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<demás>"
 	"demás" Determiner QU lang:es 00:02:40 00:02:47 tt-4648 MM005_1967_EP_SU2011_AD_13 
 "<compañeros>"
@@ -872,7 +872,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:02:40 00:02:47 tt-4650 MM005_1967_EP_SU2011_AD_13 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:02:40 00:02:47 tt-4651 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:02:40 00:02:47 tt-4651 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:02:40 00:02:47 tt-4652 MM005_1967_EP_SU2011_AD_13 
 "<les>"
@@ -884,13 +884,13 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:02:40 00:02:47 tt-4656 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:02:40 00:02:47 tt-4657 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:02:40 00:02:47 tt-4657 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<maestros>"
 	"maestro" Plural Singular Noun NC lang:es 00:02:40 00:02:47 tt-4658 MM005_1967_EP_SU2011_AD_13 
 "<,>"
 	"," Punctuation CM lang:es 00:02:40 00:02:47 tt-4659 MM005_1967_EP_SU2011_AD_13 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:02:40 00:02:47 tt-4660 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:02:40 00:02:47 tt-4660 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<maestros>"
 	"maestro" Plural Singular Noun NC lang:es 00:02:40 00:02:47 tt-4661 MM005_1967_EP_SU2011_AD_13 
 "<no>"
@@ -958,7 +958,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:02:53 00:03:00 tt-4693 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:02:53 00:03:00 tt-4694 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:02:53 00:03:00 tt-4694 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<maestros>"
 	"maestro" Plural Singular Noun NC lang:es 00:02:53 00:03:00 tt-4695 MM005_1967_EP_SU2011_AD_13 
 "<que>"
@@ -980,7 +980,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:03:00 00:03:05 tt-4704 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:03:00 00:03:05 tt-4705 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:03:00 00:03:05 tt-4705 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<dirección>"
 	"dirección" Noun NC Singular lang:es 00:03:00 00:03:05 tt-4706 MM005_1967_EP_SU2011_AD_13 
 "<$.>"
@@ -1055,7 +1055,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:03:11 00:03:17 tt-4741 MM005_1967_EP_SU2011_AD_13 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:03:11 00:03:17 tt-4742 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:03:11 00:03:17 tt-4742 MM005_1967_EP_SU2011_AD_13 @Gram:Det:Art 
 "<demás>"
 	"demás" Determiner QU lang:es 00:03:11 00:03:17 tt-4743 MM005_1967_EP_SU2011_AD_13 
 "<gente>"

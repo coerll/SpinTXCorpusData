@@ -36,7 +36,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:00 00:00:07 tt-464 AM032_1952_CT_SU2011_VA_02 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:00 00:00:07 tt-465 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:00 00:00:07 tt-465 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<seis>"
 	"seis" Determiner CARD Plural lang:es 00:00:00 00:00:07 tt-466 AM032_1952_CT_SU2011_VA_02 
 "<años>"
@@ -125,7 +125,7 @@
 "<terminara>"
 	"terminar" Verb VLfin Past Subj Sing 1st_or_3rd lang:es 00:00:26 00:00:33 tt-508 AM032_1952_CT_SU2011_VA_02 @Gram:MSub:Pret 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:26 00:00:33 tt-509 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:26 00:00:33 tt-509 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<año>"
 	"año" Noun NC Singular lang:es 00:00:26 00:00:33 tt-510 AM032_1952_CT_SU2011_VA_02 
 "<cincuenta>"
@@ -241,7 +241,7 @@
 	"." Punctuation FS lang:es 00:00:49 00:00:56 tt-563 AM032_1952_CT_SU2011_VA_02 
 
 "<Los>"
-	"el" Determiner ART Plural lang:es 00:00:49 00:00:56 tt-564 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:49 00:00:56 tt-564 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<cuales>"
 	"cual" Pronoun REL Plural lang:es 00:00:49 00:00:56 tt-565 AM032_1952_CT_SU2011_VA_02 
 "<aún>"
@@ -263,7 +263,7 @@
 	"." Punctuation FS lang:es 00:00:57 00:01:04 tt-573 AM032_1952_CT_SU2011_VA_02 
 
 "<El>"
-	"el" Determiner ART Singular lang:es 00:00:57 00:01:04 tt-574 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:57 00:01:04 tt-574 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<otro>"
 	"otro" Determiner QU lang:es 00:00:57 00:01:04 tt-575 AM032_1952_CT_SU2011_VA_02 
 "<vive>"
@@ -325,17 +325,17 @@
 "<era>"
 	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:07 00:01:14 tt-602 AM032_1952_CT_SU2011_VA_02 @Gram:Imperf @Gram:SerEstar:Ser 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:07 00:01:14 tt-603 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:07 00:01:14 tt-603 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<ciudadanía>"
 	"ciudadanía" Noun NC Singular lang:es 00:01:07 00:01:14 tt-604 AM032_1952_CT_SU2011_VA_02 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:07 00:01:14 tt-605 AM032_1952_CT_SU2011_VA_02 
 "<iban>"
-	"ir" Verb VLfin Imp Indi Plural 3rd lang:es 00:01:07 00:01:14 tt-606 AM032_1952_CT_SU2011_VA_02 @Gram:Imperf 
+	"ir" Verb VLfin Imp Indi Plural 3rd lang:es 00:01:07 00:01:14 tt-606 AM032_1952_CT_SU2011_VA_02 @Gram:Imperf ID:158 R:Gram:VFut:Perifrasis:160 
 "<a>"
 	"a" Preposition PREP lang:es 00:01:07 00:01:14 tt-607 AM032_1952_CT_SU2011_VA_02 @Gram:Prep 
 "<tener>"
-	"tener" Verb VLinf Infinitive lang:es 00:01:15 00:01:22 tt-608 AM032_1952_CT_SU2011_VA_02 
+	"tener" Verb VLinf Infinitive lang:es 00:01:15 00:01:22 tt-608 AM032_1952_CT_SU2011_VA_02 ID:160 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:15 00:01:22 tt-609 AM032_1952_CT_SU2011_VA_02 
 
@@ -390,7 +390,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:01:24 00:01:29 tt-633 AM032_1952_CT_SU2011_VA_02 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:24 00:01:29 tt-634 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:24 00:01:29 tt-634 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:01:24 00:01:29 tt-635 AM032_1952_CT_SU2011_VA_02 
 "<,>"
@@ -402,7 +402,7 @@
 "<americana>"
 	"americano" Adjective ADJ Singular lang:es 00:01:24 00:01:29 tt-639 AM032_1952_CT_SU2011_VA_02 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:24 00:01:29 tt-640 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:24 00:01:29 tt-640 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<primer>"
 	"primero" Adjective ORD Singular lang:es 00:01:24 00:01:29 tt-641 AM032_1952_CT_SU2011_VA_02 Gram:Adj:Ord 
 "<año>"
@@ -412,7 +412,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:01:29 00:01:36 tt-644 AM032_1952_CT_SU2011_VA_02 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:29 00:01:36 tt-645 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:29 00:01:36 tt-645 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<cual>"
 	"cual" Pronoun REL Singular lang:es 00:01:29 00:01:36 tt-646 AM032_1952_CT_SU2011_VA_02 
 "<daban>"
@@ -504,7 +504,7 @@
 "<llamaba>"
 	"llamar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:45 00:01:52 tt-689 AM032_1952_CT_SU2011_VA_02 @Gram:Imperf 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:45 00:01:52 tt-690 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:45 00:01:52 tt-690 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:01:45 00:01:52 tt-691 AM032_1952_CT_SU2011_VA_02 
 "<Cristóbal>"
@@ -563,7 +563,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:02:01 00:02:07 tt-717 AM032_1952_CT_SU2011_VA_02 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:02:01 00:02:07 tt-718 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:02:01 00:02:07 tt-718 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:02:01 00:02:07 tt-719 AM032_1952_CT_SU2011_VA_02 
 "<y>"
@@ -571,7 +571,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:02:01 00:02:07 tt-721 AM032_1952_CT_SU2011_VA_02 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:02:01 00:02:07 tt-722 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:02:01 00:02:07 tt-722 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<calle>"
 	"calle" Noun NC Singular lang:es 00:02:01 00:02:07 tt-723 AM032_1952_CT_SU2011_VA_02 
 "<jugando>"
@@ -591,7 +591,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:02:01 00:02:07 tt-731 AM032_1952_CT_SU2011_VA_02 @Gram:Prep 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:02:07 00:02:14 tt-732 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:02:07 00:02:14 tt-732 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<segundo>"
 	"segundo" Adjective ORD Singular lang:es 00:02:07 00:02:14 tt-733 AM032_1952_CT_SU2011_VA_02 Gram:Adj:Ord 
 "<grado>"
@@ -640,7 +640,7 @@
 "<dado>"
 	"dar" Verb VLadj lang:es 00:02:07 00:02:14 tt-753 AM032_1952_CT_SU2011_VA_02 ID:305 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:02:07 00:02:14 tt-754 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:02:07 00:02:14 tt-754 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<idea>"
 	"idea" Noun NC Singular lang:es 00:02:18 00:02:25 tt-755 AM032_1952_CT_SU2011_VA_02 
 "<y>"
@@ -735,7 +735,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:02:33 00:02:39 tt-800 AM032_1952_CT_SU2011_VA_02 @Gram:Prep 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:02:33 00:02:39 tt-801 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:02:33 00:02:39 tt-801 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<ambiente>"
 	"ambiente" Adjective ADJ Singular lang:es 00:02:33 00:02:39 tt-802 AM032_1952_CT_SU2011_VA_02 
 "<$.>"
@@ -762,7 +762,7 @@
 "<vez>"
 	"vez" Adverb ADV lang:es 00:02:39 00:02:46 tt-813 AM032_1952_CT_SU2011_VA_02 ID:365 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:02:39 00:02:46 tt-814 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:02:39 00:02:46 tt-814 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<mejor>"
 	"bueno" Adjective ADJ Singular lang:es 00:02:39 00:02:46 tt-815 AM032_1952_CT_SU2011_VA_02 
 "<palabra>"
@@ -811,11 +811,11 @@
 "<llamaba>"
 	"llamar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:02:47 00:02:52 tt-837 AM032_1952_CT_SU2011_VA_02 @Gram:Imperf 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:02:52 00:02:59 tt-838 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:02:52 00:02:59 tt-838 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:02:52 00:02:59 tt-839 AM032_1952_CT_SU2011_VA_02 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:02:52 00:02:59 tt-840 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:02:52 00:02:59 tt-840 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<ciudad>"
 	"ciudad" Noun NC Singular lang:es 00:02:52 00:02:59 tt-841 AM032_1952_CT_SU2011_VA_02 
 "<se>"
@@ -849,7 +849,7 @@
 "<antigua>"
 	"antiguo" Adjective ADJ Singular lang:es 00:03:01 00:03:08 tt-856 AM032_1952_CT_SU2011_VA_02 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:03:01 00:03:08 tt-857 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:03:01 00:03:08 tt-857 AM032_1952_CT_SU2011_VA_02 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:03:01 00:03:08 tt-858 AM032_1952_CT_SU2011_VA_02 
 "<$.>"

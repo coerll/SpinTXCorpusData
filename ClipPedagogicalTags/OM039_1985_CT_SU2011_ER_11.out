@@ -270,7 +270,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:41 00:00:48 tt-6659 OM039_1985_CT_SU2011_ER_11 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:41 00:00:48 tt-6660 OM039_1985_CT_SU2011_ER_11 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:41 00:00:48 tt-6660 OM039_1985_CT_SU2011_ER_11 @Gram:Det:Art 
 "<cambio>"
 	"cambio" Noun NC Singular lang:es 00:00:41 00:00:48 tt-6661 OM039_1985_CT_SU2011_ER_11 
 "<a>"
@@ -360,7 +360,7 @@
 "<más>"
 	"más" Adverb ADV lang:es 00:00:59 00:01:03 tt-6704 OM039_1985_CT_SU2011_ER_11 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:59 00:01:03 tt-6705 OM039_1985_CT_SU2011_ER_11 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:59 00:01:03 tt-6705 OM039_1985_CT_SU2011_ER_11 @Gram:Det:Art 
 "<mente>"
 	"mente" Noun NC Singular lang:es 00:01:03 00:01:10 tt-6706 OM039_1985_CT_SU2011_ER_11 
 "<de>"
@@ -407,7 +407,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:11 00:01:13 tt-6727 OM039_1985_CT_SU2011_ER_11 @Gram:Pron:Objeto 
 "<pondré>"
-	"poner" Verb VLfin Fut Indi Sing 1st lang:es 00:01:11 00:01:13 tt-6728 OM039_1985_CT_SU2011_ER_11 
+	"poner" Verb VLfin Fut Indi Sing 1st lang:es 00:01:11 00:01:13 tt-6728 OM039_1985_CT_SU2011_ER_11 @Gram:VFut:Conjugado 
 "<más>"
 	"más" Adverb ADV lang:es 00:01:11 00:01:13 tt-6729 OM039_1985_CT_SU2011_ER_11 
 "<y>"
@@ -436,7 +436,7 @@
 "<para>"
 	"para" Preposition PREP lang:es 00:01:13 00:01:19 tt-6739 OM039_1985_CT_SU2011_ER_11 @Gram:Prep:Para 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:13 00:01:19 tt-6740 OM039_1985_CT_SU2011_ER_11 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:13 00:01:19 tt-6740 OM039_1985_CT_SU2011_ER_11 @Gram:Det:Art 
 "<futuro>"
 	"futuro" Noun NC Singular lang:es 00:01:13 00:01:19 tt-6741 OM039_1985_CT_SU2011_ER_11 
 "<$?>"
@@ -591,7 +591,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:30 00:01:37 tt-6814 OM039_1985_CT_SU2011_ER_11 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:30 00:01:37 tt-6815 OM039_1985_CT_SU2011_ER_11 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:30 00:01:37 tt-6815 OM039_1985_CT_SU2011_ER_11 @Gram:Det:Art 
 "<lugar>"
 	"lugar" Noun NC Singular lang:es 00:01:30 00:01:37 tt-6816 OM039_1985_CT_SU2011_ER_11 
 "<sí>"
@@ -613,7 +613,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:38 00:01:44 tt-6825 OM039_1985_CT_SU2011_ER_11 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:38 00:01:44 tt-6826 OM039_1985_CT_SU2011_ER_11 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:38 00:01:44 tt-6826 OM039_1985_CT_SU2011_ER_11 @Gram:Det:Art 
 "<momento>"
 	"momento" Noun NC Singular lang:es 00:01:38 00:01:44 tt-6827 OM039_1985_CT_SU2011_ER_11 
 "<que>"
@@ -631,7 +631,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:01:38 00:01:44 tt-6833 OM039_1985_CT_SU2011_ER_11 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:38 00:01:44 tt-6834 OM039_1985_CT_SU2011_ER_11 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:38 00:01:44 tt-6834 OM039_1985_CT_SU2011_ER_11 @Gram:Det:Art 
 "<persona>"
 	"persona" Noun NC Singular lang:es 00:01:38 00:01:44 tt-6835 OM039_1985_CT_SU2011_ER_11 
 "<que>"
@@ -639,13 +639,13 @@
 "<sea>"
 	"ser" Verb VSfin Pres Subj Sing 1st_or_3rd lang:es 00:01:44 00:01:51 tt-6837 OM039_1985_CT_SU2011_ER_11 @Gram:MSub:Pres @Gram:SerEstar:Ser 
 "<tendré>"
-	"tener" Verb VLfin Fut Indi Sing 1st lang:es 00:01:44 00:01:51 tt-6838 OM039_1985_CT_SU2011_ER_11 
+	"tener" Verb VLfin Fut Indi Sing 1st lang:es 00:01:44 00:01:51 tt-6838 OM039_1985_CT_SU2011_ER_11 @Gram:VFut:Conjugado 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:44 00:01:51 tt-6839 OM039_1985_CT_SU2011_ER_11 
 "<,>"
 	"," Punctuation CM lang:es 00:01:44 00:01:51 tt-6840 OM039_1985_CT_SU2011_ER_11 
 "<tendremos>"
-	"tener" Verb VLfin Fut Indi Plural 1st lang:es 00:01:44 00:01:51 tt-6841 OM039_1985_CT_SU2011_ER_11 
+	"tener" Verb VLfin Fut Indi Plural 1st lang:es 00:01:44 00:01:51 tt-6841 OM039_1985_CT_SU2011_ER_11 @Gram:VFut:Conjugado 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:44 00:01:51 tt-6842 OM039_1985_CT_SU2011_ER_11 
 "<definirlo>"

@@ -30,7 +30,7 @@
 "<era>"
 	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:07 tt-1494 MF013_1937_EP_SU2011_AD_03 @Gram:Imperf @Gram:SerEstar:Ser 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-1495 MF013_1937_EP_SU2011_AD_03 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:00 00:00:07 tt-1495 MF013_1937_EP_SU2011_AD_03 @Gram:Det:Art 
 "<persona>"
 	"persona" Noun NC Singular lang:es 00:00:00 00:00:07 tt-1496 MF013_1937_EP_SU2011_AD_03 
 "<correcta>"
@@ -57,7 +57,7 @@
 "<te>"
 	"tú" Pronoun PPX Singular lang:es 00:00:19 00:00:26 tt-1506 MF013_1937_EP_SU2011_AD_03 @Gram:Pron:Objeto 
 "<diré>"
-	"decir" Verb VLfin Fut Indi Sing 1st lang:es 00:00:19 00:00:26 tt-1507 MF013_1937_EP_SU2011_AD_03 
+	"decir" Verb VLfin Fut Indi Sing 1st lang:es 00:00:19 00:00:26 tt-1507 MF013_1937_EP_SU2011_AD_03 @Gram:VFut:Conjugado 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:19 00:00:26 tt-1508 MF013_1937_EP_SU2011_AD_03 
 
@@ -84,7 +84,7 @@
 "<para>"
 	"para" Preposition PREP lang:es 00:00:19 00:00:26 tt-1519 MF013_1937_EP_SU2011_AD_03 @Gram:Prep:Para 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:29 00:00:36 tt-1520 MF013_1937_EP_SU2011_AD_03 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:29 00:00:36 tt-1520 MF013_1937_EP_SU2011_AD_03 @Gram:Det:Art 
 "<otro>"
 	"otro" Determiner QU lang:es 00:00:29 00:00:36 tt-1521 MF013_1937_EP_SU2011_AD_03 
 "<digo>"
@@ -245,11 +245,11 @@
 "<te>"
 	"tú" Pronoun PPX Singular lang:es 00:01:08 00:01:15 tt-1591 MF013_1937_EP_SU2011_AD_03 @Gram:Pron:Objeto 
 "<voy>"
-	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:01:08 00:01:15 tt-1592 MF013_1937_EP_SU2011_AD_03 
+	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:01:08 00:01:15 tt-1592 MF013_1937_EP_SU2011_AD_03 ID:112 R:Gram:VFut:Perifrasis:114 
 "<a>"
 	"a" Preposition PREP lang:es 00:01:08 00:01:15 tt-1593 MF013_1937_EP_SU2011_AD_03 @Gram:Prep 
 "<contar>"
-	"contar" Verb VLinf Infinitive lang:es 00:01:08 00:01:15 tt-1594 MF013_1937_EP_SU2011_AD_03 
+	"contar" Verb VLinf Infinitive lang:es 00:01:08 00:01:15 tt-1594 MF013_1937_EP_SU2011_AD_03 ID:114 
 "<eh>"
 	"eh" Noun NP Singular lang:es 00:01:08 00:01:15 tt-1595 MF013_1937_EP_SU2011_AD_03 
 "<...>"
@@ -259,7 +259,7 @@
 "<estuvo>"
 	"estar" Verb VEfin Pret Indi Sing 3rd lang:es 00:01:08 00:01:15 tt-1598 MF013_1937_EP_SU2011_AD_03 @Gram:Indefinido @Gram:SerEstar:Estar 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:08 00:01:15 tt-1599 MF013_1937_EP_SU2011_AD_03 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:08 00:01:15 tt-1599 MF013_1937_EP_SU2011_AD_03 @Gram:Det:Art 
 "<cosa>"
 	"cosa" Noun NC Singular lang:es 00:01:08 00:01:15 tt-1600 MF013_1937_EP_SU2011_AD_03 
 "<$.>"
@@ -294,7 +294,7 @@
 "<perder>"
 	"perder" Verb VLinf Infinitive lang:es 00:01:17 00:01:22 tt-1615 MF013_1937_EP_SU2011_AD_03 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:17 00:01:22 tt-1616 MF013_1937_EP_SU2011_AD_03 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:17 00:01:22 tt-1616 MF013_1937_EP_SU2011_AD_03 @Gram:Det:Art 
 "<tiempo>"
 	"tiempo" Noun NC Singular lang:es 00:01:17 00:01:22 tt-1617 MF013_1937_EP_SU2011_AD_03 
 "<,>"
@@ -414,11 +414,11 @@
 "<te>"
 	"tú" Pronoun PPX Singular lang:es 00:01:36 00:01:42 tt-1674 MF013_1937_EP_SU2011_AD_03 @Gram:Pron:Objeto 
 "<vas>"
-	"ir" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:36 00:01:42 tt-1675 MF013_1937_EP_SU2011_AD_03 
+	"ir" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:36 00:01:42 tt-1675 MF013_1937_EP_SU2011_AD_03 ID:195 R:Gram:VFut:Perifrasis:197 
 "<a>"
 	"a" Preposition PREP lang:es 00:01:36 00:01:42 tt-1676 MF013_1937_EP_SU2011_AD_03 @Gram:Prep 
 "<hallar>"
-	"hallar" Verb VLinf Infinitive lang:es 00:01:36 00:01:42 tt-1677 MF013_1937_EP_SU2011_AD_03 
+	"hallar" Verb VLinf Infinitive lang:es 00:01:36 00:01:42 tt-1677 MF013_1937_EP_SU2011_AD_03 ID:197 
 "<a>"
 	"a" Preposition PREP lang:es 00:01:36 00:01:42 tt-1678 MF013_1937_EP_SU2011_AD_03 @Gram:Prep 
 "<otro>"
@@ -506,7 +506,7 @@
 "<lo>"
 	"él" Pronoun PPC Singular lang:es 00:01:50 00:01:55 tt-1720 MF013_1937_EP_SU2011_AD_03 @Gram:Pron:Objeto 
 "<amarré>"
-	"UNK" Verb VLfin Fut Indi Sing 1st lang:es 00:01:50 00:01:55 tt-1721 MF013_1937_EP_SU2011_AD_03 
+	"UNK" Verb VLfin Fut Indi Sing 1st lang:es 00:01:50 00:01:55 tt-1721 MF013_1937_EP_SU2011_AD_03 @Gram:VFut:Conjugado 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:50 00:01:55 tt-1722 MF013_1937_EP_SU2011_AD_03 
 </speaker>

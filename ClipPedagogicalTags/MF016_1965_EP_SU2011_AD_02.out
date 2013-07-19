@@ -28,7 +28,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:08 00:00:15 tt-178 MF016_1965_EP_SU2011_AD_02 
 "<las>"
-	"el" Determiner ART Plural lang:es 00:00:08 00:00:15 tt-179 MF016_1965_EP_SU2011_AD_02 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:00:08 00:00:15 tt-179 MF016_1965_EP_SU2011_AD_02 @Gram:Det:Art 
 "<vagancias>"
 	"UNK" Noun NC Plural lang:es 00:00:08 00:00:15 tt-180 MF016_1965_EP_SU2011_AD_02 
 "<que>"
@@ -69,7 +69,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:15 00:00:22 tt-198 MF016_1965_EP_SU2011_AD_02 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:15 00:00:22 tt-199 MF016_1965_EP_SU2011_AD_02 
+	"el" Determiner ART Singular Fem lang:es 00:00:15 00:00:22 tt-199 MF016_1965_EP_SU2011_AD_02 
 "<escuela>"
 	"escolar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:15 00:00:22 tt-200 MF016_1965_EP_SU2011_AD_02 
 "<mi>"
@@ -133,7 +133,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:22 00:00:29 tt-229 MF016_1965_EP_SU2011_AD_02 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:22 00:00:29 tt-230 MF016_1965_EP_SU2011_AD_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:22 00:00:29 tt-230 MF016_1965_EP_SU2011_AD_02 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:00:22 00:00:29 tt-231 MF016_1965_EP_SU2011_AD_02 
 "<yo>"
@@ -256,7 +256,7 @@
 "<fue>"
 	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:00:43 00:00:49 tt-290 MF016_1965_EP_SU2011_AD_02 @Gram:SerEstar:Ser 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:43 00:00:49 tt-291 MF016_1965_EP_SU2011_AD_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:43 00:00:49 tt-291 MF016_1965_EP_SU2011_AD_02 @Gram:Det:Art 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:43 00:00:49 tt-292 MF016_1965_EP_SU2011_AD_02 
 "<te>"
@@ -341,11 +341,11 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:55 00:01:01 tt-331 MF016_1965_EP_SU2011_AD_02 @Gram:Pron:Objeto 
 "<va>"
-	"ir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:55 00:01:01 tt-332 MF016_1965_EP_SU2011_AD_02 
+	"ir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:55 00:01:01 tt-332 MF016_1965_EP_SU2011_AD_02 ID:166 R:Gram:VFut:Perifrasis:168 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:55 00:01:01 tt-333 MF016_1965_EP_SU2011_AD_02 @Gram:Prep 
 "<pegar>"
-	"pegar" Verb VLinf Infinitive lang:es 00:00:55 00:01:01 tt-334 MF016_1965_EP_SU2011_AD_02 
+	"pegar" Verb VLinf Infinitive lang:es 00:00:55 00:01:01 tt-334 MF016_1965_EP_SU2011_AD_02 ID:168 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:55 00:01:01 tt-335 MF016_1965_EP_SU2011_AD_02 @Gram:Prep 
 "<mí>"
@@ -360,7 +360,7 @@
 "<veníamos>"
 	"venir" Verb VLfin Imp Indi Plural 1st lang:es 00:00:55 00:01:01 tt-340 MF016_1965_EP_SU2011_AD_02 @Gram:Imperf 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:55 00:01:01 tt-341 MF016_1965_EP_SU2011_AD_02 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:55 00:01:01 tt-341 MF016_1965_EP_SU2011_AD_02 @Gram:Det:Art 
 "<dos>"
 	"dos" Noun NC Plural lang:es 00:00:55 00:01:01 tt-342 MF016_1965_EP_SU2011_AD_02 
 "<y>"
@@ -392,7 +392,7 @@
 "<veníamos>"
 	"venir" Verb VLfin Imp Indi Plural 1st lang:es 00:01:01 00:01:08 tt-356 MF016_1965_EP_SU2011_AD_02 @Gram:Imperf 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:01:01 00:01:08 tt-357 MF016_1965_EP_SU2011_AD_02 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:01:01 00:01:08 tt-357 MF016_1965_EP_SU2011_AD_02 @Gram:Det:Art 
 "<dos>"
 	"dos" Determiner CARD Plural lang:es 00:01:01 00:01:08 tt-358 MF016_1965_EP_SU2011_AD_02 
 "<caminando>"
@@ -440,7 +440,7 @@
 "<sea>"
 	"sea" Adverb ADV lang:es 00:01:10 00:01:17 tt-380 MF016_1965_EP_SU2011_AD_02 ID:214 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:10 00:01:17 tt-381 MF016_1965_EP_SU2011_AD_02 @Gram:Det:Art ID:215 R:Gram:Genero:ExcepArtFem:216 
+	"el" Determiner ART Singular Masc lang:es 00:01:10 00:01:17 tt-381 MF016_1965_EP_SU2011_AD_02 @Gram:Det:Art ID:215 R:Gram:Genero:ExcepArtFem:216 
 "<agua>"
 	"agua" Noun NC Singular lang:es 00:01:10 00:01:17 tt-382 MF016_1965_EP_SU2011_AD_02 ID:216 
 "<nos>"
@@ -508,11 +508,11 @@
 "<nos>"
 	"nosotros" Pronoun PPX Plural lang:es 00:01:24 00:01:30 tt-414 MF016_1965_EP_SU2011_AD_02 @Gram:Pron:Objeto 
 "<vamos>"
-	"ir" Verb VLfin Pres Indi Plural 1st lang:es 00:01:24 00:01:30 tt-415 MF016_1965_EP_SU2011_AD_02 
+	"ir" Verb VLfin Pres Indi Plural 1st lang:es 00:01:24 00:01:30 tt-415 MF016_1965_EP_SU2011_AD_02 ID:249 R:Gram:VFut:Perifrasis:251 
 "<a>"
 	"a" Preposition PREP lang:es 00:01:24 00:01:30 tt-416 MF016_1965_EP_SU2011_AD_02 @Gram:Prep 
 "<cruzar>"
-	"cruzar" Verb VLinf Infinitive lang:es 00:01:24 00:01:30 tt-417 MF016_1965_EP_SU2011_AD_02 
+	"cruzar" Verb VLinf Infinitive lang:es 00:01:24 00:01:30 tt-417 MF016_1965_EP_SU2011_AD_02 ID:251 
 "<Raúl>"
 	"Raúl" Noun NP Singular lang:es 00:01:24 00:01:30 tt-418 MF016_1965_EP_SU2011_AD_02 
 "<$?>"
@@ -572,7 +572,7 @@
 "<para>"
 	"para" Preposition PREP lang:es 00:01:30 00:01:35 tt-445 MF016_1965_EP_SU2011_AD_02 @Gram:Prep:Para 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:30 00:01:35 tt-446 MF016_1965_EP_SU2011_AD_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:30 00:01:35 tt-446 MF016_1965_EP_SU2011_AD_02 @Gram:Det:Art 
 "<otro>"
 	"otro" Determiner QU lang:es 00:01:30 00:01:35 tt-447 MF016_1965_EP_SU2011_AD_02 
 "<lado>"
@@ -583,7 +583,7 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:01:30 00:01:35 tt-450 MF016_1965_EP_SU2011_AD_02 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:30 00:01:35 tt-451 MF016_1965_EP_SU2011_AD_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:30 00:01:35 tt-451 MF016_1965_EP_SU2011_AD_02 @Gram:Det:Art 
 "<señor>"
 	"señor" Noun NC Singular lang:es 00:01:35 00:01:42 tt-452 MF016_1965_EP_SU2011_AD_02 
 "<nos>"
@@ -613,11 +613,11 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:35 00:01:42 tt-464 MF016_1965_EP_SU2011_AD_02 @Gram:Pron:Objeto 
 "<voy>"
-	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:01:35 00:01:42 tt-465 MF016_1965_EP_SU2011_AD_02 
+	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:01:35 00:01:42 tt-465 MF016_1965_EP_SU2011_AD_02 ID:299 R:Gram:VFut:Perifrasis:301 
 "<a>"
 	"a" Preposition PREP lang:es 00:01:35 00:01:42 tt-466 MF016_1965_EP_SU2011_AD_02 @Gram:Prep 
 "<mojar>"
-	"mojar" Verb VLinf Infinitive lang:es 00:01:35 00:01:42 tt-467 MF016_1965_EP_SU2011_AD_02 
+	"mojar" Verb VLinf Infinitive lang:es 00:01:35 00:01:42 tt-467 MF016_1965_EP_SU2011_AD_02 ID:301 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:35 00:01:42 tt-468 MF016_1965_EP_SU2011_AD_02 
 

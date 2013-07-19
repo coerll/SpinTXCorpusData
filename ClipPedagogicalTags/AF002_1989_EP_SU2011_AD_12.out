@@ -7,7 +7,7 @@
 "<escuchado>"
 	"escuchar" Verb VLadj lang:es 00:00:00 00:00:07 tt-3811 AF002_1989_EP_SU2011_AD_12 ID:3 
 "<las>"
-	"el" Determiner ART Plural lang:es 00:00:00 00:00:07 tt-3812 AF002_1989_EP_SU2011_AD_12 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:00:00 00:00:07 tt-3812 AF002_1989_EP_SU2011_AD_12 @Gram:Det:Art 
 "<palabras>"
 	"palabra" Noun NC Plural lang:es 00:00:00 00:00:07 tt-3813 AF002_1989_EP_SU2011_AD_12 
 "<pocho>"
@@ -101,7 +101,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:16 00:00:23 tt-3855 AF002_1989_EP_SU2011_AD_12 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:16 00:00:23 tt-3856 AF002_1989_EP_SU2011_AD_12 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:16 00:00:23 tt-3856 AF002_1989_EP_SU2011_AD_12 @Gram:Det:Art 
 "<mejor>"
 	"bueno" Adjective ADJ Singular lang:es 00:00:16 00:00:23 tt-3857 AF002_1989_EP_SU2011_AD_12 
 "<de>"
@@ -146,7 +146,7 @@
 "<por>"
 	"por" Preposition PREP lang:es 00:00:26 00:00:33 tt-3877 AF002_1989_EP_SU2011_AD_12 @Gram:Prep:Por 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:26 00:00:33 tt-3878 AF002_1989_EP_SU2011_AD_12 @Gram:Det:Art ID:70 R:Gram:Genero:ExcepArtFem:71 
+	"el" Determiner ART Singular Masc lang:es 00:00:26 00:00:33 tt-3878 AF002_1989_EP_SU2011_AD_12 @Gram:Det:Art ID:70 R:Gram:Genero:ExcepArtFem:71 
 "<área>"
 	"área" Noun NC Singular lang:es 00:00:26 00:00:33 tt-3879 AF002_1989_EP_SU2011_AD_12 ID:71 
 "<,>"
@@ -296,15 +296,15 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:55 00:01:01 tt-3951 AF002_1989_EP_SU2011_AD_12 @Gram:Prep 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:55 00:01:01 tt-3952 AF002_1989_EP_SU2011_AD_12 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:55 00:01:01 tt-3952 AF002_1989_EP_SU2011_AD_12 @Gram:Det:Art 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:55 00:01:01 tt-3953 AF002_1989_EP_SU2011_AD_12 
 "<vas>"
-	"ir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:55 00:01:01 tt-3954 AF002_1989_EP_SU2011_AD_12 
+	"ir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:55 00:01:01 tt-3954 AF002_1989_EP_SU2011_AD_12 ID:146 R:Gram:VFut:Perifrasis:148 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:55 00:01:01 tt-3955 AF002_1989_EP_SU2011_AD_12 @Gram:Prep 
 "<tener>"
-	"tener" Verb VLinf VMinf lang:es 00:01:01 00:01:05 tt-3956 AF002_1989_EP_SU2011_AD_12 
+	"tener" Verb VLinf VMinf lang:es 00:01:01 00:01:05 tt-3956 AF002_1989_EP_SU2011_AD_12 ID:148 
 "<que>"
 	"que" Verb VMinf lang:es 00:01:01 00:01:05 tt-3957 AF002_1989_EP_SU2011_AD_12 
 "<decir>"
@@ -361,7 +361,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:07 00:01:14 tt-3983 AF002_1989_EP_SU2011_AD_12 @Gram:Prep 
 "<las>"
-	"el" Determiner ART Plural lang:es 00:01:07 00:01:14 tt-3984 AF002_1989_EP_SU2011_AD_12 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:01:07 00:01:14 tt-3984 AF002_1989_EP_SU2011_AD_12 @Gram:Det:Art 
 "<personas>"
 	"persona" Noun NC Plural lang:es 00:01:07 00:01:14 tt-3985 AF002_1989_EP_SU2011_AD_12 
 "<que>"
@@ -369,7 +369,7 @@
 "<mezclan>"
 	"mezclar" Verb VLfin Pres Indi Plural 3rd lang:es 00:01:07 00:01:14 tt-3987 AF002_1989_EP_SU2011_AD_12 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:01:07 00:01:14 tt-3988 AF002_1989_EP_SU2011_AD_12 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:01:07 00:01:14 tt-3988 AF002_1989_EP_SU2011_AD_12 @Gram:Det:Art 
 "<idiomas>"
 	"idioma" Noun NC Plural lang:es 00:01:07 00:01:14 tt-3989 AF002_1989_EP_SU2011_AD_12 
 "<$?>"

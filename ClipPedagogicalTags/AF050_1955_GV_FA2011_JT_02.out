@@ -139,7 +139,7 @@
 "<todos>"
 	"todo" Determiner QU lang:es 00:00:31 00:00:38 tt-218 AF050_1955_GV_FA2011_JT_02 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:31 00:00:38 tt-219 AF050_1955_GV_FA2011_JT_02 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:31 00:00:38 tt-219 AF050_1955_GV_FA2011_JT_02 @Gram:Det:Art 
 "<grados>"
 	"grado" Noun NMEA Plural lang:es 00:00:31 00:00:38 tt-220 AF050_1955_GV_FA2011_JT_02 
 "<hasta>"
@@ -157,7 +157,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:31 00:00:38 tt-227 AF050_1955_GV_FA2011_JT_02 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:31 00:00:38 tt-228 AF050_1955_GV_FA2011_JT_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:31 00:00:38 tt-228 AF050_1955_GV_FA2011_JT_02 @Gram:Det:Art 
 "<secundaria>"
 	"secundario" Adjective ADJ Singular lang:es 00:00:31 00:00:38 tt-229 AF050_1955_GV_FA2011_JT_02 
 "<$.>"
@@ -214,11 +214,11 @@
 "<ya>"
 	"ya" Adverb ADV lang:es 00:00:41 00:00:47 tt-255 AF050_1955_GV_FA2011_JT_02 
 "<voy>"
-	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:41 00:00:47 tt-256 AF050_1955_GV_FA2011_JT_02 
+	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:41 00:00:47 tt-256 AF050_1955_GV_FA2011_JT_02 ID:103 R:Gram:VFut:Perifrasis:105 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:41 00:00:47 tt-257 AF050_1955_GV_FA2011_JT_02 @Gram:Prep 
 "<ser>"
-	"ser" Verb VLinf VSinf Infinitive lang:es 00:00:41 00:00:47 tt-258 AF050_1955_GV_FA2011_JT_02 @Gram:SerEstar:Ser 
+	"ser" Verb VLinf VSinf Infinitive lang:es 00:00:41 00:00:47 tt-258 AF050_1955_GV_FA2011_JT_02 @Gram:SerEstar:Ser ID:105 
 "<abuela>"
 	"abuelo" Noun NC Singular lang:es 00:00:41 00:00:47 tt-259 AF050_1955_GV_FA2011_JT_02 
 "<$.>"
@@ -227,11 +227,11 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:47 00:00:48 tt-261 AF050_1955_GV_FA2011_JT_02 
 "<Vas>"
-	"ir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:47 00:00:48 tt-262 AF050_1955_GV_FA2011_JT_02 
+	"ir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:47 00:00:48 tt-262 AF050_1955_GV_FA2011_JT_02 ID:109 R:Gram:VFut:Perifrasis:111 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:47 00:00:48 tt-263 AF050_1955_GV_FA2011_JT_02 @Gram:Prep 
 "<ser>"
-	"ser" Verb VLinf VSinf Infinitive lang:es 00:00:47 00:00:48 tt-264 AF050_1955_GV_FA2011_JT_02 @Gram:SerEstar:Ser 
+	"ser" Verb VLinf VSinf Infinitive lang:es 00:00:47 00:00:48 tt-264 AF050_1955_GV_FA2011_JT_02 @Gram:SerEstar:Ser ID:111 
 "<abuela>"
 	"abuelo" Noun NC Singular lang:es 00:00:47 00:00:48 tt-265 AF050_1955_GV_FA2011_JT_02 
 "<$?>"

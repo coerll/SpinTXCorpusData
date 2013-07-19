@@ -1,5 +1,5 @@
 AM041_1990_CT_SU2011_ER_01
-@Gram : 92
+@Gram : 93
 @Gram:Det : 26
 @Gram:Det:Art : 14
 @Gram:Det:Pos : 12
@@ -18,11 +18,16 @@ AM041_1990_CT_SU2011_ER_01
 @Gram:SerEstar : 15
 @Gram:SerEstar:Estar : 1
 @Gram:SerEstar:Ser : 14
+@Gram:VFut : 1
+@Gram:VFut:Conjugado : 1
 @Prag : 4
 @Prag:MarcadoresDisc : 4
 @Prag:MarcadoresDisc:Causa : 1
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:MarcadoresDisc:Revision : 2
+R:Func : 1
+R:Func:Expresar : 1
+R:Func:Expresar:Sugerencias : 1
 R:Gram : 2
 R:Gram:Aux : 1
 R:Gram:Aux:Haber : 1

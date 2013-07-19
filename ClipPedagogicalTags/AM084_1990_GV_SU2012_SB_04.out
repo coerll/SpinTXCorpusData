@@ -54,11 +54,11 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:03 00:00:10 tt-1999 AM084_1990_GV_SU2012_SB_04 
 "<voy>"
-	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:03 00:00:10 tt-2000 AM084_1990_GV_SU2012_SB_04 
+	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:03 00:00:10 tt-2000 AM084_1990_GV_SU2012_SB_04 ID:24 R:Gram:VFut:Perifrasis:26 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:03 00:00:10 tt-2001 AM084_1990_GV_SU2012_SB_04 @Gram:Prep 
 "<poder>"
-	"poder" Verb VLinf VMinf lang:es 00:00:03 00:00:10 tt-2002 AM084_1990_GV_SU2012_SB_04 
+	"poder" Verb VLinf VMinf lang:es 00:00:03 00:00:10 tt-2002 AM084_1990_GV_SU2012_SB_04 ID:26 
 "<,>"
 	"," Punctuation CM lang:es 00:00:03 00:00:10 tt-2003 AM084_1990_GV_SU2012_SB_04 
 "<pero>"
@@ -110,7 +110,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:11 00:00:18 tt-2025 AM084_1990_GV_SU2012_SB_04 @Gram:Prep 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:11 00:00:18 tt-2026 AM084_1990_GV_SU2012_SB_04 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:11 00:00:18 tt-2026 AM084_1990_GV_SU2012_SB_04 @Gram:Det:Art 
 "<Valle>"
 	"Valle" Noun NP Singular lang:es 00:00:11 00:00:18 tt-2027 AM084_1990_GV_SU2012_SB_04 
 "<o>"
@@ -139,7 +139,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:18 00:00:21 tt-2039 AM084_1990_GV_SU2012_SB_04 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:18 00:00:21 tt-2040 AM084_1990_GV_SU2012_SB_04 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:18 00:00:21 tt-2040 AM084_1990_GV_SU2012_SB_04 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:00:18 00:00:21 tt-2041 AM084_1990_GV_SU2012_SB_04 
 "<$?>"
@@ -162,7 +162,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:21 00:00:27 tt-2049 AM084_1990_GV_SU2012_SB_04 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:21 00:00:27 tt-2050 AM084_1990_GV_SU2012_SB_04 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:21 00:00:27 tt-2050 AM084_1990_GV_SU2012_SB_04 @Gram:Det:Art 
 "<primeros>"
 	"primero" Adjective ORD Plural lang:es 00:00:21 00:00:27 tt-2051 AM084_1990_GV_SU2012_SB_04 
 "<dos>"
@@ -256,7 +256,7 @@
 	"." Punctuation FS lang:es 00:00:32 00:00:37 tt-2093 AM084_1990_GV_SU2012_SB_04 
 
 "<Los>"
-	"el" Determiner ART Plural lang:es 00:00:32 00:00:37 tt-2094 AM084_1990_GV_SU2012_SB_04 @Gram:Pron:Objeto 
+	"el" Determiner ART Plural Masc lang:es 00:00:32 00:00:37 tt-2094 AM084_1990_GV_SU2012_SB_04 @Gram:Pron:Objeto 
 "<sientes>"
 	"sentar|sentir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:32 00:00:37 tt-2095 AM084_1990_GV_SU2012_SB_04 
 "<porque>"
@@ -290,7 +290,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:37 00:00:44 tt-2109 AM084_1990_GV_SU2012_SB_04 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:37 00:00:44 tt-2110 AM084_1990_GV_SU2012_SB_04 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:37 00:00:44 tt-2110 AM084_1990_GV_SU2012_SB_04 @Gram:Det:Art 
 "<pasillos>"
 	"pasillo|paso" Noun NC Plural lang:es 00:00:37 00:00:44 tt-2111 AM084_1990_GV_SU2012_SB_04 
 "<estaban>"
@@ -332,7 +332,7 @@
 	"." Punctuation FS lang:es 00:00:44 00:00:50 tt-2128 AM084_1990_GV_SU2012_SB_04 
 
 "<La>"
-	"el" Determiner ART Singular lang:es 00:00:44 00:00:50 tt-2129 AM084_1990_GV_SU2012_SB_04 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:44 00:00:50 tt-2129 AM084_1990_GV_SU2012_SB_04 @Gram:Det:Art 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:44 00:00:50 tt-2130 AM084_1990_GV_SU2012_SB_04 
 "<es>"
@@ -345,7 +345,7 @@
 "<Todos>"
 	"todo" Determiner QU lang:es 00:00:44 00:00:50 tt-2134 AM084_1990_GV_SU2012_SB_04 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:44 00:00:50 tt-2135 AM084_1990_GV_SU2012_SB_04 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:44 00:00:50 tt-2135 AM084_1990_GV_SU2012_SB_04 @Gram:Det:Art 
 "<maestros>"
 	"maestro" Plural Singular Noun NC lang:es 00:00:44 00:00:50 tt-2136 AM084_1990_GV_SU2012_SB_04 
 "<que>"
@@ -390,7 +390,7 @@
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:50 00:00:55 tt-2156 AM084_1990_GV_SU2012_SB_04 @Gram:SerEstar:Ser 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:50 00:00:55 tt-2157 AM084_1990_GV_SU2012_SB_04 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:50 00:00:55 tt-2157 AM084_1990_GV_SU2012_SB_04 @Gram:Det:Art 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:50 00:00:55 tt-2158 AM084_1990_GV_SU2012_SB_04 
 "<$.>"
@@ -459,7 +459,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:55 00:01:02 tt-2188 AM084_1990_GV_SU2012_SB_04 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:55 00:01:02 tt-2189 AM084_1990_GV_SU2012_SB_04 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:55 00:01:02 tt-2189 AM084_1990_GV_SU2012_SB_04 @Gram:Det:Art 
 "<Valle>"
 	"Valle" Noun NP Singular lang:es 00:01:03 00:01:10 tt-2190 AM084_1990_GV_SU2012_SB_04 
 "<pues>"
@@ -576,7 +576,7 @@
 	"mall" Noun NN lang:en 00:01:19 00:01:25 tt-2243 AM084_1990_GV_SU2012_SB_04 
 </lang>
 "<miré>"
-	"mirar" Verb VLfin Fut Indi Sing 1st lang:es 00:01:19 00:01:25 tt-2244 AM084_1990_GV_SU2012_SB_04 
+	"mirar" Verb VLfin Fut Indi Sing 1st lang:es 00:01:19 00:01:25 tt-2244 AM084_1990_GV_SU2012_SB_04 @Gram:VFut:Conjugado 
 "<más>"
 	"más" Adverb ADV lang:es 00:01:19 00:01:25 tt-2245 AM084_1990_GV_SU2012_SB_04 
 "<gente>"

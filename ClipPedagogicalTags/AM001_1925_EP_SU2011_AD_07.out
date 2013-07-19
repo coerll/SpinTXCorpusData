@@ -7,7 +7,7 @@
 "<fue>"
 	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-1923 AM001_1925_EP_SU2011_AD_07 @Gram:SerEstar:Ser 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-1924 AM001_1925_EP_SU2011_AD_07 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:00 00:00:07 tt-1924 AM001_1925_EP_SU2011_AD_07 @Gram:Det:Art 
 "<momento>"
 	"momento" Noun NC Singular lang:es 00:00:00 00:00:07 tt-1925 AM001_1925_EP_SU2011_AD_07 
 "<más>"
@@ -91,7 +91,7 @@
 "<Era>"
 	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:17 00:00:24 tt-1960 AM001_1925_EP_SU2011_AD_07 @Gram:Imperf @Gram:SerEstar:Ser 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:17 00:00:24 tt-1961 AM001_1925_EP_SU2011_AD_07 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:17 00:00:24 tt-1961 AM001_1925_EP_SU2011_AD_07 @Gram:Det:Art 
 <lang code="en">
 "<baby>"
 	"baby" Noun NN lang:en 00:00:17 00:00:24 tt-1962 AM001_1925_EP_SU2011_AD_07 
@@ -125,7 +125,7 @@
 "<hermano>"
 	"hermano" Noun NC Singular lang:es 00:00:17 00:00:24 tt-1975 AM001_1925_EP_SU2011_AD_07 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:17 00:00:24 tt-1976 AM001_1925_EP_SU2011_AD_07 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:17 00:00:24 tt-1976 AM001_1925_EP_SU2011_AD_07 @Gram:Det:Art 
 "<mayor>"
 	"grande" Adjective ADJ Singular lang:es 00:00:17 00:00:24 tt-1977 AM001_1925_EP_SU2011_AD_07 
 "<,>"
@@ -237,7 +237,7 @@
 "<haga>"
 	"hacer" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:39 00:00:45 tt-2029 AM001_1925_EP_SU2011_AD_07 @Gram:MSub:Pres 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:45 00:00:52 tt-2030 AM001_1925_EP_SU2011_AD_07 @Gram:Pron:Objeto 
+	"el" Determiner ART Singular Masc lang:es 00:00:45 00:00:52 tt-2030 AM001_1925_EP_SU2011_AD_07 @Gram:Pron:Objeto 
 "<jale>"
 	"UNK" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:45 00:00:52 tt-2031 AM001_1925_EP_SU2011_AD_07 @Gram:MSub:Pres 
 "<,>"
@@ -277,11 +277,11 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:45 00:00:52 tt-2048 AM001_1925_EP_SU2011_AD_07 @Gram:Pron:Objeto 
 "<van>"
-	"ir" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:45 00:00:52 tt-2049 AM001_1925_EP_SU2011_AD_07 
+	"ir" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:45 00:00:52 tt-2049 AM001_1925_EP_SU2011_AD_07 ID:129 R:Gram:VFut:Perifrasis:131 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:45 00:00:52 tt-2050 AM001_1925_EP_SU2011_AD_07 @Gram:Prep 
 "<enfermar>"
-	"enfermar" Verb VLinf Infinitive lang:es 00:00:45 00:00:52 tt-2051 AM001_1925_EP_SU2011_AD_07 
+	"enfermar" Verb VLinf Infinitive lang:es 00:00:45 00:00:52 tt-2051 AM001_1925_EP_SU2011_AD_07 ID:131 
 "<ustedes>"
 	"ustedes" Pronoun PPX Plural lang:es 00:00:45 00:00:52 tt-2052 AM001_1925_EP_SU2011_AD_07 
 "<,>"
@@ -299,7 +299,7 @@
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:53 00:01:00 tt-2059 AM001_1925_EP_SU2011_AD_07 @Gram:SerEstar:Ser 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:53 00:01:00 tt-2060 AM001_1925_EP_SU2011_AD_07 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:53 00:01:00 tt-2060 AM001_1925_EP_SU2011_AD_07 @Gram:Det:Art 
 <lang code="en">
 "<baby>"
 	"baby" Noun NN lang:en 00:00:53 00:01:00 tt-2061 AM001_1925_EP_SU2011_AD_07 
@@ -315,11 +315,11 @@
 "<lo>"
 	"él" Pronoun PPC Singular lang:es 00:00:53 00:01:00 tt-2066 AM001_1925_EP_SU2011_AD_07 @Gram:Pron:Objeto 
 "<van>"
-	"ir" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:53 00:01:00 tt-2067 AM001_1925_EP_SU2011_AD_07 
+	"ir" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:53 00:01:00 tt-2067 AM001_1925_EP_SU2011_AD_07 ID:147 R:Gram:VFut:Perifrasis:149 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:53 00:01:00 tt-2068 AM001_1925_EP_SU2011_AD_07 @Gram:Prep 
 "<enfermar>"
-	"enfermar" Verb VLinf Infinitive lang:es 00:00:53 00:01:00 tt-2069 AM001_1925_EP_SU2011_AD_07 
+	"enfermar" Verb VLinf Infinitive lang:es 00:00:53 00:01:00 tt-2069 AM001_1925_EP_SU2011_AD_07 ID:149 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:53 00:01:00 tt-2070 AM001_1925_EP_SU2011_AD_07 
 
@@ -347,7 +347,7 @@
 "<hacer>"
 	"hacer" Verb VLinf Infinitive lang:es 00:00:53 00:01:00 tt-2081 AM001_1925_EP_SU2011_AD_07 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:53 00:01:00 tt-2082 AM001_1925_EP_SU2011_AD_07 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:53 00:01:00 tt-2082 AM001_1925_EP_SU2011_AD_07 @Gram:Det:Art 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:01:00 00:01:07 tt-2083 AM001_1925_EP_SU2011_AD_07 
 "<,>"

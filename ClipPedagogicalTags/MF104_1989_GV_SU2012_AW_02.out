@@ -28,7 +28,7 @@
 "<De>"
 	"de" Preposition PREP lang:es 00:00:04 00:00:05 tt-498 MF104_1989_GV_SU2012_AW_02 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:04 00:00:05 tt-499 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:04 00:00:05 tt-499 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
 "<universidad>"
 	"universidad" Noun NC Singular lang:es 00:00:04 00:00:05 tt-500 MF104_1989_GV_SU2012_AW_02 
 "<$?>"
@@ -41,7 +41,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:05 00:00:10 tt-503 MF104_1989_GV_SU2012_AW_02 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:05 00:00:10 tt-504 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:05 00:00:10 tt-504 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
 "<primaria>"
 	"primario" Adjective ADJ Singular lang:es 00:00:05 00:00:10 tt-505 MF104_1989_GV_SU2012_AW_02 
 "<,>"
@@ -69,7 +69,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:10 00:00:17 tt-515 MF104_1989_GV_SU2012_AW_02 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:10 00:00:17 tt-516 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:10 00:00:17 tt-516 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
 "<primaria>"
 	"primario" Adjective ADJ Singular lang:es 00:00:10 00:00:17 tt-517 MF104_1989_GV_SU2012_AW_02 
 "<me>"
@@ -91,7 +91,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:10 00:00:17 tt-526 MF104_1989_GV_SU2012_AW_02 @Gram:Pron:Objeto 
 "<descalabré>"
-	"UNK" Verb VLfin Fut Indi Sing 1st lang:es 00:00:10 00:00:17 tt-527 MF104_1989_GV_SU2012_AW_02 
+	"UNK" Verb VLfin Fut Indi Sing 1st lang:es 00:00:10 00:00:17 tt-527 MF104_1989_GV_SU2012_AW_02 @Gram:VFut:Conjugado 
 "<,>"
 	"," Punctuation CM lang:es 00:00:10 00:00:17 tt-528 MF104_1989_GV_SU2012_AW_02 
 "<perdón>"
@@ -99,7 +99,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:21 00:00:23 tt-530 MF104_1989_GV_SU2012_AW_02 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:21 00:00:23 tt-531 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:21 00:00:23 tt-531 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
 "<cabeza>"
 	"cabeza" Noun NC Singular lang:es 00:00:21 00:00:23 tt-532 MF104_1989_GV_SU2012_AW_02 
 "<$.>"
@@ -170,11 +170,11 @@
 "<nos>"
 	"nosotros" Pronoun PPX Plural lang:es 00:00:39 00:00:46 tt-562 MF104_1989_GV_SU2012_AW_02 @Gram:Pron:Objeto 
 "<íbamos>"
-	"ir" Verb VLfin Imp Indi Plural 1st lang:es 00:00:39 00:00:46 tt-563 MF104_1989_GV_SU2012_AW_02 @Gram:Imperf 
+	"ir" Verb VLfin Imp Indi Plural 1st lang:es 00:00:39 00:00:46 tt-563 MF104_1989_GV_SU2012_AW_02 @Gram:Imperf ID:77 R:Gram:VFut:Perifrasis:79 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:39 00:00:46 tt-564 MF104_1989_GV_SU2012_AW_02 @Gram:Prep 
 "<cambiar>"
-	"cambiar" Verb VLinf Infinitive lang:es 00:00:39 00:00:46 tt-565 MF104_1989_GV_SU2012_AW_02 
+	"cambiar" Verb VLinf Infinitive lang:es 00:00:39 00:00:46 tt-565 MF104_1989_GV_SU2012_AW_02 ID:79 
 "<y>"
 	"y" Conjunction CC lang:es 00:00:39 00:00:46 tt-566 MF104_1989_GV_SU2012_AW_02 
 "<todo>"
@@ -186,11 +186,11 @@
 "<ver>"
 	"ver" Verb VLinf Infinitive lang:es 00:00:39 00:00:46 tt-570 MF104_1989_GV_SU2012_AW_02 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:39 00:00:46 tt-571 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:39 00:00:46 tt-571 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:39 00:00:46 tt-572 MF104_1989_GV_SU2012_AW_02 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:39 00:00:46 tt-573 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:39 00:00:46 tt-573 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
 "<clima>"
 	"clima" Noun NC Singular lang:es 00:00:39 00:00:46 tt-574 MF104_1989_GV_SU2012_AW_02 
 "<estaba>"
@@ -216,7 +216,7 @@
 "<aguantaba>"
 	"aguantar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:46 00:00:53 tt-585 MF104_1989_GV_SU2012_AW_02 @Gram:Imperf 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:46 00:00:53 tt-586 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:46 00:00:53 tt-586 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
 "<aire>"
 	"aire" Noun NC Singular lang:es 00:00:46 00:00:53 tt-587 MF104_1989_GV_SU2012_AW_02 
 "<para>"
@@ -251,7 +251,7 @@
 "<por>"
 	"por" Preposition PREP lang:es 00:00:53 00:01:00 tt-602 MF104_1989_GV_SU2012_AW_02 @Gram:Prep:Por 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:53 00:01:00 tt-603 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:53 00:01:00 tt-603 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
 "<cambio>"
 	"cambio" Noun NC Singular lang:es 00:00:53 00:01:00 tt-604 MF104_1989_GV_SU2012_AW_02 
 "<de>"
@@ -289,7 +289,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:01:02 00:01:09 tt-621 MF104_1989_GV_SU2012_AW_02 @Gram:Prep 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:02 00:01:09 tt-622 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:02 00:01:09 tt-622 MF104_1989_GV_SU2012_AW_02 @Gram:Det:Art 
 "<piso>"
 	"piso" Noun NC Singular lang:es 00:01:02 00:01:09 tt-623 MF104_1989_GV_SU2012_AW_02 
 "<$.>"

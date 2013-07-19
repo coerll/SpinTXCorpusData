@@ -70,7 +70,7 @@
 "<todo>"
 	"todo" Determiner QU lang:es 00:00:09 00:00:16 tt-7252 OM022_1963_CT_SU2011_VA_12 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:09 00:00:16 tt-7253 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:09 00:00:16 tt-7253 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
 "<tiempo>"
 	"tiempo" Noun NC Singular lang:es 00:00:09 00:00:16 tt-7254 OM022_1963_CT_SU2011_VA_12 
 "<están>"
@@ -106,7 +106,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:17 00:00:24 tt-7270 OM022_1963_CT_SU2011_VA_12 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:17 00:00:24 tt-7271 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:17 00:00:24 tt-7271 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:17 00:00:24 tt-7272 OM022_1963_CT_SU2011_VA_12 
 "<más>"
@@ -163,7 +163,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:32 00:00:38 tt-7297 OM022_1963_CT_SU2011_VA_12 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:32 00:00:38 tt-7298 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:32 00:00:38 tt-7298 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
 <lang code="en">
 "<cowboy>"
 	"cowboy" Noun NN lang:en 00:00:32 00:00:38 tt-7299 OM022_1963_CT_SU2011_VA_12 
@@ -201,7 +201,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:38 00:00:44 tt-7313 OM022_1963_CT_SU2011_VA_12 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:38 00:00:44 tt-7314 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:38 00:00:44 tt-7314 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:38 00:00:44 tt-7315 OM022_1963_CT_SU2011_VA_12 
 "<es>"
@@ -238,7 +238,7 @@
 "<que>"
 	"que" Conjunction CSUBF lang:es 00:00:44 00:00:49 tt-7331 OM022_1963_CT_SU2011_VA_12 
 "<entremos>"
-	"entrar" Verb VLfin Fut Indi Plural 1st lang:es 00:00:44 00:00:49 tt-7332 OM022_1963_CT_SU2011_VA_12 
+	"entrar" Verb VLfin Fut Indi Plural 1st lang:es 00:00:44 00:00:49 tt-7332 OM022_1963_CT_SU2011_VA_12 @Gram:VFut:Conjugado 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:44 00:00:49 tt-7333 OM022_1963_CT_SU2011_VA_12 @Gram:Prep 
 "<un>"
@@ -302,7 +302,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:49 00:00:54 tt-7360 OM022_1963_CT_SU2011_VA_12 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:49 00:00:54 tt-7361 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:49 00:00:54 tt-7361 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
 "<calle>"
 	"calle" Noun NC Singular lang:es 00:00:49 00:00:54 tt-7362 OM022_1963_CT_SU2011_VA_12 
 "<,>"
@@ -341,7 +341,7 @@
 	"." Punctuation FS lang:es 00:00:54 00:00:58 tt-7379 OM022_1963_CT_SU2011_VA_12 
 
 "<El>"
-	"el" Determiner ART Singular lang:es 00:00:54 00:00:58 tt-7380 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:54 00:00:58 tt-7380 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
 "<tejano>"
 	"UNK" Noun NC Singular lang:es 00:00:54 00:00:58 tt-7381 OM022_1963_CT_SU2011_VA_12 
 "<saluda>"
@@ -540,13 +540,13 @@
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:22 00:01:27 tt-7476 OM022_1963_CT_SU2011_VA_12 @Gram:SerEstar:Ser 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:22 00:01:27 tt-7477 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:22 00:01:27 tt-7477 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
 "<razón>"
 	"razón" Noun NC Singular lang:es 00:01:22 00:01:27 tt-7478 OM022_1963_CT_SU2011_VA_12 
 "<por>"
 	"por" Preposition PREP lang:es 00:01:27 00:01:34 tt-7479 OM022_1963_CT_SU2011_VA_12 @Gram:Prep:Por 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:27 00:01:34 tt-7480 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:27 00:01:34 tt-7480 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:27 00:01:34 tt-7481 OM022_1963_CT_SU2011_VA_12 
 "<vivimos>"
@@ -569,7 +569,7 @@
 "<Porque>"
 	"porque" Conjunction CSUBX lang:es 00:01:27 00:01:34 tt-7489 OM022_1963_CT_SU2011_VA_12 @Prag:MarcadoresDisc:Causa 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:27 00:01:34 tt-7490 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:27 00:01:34 tt-7490 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:01:27 00:01:34 tt-7491 OM022_1963_CT_SU2011_VA_12 
 "<es>"
@@ -585,7 +585,7 @@
 "<por>"
 	"por" Preposition PREP lang:es 00:01:27 00:01:34 tt-7497 OM022_1963_CT_SU2011_VA_12 @Gram:Prep:Por 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:27 00:01:34 tt-7498 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:27 00:01:34 tt-7498 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
 "<calor>"
 	"calor" Noun NC Singular lang:es 00:01:36 00:01:40 tt-7499 OM022_1963_CT_SU2011_VA_12 
 "<,>"
@@ -677,7 +677,7 @@
 "<todo>"
 	"todo" Determiner QU lang:es 00:01:47 00:01:54 tt-7543 OM022_1963_CT_SU2011_VA_12 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:47 00:01:54 tt-7544 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:47 00:01:54 tt-7544 OM022_1963_CT_SU2011_VA_12 @Gram:Det:Art 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:47 00:01:54 tt-7545 OM022_1963_CT_SU2011_VA_12 
 "<se>"

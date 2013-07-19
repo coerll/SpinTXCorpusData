@@ -14,7 +14,7 @@
 "<te>"
 	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:04 tt-970 AF004_1991_EP_SU2011_AD_01 @Gram:Pron:Objeto 
 "<recordarán>"
-	"recordar" Verb VLfin Fut Indi Plural 3rd lang:es 00:00:00 00:00:04 tt-971 AF004_1991_EP_SU2011_AD_01 
+	"recordar" Verb VLfin Fut Indi Plural 3rd lang:es 00:00:00 00:00:04 tt-971 AF004_1991_EP_SU2011_AD_01 @Gram:VFut:Conjugado 
 "<tus>"
 	"UNK" Noun NC Plural lang:es 00:00:00 00:00:04 tt-972 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Pos 
 "<compañeros>"
@@ -53,7 +53,7 @@
 	"so" Adverb RB lang:en 00:00:04 00:00:11 tt-985 AF004_1991_EP_SU2011_AD_01 
 </lang>
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:04 00:00:11 tt-986 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:04 00:00:11 tt-986 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:04 00:00:11 tt-987 AF004_1991_EP_SU2011_AD_01 
 "<tímida>"
@@ -170,7 +170,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:27 00:00:33 tt-1031 AF004_1991_EP_SU2011_AD_01 
 "<las>"
-	"el" Determiner ART Plural lang:es 00:00:27 00:00:33 tt-1032 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:00:27 00:00:33 tt-1032 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art 
 "<porristas>"
 	"UNK" Noun NC Plural lang:es 00:00:27 00:00:33 tt-1033 AF004_1991_EP_SU2011_AD_01 
 "<tienen>"
@@ -202,7 +202,7 @@
 "<era>"
 	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:27 00:00:33 tt-1046 AF004_1991_EP_SU2011_AD_01 @Gram:Imperf @Gram:SerEstar:Ser 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:27 00:00:33 tt-1047 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:27 00:00:33 tt-1047 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:27 00:00:33 tt-1048 AF004_1991_EP_SU2011_AD_01 
 "<tímida>"

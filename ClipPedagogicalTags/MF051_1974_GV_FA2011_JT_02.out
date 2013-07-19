@@ -24,11 +24,11 @@
 "<te>"
 	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-520 MF051_1974_GV_FA2011_JT_02 @Gram:Pron:Objeto 
 "<voy>"
-	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:00 00:00:07 tt-521 MF051_1974_GV_FA2011_JT_02 
+	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:00 00:00:07 tt-521 MF051_1974_GV_FA2011_JT_02 ID:11 R:Gram:VFut:Perifrasis:13 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:00 00:00:07 tt-522 MF051_1974_GV_FA2011_JT_02 @Gram:Prep 
 "<preguntar>"
-	"preguntar" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-523 MF051_1974_GV_FA2011_JT_02 
+	"preguntar" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-523 MF051_1974_GV_FA2011_JT_02 ID:13 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:00 00:00:07 tt-524 MF051_1974_GV_FA2011_JT_02 
 
@@ -87,7 +87,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:10 00:00:14 tt-549 MF051_1974_GV_FA2011_JT_02 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:10 00:00:14 tt-550 MF051_1974_GV_FA2011_JT_02 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:10 00:00:14 tt-550 MF051_1974_GV_FA2011_JT_02 @Gram:Det:Art 
 "<Estados>"
 	"Estados" Noun NP Plural lang:es 00:00:10 00:00:14 tt-551 MF051_1974_GV_FA2011_JT_02 ID:41 R:Vocab:Entities:Geo:42 
 "<Unidos>"
@@ -119,7 +119,7 @@
 "<tenía>"
 	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:14 00:00:19 tt-565 MF051_1974_GV_FA2011_JT_02 @Gram:Imperf 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:14 00:00:19 tt-566 MF051_1974_GV_FA2011_JT_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:14 00:00:19 tt-566 MF051_1974_GV_FA2011_JT_02 @Gram:Det:Art 
 "<edad>"
 	"edad" Noun NC Singular lang:es 00:00:14 00:00:19 tt-567 MF051_1974_GV_FA2011_JT_02 
 "<de>"
@@ -133,7 +133,7 @@
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:00:14 00:00:19 tt-572 MF051_1974_GV_FA2011_JT_02 @Gram:Pron:Sujeto 
 "<emigré>"
-	"emigrar" Verb VLfin Fut Indi Sing 1st lang:es 00:00:14 00:00:19 tt-573 MF051_1974_GV_FA2011_JT_02 
+	"emigrar" Verb VLfin Fut Indi Sing 1st lang:es 00:00:14 00:00:19 tt-573 MF051_1974_GV_FA2011_JT_02 @Gram:VFut:Conjugado 
 "<aquí>"
 	"aquí" Adverb ADV lang:es 00:00:14 00:00:19 tt-574 MF051_1974_GV_FA2011_JT_02 
 "<a>"

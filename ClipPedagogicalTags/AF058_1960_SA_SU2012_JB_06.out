@@ -9,7 +9,7 @@
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:05 tt-3113 AF058_1960_SA_SU2012_JB_06 @Gram:SerEstar:Ser 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:00 00:00:05 tt-3114 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:00 00:00:05 tt-3114 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
 "<importancia>"
 	"importancia" Noun NC Singular lang:es 00:00:00 00:00:05 tt-3115 AF058_1960_SA_SU2012_JB_06 
 "<de>"
@@ -75,7 +75,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:13 00:00:20 tt-3144 AF058_1960_SA_SU2012_JB_06 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:13 00:00:20 tt-3145 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:13 00:00:20 tt-3145 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:13 00:00:20 tt-3146 AF058_1960_SA_SU2012_JB_06 
 "<este>"
@@ -143,7 +143,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:22 00:00:29 tt-3177 AF058_1960_SA_SU2012_JB_06 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:22 00:00:29 tt-3178 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:22 00:00:29 tt-3178 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
 "<suegros>"
 	"suegro" Noun NC Plural lang:es 00:00:22 00:00:29 tt-3179 AF058_1960_SA_SU2012_JB_06 
 "<,>"
@@ -229,7 +229,7 @@
 "<enseñaron>"
 	"enseñar" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:36 00:00:43 tt-3219 AF058_1960_SA_SU2012_JB_06 @Gram:Indefinido 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:36 00:00:43 tt-3220 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:36 00:00:43 tt-3220 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:36 00:00:43 tt-3221 AF058_1960_SA_SU2012_JB_06 
 "<$.>"
@@ -395,7 +395,7 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:01:02 00:01:07 tt-3296 AF058_1960_SA_SU2012_JB_06 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:02 00:01:07 tt-3297 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:02 00:01:07 tt-3297 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:02 00:01:07 tt-3298 AF058_1960_SA_SU2012_JB_06 
 "<lo>"
@@ -460,7 +460,7 @@
 "<como>"
 	"como" Conjunction CSUBX lang:es 00:01:17 00:01:22 tt-3328 AF058_1960_SA_SU2012_JB_06 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:17 00:01:22 tt-3329 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:17 00:01:22 tt-3329 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
 "<mundo>"
 	"mundo" Noun NC Singular lang:es 00:01:17 00:01:22 tt-3330 AF058_1960_SA_SU2012_JB_06 
 "<va>"
@@ -484,7 +484,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:01:22 00:01:29 tt-3340 AF058_1960_SA_SU2012_JB_06 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:01:22 00:01:29 tt-3341 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:01:22 00:01:29 tt-3341 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
 "<Estados>"
 	"Estados" Noun NP Plural lang:es 00:01:22 00:01:29 tt-3342 AF058_1960_SA_SU2012_JB_06 ID:233 R:Vocab:Entities:Geo:234 
 "<Unidos>"
@@ -498,11 +498,11 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:22 00:01:29 tt-3347 AF058_1960_SA_SU2012_JB_06 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:22 00:01:29 tt-3348 AF058_1960_SA_SU2012_JB_06 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:22 00:01:29 tt-3348 AF058_1960_SA_SU2012_JB_06 @Gram:SerEstar:Ser ID:239 R:Func:Expresar:Sugerencias:246 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:22 00:01:29 tt-3349 AF058_1960_SA_SU2012_JB_06 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:22 00:01:29 tt-3350 AF058_1960_SA_SU2012_JB_06 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:22 00:01:29 tt-3350 AF058_1960_SA_SU2012_JB_06 @Gram:SerEstar:Ser ID:241 R:Func:Expresar:Sugerencias:246 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:01:22 00:01:29 tt-3351 AF058_1960_SA_SU2012_JB_06 
 "<,>"
@@ -512,7 +512,7 @@
 "<importante>"
 	"importante" Adjective ADJ Singular lang:es 00:01:22 00:01:29 tt-3354 AF058_1960_SA_SU2012_JB_06 
 "<saberlo>"
-	"saber" Verb VLinf Pres Indi Sing 1st lang:es 00:01:22 00:01:29 tt-3355 AF058_1960_SA_SU2012_JB_06 
+	"saber" Verb VLinf Pres Indi Sing 1st lang:es 00:01:22 00:01:29 tt-3355 AF058_1960_SA_SU2012_JB_06 ID:246 
 "<,>"
 	"," Punctuation CM lang:es 00:01:22 00:01:29 tt-3356 AF058_1960_SA_SU2012_JB_06 
 "<claro>"
@@ -548,7 +548,7 @@
 "<saben>"
 	"saber" Verb VLfin Pres Indi Plural 3rd lang:es 00:01:30 00:01:36 tt-3372 AF058_1960_SA_SU2012_JB_06 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:30 00:01:36 tt-3373 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:30 00:01:36 tt-3373 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:01:30 00:01:36 tt-3374 AF058_1960_SA_SU2012_JB_06 
 "<$.>"
@@ -567,13 +567,13 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:36 00:01:40 tt-3381 AF058_1960_SA_SU2012_JB_06 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:36 00:01:40 tt-3382 AF058_1960_SA_SU2012_JB_06 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:36 00:01:40 tt-3382 AF058_1960_SA_SU2012_JB_06 @Gram:SerEstar:Ser ID:273 R:Func:Expresar:Sugerencias:276 
 "<importante>"
 	"importante" Adjective ADJ Singular lang:es 00:01:36 00:01:40 tt-3383 AF058_1960_SA_SU2012_JB_06 
 "<para>"
 	"para" Preposition PREP lang:es 00:01:36 00:01:40 tt-3384 AF058_1960_SA_SU2012_JB_06 @Gram:Prep:Para 
 "<platicar>"
-	"platicar" Verb VLinf Infinitive lang:es 00:01:36 00:01:40 tt-3385 AF058_1960_SA_SU2012_JB_06 
+	"platicar" Verb VLinf Infinitive lang:es 00:01:36 00:01:40 tt-3385 AF058_1960_SA_SU2012_JB_06 ID:276 
 "<,>"
 	"," Punctuation CM lang:es 00:01:36 00:01:40 tt-3386 AF058_1960_SA_SU2012_JB_06 
 "<para>"
@@ -597,7 +597,7 @@
 "<hablar>"
 	"hablar" Verb VLinf Infinitive lang:es 00:01:40 00:01:44 tt-3396 AF058_1960_SA_SU2012_JB_06 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:40 00:01:44 tt-3397 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:40 00:01:44 tt-3397 AF058_1960_SA_SU2012_JB_06 @Gram:Det:Art 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:01:40 00:01:44 tt-3398 AF058_1960_SA_SU2012_JB_06 
 "<$.>"

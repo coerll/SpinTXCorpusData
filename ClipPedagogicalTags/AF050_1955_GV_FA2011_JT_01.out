@@ -71,7 +71,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:06 00:00:13 tt-85 AF050_1955_GV_FA2011_JT_01 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:06 00:00:13 tt-86 AF050_1955_GV_FA2011_JT_01 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:06 00:00:13 tt-86 AF050_1955_GV_FA2011_JT_01 @Gram:Det:Art 
 "<secundaria>"
 	"secundario" Adjective ADJ Singular lang:es 00:00:06 00:00:13 tt-87 AF050_1955_GV_FA2011_JT_01 
 "<,>"
@@ -364,7 +364,7 @@
 "<todos>"
 	"todo" Determiner QU lang:es 00:01:13 00:01:20 tt-218 AF050_1955_GV_FA2011_JT_01 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:01:13 00:01:20 tt-219 AF050_1955_GV_FA2011_JT_01 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:01:13 00:01:20 tt-219 AF050_1955_GV_FA2011_JT_01 @Gram:Det:Art 
 "<grados>"
 	"grado" Noun NMEA Plural lang:es 00:01:13 00:01:20 tt-220 AF050_1955_GV_FA2011_JT_01 
 "<hasta>"
@@ -382,7 +382,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:01:13 00:01:20 tt-227 AF050_1955_GV_FA2011_JT_01 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:13 00:01:20 tt-228 AF050_1955_GV_FA2011_JT_01 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:13 00:01:20 tt-228 AF050_1955_GV_FA2011_JT_01 @Gram:Det:Art 
 "<secundaria>"
 	"secundario" Adjective ADJ Singular lang:es 00:01:13 00:01:20 tt-229 AF050_1955_GV_FA2011_JT_01 
 "<$.>"
@@ -439,11 +439,11 @@
 "<ya>"
 	"ya" Adverb ADV lang:es 00:01:23 00:01:29 tt-255 AF050_1955_GV_FA2011_JT_01 
 "<voy>"
-	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:01:23 00:01:29 tt-256 AF050_1955_GV_FA2011_JT_01 
+	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:01:23 00:01:29 tt-256 AF050_1955_GV_FA2011_JT_01 ID:201 R:Gram:VFut:Perifrasis:203 
 "<a>"
 	"a" Preposition PREP lang:es 00:01:23 00:01:29 tt-257 AF050_1955_GV_FA2011_JT_01 @Gram:Prep 
 "<ser>"
-	"ser" Verb VLinf VSinf Infinitive lang:es 00:01:23 00:01:29 tt-258 AF050_1955_GV_FA2011_JT_01 @Gram:SerEstar:Ser 
+	"ser" Verb VLinf VSinf Infinitive lang:es 00:01:23 00:01:29 tt-258 AF050_1955_GV_FA2011_JT_01 @Gram:SerEstar:Ser ID:203 
 "<abuela>"
 	"abuelo" Noun NC Singular lang:es 00:01:23 00:01:29 tt-259 AF050_1955_GV_FA2011_JT_01 
 "<$.>"

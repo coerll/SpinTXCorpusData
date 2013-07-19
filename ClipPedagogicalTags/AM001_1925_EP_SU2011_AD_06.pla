@@ -1,5 +1,5 @@
 AM001_1925_EP_SU2011_AD_06
-@Gram : 121
+@Gram : 122
 @Gram:Det : 11
 @Gram:Det:Art : 6
 @Gram:Det:Demo : 1
@@ -20,14 +20,18 @@ AM001_1925_EP_SU2011_AD_06
 @Gram:SerEstar : 5
 @Gram:SerEstar:Estar : 2
 @Gram:SerEstar:Ser : 3
+@Gram:VFut : 1
+@Gram:VFut:Conjugado : 1
 @Prag : 7
 @Prag:MarcadoresDisc : 7
 @Prag:MarcadoresDisc:Causa : 2
 @Prag:MarcadoresDisc:Revision : 5
-R:Gram : 2
+R:Gram : 4
 R:Gram:Aux : 1
 R:Gram:Aux:Haber : 1
 R:Gram:PerfPerif : 1
+R:Gram:VFut : 2
+R:Gram:VFut:Perifrasis : 2
 R:Herit : 1
 R:Herit:Contacto : 1
 R:Herit:Contacto:Mixtas : 1

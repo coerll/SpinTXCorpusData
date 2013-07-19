@@ -78,11 +78,11 @@
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:08 00:00:15 tt-3016 MF016_1965_EP_SU2011_AD_10 
 "<voy>"
-	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:15 00:00:22 tt-3017 MF016_1965_EP_SU2011_AD_10 
+	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:15 00:00:22 tt-3017 MF016_1965_EP_SU2011_AD_10 ID:37 R:Gram:VFut:Perifrasis:39 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:15 00:00:22 tt-3018 MF016_1965_EP_SU2011_AD_10 @Gram:Prep 
 "<hacer>"
-	"hacer" Verb VLinf Infinitive lang:es 00:00:15 00:00:22 tt-3019 MF016_1965_EP_SU2011_AD_10 
+	"hacer" Verb VLinf Infinitive lang:es 00:00:15 00:00:22 tt-3019 MF016_1965_EP_SU2011_AD_10 ID:39 
 "<aquí>"
 	"aquí" Adverb ADV lang:es 00:00:15 00:00:22 tt-3020 MF016_1965_EP_SU2011_AD_10 
 "<$?>"
@@ -99,11 +99,11 @@
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:15 00:00:22 tt-3026 MF016_1965_EP_SU2011_AD_10 
 "<voy>"
-	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:15 00:00:22 tt-3027 MF016_1965_EP_SU2011_AD_10 
+	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:15 00:00:22 tt-3027 MF016_1965_EP_SU2011_AD_10 ID:47 R:Gram:VFut:Perifrasis:49 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:15 00:00:22 tt-3028 MF016_1965_EP_SU2011_AD_10 @Gram:Prep 
 "<hablar>"
-	"hablar" Verb VLinf Infinitive lang:es 00:00:15 00:00:22 tt-3029 MF016_1965_EP_SU2011_AD_10 
+	"hablar" Verb VLinf Infinitive lang:es 00:00:15 00:00:22 tt-3029 MF016_1965_EP_SU2011_AD_10 ID:49 
 "<,>"
 	"," Punctuation CM lang:es 00:00:15 00:00:22 tt-3030 MF016_1965_EP_SU2011_AD_10 
 "<no>"
@@ -121,11 +121,11 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:15 00:00:22 tt-3037 MF016_1965_EP_SU2011_AD_10 @Gram:Pron:Objeto 
 "<van>"
-	"ir" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:15 00:00:22 tt-3038 MF016_1965_EP_SU2011_AD_10 
+	"ir" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:15 00:00:22 tt-3038 MF016_1965_EP_SU2011_AD_10 ID:58 R:Gram:VFut:Perifrasis:60 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:15 00:00:22 tt-3039 MF016_1965_EP_SU2011_AD_10 @Gram:Prep 
 "<entender>"
-	"entender" Verb VLinf Infinitive lang:es 00:00:15 00:00:22 tt-3040 MF016_1965_EP_SU2011_AD_10 
+	"entender" Verb VLinf Infinitive lang:es 00:00:15 00:00:22 tt-3040 MF016_1965_EP_SU2011_AD_10 ID:60 
 "<o>"
 	"o" Other ALFS lang:es 00:00:15 00:00:22 tt-3041 MF016_1965_EP_SU2011_AD_10 
 "<...>"
@@ -139,7 +139,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:22 00:00:27 tt-3046 MF016_1965_EP_SU2011_AD_10 @Gram:Prep 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:22 00:00:27 tt-3047 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:22 00:00:27 tt-3047 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art 
 "<tiempo>"
 	"tiempo" Noun NC Singular lang:es 00:00:22 00:00:27 tt-3048 MF016_1965_EP_SU2011_AD_10 
 "<se>"
@@ -174,7 +174,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:27 00:00:34 tt-3062 MF016_1965_EP_SU2011_AD_10 @Gram:Prep 
 "<El>"
-	"el" Determiner ART Singular lang:es 00:00:27 00:00:34 tt-3063 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art ID:83 R:Vocab:Entities:Geo:84 
+	"el" Determiner ART Singular Masc lang:es 00:00:27 00:00:34 tt-3063 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art ID:83 R:Vocab:Entities:Geo:84 
 "<Paso>"
 	"paso" Noun NC Singular lang:es 00:00:27 00:00:34 tt-3064 MF016_1965_EP_SU2011_AD_10 ID:84 
 "<este>"
@@ -190,7 +190,7 @@
 "<para>"
 	"para" Preposition PREP lang:es 00:00:27 00:00:34 tt-3070 MF016_1965_EP_SU2011_AD_10 @Gram:Prep:Para 
 "<las>"
-	"el" Determiner ART Plural lang:es 00:00:27 00:00:34 tt-3071 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:00:27 00:00:34 tt-3071 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art 
 "<personas>"
 	"persona" Noun NC Plural lang:es 00:00:27 00:00:34 tt-3072 MF016_1965_EP_SU2011_AD_10 
 "<que>"
@@ -206,7 +206,7 @@
 "<hablan>"
 	"hablar" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:36 00:00:37 tt-3078 MF016_1965_EP_SU2011_AD_10 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:36 00:00:37 tt-3079 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:36 00:00:37 tt-3079 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:36 00:00:37 tt-3080 MF016_1965_EP_SU2011_AD_10 
 "<$?>"
@@ -241,7 +241,7 @@
 "<más>"
 	"más" Adverb ADV lang:es 00:00:37 00:00:44 tt-3094 MF016_1965_EP_SU2011_AD_10 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:37 00:00:44 tt-3095 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:37 00:00:44 tt-3095 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:37 00:00:44 tt-3096 MF016_1965_EP_SU2011_AD_10 
 "<y>"
@@ -279,7 +279,7 @@
 "<hablan>"
 	"hablar" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:45 00:00:52 tt-3112 MF016_1965_EP_SU2011_AD_10 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:45 00:00:52 tt-3113 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:45 00:00:52 tt-3113 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art 
 "<dos>"
 	"dos" Determiner CARD Plural lang:es 00:00:45 00:00:52 tt-3114 MF016_1965_EP_SU2011_AD_10 
 "<idiomas>"
@@ -314,7 +314,7 @@
 "<hablar>"
 	"hablar" Verb VLinf Infinitive lang:es 00:00:55 00:01:02 tt-3129 MF016_1965_EP_SU2011_AD_10 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:55 00:01:02 tt-3130 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:55 00:01:02 tt-3130 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:55 00:01:02 tt-3131 MF016_1965_EP_SU2011_AD_10 
 "<,>"
@@ -439,7 +439,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:01:15 00:01:22 tt-3190 MF016_1965_EP_SU2011_AD_10 @Gram:Prep 
 "<El>"
-	"el" Determiner ART Singular lang:es 00:01:15 00:01:22 tt-3191 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art ID:211 R:Vocab:Entities:Geo:212 
+	"el" Determiner ART Singular Masc lang:es 00:01:15 00:01:22 tt-3191 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art ID:211 R:Vocab:Entities:Geo:212 
 "<Paso>"
 	"paso" Noun NC Singular lang:es 00:01:15 00:01:22 tt-3192 MF016_1965_EP_SU2011_AD_10 ID:212 
 "<no>"
@@ -449,7 +449,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:01:15 00:01:22 tt-3195 MF016_1965_EP_SU2011_AD_10 @Gram:Prep 
 "<El>"
-	"el" Determiner ART Singular lang:es 00:01:15 00:01:22 tt-3196 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art ID:216 R:Vocab:Entities:Geo:217 
+	"el" Determiner ART Singular Masc lang:es 00:01:15 00:01:22 tt-3196 MF016_1965_EP_SU2011_AD_10 @Gram:Det:Art ID:216 R:Vocab:Entities:Geo:217 
 "<Paso>"
 	"paso" Noun NC Singular lang:es 00:01:15 00:01:22 tt-3197 MF016_1965_EP_SU2011_AD_10 ID:217 
 "<sí>"

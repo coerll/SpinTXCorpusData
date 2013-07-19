@@ -12,11 +12,11 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:00 00:00:05 tt-2614 AF003_1992_EP_SU2011_AD_12 
 "<vas>"
-	"ir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:05 tt-2615 AF003_1992_EP_SU2011_AD_12 
+	"ir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:05 tt-2615 AF003_1992_EP_SU2011_AD_12 ID:6 R:Gram:VFut:Perifrasis:8 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:00 00:00:05 tt-2616 AF003_1992_EP_SU2011_AD_12 @Gram:Prep 
 "<continuar>"
-	"continuar" Verb VLinf Infinitive lang:es 00:00:00 00:00:05 tt-2617 AF003_1992_EP_SU2011_AD_12 
+	"continuar" Verb VLinf Infinitive lang:es 00:00:00 00:00:05 tt-2617 AF003_1992_EP_SU2011_AD_12 ID:8 
 "<con>"
 	"con" Preposition PREP lang:es 00:00:00 00:00:05 tt-2618 AF003_1992_EP_SU2011_AD_12 @Gram:Prep 
 "<tus>"
@@ -43,7 +43,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:05 00:00:10 tt-2628 AF003_1992_EP_SU2011_AD_12 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:05 00:00:10 tt-2629 AF003_1992_EP_SU2011_AD_12 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:05 00:00:10 tt-2629 AF003_1992_EP_SU2011_AD_12 @Gram:Det:Art 
 "<universidad>"
 	"universidad" Noun NC Singular lang:es 00:00:05 00:00:10 tt-2630 AF003_1992_EP_SU2011_AD_12 
 "<de>"
@@ -53,7 +53,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:05 00:00:10 tt-2633 AF003_1992_EP_SU2011_AD_12 @Gram:Prep 
 "<El>"
-	"el" Determiner ART Singular lang:es 00:00:05 00:00:10 tt-2634 AF003_1992_EP_SU2011_AD_12 @Gram:Det:Art ID:25 R:Vocab:Entities:Geo:26 
+	"el" Determiner ART Singular Masc lang:es 00:00:05 00:00:10 tt-2634 AF003_1992_EP_SU2011_AD_12 @Gram:Det:Art ID:25 R:Vocab:Entities:Geo:26 
 "<Paso>"
 	"paso" Noun NC Singular lang:es 00:00:05 00:00:10 tt-2635 AF003_1992_EP_SU2011_AD_12 ID:26 
 "<$.>"
@@ -117,11 +117,11 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:17 00:00:21 tt-2664 AF003_1992_EP_SU2011_AD_12 
 "<va>"
-	"ir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:17 00:00:21 tt-2665 AF003_1992_EP_SU2011_AD_12 
+	"ir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:17 00:00:21 tt-2665 AF003_1992_EP_SU2011_AD_12 ID:56 R:Gram:VFut:Perifrasis:58 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:17 00:00:21 tt-2666 AF003_1992_EP_SU2011_AD_12 @Gram:Prep 
 "<ser>"
-	"ser" Verb VLinf VSinf Infinitive lang:es 00:00:17 00:00:21 tt-2667 AF003_1992_EP_SU2011_AD_12 @Gram:SerEstar:Ser 
+	"ser" Verb VLinf VSinf Infinitive lang:es 00:00:17 00:00:21 tt-2667 AF003_1992_EP_SU2011_AD_12 @Gram:SerEstar:Ser ID:58 
 "<mucho>"
 	"mucho" Adverb ADV lang:es 00:00:17 00:00:21 tt-2668 AF003_1992_EP_SU2011_AD_12 
 "<estudio>"
@@ -149,11 +149,11 @@
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:00:21 00:00:25 tt-2680 AF003_1992_EP_SU2011_AD_12 
 "<va>"
-	"ir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:21 00:00:25 tt-2681 AF003_1992_EP_SU2011_AD_12 
+	"ir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:21 00:00:25 tt-2681 AF003_1992_EP_SU2011_AD_12 ID:72 R:Gram:VFut:Perifrasis:74 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:21 00:00:25 tt-2682 AF003_1992_EP_SU2011_AD_12 @Gram:Prep 
 "<ser>"
-	"ser" Verb VLinf VSinf Infinitive lang:es 00:00:21 00:00:25 tt-2683 AF003_1992_EP_SU2011_AD_12 @Gram:SerEstar:Ser 
+	"ser" Verb VLinf VSinf Infinitive lang:es 00:00:21 00:00:25 tt-2683 AF003_1992_EP_SU2011_AD_12 @Gram:SerEstar:Ser ID:74 
 "<,>"
 	"," Punctuation CM lang:es 00:00:21 00:00:25 tt-2684 AF003_1992_EP_SU2011_AD_12 
 "<o>"
@@ -191,11 +191,11 @@
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:00:21 00:00:25 tt-2701 AF003_1992_EP_SU2011_AD_12 @Gram:Pron:Sujeto 
 "<voy>"
-	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:21 00:00:25 tt-2702 AF003_1992_EP_SU2011_AD_12 
+	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:21 00:00:25 tt-2702 AF003_1992_EP_SU2011_AD_12 ID:93 R:Gram:VFut:Perifrasis:95 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:25 00:00:31 tt-2703 AF003_1992_EP_SU2011_AD_12 @Gram:Prep 
 "<poder>"
-	"poder" Verb VLinf VMinf lang:es 00:00:25 00:00:31 tt-2704 AF003_1992_EP_SU2011_AD_12 
+	"poder" Verb VLinf VMinf lang:es 00:00:25 00:00:31 tt-2704 AF003_1992_EP_SU2011_AD_12 ID:95 
 "<este>"
 	"este" Determiner DM Singular lang:es 00:00:25 00:00:31 tt-2705 AF003_1992_EP_SU2011_AD_12 @Prag:RecuDiscurso:GanarTiempo 
 "<...>"
@@ -269,7 +269,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:31 00:00:37 tt-2739 AF003_1992_EP_SU2011_AD_12 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:31 00:00:37 tt-2740 AF003_1992_EP_SU2011_AD_12 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:31 00:00:37 tt-2740 AF003_1992_EP_SU2011_AD_12 @Gram:Det:Art 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:31 00:00:37 tt-2741 AF003_1992_EP_SU2011_AD_12 
 "<,>"
@@ -303,7 +303,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:37 00:00:44 tt-2756 AF003_1992_EP_SU2011_AD_12 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:37 00:00:44 tt-2757 AF003_1992_EP_SU2011_AD_12 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:37 00:00:44 tt-2757 AF003_1992_EP_SU2011_AD_12 @Gram:Det:Art 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:37 00:00:44 tt-2758 AF003_1992_EP_SU2011_AD_12 
 "<mucho>"

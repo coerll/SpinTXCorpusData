@@ -44,7 +44,7 @@
 "<fue>"
 	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-2417 MM043_1986_CT_SU2011_ER_10 @Gram:SerEstar:Ser 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:09 00:00:11 tt-2418 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:09 00:00:11 tt-2418 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Art 
 "<última>"
 	"último" Adjective ADJ Singular lang:es 00:00:09 00:00:11 tt-2419 MM043_1986_CT_SU2011_ER_10 
 "<vez>"
@@ -68,7 +68,7 @@
 "<Juárez>"
 	"Juárez" Noun NP Singular lang:es 00:00:11 00:00:18 tt-2427 MM043_1986_CT_SU2011_ER_10 ID:31 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:11 00:00:18 tt-2428 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:11 00:00:18 tt-2428 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Art 
 "<verdad>"
 	"verdad" Noun NC Singular lang:es 00:00:11 00:00:18 tt-2429 MM043_1986_CT_SU2011_ER_10 
 "<ya>"
@@ -133,7 +133,7 @@
 "<toda>"
 	"todo" Determiner QU lang:es 00:00:21 00:00:28 tt-2459 MM043_1986_CT_SU2011_ER_10 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:21 00:00:28 tt-2460 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:21 00:00:28 tt-2460 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Art 
 "<violencia>"
 	"violencia" Noun NC Singular lang:es 00:00:21 00:00:28 tt-2461 MM043_1986_CT_SU2011_ER_10 
 "<y>"
@@ -237,9 +237,9 @@
 "<poco>"
 	"pocos" Determiner QU lang:es 00:00:36 00:00:43 tt-2507 MM043_1986_CT_SU2011_ER_10 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:36 00:00:43 tt-2508 MM043_1986_CT_SU2011_ER_10 @Gram:Pron:Objeto 
+	"el" Determiner ART Plural Masc lang:es 00:00:36 00:00:43 tt-2508 MM043_1986_CT_SU2011_ER_10 @Gram:Pron:Objeto 
 "<encontré>"
-	"encontrar" Verb VLfin Fut Indi Sing 1st lang:es 00:00:36 00:00:43 tt-2509 MM043_1986_CT_SU2011_ER_10 
+	"encontrar" Verb VLfin Fut Indi Sing 1st lang:es 00:00:36 00:00:43 tt-2509 MM043_1986_CT_SU2011_ER_10 @Gram:VFut:Conjugado 
 "<en>"
 	"en" Preposition PREP lang:es 00:00:46 00:00:51 tt-2510 MM043_1986_CT_SU2011_ER_10 @Gram:Prep 
 "<Facebook>"
@@ -249,7 +249,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:46 00:00:51 tt-2513 MM043_1986_CT_SU2011_ER_10 @Gram:Prep 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:46 00:00:51 tt-2514 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:46 00:00:51 tt-2514 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Art 
 <lang code="en">
 "<internet>"
 	"Internet" Noun NN lang:en 00:00:46 00:00:51 tt-2515 MM043_1986_CT_SU2011_ER_10 
@@ -263,7 +263,7 @@
 "<dio>"
 	"dar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:46 00:00:51 tt-2519 MM043_1986_CT_SU2011_ER_10 @Gram:Indefinido 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:46 00:00:51 tt-2520 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:46 00:00:51 tt-2520 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Art 
 "<oportunidad>"
 	"oportunidad" Noun NC Singular lang:es 00:00:46 00:00:51 tt-2521 MM043_1986_CT_SU2011_ER_10 
 "<de>"
@@ -319,7 +319,7 @@
 "<con>"
 	"con" Preposition PREP lang:es 00:00:51 00:00:58 tt-2547 MM043_1986_CT_SU2011_ER_10 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:51 00:00:58 tt-2548 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:51 00:00:58 tt-2548 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Art 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:51 00:00:58 tt-2549 MM043_1986_CT_SU2011_ER_10 
 "<pueda>"
@@ -441,7 +441,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:01:13 00:01:20 tt-2606 MM043_1986_CT_SU2011_ER_10 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:13 00:01:20 tt-2607 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:13 00:01:20 tt-2607 MM043_1986_CT_SU2011_ER_10 @Gram:Det:Art 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:21 00:01:26 tt-2608 MM043_1986_CT_SU2011_ER_10 
 "<no>"

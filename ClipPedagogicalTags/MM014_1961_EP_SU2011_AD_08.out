@@ -57,7 +57,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:11 00:00:18 tt-1588 MM014_1961_EP_SU2011_AD_08 
 "<duré>"
-	"UNK" Verb VLfin Fut Indi Sing 1st lang:es 00:00:11 00:00:18 tt-1589 MM014_1961_EP_SU2011_AD_08 
+	"UNK" Verb VLfin Fut Indi Sing 1st lang:es 00:00:11 00:00:18 tt-1589 MM014_1961_EP_SU2011_AD_08 @Gram:VFut:Conjugado 
 "<diez>"
 	"diez" Determiner CARD Singular lang:es 00:00:11 00:00:18 tt-1590 MM014_1961_EP_SU2011_AD_08 
 "<años>"
@@ -132,7 +132,7 @@
 "<por>"
 	"por" Preposition PREP lang:es 00:00:30 00:00:37 tt-1624 MM014_1961_EP_SU2011_AD_08 @Gram:Prep:Por 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:30 00:00:37 tt-1625 MM014_1961_EP_SU2011_AD_08 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:30 00:00:37 tt-1625 MM014_1961_EP_SU2011_AD_08 @Gram:Det:Art 
 "<problemas>"
 	"problema" Noun NC Plural lang:es 00:00:30 00:00:37 tt-1626 MM014_1961_EP_SU2011_AD_08 
 "<del>"
@@ -148,7 +148,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:30 00:00:37 tt-1632 MM014_1961_EP_SU2011_AD_08 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:30 00:00:37 tt-1633 MM014_1961_EP_SU2011_AD_08 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:30 00:00:37 tt-1633 MM014_1961_EP_SU2011_AD_08 @Gram:Det:Art 
 "<economía>"
 	"economía" Noun NC Singular lang:es 00:00:30 00:00:37 tt-1634 MM014_1961_EP_SU2011_AD_08 
 "<y>"
@@ -336,11 +336,11 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:12 00:01:19 tt-1722 MM014_1961_EP_SU2011_AD_08 
 "<va>"
-	"ir" Verb VLfin Pres Indi Sing 3rd lang:es 00:01:12 00:01:19 tt-1723 MM014_1961_EP_SU2011_AD_08 
+	"ir" Verb VLfin Pres Indi Sing 3rd lang:es 00:01:12 00:01:19 tt-1723 MM014_1961_EP_SU2011_AD_08 ID:161 R:Gram:VFut:Perifrasis:163 
 "<a>"
 	"a" Preposition PREP lang:es 00:01:12 00:01:19 tt-1724 MM014_1961_EP_SU2011_AD_08 @Gram:Prep 
 "<estar>"
-	"estar" Verb VLinf VEinf Infinitive lang:es 00:01:12 00:01:19 tt-1725 MM014_1961_EP_SU2011_AD_08 @Gram:SerEstar:Estar 
+	"estar" Verb VLinf VEinf Infinitive lang:es 00:01:12 00:01:19 tt-1725 MM014_1961_EP_SU2011_AD_08 @Gram:SerEstar:Estar ID:163 
 "<bien>"
 	"bien" Adverb ADV lang:es 00:01:12 00:01:19 tt-1726 MM014_1961_EP_SU2011_AD_08 
 "<hecho>"
@@ -352,15 +352,15 @@
 "<le>"
 	"él" Pronoun PPC Singular lang:es 00:01:12 00:01:19 tt-1730 MM014_1961_EP_SU2011_AD_08 @Gram:Pron:Objeto 
 "<va>"
-	"ir" Verb VLfin Pres Indi Sing 3rd lang:es 00:01:12 00:01:19 tt-1731 MM014_1961_EP_SU2011_AD_08 
+	"ir" Verb VLfin Pres Indi Sing 3rd lang:es 00:01:12 00:01:19 tt-1731 MM014_1961_EP_SU2011_AD_08 ID:169 R:Gram:VFut:Perifrasis:171 
 "<a>"
 	"a" Preposition PREP lang:es 00:01:12 00:01:19 tt-1732 MM014_1961_EP_SU2011_AD_08 @Gram:Prep 
 "<gustar>"
-	"gustar" Verb VLinf Infinitive lang:es 00:01:12 00:01:19 tt-1733 MM014_1961_EP_SU2011_AD_08 
+	"gustar" Verb VLinf Infinitive lang:es 00:01:12 00:01:19 tt-1733 MM014_1961_EP_SU2011_AD_08 ID:171 
 "<a>"
 	"a" Preposition PREP lang:es 00:01:12 00:01:19 tt-1734 MM014_1961_EP_SU2011_AD_08 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:01:12 00:01:19 tt-1735 MM014_1961_EP_SU2011_AD_08 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:01:12 00:01:19 tt-1735 MM014_1961_EP_SU2011_AD_08 @Gram:Det:Art 
 "<demás>"
 	"demás" Determiner QU lang:es 00:01:19 00:01:26 tt-1736 MM014_1961_EP_SU2011_AD_08 
 "<$.>"

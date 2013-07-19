@@ -42,7 +42,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:05 00:00:12 tt-1168 MF017_1959_EP_SU2011_AD_03 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:05 00:00:12 tt-1169 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:05 00:00:12 tt-1169 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art 
 "<universidad>"
 	"universidad" Noun NC Singular lang:es 00:00:05 00:00:12 tt-1170 MF017_1959_EP_SU2011_AD_03 
 "<,>"
@@ -150,7 +150,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:27 00:00:33 tt-1222 MF017_1959_EP_SU2011_AD_03 @Gram:Prep 
 "<El>"
-	"el" Determiner ART Singular lang:es 00:00:27 00:00:33 tt-1223 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art ID:75 R:Vocab:Entities:Geo:76 
+	"el" Determiner ART Singular Masc lang:es 00:00:27 00:00:33 tt-1223 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art ID:75 R:Vocab:Entities:Geo:76 
 "<Paso>"
 	"paso" Noun NC Singular lang:es 00:00:27 00:00:33 tt-1224 MF017_1959_EP_SU2011_AD_03 ID:76 
 "<e>"
@@ -176,7 +176,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:27 00:00:33 tt-1235 MF017_1959_EP_SU2011_AD_03 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:27 00:00:33 tt-1236 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:27 00:00:33 tt-1236 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art 
 "<carne>"
 	"carne" Noun NC Singular lang:es 00:00:27 00:00:33 tt-1237 MF017_1959_EP_SU2011_AD_03 
 "<y>"
@@ -266,7 +266,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:44 00:00:51 tt-1280 MF017_1959_EP_SU2011_AD_03 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:44 00:00:51 tt-1281 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:44 00:00:51 tt-1281 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art 
 "<cinco>"
 	"cinco" Determiner CARD Singular lang:es 00:00:44 00:00:51 tt-1282 MF017_1959_EP_SU2011_AD_03 
 "<años>"
@@ -329,7 +329,7 @@
 "<era>"
 	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:55 00:00:58 tt-1311 MF017_1959_EP_SU2011_AD_03 @Gram:Imperf @Gram:SerEstar:Ser 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:55 00:00:58 tt-1312 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:55 00:00:58 tt-1312 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art 
 "<persona>"
 	"persona" Noun NC Singular lang:es 00:00:55 00:00:58 tt-1313 MF017_1959_EP_SU2011_AD_03 
 "<correcta>"
@@ -482,7 +482,7 @@
 "<estudias>"
 	"estudiar" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:23 00:01:28 tt-1385 MF017_1959_EP_SU2011_AD_03 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:23 00:01:28 tt-1386 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:23 00:01:28 tt-1386 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:01:23 00:01:28 tt-1387 MF017_1959_EP_SU2011_AD_03 
 "<y>"
@@ -540,11 +540,11 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:28 00:01:34 tt-1413 MF017_1959_EP_SU2011_AD_03 @Gram:Pron:Objeto 
 "<voy>"
-	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:01:28 00:01:34 tt-1414 MF017_1959_EP_SU2011_AD_03 
+	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:01:28 00:01:34 tt-1414 MF017_1959_EP_SU2011_AD_03 ID:266 R:Gram:VFut:Perifrasis:268 
 "<a>"
 	"a" Preposition PREP lang:es 00:01:28 00:01:34 tt-1415 MF017_1959_EP_SU2011_AD_03 @Gram:Prep 
 "<ir>"
-	"ir" Verb VLinf Infinitive lang:es 00:01:28 00:01:34 tt-1416 MF017_1959_EP_SU2011_AD_03 
+	"ir" Verb VLinf Infinitive lang:es 00:01:28 00:01:34 tt-1416 MF017_1959_EP_SU2011_AD_03 ID:268 
 "<con>"
 	"con" Preposition PREP lang:es 00:01:28 00:01:34 tt-1417 MF017_1959_EP_SU2011_AD_03 @Gram:Prep 
 "<mi>"
@@ -558,7 +558,7 @@
 "<estudiar>"
 	"estudiar" Verb VLinf Infinitive lang:es 00:01:28 00:01:34 tt-1422 MF017_1959_EP_SU2011_AD_03 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:34 00:01:38 tt-1423 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:34 00:01:38 tt-1423 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:01:34 00:01:38 tt-1424 MF017_1959_EP_SU2011_AD_03 
 "<y>"
@@ -894,11 +894,11 @@
 "<pero>"
 	"pero" Conjunction CCAD lang:es 00:02:22 00:02:27 tt-1586 MF017_1959_EP_SU2011_AD_03 @Prag:MarcadoresDisc:Revision 
 "<vamos>"
-	"ir" Verb VLfin Pres Indi Plural 1st lang:es 00:02:22 00:02:27 tt-1587 MF017_1959_EP_SU2011_AD_03 
+	"ir" Verb VLfin Pres Indi Plural 1st lang:es 00:02:22 00:02:27 tt-1587 MF017_1959_EP_SU2011_AD_03 ID:439 R:Gram:VFut:Perifrasis:441 
 "<a>"
 	"a" Preposition PREP lang:es 00:02:22 00:02:27 tt-1588 MF017_1959_EP_SU2011_AD_03 @Gram:Prep 
 "<ir>"
-	"ir" Verb VLinf Infinitive lang:es 00:02:22 00:02:27 tt-1589 MF017_1959_EP_SU2011_AD_03 
+	"ir" Verb VLinf Infinitive lang:es 00:02:22 00:02:27 tt-1589 MF017_1959_EP_SU2011_AD_03 ID:441 
 "<al>"
 	"al" Preposition PAL lang:es 00:02:22 00:02:27 tt-1590 MF017_1959_EP_SU2011_AD_03 @Gram:Prep 
 "<Paso>"
@@ -910,15 +910,15 @@
 "<,>"
 	"," Punctuation CM lang:es 00:02:27 00:02:33 tt-1594 MF017_1959_EP_SU2011_AD_03 
 "<vamos>"
-	"ir" Verb VLfin Pres Indi Plural 1st lang:es 00:02:27 00:02:33 tt-1595 MF017_1959_EP_SU2011_AD_03 
+	"ir" Verb VLfin Pres Indi Plural 1st lang:es 00:02:27 00:02:33 tt-1595 MF017_1959_EP_SU2011_AD_03 ID:447 R:Gram:VFut:Perifrasis:449 
 "<a>"
 	"a" Preposition PREP lang:es 00:02:27 00:02:33 tt-1596 MF017_1959_EP_SU2011_AD_03 @Gram:Prep 
 "<ir>"
-	"ir" Verb VLinf Infinitive lang:es 00:02:27 00:02:33 tt-1597 MF017_1959_EP_SU2011_AD_03 
+	"ir" Verb VLinf Infinitive lang:es 00:02:27 00:02:33 tt-1597 MF017_1959_EP_SU2011_AD_03 ID:449 
 "<a>"
 	"a" Preposition PREP lang:es 00:02:27 00:02:33 tt-1598 MF017_1959_EP_SU2011_AD_03 @Gram:Prep 
 "<las>"
-	"el" Determiner ART Plural lang:es 00:02:27 00:02:33 tt-1599 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:02:27 00:02:33 tt-1599 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art 
 "<tiendas>"
 	"tienda" Noun NC Plural lang:es 00:02:27 00:02:33 tt-1600 MF017_1959_EP_SU2011_AD_03 
 "<$.>"
@@ -995,11 +995,11 @@
 "<porque>"
 	"porque" Conjunction CSUBX lang:es 00:02:37 00:02:42 tt-1636 MF017_1959_EP_SU2011_AD_03 @Prag:MarcadoresDisc:Causa 
 "<iba>"
-	"ir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:02:37 00:02:42 tt-1637 MF017_1959_EP_SU2011_AD_03 @Gram:Imperf 
+	"ir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:02:37 00:02:42 tt-1637 MF017_1959_EP_SU2011_AD_03 @Gram:Imperf ID:489 R:Gram:VFut:Perifrasis:491 
 "<a>"
 	"a" Preposition PREP lang:es 00:02:37 00:02:42 tt-1638 MF017_1959_EP_SU2011_AD_03 @Gram:Prep 
 "<venir>"
-	"venir" Verb VLinf Infinitive lang:es 00:02:37 00:02:42 tt-1639 MF017_1959_EP_SU2011_AD_03 
+	"venir" Verb VLinf Infinitive lang:es 00:02:37 00:02:42 tt-1639 MF017_1959_EP_SU2011_AD_03 ID:491 
 "<con>"
 	"con" Preposition PREP lang:es 00:02:37 00:02:42 tt-1640 MF017_1959_EP_SU2011_AD_03 @Gram:Prep 
 "<él>"
@@ -1030,7 +1030,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:02:42 00:02:48 tt-1653 MF017_1959_EP_SU2011_AD_03 @Gram:Prep 
 "<las>"
-	"el" Determiner ART Plural lang:es 00:02:42 00:02:48 tt-1654 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:02:42 00:02:48 tt-1654 MF017_1959_EP_SU2011_AD_03 @Gram:Det:Art 
 "<tiendas>"
 	"tienda" Noun NC Plural lang:es 00:02:42 00:02:48 tt-1655 MF017_1959_EP_SU2011_AD_03 
 "<y>"

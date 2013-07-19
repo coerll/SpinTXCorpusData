@@ -83,7 +83,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:07 00:00:14 tt-5979 OF033_1969_CT_SU2011_VA_09 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:07 00:00:14 tt-5980 OF033_1969_CT_SU2011_VA_09 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:07 00:00:14 tt-5980 OF033_1969_CT_SU2011_VA_09 @Gram:Det:Art 
 "<tercera>"
 	"tercero" Adjective ORD Singular lang:es 00:00:07 00:00:14 tt-5981 OF033_1969_CT_SU2011_VA_09 Gram:Adj:Ord 
 "<ciudad>"
@@ -124,7 +124,7 @@
 "<para>"
 	"para" Preposition PREP lang:es 00:00:18 00:00:25 tt-5999 OF033_1969_CT_SU2011_VA_09 @Gram:Prep:Para 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:26 00:00:33 tt-6000 OF033_1969_CT_SU2011_VA_09 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:26 00:00:33 tt-6000 OF033_1969_CT_SU2011_VA_09 @Gram:Det:Art 
 "<Nueve>"
 	"UNK" Noun NP Singular lang:es 00:00:26 00:00:33 tt-6001 OF033_1969_CT_SU2011_VA_09 
 "<Uno>"
@@ -160,7 +160,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:26 00:00:33 tt-6017 OF033_1969_CT_SU2011_VA_09 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:26 00:00:33 tt-6018 OF033_1969_CT_SU2011_VA_09 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:26 00:00:33 tt-6018 OF033_1969_CT_SU2011_VA_09 @Gram:Det:Art 
 "<ciudad>"
 	"ciudad" Noun NC Singular lang:es 00:00:26 00:00:33 tt-6019 OF033_1969_CT_SU2011_VA_09 
 "<y>"
@@ -291,7 +291,7 @@
 "<cerquita>"
 	"cerca" Adverb ADV lang:es 00:00:53 00:01:00 tt-6082 OF033_1969_CT_SU2011_VA_09 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:53 00:01:00 tt-6083 OF033_1969_CT_SU2011_VA_09 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:53 00:01:00 tt-6083 OF033_1969_CT_SU2011_VA_09 @Gram:Det:Art 
 "<vecino>"
 	"vecino" Noun NC Singular lang:es 00:00:53 00:01:00 tt-6084 OF033_1969_CT_SU2011_VA_09 
 "<y>"
@@ -324,11 +324,11 @@
 "<te>"
 	"tú" Pronoun PPX Singular lang:es 00:01:00 00:01:07 tt-6098 OF033_1969_CT_SU2011_VA_09 @Gram:Pron:Objeto 
 "<voy>"
-	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:01:00 00:01:07 tt-6099 OF033_1969_CT_SU2011_VA_09 
+	"ir" Verb VLfin Pres Indi Sing 1st lang:es 00:01:00 00:01:07 tt-6099 OF033_1969_CT_SU2011_VA_09 ID:160 R:Gram:VFut:Perifrasis:162 
 "<a>"
 	"a" Preposition PREP lang:es 00:01:00 00:01:07 tt-6100 OF033_1969_CT_SU2011_VA_09 @Gram:Prep 
 "<decir>"
-	"decir" Verb VLinf Infinitive lang:es 00:01:00 00:01:07 tt-6101 OF033_1969_CT_SU2011_VA_09 
+	"decir" Verb VLinf Infinitive lang:es 00:01:00 00:01:07 tt-6101 OF033_1969_CT_SU2011_VA_09 ID:162 
 "<una>"
 	"un" Determiner ART Singular lang:es 00:01:00 00:01:07 tt-6102 OF033_1969_CT_SU2011_VA_09 
 "<cosa>"

@@ -12,7 +12,7 @@
 "<fue>"
 	"ir" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-1548 AM001_1925_EP_SU2011_AD_06 @Gram:Indefinido 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-1549 AM001_1925_EP_SU2011_AD_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:00 00:00:07 tt-1549 AM001_1925_EP_SU2011_AD_06 @Gram:Det:Art 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-1550 AM001_1925_EP_SU2011_AD_06 
 "<me>"
@@ -33,11 +33,11 @@
 "<dijo>"
 	"decir" Verb VLfin Pres Indi Sing 1st lang:es 00:00:00 00:00:07 tt-1558 AM001_1925_EP_SU2011_AD_06 
 "<váyanse>"
-	"ir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-1559 AM001_1925_EP_SU2011_AD_06 
+	"ir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-1559 AM001_1925_EP_SU2011_AD_06 ID:16 R:Gram:VFut:Perifrasis:18 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:00 00:00:07 tt-1560 AM001_1925_EP_SU2011_AD_06 @Gram:Prep 
 "<pasear>"
-	"pasear" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-1561 AM001_1925_EP_SU2011_AD_06 
+	"pasear" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-1561 AM001_1925_EP_SU2011_AD_06 ID:18 
 "<carnal>"
 	"UNK" Noun NC Singular lang:es 00:00:00 00:00:07 tt-1562 AM001_1925_EP_SU2011_AD_06 
 "<,>"
@@ -168,7 +168,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:26 00:00:33 tt-1624 AM001_1925_EP_SU2011_AD_06 @Gram:Prep 
 "<El>"
-	"el" Determiner ART Singular lang:es 00:00:26 00:00:33 tt-1625 AM001_1925_EP_SU2011_AD_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:26 00:00:33 tt-1625 AM001_1925_EP_SU2011_AD_06 @Gram:Det:Art 
 "<Mudo>"
 	"mudo" Noun NC Singular lang:es 00:00:26 00:00:33 tt-1626 AM001_1925_EP_SU2011_AD_06 
 "<$.>"
@@ -187,7 +187,7 @@
 "<hermano>"
 	"hermano" Noun NC Singular lang:es 00:00:26 00:00:33 tt-1633 AM001_1925_EP_SU2011_AD_06 
 "<El>"
-	"el" Determiner ART Singular lang:es 00:00:26 00:00:33 tt-1634 AM001_1925_EP_SU2011_AD_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:26 00:00:33 tt-1634 AM001_1925_EP_SU2011_AD_06 @Gram:Det:Art 
 "<Mudo>"
 	"mudo" Noun NC Singular lang:es 00:00:26 00:00:33 tt-1635 AM001_1925_EP_SU2011_AD_06 
 "<$.>"
@@ -252,7 +252,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:42 00:00:49 tt-1664 AM001_1925_EP_SU2011_AD_06 
 "<iré>"
-	"ir" Verb VLfin Fut Indi Sing 1st lang:es 00:00:42 00:00:49 tt-1665 AM001_1925_EP_SU2011_AD_06 
+	"ir" Verb VLfin Fut Indi Sing 1st lang:es 00:00:42 00:00:49 tt-1665 AM001_1925_EP_SU2011_AD_06 @Gram:VFut:Conjugado 
 "<a>"
 	"a" Preposition PREP lang:es 00:00:42 00:00:49 tt-1666 AM001_1925_EP_SU2011_AD_06 @Gram:Prep 
 "<presidente>"
@@ -640,7 +640,7 @@
 "<Llévate>"
 	"llevar" Verb VLfin Pres Command Sing 2nd lang:es 00:01:53 00:01:59 tt-1849 AM001_1925_EP_SU2011_AD_06 @Gram:MImp:Informal 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:01:53 00:01:59 tt-1850 AM001_1925_EP_SU2011_AD_06 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:01:53 00:01:59 tt-1850 AM001_1925_EP_SU2011_AD_06 @Gram:Det:Art 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:53 00:01:59 tt-1851 AM001_1925_EP_SU2011_AD_06 
 "<quieras>"
@@ -685,11 +685,11 @@
 "<te>"
 	"tú" Pronoun PPX Singular lang:es 00:01:59 00:02:06 tt-1871 AM001_1925_EP_SU2011_AD_06 @Gram:Pron:Objeto 
 "<vayas>"
-	"ir" Verb VLfin Pres Subj Sing 2nd lang:es 00:01:59 00:02:06 tt-1872 AM001_1925_EP_SU2011_AD_06 @Gram:MSub:Pres 
+	"ir" Verb VLfin Pres Subj Sing 2nd lang:es 00:01:59 00:02:06 tt-1872 AM001_1925_EP_SU2011_AD_06 @Gram:MSub:Pres ID:329 R:Gram:VFut:Perifrasis:331 
 "<a>"
 	"a" Preposition PREP lang:es 00:01:59 00:02:06 tt-1873 AM001_1925_EP_SU2011_AD_06 @Gram:Prep 
 "<pasear>"
-	"pasear" Verb VLinf Infinitive lang:es 00:01:59 00:02:06 tt-1874 AM001_1925_EP_SU2011_AD_06 
+	"pasear" Verb VLinf Infinitive lang:es 00:01:59 00:02:06 tt-1874 AM001_1925_EP_SU2011_AD_06 ID:331 
 "<con>"
 	"con" Preposition PREP lang:es 00:01:59 00:02:06 tt-1875 AM001_1925_EP_SU2011_AD_06 @Gram:Prep 
 "<tu>"
@@ -748,7 +748,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:02:07 00:02:14 tt-1902 AM001_1925_EP_SU2011_AD_06 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:02:07 00:02:14 tt-1903 AM001_1925_EP_SU2011_AD_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:02:07 00:02:14 tt-1903 AM001_1925_EP_SU2011_AD_06 @Gram:Det:Art 
 "<Basílica>"
 	"UNK" Noun NP Singular lang:es 00:02:07 00:02:14 tt-1904 AM001_1925_EP_SU2011_AD_06 
 "<a>"
@@ -758,7 +758,7 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:02:07 00:02:14 tt-1907 AM001_1925_EP_SU2011_AD_06 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:02:07 00:02:14 tt-1908 AM001_1925_EP_SU2011_AD_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:02:07 00:02:14 tt-1908 AM001_1925_EP_SU2011_AD_06 @Gram:Det:Art 
 "<Virgen>"
 	"Virgen" Noun NP Singular lang:es 00:02:07 00:02:14 tt-1909 AM001_1925_EP_SU2011_AD_06 
 "<de>"

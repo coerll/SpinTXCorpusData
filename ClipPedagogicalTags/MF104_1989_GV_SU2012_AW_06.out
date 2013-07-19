@@ -15,7 +15,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:00 00:00:07 tt-1956 MF104_1989_GV_SU2012_AW_06 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-1957 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:00 00:00:07 tt-1957 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<fútbol>"
 	"futbol" Noun NC Singular lang:es 00:00:00 00:00:07 tt-1958 MF104_1989_GV_SU2012_AW_06 
 "<americano>"
@@ -23,7 +23,7 @@
 "<o>"
 	"o" Conjunction CC lang:es 00:00:00 00:00:07 tt-1960 MF104_1989_GV_SU2012_AW_06 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-1961 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:00 00:00:07 tt-1961 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<fútbol>"
 	"futbol" Noun NC Singular lang:es 00:00:00 00:00:07 tt-1962 MF104_1989_GV_SU2012_AW_06 
 "<mexicano>"
@@ -56,11 +56,11 @@
 "<Porque>"
 	"porque" Conjunction CSUBX lang:es 00:00:13 00:00:20 tt-1973 MF104_1989_GV_SU2012_AW_06 @Prag:MarcadoresDisc:Causa 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:13 00:00:20 tt-1974 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:13 00:00:20 tt-1974 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:13 00:00:20 tt-1975 MF104_1989_GV_SU2012_AW_06 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:13 00:00:20 tt-1976 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:13 00:00:20 tt-1976 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<fútbol>"
 	"futbol" Noun NC Singular lang:es 00:00:13 00:00:20 tt-1977 MF104_1989_GV_SU2012_AW_06 
 "<,>"
@@ -93,7 +93,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:00:20 00:00:23 tt-1990 MF104_1989_GV_SU2012_AW_06 @Gram:Prep 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:20 00:00:23 tt-1991 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:20 00:00:23 tt-1991 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<fútbol>"
 	"futbol" Noun NC Singular lang:es 00:00:20 00:00:23 tt-1992 MF104_1989_GV_SU2012_AW_06 
 "<americano>"
@@ -128,7 +128,7 @@
 "<lastimé>"
 	"UNK" Verb VLfin Pret Indi Sing 1st lang:es 00:00:23 00:00:30 tt-2006 MF104_1989_GV_SU2012_AW_06 @Gram:Indefinido 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:23 00:00:30 tt-2007 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:23 00:00:30 tt-2007 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<espalda>"
 	"espalda" Noun NC Singular lang:es 00:00:23 00:00:30 tt-2008 MF104_1989_GV_SU2012_AW_06 
 "<jugando>"
@@ -147,7 +147,7 @@
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:23 00:00:30 tt-2015 MF104_1989_GV_SU2012_AW_06 @Gram:Pron:Objeto 
 "<enamoré>"
-	"enamorar" Verb VLfin Fut Indi Sing 1st lang:es 00:00:23 00:00:30 tt-2016 MF104_1989_GV_SU2012_AW_06 
+	"enamorar" Verb VLfin Fut Indi Sing 1st lang:es 00:00:23 00:00:30 tt-2016 MF104_1989_GV_SU2012_AW_06 @Gram:VFut:Conjugado 
 "<de>"
 	"de" Preposition PREP lang:es 00:00:32 00:00:33 tt-2017 MF104_1989_GV_SU2012_AW_06 @Gram:Prep 
 "<ese>"
@@ -179,7 +179,7 @@
 <speaker type="subj">
 
 "<El>"
-	"el" Determiner ART Singular lang:es 00:00:36 00:00:43 tt-2029 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:36 00:00:43 tt-2029 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:36 00:00:43 tt-2030 MF104_1989_GV_SU2012_AW_06 
 "<era>"
@@ -191,11 +191,11 @@
 "<era>"
 	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:36 00:00:43 tt-2034 MF104_1989_GV_SU2012_AW_06 @Gram:Imperf @Gram:SerEstar:Ser 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:36 00:00:43 tt-2035 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:36 00:00:43 tt-2035 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<de>"
 	"de" Preposition PREP lang:es 00:00:36 00:00:43 tt-2036 MF104_1989_GV_SU2012_AW_06 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:36 00:00:43 tt-2037 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:36 00:00:43 tt-2037 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<Dallas>"
 	"Dallas" Noun NP Plural lang:es 00:00:36 00:00:43 tt-2038 MF104_1989_GV_SU2012_AW_06 
 <lang code="en">
@@ -205,7 +205,7 @@
 "<de>"
 	"de" Preposition PREP lang:es 00:00:36 00:00:43 tt-2040 MF104_1989_GV_SU2012_AW_06 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural lang:es 00:00:36 00:00:43 tt-2041 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:36 00:00:43 tt-2041 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<clásicos>"
 	"clásico" Adjective ADJ Plural lang:es 00:00:36 00:00:43 tt-2042 MF104_1989_GV_SU2012_AW_06 
 "<de>"
@@ -270,18 +270,18 @@
 "<gusta>"
 	"gustar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:56 00:01:03 tt-2069 MF104_1989_GV_SU2012_AW_06 ID:120 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:00:56 00:01:03 tt-2070 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:56 00:01:03 tt-2070 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<natación>"
 	"natación" Noun NC Singular lang:es 00:00:56 00:01:03 tt-2071 MF104_1989_GV_SU2012_AW_06 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:56 00:01:03 tt-2072 MF104_1989_GV_SU2012_AW_06 
 
 "<El>"
-	"el" Determiner ART Singular lang:es 00:00:56 00:01:03 tt-2073 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:56 00:01:03 tt-2073 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:56 00:01:03 tt-2074 MF104_1989_GV_SU2012_AW_06 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:00:56 00:01:03 tt-2075 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:56 00:01:03 tt-2075 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<racket>"
 	"UNK" Noun NC Singular lang:es 00:00:56 00:01:03 tt-2076 MF104_1989_GV_SU2012_AW_06 
 "<...>"
@@ -301,7 +301,7 @@
 	"?" Punctuation FS lang:es 00:00:56 00:01:03 tt-2083 MF104_1989_GV_SU2012_AW_06 
 
 "<El>"
-	"el" Determiner ART Singular lang:es 00:00:56 00:01:03 tt-2084 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:56 00:01:03 tt-2084 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<básquet>"
 	"UNK" Noun NC Singular lang:es 00:00:56 00:01:03 tt-2085 MF104_1989_GV_SU2012_AW_06 
 "<no>"
@@ -334,7 +334,7 @@
 "<en>"
 	"en" Preposition PREP lang:es 00:01:09 00:01:16 tt-2098 MF104_1989_GV_SU2012_AW_06 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:09 00:01:16 tt-2099 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:09 00:01:16 tt-2099 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:01:09 00:01:16 tt-2100 MF104_1989_GV_SU2012_AW_06 
 "<$?>"
@@ -461,7 +461,7 @@
 "<tocas>"
 	"tocar" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:39 00:01:46 tt-2154 MF104_1989_GV_SU2012_AW_06 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:01:39 00:01:46 tt-2155 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:39 00:01:46 tt-2155 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<pared>"
 	"pared" Noun NC Singular lang:es 00:01:39 00:01:46 tt-2156 MF104_1989_GV_SU2012_AW_06 
 "<en>"
@@ -498,7 +498,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:46 00:01:53 tt-2172 MF104_1989_GV_SU2012_AW_06 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:46 00:01:53 tt-2173 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:46 00:01:53 tt-2173 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<mío>"
 	"mío" Pronoun PPO Singular lang:es 00:01:46 00:01:53 tt-2174 MF104_1989_GV_SU2012_AW_06 
 "<no>"
@@ -511,7 +511,7 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:01:46 00:01:53 tt-2178 MF104_1989_GV_SU2012_AW_06 
 "<el>"
-	"el" Determiner ART Singular lang:es 00:01:46 00:01:53 tt-2179 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:46 00:01:53 tt-2179 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:46 00:01:53 tt-2180 MF104_1989_GV_SU2012_AW_06 
 "<iba>"
@@ -572,7 +572,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:02:05 00:02:12 tt-2206 MF104_1989_GV_SU2012_AW_06 
 "<la>"
-	"el" Determiner ART Singular lang:es 00:02:05 00:02:12 tt-2207 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:02:05 00:02:12 tt-2207 MF104_1989_GV_SU2012_AW_06 @Gram:Det:Art 
 "<verdad>"
 	"verdad" Noun NC Singular lang:es 00:02:05 00:02:12 tt-2208 MF104_1989_GV_SU2012_AW_06 
 "<un>"
