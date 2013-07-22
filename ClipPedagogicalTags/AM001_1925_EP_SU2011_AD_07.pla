@@ -1,11 +1,11 @@
 AM001_1925_EP_SU2011_AD_07
-@Gram : 46
+@Gram : 47
 @Gram:Det : 10
 @Gram:Det:Art : 5
 @Gram:Det:Demo : 1
 @Gram:Det:Pos : 4
 @Gram:Imperf : 3
-@Gram:Indefinido : 3
+@Gram:Indefinido : 4
 @Gram:MSub : 8
 @Gram:MSub:Pres : 8
 @Gram:Prep : 6
@@ -17,7 +17,9 @@ AM001_1925_EP_SU2011_AD_07
 @Prag : 2
 @Prag:MarcadoresDisc : 2
 @Prag:MarcadoresDisc:Revision : 2
-R:Gram : 3
+R:Gram : 4
+R:Gram:Det : 1
+R:Gram:Det:DetCombi : 1
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepMasc : 1
 R:Gram:VFut : 2

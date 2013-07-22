@@ -1,11 +1,12 @@
 MM069_1960_CT_SU2012_CL_07
-@Gram : 57
-@Gram:Det : 15
+@Gram : 59
+@Gram:Det : 16
 @Gram:Det:Art : 13
+@Gram:Det:CuantIndef : 1
 @Gram:Det:Demo : 1
 @Gram:Det:Pos : 1
 @Gram:Imperf : 1
-@Gram:Indefinido : 5
+@Gram:Indefinido : 6
 @Gram:MSub : 1
 @Gram:MSub:Pres : 1
 @Gram:Prep : 13
@@ -21,8 +22,9 @@ MM069_1960_CT_SU2012_CL_07
 @Prag:MarcadoresDisc:Causa : 1
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:MarcadoresDisc:Revision : 3
-R:Gram : 2
-R:Gram:Det : 1
+R:Gram : 5
+R:Gram:Det : 4
+R:Gram:Det:DetCombi : 3
 R:Gram:Det:LoAdj : 1
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepMasc : 1

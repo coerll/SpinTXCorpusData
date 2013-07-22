@@ -1,18 +1,18 @@
 AF003_1992_EP_SU2011_AD_11
-@Gram : 71
-@Gram:Det : 20
+@Gram : 73
+@Gram:Det : 21
 @Gram:Det:Art : 12
+@Gram:Det:CuantIndef : 1
 @Gram:Det:Demo : 2
 @Gram:Det:Pos : 6
-@Gram:Indefinido : 3
+@Gram:Indefinido : 4
 @Gram:MImp : 1
 @Gram:MImp:Informal : 1
 @Gram:Prep : 19
 @Gram:Prep:Para : 4
 @Gram:Pron : 16
 @Gram:Pron:Objeto : 8
-@Gram:Pron:Otros : 1
-@Gram:Pron:Sujeto : 7
+@Gram:Pron:Sujeto : 8
 @Gram:SerEstar : 12
 @Gram:SerEstar:Ser : 12
 @Prag : 17
@@ -22,10 +22,11 @@ AF003_1992_EP_SU2011_AD_11
 @Prag:MarcadoresDisc:Revision : 4
 @Prag:RecuDiscurso : 1
 @Prag:RecuDiscurso:GanarTiempo : 1
-R:Gram : 14
+R:Gram : 16
 R:Gram:Aux : 4
 R:Gram:Aux:Haber : 4
-R:Gram:Det : 5
+R:Gram:Det : 7
+R:Gram:Det:DetCombi : 2
 R:Gram:Det:LoAdj : 5
 R:Gram:Gustar : 1
 R:Gram:Gustar:Propios : 1

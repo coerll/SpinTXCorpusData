@@ -1,7 +1,8 @@
 MF081_1987_GV_SU2012_SB_08
-@Gram : 77
-@Gram:Det : 13
+@Gram : 81
+@Gram:Det : 17
 @Gram:Det:Art : 11
+@Gram:Det:CuantIndef : 4
 @Gram:Det:Pos : 2
 @Gram:Prep : 40
 @Gram:Pron : 13
@@ -16,10 +17,11 @@ MF081_1987_GV_SU2012_SB_08
 @Prag:MarcadoresDisc:Causa : 1
 @Prag:MarcadoresDisc:Probabilidad : 2
 @Prag:MarcadoresDisc:Revision : 1
-R:Gram : 10
+R:Gram : 12
 R:Gram:Aux : 2
 R:Gram:Aux:Haber : 2
-R:Gram:Det : 1
+R:Gram:Det : 3
+R:Gram:Det:DetCombi : 2
 R:Gram:Det:LoAdj : 1
 R:Gram:PerfPerif : 2
 R:Gram:SerEstar : 4

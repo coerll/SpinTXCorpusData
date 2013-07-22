@@ -1,5 +1,5 @@
 AF055_1993_SA_SU2012_JB_07
-@Gram : 147
+@Gram : 156
 @Gram:Det : 40
 @Gram:Det:Art : 18
 @Gram:Det:Demo : 4
@@ -7,7 +7,9 @@ AF055_1993_SA_SU2012_JB_07
 @Gram:Haber : 1
 @Gram:Haber:Exist : 1
 @Gram:Imperf : 10
-@Gram:Indefinido : 23
+@Gram:Indefinido : 31
+@Gram:MSub : 1
+@Gram:MSub:Pret : 1
 @Gram:Prep : 41
 @Gram:Prep:Para : 1
 @Gram:Prep:Por : 3
@@ -22,8 +24,9 @@ AF055_1993_SA_SU2012_JB_07
 @Prag:MarcadoresDisc:Causa : 2
 @Prag:MarcadoresDisc:Igualdad : 2
 @Prag:MarcadoresDisc:Revision : 6
-R:Gram : 4
-R:Gram:Det : 1
+R:Gram : 5
+R:Gram:Det : 2
+R:Gram:Det:DetCombi : 1
 R:Gram:Det:LoAdj : 1
 R:Gram:Gustar : 3
 R:Gram:Gustar:Ajenos : 2

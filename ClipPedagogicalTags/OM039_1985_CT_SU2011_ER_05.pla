@@ -1,7 +1,8 @@
 OM039_1985_CT_SU2011_ER_05
-@Gram : 56
-@Gram:Det : 16
+@Gram : 58
+@Gram:Det : 18
 @Gram:Det:Art : 12
+@Gram:Det:CuantIndef : 2
 @Gram:Det:Pos : 4
 @Gram:Indefinido : 1
 @Gram:MSub : 1
@@ -22,7 +23,9 @@ OM039_1985_CT_SU2011_ER_05
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:MarcadoresDisc:Probabilidad : 2
 @Prag:MarcadoresDisc:Revision : 1
-R:Gram : 3
+R:Gram : 4
+R:Gram:Det : 1
+R:Gram:Det:DetCombi : 1
 R:Gram:Genero : 3
 R:Gram:Genero:ExcepMasc : 3
 R:Prag : 2

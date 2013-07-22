@@ -1,7 +1,8 @@
 AM059_1951_SA_SU2012_JB_08
-@Gram : 80
-@Gram:Det : 17
+@Gram : 85
+@Gram:Det : 22
 @Gram:Det:Art : 10
+@Gram:Det:CuantIndef : 5
 @Gram:Det:Demo : 2
 @Gram:Det:Pos : 5
 @Gram:Haber : 1
@@ -31,6 +32,8 @@ R:Gram:PerfPerif : 4
 R:Prag : 4
 R:Prag:MarcadoresDisc : 4
 R:Prag:MarcadoresDisc:Igualdad : 4
-R:Vocab : 2
+R:Vocab : 3
 R:Vocab:Entities : 2
 R:Vocab:Entities:Geo : 2
+R:Vocab:Fraseol : 1
+R:Vocab:Fraseol:LocAdv : 1

@@ -8,7 +8,7 @@
 	"." Punctuation FS lang:es 00:00:00 00:00:07 tt-2415 MF066_1973_CT_SU2012_CL_07 
 
 "<Este>"
-	"este" Determiner DM Singular lang:es 00:00:00 00:00:07 tt-2416 MF066_1973_CT_SU2012_CL_07 @Prag:RecuDiscurso:GanarTiempo ADD:1121 
+	"este" Determiner DM Singular lang:es 00:00:00 00:00:07 tt-2416 MF066_1973_CT_SU2012_CL_07 @Prag:RecuDiscurso:GanarTiempo 
 "<,>"
 	"," Punctuation CM lang:es 00:00:00 00:00:07 tt-2417 MF066_1973_CT_SU2012_CL_07 
 "<bueno>"
@@ -22,7 +22,7 @@
 "<poco>"
 	"pocos" Determiner QU lang:es 00:00:00 00:00:07 tt-2422 MF066_1973_CT_SU2012_CL_07 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-2423 MF066_1973_CT_SU2012_CL_07 @Gram:Prep ADD:580 
+	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-2423 MF066_1973_CT_SU2012_CL_07 @Gram:Prep 
 "<tema>"
 	"tema" Noun NC Singular lang:es 00:00:00 00:00:07 tt-2424 MF066_1973_CT_SU2012_CL_07 
 "<$.>"
@@ -31,13 +31,13 @@
 "<Volviendo>"
 	"volver" Verb VLger lang:es 00:00:00 00:00:07 tt-2426 MF066_1973_CT_SU2012_CL_07 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:00 00:00:07 tt-2427 MF066_1973_CT_SU2012_CL_07 @Gram:Prep ADD:580 
+	"a" Preposition PREP lang:es 00:00:00 00:00:07 tt-2427 MF066_1973_CT_SU2012_CL_07 @Gram:Prep 
 "<lo>"
 	"el" Determiner ART Singular lang:es 00:00:00 00:00:07 tt-2428 MF066_1973_CT_SU2012_CL_07 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-2429 MF066_1973_CT_SU2012_CL_07 @Gram:Prep ADD:580 
+	"de" Preposition PREP lang:es 00:00:00 00:00:07 tt-2429 MF066_1973_CT_SU2012_CL_07 @Gram:Prep 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-2430 MF066_1973_CT_SU2012_CL_07 @Gram:Det:Pos ADD:425 
+	"suyo" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-2430 MF066_1973_CT_SU2012_CL_07 @Gram:Det:Pos 
 "<esposo>"
 	"esposo" Noun NC Singular lang:es 00:00:00 00:00:07 tt-2431 MF066_1973_CT_SU2012_CL_07 
 "<$.>"
@@ -48,15 +48,15 @@
 "<Cómo>"
 	"cómo" Adverb ADV lang:es 00:00:08 00:00:11 tt-2434 MF066_1973_CT_SU2012_CL_07 
 "<supiste>"
-	"saber" Verb VLfin Pret Indi Sing 2nd lang:es 00:00:08 00:00:11 tt-2435 MF066_1973_CT_SU2012_CL_07 @Gram:Indefinido ADD:654 
+	"saber" Verb VLfin Pret Indi Sing 2nd lang:es 00:00:08 00:00:11 tt-2435 MF066_1973_CT_SU2012_CL_07 @Gram:Indefinido 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:08 00:00:11 tt-2436 MF066_1973_CT_SU2012_CL_07 @Gram:Pron:Sujeto ADD:590 
+	"tú" Pronoun PPX Singular lang:es 00:00:08 00:00:11 tt-2436 MF066_1973_CT_SU2012_CL_07 @Gram:Pron:Sujeto 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:08 00:00:11 tt-2437 MF066_1973_CT_SU2012_CL_07 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:08 00:00:11 tt-2438 MF066_1973_CT_SU2012_CL_07 @Gram:Imperf @Gram:SerEstar:Ser ADD:645 ADD:769 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:08 00:00:11 tt-2438 MF066_1973_CT_SU2012_CL_07 @Gram:Imperf @Gram:SerEstar:Ser 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:08 00:00:11 tt-2439 MF066_1973_CT_SU2012_CL_07 @Gram:Det:Art ADD:395 
+	"el" Determiner ART Singular Fem lang:es 00:00:08 00:00:11 tt-2439 MF066_1973_CT_SU2012_CL_07 @Gram:Det:Art 
 "<persona>"
 	"persona" Noun NC Singular lang:es 00:00:08 00:00:11 tt-2440 MF066_1973_CT_SU2012_CL_07 
 "<correcta>"
@@ -67,7 +67,7 @@
 <speaker type="subj">
 
 "<Porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:11 00:00:18 tt-2443 MF066_1973_CT_SU2012_CL_07 @Prag:MarcadoresDisc:Causa ADD:1051 
+	"porque" Conjunction CSUBX lang:es 00:00:11 00:00:18 tt-2443 MF066_1973_CT_SU2012_CL_07 @Prag:MarcadoresDisc:Causa 
 "<tiene>"
 	"tener" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:11 00:00:18 tt-2444 MF066_1973_CT_SU2012_CL_07 
 "<un>"
@@ -75,18 +75,18 @@
 "<corazón>"
 	"corazón" Noun NC Singular lang:es 00:00:11 00:00:18 tt-2446 MF066_1973_CT_SU2012_CL_07 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:11 00:00:18 tt-2447 MF066_1973_CT_SU2012_CL_07 @Gram:Prep ADD:580 
+	"del" Preposition PDEL lang:es 00:00:11 00:00:18 tt-2447 MF066_1973_CT_SU2012_CL_07 @Gram:Prep 
 "<tamaño>"
 	"tamaño" Noun NC Singular lang:es 00:00:11 00:00:18 tt-2448 MF066_1973_CT_SU2012_CL_07 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:11 00:00:18 tt-2449 MF066_1973_CT_SU2012_CL_07 @Gram:Prep ADD:580 
+	"del" Preposition PDEL lang:es 00:00:11 00:00:18 tt-2449 MF066_1973_CT_SU2012_CL_07 @Gram:Prep 
 "<mundo>"
 	"mundo" Noun NC Singular lang:es 00:00:11 00:00:18 tt-2450 MF066_1973_CT_SU2012_CL_07 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:11 00:00:18 tt-2451 MF066_1973_CT_SU2012_CL_07 
 
 "<Él>"
-	"él" Pronoun PPX Singular lang:es 00:00:11 00:00:18 tt-2452 MF066_1973_CT_SU2012_CL_07 @Gram:Pron:Sujeto ADD:590 
+	"él" Pronoun PPX Singular lang:es 00:00:11 00:00:18 tt-2452 MF066_1973_CT_SU2012_CL_07 @Gram:Pron:Sujeto 
 "<no>"
 	"no" Adverb NEG lang:es 00:00:11 00:00:18 tt-2453 MF066_1973_CT_SU2012_CL_07 
 "<se>"
@@ -94,7 +94,7 @@
 "<fija>"
 	"fijar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:11 00:00:18 tt-2455 MF066_1973_CT_SU2012_CL_07 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:11 00:00:18 tt-2456 MF066_1973_CT_SU2012_CL_07 @Gram:Prep ADD:580 
+	"a" Preposition PREP lang:es 00:00:11 00:00:18 tt-2456 MF066_1973_CT_SU2012_CL_07 @Gram:Prep 
 "<quién>"
 	"quién" Pronoun INT Singular lang:es 00:00:11 00:00:18 tt-2457 MF066_1973_CT_SU2012_CL_07 
 "<,>"
@@ -102,7 +102,7 @@
 "<ni>"
 	"ni" Conjunction CCNEG lang:es 00:00:11 00:00:18 tt-2459 MF066_1973_CT_SU2012_CL_07 
 "<por>"
-	"por" Preposition PREP lang:es 00:00:11 00:00:18 tt-2460 MF066_1973_CT_SU2012_CL_07 @Gram:Prep:Por SUBSTITUTE:251 ADD:574 
+	"por" Preposition PREP lang:es 00:00:11 00:00:18 tt-2460 MF066_1973_CT_SU2012_CL_07 @Gram:Prep:Por 
 "<qué>"
 	"qué" Adverb ADV lang:es 00:00:18 00:00:25 tt-2461 MF066_1973_CT_SU2012_CL_07 
 "<,>"
@@ -115,88 +115,88 @@
 	"." Punctuation FS lang:es 00:00:18 00:00:25 tt-2465 MF066_1973_CT_SU2012_CL_07 
 
 "<El>"
-	"el" Determiner ART Singular Masc lang:es 00:00:18 00:00:25 tt-2466 MF066_1973_CT_SU2012_CL_07 @Gram:Det:Art ADD:395 
+	"el" Determiner ART Singular Masc lang:es 00:00:18 00:00:25 tt-2466 MF066_1973_CT_SU2012_CL_07 @Gram:Det:Art 
 "<ayuda>"
 	"ayuda" Noun NC Singular lang:es 00:00:18 00:00:25 tt-2467 MF066_1973_CT_SU2012_CL_07 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:18 00:00:25 tt-2468 MF066_1973_CT_SU2012_CL_07 @Gram:Prep ADD:580 
+	"a" Preposition PREP lang:es 00:00:18 00:00:25 tt-2468 MF066_1973_CT_SU2012_CL_07 @Gram:Prep 
 "<todo>"
 	"todo" Determiner QU lang:es 00:00:18 00:00:25 tt-2469 MF066_1973_CT_SU2012_CL_07 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:18 00:00:25 tt-2470 MF066_1973_CT_SU2012_CL_07 @Gram:Det:Art ADD:395 
+	"el" Determiner ART Singular Masc lang:es 00:00:18 00:00:25 tt-2470 MF066_1973_CT_SU2012_CL_07 @Gram:Det:Art 
 "<mundo>"
 	"mundo" Noun NC Singular lang:es 00:00:18 00:00:25 tt-2471 MF066_1973_CT_SU2012_CL_07 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:18 00:00:25 tt-2472 MF066_1973_CT_SU2012_CL_07 
 
 "<En>"
-	"en" Preposition PREP lang:es 00:00:18 00:00:25 tt-2473 MF066_1973_CT_SU2012_CL_07 @Gram:Prep ADD:580 
+	"en" Preposition PREP lang:es 00:00:18 00:00:25 tt-2473 MF066_1973_CT_SU2012_CL_07 @Gram:Prep 
 "<ese>"
-	"ese" Determiner DM Singular lang:es 00:00:18 00:00:25 tt-2474 MF066_1973_CT_SU2012_CL_07 @Gram:Det:Demo ADD:411 
+	"ese" Determiner DM Singular lang:es 00:00:18 00:00:25 tt-2474 MF066_1973_CT_SU2012_CL_07 @Gram:Det:Demo 
 "<tiempo>"
 	"tiempo" Noun NC Singular lang:es 00:00:18 00:00:25 tt-2475 MF066_1973_CT_SU2012_CL_07 
 "<,>"
 	"," Punctuation CM lang:es 00:00:18 00:00:25 tt-2476 MF066_1973_CT_SU2012_CL_07 
 "<ayudaba>"
-	"ayudar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:18 00:00:25 tt-2477 MF066_1973_CT_SU2012_CL_07 @Gram:Imperf ADD:645 
+	"ayudar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:18 00:00:25 tt-2477 MF066_1973_CT_SU2012_CL_07 @Gram:Imperf 
 "<muchas>"
-	"mucho" Determiner QU lang:es 00:00:18 00:00:25 tt-2478 MF066_1973_CT_SU2012_CL_07 @Gram:Det:CuantIndef ADD:447 
+	"mucho" Determiner QU lang:es 00:00:18 00:00:25 tt-2478 MF066_1973_CT_SU2012_CL_07 @Gram:Det:CuantIndef 
 "<muchachas>"
 	"muchacho" Noun NC Plural lang:es 00:00:18 00:00:25 tt-2479 MF066_1973_CT_SU2012_CL_07 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:18 00:00:25 tt-2480 MF066_1973_CT_SU2012_CL_07 
 
 "<A>"
-	"a" Preposition PREP lang:es 00:00:18 00:00:25 tt-2481 MF066_1973_CT_SU2012_CL_07 @Gram:Prep ADD:580 
+	"a" Preposition PREP lang:es 00:00:18 00:00:25 tt-2481 MF066_1973_CT_SU2012_CL_07 @Gram:Prep 
 "<cualquier>"
-	"cualquier" Determiner QU lang:es 00:00:18 00:00:25 tt-2482 MF066_1973_CT_SU2012_CL_07 @Gram:Det:CuantIndef ADD:442 
+	"cualquier" Determiner QU lang:es 00:00:18 00:00:25 tt-2482 MF066_1973_CT_SU2012_CL_07 @Gram:Det:CuantIndef 
 "<persona>"
 	"persona" Noun NC Singular lang:es 00:00:25 00:00:32 tt-2483 MF066_1973_CT_SU2012_CL_07 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:25 00:00:32 tt-2484 MF066_1973_CT_SU2012_CL_07 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:25 00:00:32 tt-2485 MF066_1973_CT_SU2012_CL_07 @Gram:Prep ADD:580 
+	"en" Preposition PREP lang:es 00:00:25 00:00:32 tt-2485 MF066_1973_CT_SU2012_CL_07 @Gram:Prep 
 "<las>"
-	"el" Determiner ART Plural Fem lang:es 00:00:25 00:00:32 tt-2486 MF066_1973_CT_SU2012_CL_07 @Gram:Det:Art ADD:395 
+	"el" Determiner ART Plural Fem lang:es 00:00:25 00:00:32 tt-2486 MF066_1973_CT_SU2012_CL_07 @Gram:Det:Art 
 "<calles>"
 	"calle" Noun NC Plural lang:es 00:00:25 00:00:32 tt-2487 MF066_1973_CT_SU2012_CL_07 
 "<se>"
-	"se" Other SE lang:es 00:00:25 00:00:32 tt-2488 MF066_1973_CT_SU2012_CL_07 @Gram:Pron:Otros ADD:633 
+	"se" Other SE lang:es 00:00:25 00:00:32 tt-2488 MF066_1973_CT_SU2012_CL_07 @Gram:Pron:Otros 
 "<baja>"
 	"baja" Noun NC Singular lang:es 00:00:25 00:00:32 tt-2489 MF066_1973_CT_SU2012_CL_07 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:25 00:00:32 tt-2490 MF066_1973_CT_SU2012_CL_07 
 "<le>"
-	"él" Pronoun PPC Singular lang:es 00:00:25 00:00:32 tt-2491 MF066_1973_CT_SU2012_CL_07 @Gram:Pron:Objeto ADD:620 
+	"él" Pronoun PPC Singular lang:es 00:00:25 00:00:32 tt-2491 MF066_1973_CT_SU2012_CL_07 @Gram:Pron:Objeto 
 "<ayudaba>"
-	"ayudar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:25 00:00:32 tt-2492 MF066_1973_CT_SU2012_CL_07 @Gram:Imperf ADD:645 
+	"ayudar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:25 00:00:32 tt-2492 MF066_1973_CT_SU2012_CL_07 @Gram:Imperf 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:25 00:00:32 tt-2493 MF066_1973_CT_SU2012_CL_07 
 
 "<O>"
-	"o" Adverb ADV lang:es 00:00:25 00:00:32 tt-2494 MF066_1973_CT_SU2012_CL_07 ID:82 R:Prag:MarcadoresDisc:Igualdad:83 ADDRELATION(Prag:MarcadoresDisc:Igualdad):1093 
+	"o" Adverb ADV lang:es 00:00:25 00:00:32 tt-2494 MF066_1973_CT_SU2012_CL_07 ID:82 R:Prag:MarcadoresDisc:Igualdad:83 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:00:25 00:00:32 tt-2495 MF066_1973_CT_SU2012_CL_07 ID:83 
 "<,>"
 	"," Punctuation CM lang:es 00:00:25 00:00:32 tt-2496 MF066_1973_CT_SU2012_CL_07 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:25 00:00:32 tt-2497 MF066_1973_CT_SU2012_CL_07 @Gram:Pron:Sujeto ADD:590 
+	"yo" Pronoun PPX Singular lang:es 00:00:25 00:00:32 tt-2497 MF066_1973_CT_SU2012_CL_07 @Gram:Pron:Sujeto 
 "<no>"
 	"no" Adverb NEG lang:es 00:00:25 00:00:32 tt-2498 MF066_1973_CT_SU2012_CL_07 
 "<lo>"
-	"él" Pronoun PPC Singular lang:es 00:00:25 00:00:32 tt-2499 MF066_1973_CT_SU2012_CL_07 @Gram:Pron:Objeto ADD:620 
+	"él" Pronoun PPC Singular lang:es 00:00:25 00:00:32 tt-2499 MF066_1973_CT_SU2012_CL_07 @Gram:Pron:Objeto 
 "<vi>"
 	"vi" Determiner CARD Singular lang:es 00:00:25 00:00:32 tt-2500 MF066_1973_CT_SU2012_CL_07 
 "<físicamente>"
 	"físicamente" Adverb ADV lang:es 00:00:25 00:00:32 tt-2501 MF066_1973_CT_SU2012_CL_07 
 "<él>"
-	"él" Pronoun PPX Singular lang:es 00:00:25 00:00:32 tt-2502 MF066_1973_CT_SU2012_CL_07 @Gram:Pron:Sujeto ADD:590 
+	"él" Pronoun PPX Singular lang:es 00:00:25 00:00:32 tt-2502 MF066_1973_CT_SU2012_CL_07 @Gram:Pron:Sujeto 
 "<,>"
 	"," Punctuation CM lang:es 00:00:25 00:00:32 tt-2503 MF066_1973_CT_SU2012_CL_07 
 "<sino>"
 	"sino" Conjunction CCAD lang:es 00:00:25 00:00:32 tt-2504 MF066_1973_CT_SU2012_CL_07 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:32 00:00:34 tt-2505 MF066_1973_CT_SU2012_CL_07 @Gram:Det:Pos ADD:425 
+	"suyo" Pronoun PPO Singular lang:es 00:00:32 00:00:34 tt-2505 MF066_1973_CT_SU2012_CL_07 @Gram:Det:Pos 
 "<corazonsote>"
 	"UNK" Noun NC Singular lang:es 00:00:32 00:00:34 tt-2506 MF066_1973_CT_SU2012_CL_07 
 "<tan>"
@@ -206,7 +206,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:32 00:00:34 tt-2509 MF066_1973_CT_SU2012_CL_07 
 "<tenía>"
-	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:32 00:00:34 tt-2510 MF066_1973_CT_SU2012_CL_07 @Gram:Imperf ADD:645 
+	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:32 00:00:34 tt-2510 MF066_1973_CT_SU2012_CL_07 @Gram:Imperf 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:32 00:00:34 tt-2511 MF066_1973_CT_SU2012_CL_07 
 </speaker>

@@ -1,9 +1,9 @@
 AM063_1992_CT_SU2012_CL_01
-@Gram : 42
+@Gram : 43
 @Gram:Det : 9
 @Gram:Det:Art : 6
 @Gram:Det:Pos : 3
-@Gram:Imperf : 5
+@Gram:Imperf : 6
 @Gram:Prep : 20
 @Gram:Pron : 3
 @Gram:Pron:Objeto : 1
@@ -15,8 +15,9 @@ AM063_1992_CT_SU2012_CL_01
 @Prag:MarcadoresDisc : 3
 @Prag:MarcadoresDisc:Igualdad : 2
 @Prag:MarcadoresDisc:Revision : 1
-R:Gram : 6
-R:Gram:Det : 1
+R:Gram : 7
+R:Gram:Det : 2
+R:Gram:Det:DetCombi : 1
 R:Gram:Det:LoAdj : 1
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepMasc : 1

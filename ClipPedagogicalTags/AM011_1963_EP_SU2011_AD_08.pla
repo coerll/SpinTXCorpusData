@@ -1,5 +1,5 @@
 AM011_1963_EP_SU2011_AD_08
-@Gram : 74
+@Gram : 75
 @Gram:Det : 21
 @Gram:Det:Art : 10
 @Gram:Det:CuantIndef : 1
@@ -13,9 +13,9 @@ AM011_1963_EP_SU2011_AD_08
 @Gram:MSub:Pres : 3
 @Gram:Prep : 20
 @Gram:Prep:Para : 1
-@Gram:Pron : 7
+@Gram:Pron : 8
 @Gram:Pron:Objeto : 4
-@Gram:Pron:Sujeto : 3
+@Gram:Pron:Sujeto : 4
 @Gram:SerEstar : 13
 @Gram:SerEstar:Estar : 5
 @Gram:SerEstar:Ser : 8
@@ -23,7 +23,9 @@ AM011_1963_EP_SU2011_AD_08
 @Prag:MarcadoresDisc : 2
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:MarcadoresDisc:Revision : 1
-R:Gram : 2
+R:Gram : 3
+R:Gram:Det : 1
+R:Gram:Det:DetCombi : 1
 R:Gram:Gustar : 1
 R:Gram:Gustar:Ajenos : 1
 R:Gram:VFut : 1

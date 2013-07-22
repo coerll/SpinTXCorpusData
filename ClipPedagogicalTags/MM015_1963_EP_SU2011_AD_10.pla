@@ -1,7 +1,8 @@
 MM015_1963_EP_SU2011_AD_10
-@Gram : 122
-@Gram:Det : 28
+@Gram : 125
+@Gram:Det : 31
 @Gram:Det:Art : 18
+@Gram:Det:CuantIndef : 3
 @Gram:Det:Demo : 8
 @Gram:Det:Pos : 2
 @Gram:Haber : 8
@@ -37,8 +38,9 @@ R:Gram:SerEstar:EstarAux : 3
 R:Prag : 4
 R:Prag:MarcadoresDisc : 4
 R:Prag:MarcadoresDisc:Igualdad : 4
-R:Vocab : 3
+R:Vocab : 4
 R:Vocab:Entities : 2
 R:Vocab:Entities:Geo : 2
-R:Vocab:Fraseol : 1
+R:Vocab:Fraseol : 2
+R:Vocab:Fraseol:LocAdv : 1
 R:Vocab:Fraseol:VerbPrep : 1

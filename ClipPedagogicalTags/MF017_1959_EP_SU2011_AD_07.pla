@@ -1,13 +1,14 @@
 MF017_1959_EP_SU2011_AD_07
-@Gram : 101
-@Gram:Det : 22
+@Gram : 105
+@Gram:Det : 23
 @Gram:Det:Art : 15
+@Gram:Det:CuantIndef : 1
 @Gram:Det:Demo : 2
 @Gram:Det:Pos : 5
 @Gram:Haber : 1
 @Gram:Haber:Exist : 1
-@Gram:Imperf : 3
-@Gram:Indefinido : 16
+@Gram:Imperf : 5
+@Gram:Indefinido : 17
 @Gram:MSub : 4
 @Gram:MSub:Pres : 2
 @Gram:MSub:Pret : 2
@@ -23,6 +24,9 @@ MF017_1959_EP_SU2011_AD_07
 @Prag:MarcadoresDisc : 4
 @Prag:MarcadoresDisc:Causa : 3
 @Prag:MarcadoresDisc:Revision : 1
+R:Gram : 1
+R:Gram:Det : 1
+R:Gram:Det:DetCombi : 1
 R:Prag : 3
 R:Prag:MarcadoresDisc : 3
 R:Prag:MarcadoresDisc:Igualdad : 3

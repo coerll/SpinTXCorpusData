@@ -1,13 +1,14 @@
 MF016_1965_EP_SU2011_AD_02
-@Gram : 111
-@Gram:Det : 15
+@Gram : 116
+@Gram:Det : 16
 @Gram:Det:Art : 8
+@Gram:Det:CuantIndef : 1
 @Gram:Det:Demo : 1
 @Gram:Det:Pos : 6
 @Gram:Haber : 1
 @Gram:Haber:Exist : 1
 @Gram:Imperf : 15
-@Gram:Indefinido : 8
+@Gram:Indefinido : 12
 @Gram:MSub : 4
 @Gram:MSub:Pres : 1
 @Gram:MSub:Pret : 3
@@ -25,7 +26,9 @@ MF016_1965_EP_SU2011_AD_02
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:RecuDiscurso : 1
 @Prag:RecuDiscurso:GanarTiempo : 1
-R:Gram : 5
+R:Gram : 6
+R:Gram:Det : 1
+R:Gram:Det:DetCombi : 1
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepArtFem : 1
 R:Gram:Pron : 1

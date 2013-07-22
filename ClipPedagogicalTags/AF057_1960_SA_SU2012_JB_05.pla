@@ -1,7 +1,8 @@
 AF057_1960_SA_SU2012_JB_05
-@Gram : 103
-@Gram:Det : 15
+@Gram : 105
+@Gram:Det : 17
 @Gram:Det:Art : 5
+@Gram:Det:CuantIndef : 2
 @Gram:Det:Demo : 2
 @Gram:Det:Pos : 8
 @Gram:Haber : 1
@@ -24,8 +25,9 @@ AF057_1960_SA_SU2012_JB_05
 @Prag:MarcadoresDisc:Causa : 1
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:MarcadoresDisc:Revision : 1
-R:Gram : 7
-R:Gram:Det : 1
+R:Gram : 9
+R:Gram:Det : 3
+R:Gram:Det:DetCombi : 2
 R:Gram:Det:LoAdj : 1
 R:Gram:SerEstar : 5
 R:Gram:SerEstar:EstarAux : 5

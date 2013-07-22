@@ -1,8 +1,9 @@
 AM048_1982_CT_SU2011_ER_05
-@Gram : 130
-@Gram:Det : 18
+@Gram : 138
+@Gram:Det : 26
 @Gram:Det:Art : 14
-@Gram:Det:Demo : 1
+@Gram:Det:CuantIndef : 7
+@Gram:Det:Demo : 2
 @Gram:Det:Pos : 3
 @Gram:Imperf : 11
 @Gram:Indefinido : 19
@@ -25,9 +26,11 @@ AM048_1982_CT_SU2011_ER_05
 @Prag:MarcadoresDisc:Revision : 1
 @Prag:RecuDiscurso : 2
 @Prag:RecuDiscurso:GanarTiempo : 2
-R:Gram : 6
+R:Gram : 7
 R:Gram:Aux : 2
 R:Gram:Aux:Haber : 2
+R:Gram:Det : 1
+R:Gram:Det:DetCombi : 1
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepMasc : 1
 R:Gram:PerfPerif : 2

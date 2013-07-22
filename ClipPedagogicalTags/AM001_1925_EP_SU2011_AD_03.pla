@@ -1,13 +1,14 @@
 AM001_1925_EP_SU2011_AD_03
-@Gram : 164
-@Gram:Det : 35
+@Gram : 166
+@Gram:Det : 36
 @Gram:Det:Art : 24
+@Gram:Det:CuantIndef : 1
 @Gram:Det:Demo : 4
 @Gram:Det:Pos : 7
 @Gram:Haber : 3
 @Gram:Haber:Exist : 3
 @Gram:Imperf : 35
-@Gram:Indefinido : 1
+@Gram:Indefinido : 2
 @Gram:MImp : 1
 @Gram:MImp:Informal : 1
 @Gram:MSub : 11
@@ -27,9 +28,11 @@ AM001_1925_EP_SU2011_AD_03
 @Prag:MarcadoresDisc : 6
 @Prag:MarcadoresDisc:Causa : 2
 @Prag:MarcadoresDisc:Revision : 4
-R:Gram : 6
+R:Gram : 7
 R:Gram:Aux : 1
 R:Gram:Aux:Haber : 1
+R:Gram:Det : 1
+R:Gram:Det:DetCombi : 1
 R:Gram:PerfPerif : 1
 R:Gram:VFut : 4
 R:Gram:VFut:Perifrasis : 4

@@ -1,7 +1,8 @@
 AM063_1992_CT_SU2012_CL_10
-@Gram : 68
-@Gram:Det : 15
+@Gram : 72
+@Gram:Det : 18
 @Gram:Det:Art : 14
+@Gram:Det:CuantIndef : 3
 @Gram:Det:Demo : 1
 @Gram:Imperf : 3
 @Gram:Indefinido : 3
@@ -15,6 +16,8 @@ AM063_1992_CT_SU2012_CL_10
 @Gram:SerEstar : 10
 @Gram:SerEstar:Estar : 1
 @Gram:SerEstar:Ser : 9
+@Gram:VFut : 1
+@Gram:VFut:Conjugado : 1
 @Prag : 9
 @Prag:MarcadoresDisc : 9
 @Prag:MarcadoresDisc:Causa : 4
@@ -31,6 +34,7 @@ R:Gram:SerEstar:EstarAux : 1
 R:Prag : 2
 R:Prag:MarcadoresDisc : 2
 R:Prag:MarcadoresDisc:Igualdad : 2
-R:Vocab : 1
-R:Vocab:Fraseol : 1
+R:Vocab : 3
+R:Vocab:Fraseol : 3
+R:Vocab:Fraseol:LocAdv : 2
 R:Vocab:Fraseol:VerbPrep : 1

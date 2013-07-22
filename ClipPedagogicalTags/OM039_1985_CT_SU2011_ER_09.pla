@@ -1,7 +1,8 @@
 OM039_1985_CT_SU2011_ER_09
-@Gram : 141
-@Gram:Det : 29
+@Gram : 145
+@Gram:Det : 34
 @Gram:Det:Art : 22
+@Gram:Det:CuantIndef : 5
 @Gram:Det:Demo : 4
 @Gram:Det:Pos : 3
 @Gram:Haber : 5
@@ -14,9 +15,9 @@ OM039_1985_CT_SU2011_ER_09
 @Gram:Prep : 61
 @Gram:Prep:Para : 2
 @Gram:Prep:Por : 7
-@Gram:Pron : 33
+@Gram:Pron : 32
 @Gram:Pron:Objeto : 17
-@Gram:Pron:Otros : 5
+@Gram:Pron:Otros : 4
 @Gram:Pron:Sujeto : 11
 @Gram:SerEstar : 8
 @Gram:SerEstar:Estar : 3
@@ -48,6 +49,7 @@ R:Herit:Contacto:Mixtas : 1
 R:Prag : 5
 R:Prag:MarcadoresDisc : 5
 R:Prag:MarcadoresDisc:Igualdad : 5
-R:Vocab : 2
-R:Vocab:Fraseol : 2
+R:Vocab : 3
+R:Vocab:Fraseol : 3
+R:Vocab:Fraseol:LocAdv : 1
 R:Vocab:Fraseol:VerbPrep : 2

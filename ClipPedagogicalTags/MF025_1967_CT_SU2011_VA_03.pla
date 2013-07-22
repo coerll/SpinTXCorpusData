@@ -1,7 +1,8 @@
 MF025_1967_CT_SU2011_VA_03
-@Gram : 79
-@Gram:Det : 20
+@Gram : 81
+@Gram:Det : 22
 @Gram:Det:Art : 8
+@Gram:Det:CuantIndef : 2
 @Gram:Det:Demo : 1
 @Gram:Det:Pos : 11
 @Gram:Haber : 1
@@ -23,10 +24,11 @@ MF025_1967_CT_SU2011_VA_03
 @Prag:MarcadoresDisc:Revision : 1
 @Prag:RecuDiscurso : 1
 @Prag:RecuDiscurso:GanarTiempo : 1
-R:Gram : 11
+R:Gram : 12
 R:Gram:Aux : 3
 R:Gram:Aux:Haber : 3
-R:Gram:Det : 2
+R:Gram:Det : 3
+R:Gram:Det:DetCombi : 1
 R:Gram:Det:LoAdj : 2
 R:Gram:PerfPerif : 3
 R:Gram:SerEstar : 3

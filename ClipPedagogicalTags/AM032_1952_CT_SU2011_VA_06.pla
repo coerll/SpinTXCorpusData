@@ -1,7 +1,8 @@
 AM032_1952_CT_SU2011_VA_06
-@Gram : 193
-@Gram:Det : 34
+@Gram : 200
+@Gram:Det : 40
 @Gram:Det:Art : 31
+@Gram:Det:CuantIndef : 6
 @Gram:Det:Demo : 2
 @Gram:Det:Pos : 1
 @Gram:Haber : 8
@@ -21,14 +22,15 @@ AM032_1952_CT_SU2011_VA_06
 @Gram:SerEstar : 19
 @Gram:SerEstar:Estar : 3
 @Gram:SerEstar:Ser : 16
-@Gram:VFut : 2
-@Gram:VFut:Conjugado : 2
+@Gram:VFut : 3
+@Gram:VFut:Conjugado : 3
 @Prag : 7
 @Prag:MarcadoresDisc : 7
 @Prag:MarcadoresDisc:Causa : 1
 @Prag:MarcadoresDisc:Revision : 6
-R:Gram : 3
-R:Gram:Det : 1
+R:Gram : 5
+R:Gram:Det : 3
+R:Gram:Det:DetCombi : 2
 R:Gram:Det:LoAdj : 1
 R:Gram:MSub : 1
 R:Gram:MSub:Pret : 1

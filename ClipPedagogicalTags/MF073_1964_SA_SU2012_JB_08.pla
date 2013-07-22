@@ -1,7 +1,8 @@
 MF073_1964_SA_SU2012_JB_08
-@Gram : 80
-@Gram:Det : 7
+@Gram : 81
+@Gram:Det : 8
 @Gram:Det:Art : 5
+@Gram:Det:CuantIndef : 1
 @Gram:Det:Pos : 2
 @Gram:Haber : 3
 @Gram:Haber:Exist : 3
@@ -21,9 +22,12 @@ MF073_1964_SA_SU2012_JB_08
 @Prag:MarcadoresDisc:Causa : 4
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:MarcadoresDisc:Revision : 1
-R:Func : 3
-R:Func:Expresar : 3
-R:Func:Expresar:Sugerencias : 3
+R:Func : 1
+R:Func:Expresar : 1
+R:Func:Expresar:Sugerencias : 1
+R:Gram : 1
+R:Gram:Det : 1
+R:Gram:Det:DetCombi : 1
 R:Prag : 2
 R:Prag:MarcadoresDisc : 2
 R:Prag:MarcadoresDisc:Igualdad : 2

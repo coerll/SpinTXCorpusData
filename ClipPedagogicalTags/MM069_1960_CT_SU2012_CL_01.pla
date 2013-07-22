@@ -1,12 +1,13 @@
 MM069_1960_CT_SU2012_CL_01
-@Gram : 84
-@Gram:Det : 19
+@Gram : 88
+@Gram:Det : 20
 @Gram:Det:Art : 13
+@Gram:Det:CuantIndef : 1
 @Gram:Det:Pos : 6
 @Gram:Haber : 2
 @Gram:Haber:Exist : 2
 @Gram:Imperf : 2
-@Gram:Indefinido : 3
+@Gram:Indefinido : 6
 @Gram:MSub : 3
 @Gram:MSub:Pres : 3
 @Gram:Prep : 29
@@ -24,13 +25,16 @@ MM069_1960_CT_SU2012_CL_01
 @Prag:MarcadoresDisc:Revision : 3
 @Prag:RecuDiscurso : 1
 @Prag:RecuDiscurso:GanarTiempo : 1
-R:Gram : 2
-R:Gram:Det : 2
+R:Gram : 3
+R:Gram:Det : 3
+R:Gram:Det:DetCombi : 1
 R:Gram:Det:LoAdj : 2
 R:Prag : 3
 R:Prag:MarcadoresDisc : 3
 R:Prag:MarcadoresDisc:Igualdad : 2
 R:Prag:MarcadoresDisc:Revision : 1
-R:Vocab : 2
+R:Vocab : 3
 R:Vocab:Entities : 2
 R:Vocab:Entities:Geo : 2
+R:Vocab:Fraseol : 1
+R:Vocab:Fraseol:LocAdv : 1

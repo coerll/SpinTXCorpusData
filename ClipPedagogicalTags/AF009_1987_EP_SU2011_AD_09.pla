@@ -1,7 +1,8 @@
 AF009_1987_EP_SU2011_AD_09
-@Gram : 35
-@Gram:Det : 5
+@Gram : 36
+@Gram:Det : 6
 @Gram:Det:Art : 4
+@Gram:Det:CuantIndef : 1
 @Gram:Det:Demo : 1
 @Gram:Haber : 3
 @Gram:Haber:Exist : 3
@@ -21,7 +22,9 @@ AF009_1987_EP_SU2011_AD_09
 @Prag:MarcadoresDisc:Causa : 1
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:MarcadoresDisc:Revision : 3
-R:Gram : 3
+R:Gram : 4
+R:Gram:Det : 1
+R:Gram:Det:DetCombi : 1
 R:Gram:SerEstar : 3
 R:Gram:SerEstar:EstarAux : 3
 R:Prag : 1

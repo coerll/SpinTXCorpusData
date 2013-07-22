@@ -1,12 +1,14 @@
 AF055_1993_SA_SU2012_JB_06
-@Gram : 58
-@Gram:Det : 18
+@Gram : 62
+@Gram:Det : 20
 @Gram:Det:Art : 12
+@Gram:Det:CuantIndef : 2
 @Gram:Det:Demo : 1
 @Gram:Det:Pos : 5
 @Gram:Haber : 1
 @Gram:Haber:Exist : 1
 @Gram:Imperf : 1
+@Gram:Indefinido : 2
 @Gram:MSub : 1
 @Gram:MSub:Pres : 1
 @Gram:Prep : 19
@@ -28,6 +30,8 @@ R:Gram:Genero:ExcepMasc : 2
 R:Gram:Gustar : 3
 R:Gram:Gustar:Ajenos : 2
 R:Gram:Gustar:Propios : 1
-R:Vocab : 1
+R:Vocab : 2
 R:Vocab:Entities : 1
 R:Vocab:Entities:Geo : 1
+R:Vocab:Fraseol : 1
+R:Vocab:Fraseol:LocAdv : 1

@@ -1,7 +1,8 @@
 MM014_1961_EP_SU2011_AD_09
-@Gram : 21
-@Gram:Det : 4
+@Gram : 27
+@Gram:Det : 10
 @Gram:Det:Art : 4
+@Gram:Det:CuantIndef : 6
 @Gram:MSub : 2
 @Gram:MSub:Pres : 1
 @Gram:MSub:Pret : 1
@@ -16,9 +17,11 @@ MM014_1961_EP_SU2011_AD_09
 @Prag : 1
 @Prag:MarcadoresDisc : 1
 @Prag:MarcadoresDisc:Causa : 1
-R:Gram : 5
+R:Gram : 6
 R:Gram:Aux : 2
 R:Gram:Aux:Haber : 2
+R:Gram:Det : 1
+R:Gram:Det:DetCombi : 1
 R:Gram:Gustar : 1
 R:Gram:Gustar:Propios : 1
 R:Gram:PerfPerif : 2

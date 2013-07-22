@@ -1,7 +1,7 @@
 <text id="AF057_1960_SA_SU2012_JB_01">
 <speaker type="subj">
 "<Me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-105 AF057_1960_SA_SU2012_JB_01 @Gram:Pron:Objeto ADD:614 
+	"yo" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-105 AF057_1960_SA_SU2012_JB_01 @Gram:Pron:Objeto 
 "<dicen>"
 	"decir" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:00 00:00:07 tt-106 AF057_1960_SA_SU2012_JB_01 
 "<,>"
@@ -9,29 +9,29 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-108 AF057_1960_SA_SU2012_JB_01 
 "<desde>"
-	"desde" Preposition PREP lang:es 00:00:00 00:00:07 tt-109 AF057_1960_SA_SU2012_JB_01 @Gram:Prep ADD:580 
+	"desde" Preposition PREP lang:es 00:00:00 00:00:07 tt-109 AF057_1960_SA_SU2012_JB_01 @Gram:Prep 
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:00 00:00:07 tt-110 AF057_1960_SA_SU2012_JB_01 
 "<nací>"
-	"nacer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:00 00:00:07 tt-111 AF057_1960_SA_SU2012_JB_01 @Gram:Indefinido ADD:654 
+	"nacer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:00 00:00:07 tt-111 AF057_1960_SA_SU2012_JB_01 @Gram:Indefinido 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:00 00:00:07 tt-112 AF057_1960_SA_SU2012_JB_01 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-113 AF057_1960_SA_SU2012_JB_01 
 "<empecé>"
-	"empezar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:00 00:00:07 tt-114 AF057_1960_SA_SU2012_JB_01 @Gram:Indefinido ID:10 R:Vocab:Fraseol:VerbPrep:11 ADD:654 ADDRELATION(Vocab:Fraseol:VerbPrep):1172 
+	"empezar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:00 00:00:07 tt-114 AF057_1960_SA_SU2012_JB_01 @Gram:Indefinido ID:10 R:Vocab:Fraseol:VerbPrep:11 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:00 00:00:07 tt-115 AF057_1960_SA_SU2012_JB_01 @Gram:Prep ID:11 ADD:580 
+	"a" Preposition PREP lang:es 00:00:00 00:00:07 tt-115 AF057_1960_SA_SU2012_JB_01 @Gram:Prep ID:11 
 "<hablar>"
-	"hablar" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-116 AF057_1960_SA_SU2012_JB_01 ID:12 R:Vocab:Fraseol:VerbPrep:14 SUBSTITUTE:309 ADDRELATION(Vocab:Fraseol:VerbPrep):1170 
+	"hablar" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-116 AF057_1960_SA_SU2012_JB_01 ID:12 R:Vocab:Fraseol:VerbPrep:14 
 "<,>"
 	"," Punctuation CM lang:es 00:00:00 00:00:07 tt-117 AF057_1960_SA_SU2012_JB_01 
 "<hasta>"
-	"hasta" Preposition PREP lang:es 00:00:00 00:00:07 tt-118 AF057_1960_SA_SU2012_JB_01 @Gram:Prep ID:14 ADD:580 
+	"hasta" Preposition PREP lang:es 00:00:00 00:00:07 tt-118 AF057_1960_SA_SU2012_JB_01 @Gram:Prep ID:14 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-119 AF057_1960_SA_SU2012_JB_01 
 "<tenía>"
-	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:07 tt-120 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf ADD:645 
+	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:07 tt-120 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf 
 "<como>"
 	"como" Adverb ADV lang:es 00:00:00 00:00:07 tt-121 AF057_1960_SA_SU2012_JB_01 
 "<seis>"
@@ -45,7 +45,7 @@
 "<más>"
 	"más" Adverb ADV lang:es 00:00:07 00:00:14 tt-126 AF057_1960_SA_SU2012_JB_01 
 "<hablaba>"
-	"hablar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:07 00:00:14 tt-127 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf ADD:645 
+	"hablar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:07 00:00:14 tt-127 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf 
 "<español>"
 	"español" Adjective ADJ Singular lang:es 00:00:07 00:00:14 tt-128 AF057_1960_SA_SU2012_JB_01 
 "<$.>"
@@ -58,15 +58,15 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:07 00:00:14 tt-131 AF057_1960_SA_SU2012_JB_01 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:07 00:00:14 tt-132 AF057_1960_SA_SU2012_JB_01 @Gram:Pron:Sujeto ADD:590 
+	"yo" Pronoun PPX Singular lang:es 00:00:07 00:00:14 tt-132 AF057_1960_SA_SU2012_JB_01 @Gram:Pron:Sujeto 
 "<decía>"
-	"decir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:07 00:00:14 tt-133 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf ADD:645 
+	"decir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:07 00:00:14 tt-133 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf 
 "<,>"
 	"," Punctuation CM lang:es 00:00:07 00:00:14 tt-134 AF057_1960_SA_SU2012_JB_01 
 "<según>"
 	"según" Conjunction CSUBF lang:es 00:00:07 00:00:14 tt-135 AF057_1960_SA_SU2012_JB_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:07 00:00:14 tt-136 AF057_1960_SA_SU2012_JB_01 @Gram:Det:Pos ADD:425 
+	"mío" Pronoun PPO Singular lang:es 00:00:07 00:00:14 tt-136 AF057_1960_SA_SU2012_JB_01 @Gram:Det:Pos 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:07 00:00:14 tt-137 AF057_1960_SA_SU2012_JB_01 
 "<,>"
@@ -74,7 +74,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:07 00:00:14 tt-139 AF057_1960_SA_SU2012_JB_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:07 00:00:14 tt-140 AF057_1960_SA_SU2012_JB_01 @Gram:Det:Pos ADD:425 
+	"mío" Pronoun PPO Singular lang:es 00:00:07 00:00:14 tt-140 AF057_1960_SA_SU2012_JB_01 @Gram:Det:Pos 
 "<padre>"
 	"padre" Noun NC Singular lang:es 00:00:07 00:00:14 tt-141 AF057_1960_SA_SU2012_JB_01 
 "<,>"
@@ -82,7 +82,7 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:07 00:00:14 tt-143 AF057_1960_SA_SU2012_JB_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:07 00:00:14 tt-144 AF057_1960_SA_SU2012_JB_01 @Gram:Det:Pos ADD:425 
+	"mío" Pronoun PPO Singular lang:es 00:00:07 00:00:14 tt-144 AF057_1960_SA_SU2012_JB_01 @Gram:Det:Pos 
 "<abuela>"
 	"abuelo" Noun NC Singular lang:es 00:00:07 00:00:14 tt-145 AF057_1960_SA_SU2012_JB_01 
 "<,>"
@@ -94,31 +94,31 @@
 "<más>"
 	"más" Adverb ADV lang:es 00:00:14 00:00:19 tt-149 AF057_1960_SA_SU2012_JB_01 
 "<quería>"
-	"querer" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:14 00:00:19 tt-150 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf ADD:645 
+	"querer" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:14 00:00:19 tt-150 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf 
 "<hablar>"
-	"hablar" Verb VLinf Infinitive lang:es 00:00:14 00:00:19 tt-151 AF057_1960_SA_SU2012_JB_01 SUBSTITUTE:309 
+	"hablar" Verb VLinf Infinitive lang:es 00:00:14 00:00:19 tt-151 AF057_1960_SA_SU2012_JB_01 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:14 00:00:19 tt-152 AF057_1960_SA_SU2012_JB_01 
 "<,>"
 	"," Punctuation CM lang:es 00:00:14 00:00:19 tt-153 AF057_1960_SA_SU2012_JB_01 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:14 00:00:19 tt-154 AF057_1960_SA_SU2012_JB_01 @Prag:MarcadoresDisc:Causa ADD:1051 
+	"porque" Conjunction CSUBX lang:es 00:00:14 00:00:19 tt-154 AF057_1960_SA_SU2012_JB_01 @Prag:MarcadoresDisc:Causa 
 "<decía>"
-	"decir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:14 00:00:19 tt-155 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf ADD:645 
+	"decir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:14 00:00:19 tt-155 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:14 00:00:19 tt-156 AF057_1960_SA_SU2012_JB_01 
 "<todos>"
 	"todo" Determiner QU lang:es 00:00:14 00:00:19 tt-157 AF057_1960_SA_SU2012_JB_01 
 "<los>"
-	"el" Determiner ART Plural Masc lang:es 00:00:14 00:00:19 tt-158 AF057_1960_SA_SU2012_JB_01 @Gram:Det:Art ADD:395 
+	"el" Determiner ART Plural Masc lang:es 00:00:14 00:00:19 tt-158 AF057_1960_SA_SU2012_JB_01 @Gram:Det:Art 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:14 00:00:19 tt-159 AF057_1960_SA_SU2012_JB_01 
 "<hablaban>"
-	"hablar" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:14 00:00:19 tt-160 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf ADD:645 
+	"hablar" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:14 00:00:19 tt-160 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:14 00:00:19 tt-161 AF057_1960_SA_SU2012_JB_01 
 "<eran>"
-	"ser" Verb VSfin Imp Indi Plural 3rd lang:es 00:00:19 00:00:26 tt-162 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf @Gram:SerEstar:Ser SUBSTITUTE:293 ADD:645 ADD:769 
+	"ser" Verb VSfin Imp Indi Plural 3rd lang:es 00:00:19 00:00:26 tt-162 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf @Gram:SerEstar:Ser 
 "<estúpidos>"
 	"UNK" Adjective ADJ Plural lang:es 00:00:19 00:00:26 tt-163 AF057_1960_SA_SU2012_JB_01 
 "<$.>"
@@ -131,19 +131,19 @@
 "<sé>"
 	"saber|ser" Verb VLfin Pres Indi Sing 1st lang:es 00:00:19 00:00:26 tt-167 AF057_1960_SA_SU2012_JB_01 
 "<por>"
-	"por" Preposition PREP lang:es 00:00:19 00:00:26 tt-168 AF057_1960_SA_SU2012_JB_01 @Gram:Prep:Por SUBSTITUTE:251 ADD:574 
+	"por" Preposition PREP lang:es 00:00:19 00:00:26 tt-168 AF057_1960_SA_SU2012_JB_01 @Gram:Prep:Por 
 "<qué>"
 	"qué" Adverb ADV lang:es 00:00:19 00:00:26 tt-169 AF057_1960_SA_SU2012_JB_01 
 "<decía>"
-	"decir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:19 00:00:26 tt-170 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf ADD:645 
+	"decir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:19 00:00:26 tt-170 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf 
 "<eso>"
-	"ese" Determiner DM Singular lang:es 00:00:19 00:00:26 tt-171 AF057_1960_SA_SU2012_JB_01 @Gram:Det:Demo ADD:418 
+	"ese" Determiner DM Singular lang:es 00:00:19 00:00:26 tt-171 AF057_1960_SA_SU2012_JB_01 @Gram:Det:Demo 
 "<,>"
 	"," Punctuation CM lang:es 00:00:19 00:00:26 tt-172 AF057_1960_SA_SU2012_JB_01 
 "<no>"
 	"no" Adverb NEG lang:es 00:00:19 00:00:26 tt-173 AF057_1960_SA_SU2012_JB_01 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:19 00:00:26 tt-174 AF057_1960_SA_SU2012_JB_01 @Gram:Pron:Objeto ADD:614 
+	"yo" Pronoun PPX Singular lang:es 00:00:19 00:00:26 tt-174 AF057_1960_SA_SU2012_JB_01 @Gram:Pron:Objeto 
 "<acuerdo>"
 	"acuerdo" Noun NC Singular lang:es 00:00:19 00:00:26 tt-175 AF057_1960_SA_SU2012_JB_01 
 "<nada>"
@@ -151,13 +151,13 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:19 00:00:26 tt-177 AF057_1960_SA_SU2012_JB_01 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:19 00:00:26 tt-178 AF057_1960_SA_SU2012_JB_01 @Gram:SerEstar:Ser ADD:769 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:19 00:00:26 tt-178 AF057_1960_SA_SU2012_JB_01 @Gram:SerEstar:Ser 
 "<no>"
 	"no" Adverb ADV lang:es 00:00:19 00:00:26 tt-179 AF057_1960_SA_SU2012_JB_01 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:19 00:00:26 tt-180 AF057_1960_SA_SU2012_JB_01 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:19 00:00:26 tt-181 AF057_1960_SA_SU2012_JB_01 @Gram:Pron:Objeto ADD:614 
+	"yo" Pronoun PPX Singular lang:es 00:00:19 00:00:26 tt-181 AF057_1960_SA_SU2012_JB_01 @Gram:Pron:Objeto 
 "<acuerdo>"
 	"acuerdo" Noun NC Singular lang:es 00:00:19 00:00:26 tt-182 AF057_1960_SA_SU2012_JB_01 
 "<que>"
@@ -167,7 +167,7 @@
 "<más>"
 	"más" Adverb ADV lang:es 00:00:26 00:00:27 tt-185 AF057_1960_SA_SU2012_JB_01 
 "<hablaba>"
-	"hablar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:26 00:00:27 tt-186 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf ADD:645 
+	"hablar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:26 00:00:27 tt-186 AF057_1960_SA_SU2012_JB_01 @Gram:Imperf 
 "<español>"
 	"español" Adjective ADJ Singular lang:es 00:00:26 00:00:27 tt-187 AF057_1960_SA_SU2012_JB_01 
 "<$.>"

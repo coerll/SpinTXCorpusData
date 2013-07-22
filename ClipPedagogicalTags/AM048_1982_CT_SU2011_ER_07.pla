@@ -1,7 +1,8 @@
 AM048_1982_CT_SU2011_ER_07
-@Gram : 82
-@Gram:Det : 14
+@Gram : 91
+@Gram:Det : 23
 @Gram:Det:Art : 12
+@Gram:Det:CuantIndef : 9
 @Gram:Det:Demo : 2
 @Gram:Haber : 5
 @Gram:Haber:Exist : 5
@@ -23,10 +24,11 @@ AM048_1982_CT_SU2011_ER_07
 @Prag:MarcadoresDisc:Causa : 1
 @Prag:MarcadoresDisc:Igualdad : 5
 @Prag:MarcadoresDisc:Revision : 1
-R:Gram : 14
+R:Gram : 15
 R:Gram:Aux : 5
 R:Gram:Aux:Haber : 5
-R:Gram:Det : 1
+R:Gram:Det : 2
+R:Gram:Det:DetCombi : 1
 R:Gram:Det:LoAdj : 1
 R:Gram:Gustar : 1
 R:Gram:Gustar:Propios : 1

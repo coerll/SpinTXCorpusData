@@ -1,12 +1,15 @@
 AM063_1992_CT_SU2012_CL_02
-@Gram : 74
-@Gram:Det : 20
+@Gram : 78
+@Gram:Det : 23
 @Gram:Det:Art : 15
+@Gram:Det:CuantIndef : 3
 @Gram:Det:Demo : 4
 @Gram:Det:Pos : 1
 @Gram:Haber : 1
 @Gram:Haber:Exist : 1
 @Gram:Indefinido : 1
+@Gram:MSub : 1
+@Gram:MSub:Pret : 1
 @Gram:Prep : 40
 @Gram:Prep:Para : 1
 @Gram:Prep:Por : 3
@@ -20,8 +23,9 @@ AM063_1992_CT_SU2012_CL_02
 @Prag:MarcadoresDisc : 4
 @Prag:MarcadoresDisc:Causa : 2
 @Prag:MarcadoresDisc:Revision : 2
-R:Gram : 3
-R:Gram:Det : 1
+R:Gram : 5
+R:Gram:Det : 3
+R:Gram:Det:DetCombi : 2
 R:Gram:Det:LoAdj : 1
 R:Gram:Genero : 2
 R:Gram:Genero:ExcepMasc : 2

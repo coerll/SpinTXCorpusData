@@ -1,13 +1,14 @@
 AM032_1952_CT_SU2011_VA_02
-@Gram : 123
-@Gram:Det : 28
+@Gram : 128
+@Gram:Det : 32
 @Gram:Det:Art : 18
+@Gram:Det:CuantIndef : 4
 @Gram:Det:Demo : 3
 @Gram:Det:Pos : 7
 @Gram:Haber : 1
 @Gram:Haber:Exist : 1
 @Gram:Imperf : 12
-@Gram:Indefinido : 12
+@Gram:Indefinido : 13
 @Gram:MSub : 2
 @Gram:MSub:Pres : 1
 @Gram:MSub:Pret : 1
@@ -24,10 +25,11 @@ AM032_1952_CT_SU2011_VA_02
 @Prag:MarcadoresDisc : 3
 @Prag:MarcadoresDisc:Causa : 2
 @Prag:MarcadoresDisc:Revision : 1
-R:Gram : 5
+R:Gram : 6
 R:Gram:Aux : 1
 R:Gram:Aux:Haber : 1
-R:Gram:Det : 2
+R:Gram:Det : 3
+R:Gram:Det:DetCombi : 1
 R:Gram:Det:LoAdj : 2
 R:Gram:PerfPerif : 1
 R:Gram:VFut : 1

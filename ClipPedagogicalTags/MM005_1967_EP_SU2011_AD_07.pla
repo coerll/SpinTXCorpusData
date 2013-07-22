@@ -1,8 +1,9 @@
 MM005_1967_EP_SU2011_AD_07
-@Gram : 190
-@Gram:Det : 25
+@Gram : 194
+@Gram:Det : 29
 @Gram:Det:Art : 16
-@Gram:Det:Demo : 2
+@Gram:Det:CuantIndef : 3
+@Gram:Det:Demo : 3
 @Gram:Det:Pos : 7
 @Gram:Haber : 2
 @Gram:Haber:Exist : 2
@@ -30,10 +31,11 @@ MM005_1967_EP_SU2011_AD_07
 @Prag:MarcadoresDisc:Revision : 5
 @Prag:RecuDiscurso : 1
 @Prag:RecuDiscurso:GanarTiempo : 1
-R:Gram : 22
+R:Gram : 23
 R:Gram:Aux : 5
 R:Gram:Aux:Haber : 5
-R:Gram:Det : 2
+R:Gram:Det : 3
+R:Gram:Det:DetCombi : 1
 R:Gram:Det:LoAdj : 2
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepMasc : 1

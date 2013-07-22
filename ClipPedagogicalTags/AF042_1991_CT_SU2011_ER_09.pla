@@ -1,7 +1,8 @@
 AF042_1991_CT_SU2011_ER_09
-@Gram : 128
-@Gram:Det : 25
+@Gram : 134
+@Gram:Det : 29
 @Gram:Det:Art : 13
+@Gram:Det:CuantIndef : 4
 @Gram:Det:Demo : 3
 @Gram:Det:Pos : 9
 @Gram:Gustar : 1
@@ -22,15 +23,18 @@ AF042_1991_CT_SU2011_ER_09
 @Gram:SerEstar : 11
 @Gram:SerEstar:Estar : 2
 @Gram:SerEstar:Ser : 9
+@Gram:VFut : 2
+@Gram:VFut:Conjugado : 2
 @Prag : 8
 @Prag:MarcadoresDisc : 8
 @Prag:MarcadoresDisc:Causa : 3
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:MarcadoresDisc:Revision : 4
-R:Gram : 14
+R:Gram : 15
 R:Gram:Aux : 5
 R:Gram:Aux:Haber : 5
-R:Gram:Det : 1
+R:Gram:Det : 2
+R:Gram:Det:DetCombi : 1
 R:Gram:Det:LoAdj : 1
 R:Gram:PerfPerif : 5
 R:Gram:SerEstar : 1

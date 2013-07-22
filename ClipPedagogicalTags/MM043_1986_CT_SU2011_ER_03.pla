@@ -1,12 +1,13 @@
 MM043_1986_CT_SU2011_ER_03
-@Gram : 141
-@Gram:Det : 23
+@Gram : 143
+@Gram:Det : 24
 @Gram:Det:Art : 13
-@Gram:Det:Pos : 10
+@Gram:Det:CuantIndef : 2
+@Gram:Det:Pos : 9
 @Gram:Haber : 1
 @Gram:Haber:Exist : 1
 @Gram:Imperf : 11
-@Gram:Indefinido : 8
+@Gram:Indefinido : 9
 @Gram:MSub : 6
 @Gram:MSub:Pres : 2
 @Gram:MSub:Pret : 4
@@ -24,7 +25,9 @@ MM043_1986_CT_SU2011_ER_03
 @Prag:MarcadoresDisc : 8
 @Prag:MarcadoresDisc:Causa : 3
 @Prag:MarcadoresDisc:Revision : 5
-R:Gram : 2
+R:Gram : 3
+R:Gram:Det : 1
+R:Gram:Det:DetCombi : 1
 R:Gram:Gustar : 2
 R:Gram:Gustar:Propios : 2
 R:Vocab : 8

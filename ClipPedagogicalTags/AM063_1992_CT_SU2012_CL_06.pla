@@ -1,7 +1,8 @@
 AM063_1992_CT_SU2012_CL_06
-@Gram : 44
-@Gram:Det : 6
+@Gram : 47
+@Gram:Det : 9
 @Gram:Det:Art : 6
+@Gram:Det:CuantIndef : 3
 @Gram:Haber : 4
 @Gram:Haber:Exist : 4
 @Gram:Prep : 19
@@ -19,7 +20,9 @@ AM063_1992_CT_SU2012_CL_06
 @Prag:MarcadoresDisc:Causa : 1
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:MarcadoresDisc:Revision : 3
-R:Gram : 1
+R:Gram : 2
+R:Gram:Det : 1
+R:Gram:Det:DetCombi : 1
 R:Gram:Gustar : 1
 R:Gram:Gustar:Propios : 1
 R:Herit : 2
@@ -29,3 +32,6 @@ R:Prag : 4
 R:Prag:MarcadoresDisc : 4
 R:Prag:MarcadoresDisc:Igualdad : 3
 R:Prag:MarcadoresDisc:Revision : 1
+R:Vocab : 1
+R:Vocab:Fraseol : 1
+R:Vocab:Fraseol:LocAdv : 1
