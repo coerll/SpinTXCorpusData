@@ -12,19 +12,19 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:07 tt-1148 AF003_1992_EP_SU2011_AD_06 
 "<Hubo>"
-	"haber" Verb VHfin Pret Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-1149 AF003_1992_EP_SU2011_AD_06 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pret Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-1149 AF003_1992_EP_SU2011_AD_06 @Gram:Haber:Exist ADD:785 
 "<algún>"
-	"alguno" Determiner QU lang:es 00:00:00 00:00:07 tt-1150 AF003_1992_EP_SU2011_AD_06 
+	"alguno" Determiner QU lang:es 00:00:00 00:00:07 tt-1150 AF003_1992_EP_SU2011_AD_06 @Gram:Det:CuantIndef ADD:442 
 "<maestro>"
-	"maestro" Plural Singular Noun NC lang:es 00:00:00 00:00:07 tt-1151 AF003_1992_EP_SU2011_AD_06 
+	"maestro" Plural Singular Noun NC lang:es 00:00:00 00:00:07 tt-1151 AF003_1992_EP_SU2011_AD_06 SUBSTITUTE:286 SUBSTITUTE:287 
 "<o>"
 	"o" Conjunction CC lang:es 00:00:00 00:00:07 tt-1152 AF003_1992_EP_SU2011_AD_06 
 "<maestros>"
-	"maestro" Plural Singular Noun NC lang:es 00:00:00 00:00:07 tt-1153 AF003_1992_EP_SU2011_AD_06 
+	"maestro" Plural Singular Noun NC lang:es 00:00:00 00:00:07 tt-1153 AF003_1992_EP_SU2011_AD_06 SUBSTITUTE:286 SUBSTITUTE:287 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-1154 AF003_1992_EP_SU2011_AD_06 
 "<hayan>"
-	"haber" Verb VHfin Pres Subj Plural 3rd lang:es 00:00:00 00:00:07 tt-1155 AF003_1992_EP_SU2011_AD_06 ID:12 R:Gram:MSub:Pres:13 
+	"haber" Verb VHfin Pres Subj Plural 3rd lang:es 00:00:00 00:00:07 tt-1155 AF003_1992_EP_SU2011_AD_06 ID:12 R:Gram:MSub:Pres:13 ADDRELATION(Gram:MSub:Pres):740 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:00 00:00:07 tt-1156 AF003_1992_EP_SU2011_AD_06 ID:13 
 "<una>"
@@ -36,9 +36,9 @@
 "<fuerte>"
 	"fuerte" Adjective ADJ Singular lang:es 00:00:07 00:00:08 tt-1160 AF003_1992_EP_SU2011_AD_06 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:07 00:00:08 tt-1161 AF003_1992_EP_SU2011_AD_06 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:07 00:00:08 tt-1161 AF003_1992_EP_SU2011_AD_06 @Gram:Prep ADD:580 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:07 00:00:08 tt-1162 AF003_1992_EP_SU2011_AD_06 @Gram:Det:Pos 
+	"tú" Pronoun PPX Singular lang:es 00:00:07 00:00:08 tt-1162 AF003_1992_EP_SU2011_AD_06 @Gram:Det:Pos ADD:425 
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:07 00:00:08 tt-1163 AF003_1992_EP_SU2011_AD_06 
 "<$?>"
@@ -55,15 +55,16 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:08 00:00:15 tt-1168 AF003_1992_EP_SU2011_AD_06 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:08 00:00:15 tt-1169 AF003_1992_EP_SU2011_AD_06 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:08 00:00:15 tt-1169 AF003_1992_EP_SU2011_AD_06 @Gram:Det:Pos ADD:425 
 "<maestra>"
-	"maestro" Plural Singular Noun NC lang:es 00:00:08 00:00:15 tt-1170 AF003_1992_EP_SU2011_AD_06 
+	"maestro" Plural Singular Noun NC lang:es 00:00:08 00:00:15 tt-1170 AF003_1992_EP_SU2011_AD_06 SUBSTITUTE:286 SUBSTITUTE:287 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:08 00:00:15 tt-1171 AF003_1992_EP_SU2011_AD_06 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:08 00:00:15 tt-1171 AF003_1992_EP_SU2011_AD_06 @Gram:Prep ADD:580 
 "<computadoras>"
 	"computadora" Noun NC Plural lang:es 00:00:08 00:00:15 tt-1172 AF003_1992_EP_SU2011_AD_06 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:08 00:00:15 tt-1173 AF003_1992_EP_SU2011_AD_06 @Gram:Imperf @Gram:SerEstar:Ser ID:30 R:Herit:Contacto:Mixtas:31 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:08 00:00:15 tt-1173 AF003_1992_EP_SU2011_AD_06 @Gram:Imperf ID:30 R:Herit:Contacto:Mixtas:31 ADD:645 ADD:769 ADDRELATION(Herit:Contacto:Mixtas):1136 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:08 00:00:15 tt-1173 AF003_1992_EP_SU2011_AD_06 @Gram:SerEstar:Ser ID:30 R:Herit:Contacto:Mixtas:31 ADD:645 ADD:769 
 <lang code="en">
 "<Miss>"
 	"Miss" Noun NP Plural lang:en 00:00:08 00:00:15 tt-1174 AF003_1992_EP_SU2011_AD_06 ID:31 
@@ -73,13 +74,13 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:08 00:00:15 tt-1176 AF003_1992_EP_SU2011_AD_06 
 "<ella>"
-	"él" Pronoun PPX Singular lang:es 00:00:08 00:00:15 tt-1177 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Singular lang:es 00:00:08 00:00:15 tt-1177 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Sujeto ADD:590 
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:00:08 00:00:15 tt-1178 AF003_1992_EP_SU2011_AD_06 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:08 00:00:15 tt-1179 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:08 00:00:15 tt-1179 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Objeto ADD:614 
 "<empujaba>"
-	"empujar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:08 00:00:15 tt-1180 AF003_1992_EP_SU2011_AD_06 @Gram:Imperf 
+	"empujar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:08 00:00:15 tt-1180 AF003_1992_EP_SU2011_AD_06 @Gram:Imperf ADD:645 
 "<,>"
 	"," Punctuation CM lang:es 00:00:08 00:00:15 tt-1181 AF003_1992_EP_SU2011_AD_06 
 "<este>"
@@ -89,23 +90,23 @@
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:00:17 00:00:21 tt-1184 AF003_1992_EP_SU2011_AD_06 
 "<la>"
-	"él" Pronoun PPC Singular lang:es 00:00:17 00:00:21 tt-1185 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:00:17 00:00:21 tt-1185 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Objeto ADD:620 
 "<ayudaba>"
-	"ayudar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:17 00:00:21 tt-1186 AF003_1992_EP_SU2011_AD_06 @Gram:Imperf 
+	"ayudar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:17 00:00:21 tt-1186 AF003_1992_EP_SU2011_AD_06 @Gram:Imperf ADD:645 
 "<también>"
-	"también" Adverb ADV lang:es 00:00:17 00:00:21 tt-1187 AF003_1992_EP_SU2011_AD_06 @Prag:MarcadoresDisc:Igualdad 
+	"también" Adverb ADV lang:es 00:00:17 00:00:21 tt-1187 AF003_1992_EP_SU2011_AD_06 @Prag:MarcadoresDisc:Igualdad ADD:1082 
 "<,>"
 	"," Punctuation CM lang:es 00:00:17 00:00:21 tt-1188 AF003_1992_EP_SU2011_AD_06 
 "<o>"
-	"o" Adverb ADV lang:es 00:00:17 00:00:21 tt-1189 AF003_1992_EP_SU2011_AD_06 ID:46 R:Prag:MarcadoresDisc:Igualdad:47 
+	"o" Adverb ADV lang:es 00:00:17 00:00:21 tt-1189 AF003_1992_EP_SU2011_AD_06 ID:46 R:Prag:MarcadoresDisc:Igualdad:47 ADDRELATION(Prag:MarcadoresDisc:Igualdad):1093 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:00:17 00:00:21 tt-1190 AF003_1992_EP_SU2011_AD_06 ID:47 
 "<,>"
 	"," Punctuation CM lang:es 00:00:17 00:00:21 tt-1191 AF003_1992_EP_SU2011_AD_06 
 "<después>"
-	"después" Preposition PREP/DEL lang:es 00:00:17 00:00:21 tt-1192 AF003_1992_EP_SU2011_AD_06 @Gram:Prep 
+	"después" Preposition PREP/DEL lang:es 00:00:17 00:00:21 tt-1192 AF003_1992_EP_SU2011_AD_06 @Gram:Prep ADD:580 
 "<del>"
-	"del" Preposition PREP/DEL lang:es 00:00:17 00:00:21 tt-1193 AF003_1992_EP_SU2011_AD_06 @Gram:Prep 
+	"del" Preposition PREP/DEL lang:es 00:00:17 00:00:21 tt-1193 AF003_1992_EP_SU2011_AD_06 @Gram:Prep ADD:580 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:17 00:00:21 tt-1194 AF003_1992_EP_SU2011_AD_06 
 "<cuando>"
@@ -113,19 +114,19 @@
 "<ya>"
 	"ya" Adverb ADV lang:es 00:00:17 00:00:21 tt-1196 AF003_1992_EP_SU2011_AD_06 
 "<terminaba>"
-	"terminar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:17 00:00:21 tt-1197 AF003_1992_EP_SU2011_AD_06 @Gram:Imperf 
+	"terminar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:17 00:00:21 tt-1197 AF003_1992_EP_SU2011_AD_06 @Gram:Imperf ADD:645 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:17 00:00:21 tt-1198 AF003_1992_EP_SU2011_AD_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:17 00:00:21 tt-1198 AF003_1992_EP_SU2011_AD_06 @Gram:Det:Art ADD:395 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:00:17 00:00:21 tt-1199 AF003_1992_EP_SU2011_AD_06 
 "<,>"
 	"," Punctuation CM lang:es 00:00:17 00:00:21 tt-1200 AF003_1992_EP_SU2011_AD_06 
 "<este>"
-	"este" Determiner DM Singular lang:es 00:00:21 00:00:26 tt-1201 AF003_1992_EP_SU2011_AD_06 @Prag:RecuDiscurso:GanarTiempo 
+	"este" Determiner DM Singular lang:es 00:00:21 00:00:26 tt-1201 AF003_1992_EP_SU2011_AD_06 @Prag:RecuDiscurso:GanarTiempo ADD:1121 
 "<la>"
-	"él" Pronoun PPC Singular lang:es 00:00:21 00:00:26 tt-1202 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:00:21 00:00:26 tt-1202 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Objeto ADD:620 
 "<ayudaba>"
-	"ayudar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:21 00:00:26 tt-1203 AF003_1992_EP_SU2011_AD_06 @Gram:Imperf 
+	"ayudar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:21 00:00:26 tt-1203 AF003_1992_EP_SU2011_AD_06 @Gram:Imperf ADD:645 
 "<en>"
 	"en" Conjunction CSUBF lang:es 00:00:21 00:00:26 tt-1204 AF003_1992_EP_SU2011_AD_06 
 "<lo>"
@@ -133,7 +134,7 @@
 "<que>"
 	"que" Conjunction CSUBF lang:es 00:00:21 00:00:26 tt-1206 AF003_1992_EP_SU2011_AD_06 
 "<sea>"
-	"ser" Verb VSfin Pres Subj Sing 1st_or_3rd lang:es 00:00:21 00:00:26 tt-1207 AF003_1992_EP_SU2011_AD_06 @Gram:MSub:Pres @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Subj Sing 1st_or_3rd lang:es 00:00:21 00:00:26 tt-1207 AF003_1992_EP_SU2011_AD_06 @Gram:MSub:Pres @Gram:SerEstar:Ser ADD:738 ADD:769 
 "<y>"
 	"y" Other ALFS lang:es 00:00:21 00:00:26 tt-1208 AF003_1992_EP_SU2011_AD_06 
 "<...>"
@@ -141,11 +142,11 @@
 "<y>"
 	"y" Other ALFS lang:es 00:00:21 00:00:26 tt-1210 AF003_1992_EP_SU2011_AD_06 
 "<ella>"
-	"él" Pronoun PPX Singular lang:es 00:00:21 00:00:26 tt-1211 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Singular lang:es 00:00:21 00:00:26 tt-1211 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Sujeto ADD:590 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:21 00:00:26 tt-1212 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:21 00:00:26 tt-1212 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Objeto ADD:614 
 "<daba>"
-	"dar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:21 00:00:26 tt-1213 AF003_1992_EP_SU2011_AD_06 @Gram:Imperf 
+	"dar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:21 00:00:26 tt-1213 AF003_1992_EP_SU2011_AD_06 @Gram:Imperf ADD:645 
 "<consejos>"
 	"consejo" Noun NC Plural lang:es 00:00:21 00:00:26 tt-1214 AF003_1992_EP_SU2011_AD_06 
 "<,>"
@@ -153,23 +154,23 @@
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:00:21 00:00:26 tt-1216 AF003_1992_EP_SU2011_AD_06 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:21 00:00:26 tt-1217 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:21 00:00:26 tt-1217 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Objeto ADD:614 
 "<reía>"
 	"reír" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:21 00:00:26 tt-1218 AF003_1992_EP_SU2011_AD_06 
 "<con>"
-	"con" Preposition PREP lang:es 00:00:21 00:00:26 tt-1219 AF003_1992_EP_SU2011_AD_06 @Gram:Prep 
+	"con" Preposition PREP lang:es 00:00:21 00:00:26 tt-1219 AF003_1992_EP_SU2011_AD_06 @Gram:Prep ADD:580 
 "<ella>"
-	"él" Pronoun PPX Singular lang:es 00:00:21 00:00:26 tt-1220 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Singular lang:es 00:00:21 00:00:26 tt-1220 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Sujeto ADD:590 
 "<,>"
 	"," Punctuation CM lang:es 00:00:21 00:00:26 tt-1221 AF003_1992_EP_SU2011_AD_06 
 "<o>"
-	"o" Adverb ADV lang:es 00:00:26 00:00:33 tt-1222 AF003_1992_EP_SU2011_AD_06 ID:79 R:Prag:MarcadoresDisc:Igualdad:80 
+	"o" Adverb ADV lang:es 00:00:26 00:00:33 tt-1222 AF003_1992_EP_SU2011_AD_06 ID:79 R:Prag:MarcadoresDisc:Igualdad:80 ADDRELATION(Prag:MarcadoresDisc:Igualdad):1093 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:00:26 00:00:33 tt-1223 AF003_1992_EP_SU2011_AD_06 ID:80 
 "<,>"
 	"," Punctuation CM lang:es 00:00:26 00:00:33 tt-1224 AF003_1992_EP_SU2011_AD_06 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:26 00:00:33 tt-1225 AF003_1992_EP_SU2011_AD_06 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:26 00:00:33 tt-1225 AF003_1992_EP_SU2011_AD_06 @Gram:Imperf @Gram:SerEstar:Ser ADD:645 ADD:769 
 "<como>"
 	"como" Adverb ADV lang:es 00:00:26 00:00:33 tt-1226 AF003_1992_EP_SU2011_AD_06 
 "<...>"
@@ -185,21 +186,21 @@
 "<vez>"
 	"vez" Adverb ADV lang:es 00:00:26 00:00:33 tt-1232 AF003_1992_EP_SU2011_AD_06 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:26 00:00:33 tt-1233 AF003_1992_EP_SU2011_AD_06 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:26 00:00:33 tt-1233 AF003_1992_EP_SU2011_AD_06 @Gram:Det:Pos ADD:425 
 "<maestra>"
-	"maestro" Plural Singular Noun NC lang:es 00:00:26 00:00:33 tt-1234 AF003_1992_EP_SU2011_AD_06 
+	"maestro" Plural Singular Noun NC lang:es 00:00:26 00:00:33 tt-1234 AF003_1992_EP_SU2011_AD_06 SUBSTITUTE:286 SUBSTITUTE:287 
 "<,>"
 	"," Punctuation CM lang:es 00:00:26 00:00:33 tt-1235 AF003_1992_EP_SU2011_AD_06 
 "<pero>"
-	"pero" Conjunction CCAD lang:es 00:00:26 00:00:33 tt-1236 AF003_1992_EP_SU2011_AD_06 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:00:26 00:00:33 tt-1236 AF003_1992_EP_SU2011_AD_06 @Prag:MarcadoresDisc:Revision ADD:998 
 "<también>"
-	"también" Adverb ADV lang:es 00:00:26 00:00:33 tt-1237 AF003_1992_EP_SU2011_AD_06 @Prag:MarcadoresDisc:Igualdad 
+	"también" Adverb ADV lang:es 00:00:26 00:00:33 tt-1237 AF003_1992_EP_SU2011_AD_06 @Prag:MarcadoresDisc:Igualdad ADD:1082 
 "<una>"
 	"un" Determiner ART Singular lang:es 00:00:26 00:00:33 tt-1238 AF003_1992_EP_SU2011_AD_06 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:26 00:00:33 tt-1239 AF003_1992_EP_SU2011_AD_06 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:26 00:00:33 tt-1239 AF003_1992_EP_SU2011_AD_06 @Gram:Prep ADD:580 
 "<mis>"
-	"mío" Pronoun PPO Plural lang:es 00:00:26 00:00:33 tt-1240 AF003_1992_EP_SU2011_AD_06 
+	"mío" Pronoun PPO Plural lang:es 00:00:26 00:00:33 tt-1240 AF003_1992_EP_SU2011_AD_06 SUBSTITUTE:298 
 "<mejores>"
 	"bueno" Adjective ADJ Plural lang:es 00:00:26 00:00:33 tt-1241 AF003_1992_EP_SU2011_AD_06 
 "<amigas>"
@@ -209,23 +210,23 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:26 00:00:33 tt-1244 AF003_1992_EP_SU2011_AD_06 
 "<disfruté>"
-	"disfrutar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:33 00:00:40 tt-1245 AF003_1992_EP_SU2011_AD_06 @Gram:Indefinido 
+	"disfrutar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:33 00:00:40 tt-1245 AF003_1992_EP_SU2011_AD_06 @Gram:Indefinido ADD:654 
 "<mucho>"
 	"mucho" Adverb ADV lang:es 00:00:33 00:00:40 tt-1246 AF003_1992_EP_SU2011_AD_06 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:33 00:00:40 tt-1247 AF003_1992_EP_SU2011_AD_06 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:33 00:00:40 tt-1247 AF003_1992_EP_SU2011_AD_06 @Gram:Det:Pos ADD:425 
 "<tiempo>"
 	"tiempo" Noun NC Singular lang:es 00:00:33 00:00:40 tt-1248 AF003_1992_EP_SU2011_AD_06 
 "<con>"
-	"con" Preposition PREP lang:es 00:00:33 00:00:40 tt-1249 AF003_1992_EP_SU2011_AD_06 @Gram:Prep 
+	"con" Preposition PREP lang:es 00:00:33 00:00:40 tt-1249 AF003_1992_EP_SU2011_AD_06 @Gram:Prep ADD:580 
 "<ella>"
-	"él" Pronoun PPX Singular lang:es 00:00:33 00:00:40 tt-1250 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Singular lang:es 00:00:33 00:00:40 tt-1250 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Sujeto ADD:590 
 "<y>"
 	"y" Conjunction CC lang:es 00:00:33 00:00:40 tt-1251 AF003_1992_EP_SU2011_AD_06 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:33 00:00:40 tt-1252 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:33 00:00:40 tt-1252 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Objeto ADD:614 
 "<ayudaba>"
-	"ayudar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:33 00:00:40 tt-1253 AF003_1992_EP_SU2011_AD_06 @Gram:Imperf 
+	"ayudar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:33 00:00:40 tt-1253 AF003_1992_EP_SU2011_AD_06 @Gram:Imperf ADD:645 
 "<en>"
 	"en" Conjunction CSUBF lang:es 00:00:33 00:00:40 tt-1254 AF003_1992_EP_SU2011_AD_06 
 "<lo>"
@@ -233,23 +234,23 @@
 "<que>"
 	"que" Conjunction CSUBF lang:es 00:00:33 00:00:40 tt-1256 AF003_1992_EP_SU2011_AD_06 
 "<ella>"
-	"él" Pronoun PPX Singular lang:es 00:00:33 00:00:40 tt-1257 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Singular lang:es 00:00:33 00:00:40 tt-1257 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Sujeto ADD:590 
 "<pudiera>"
 	"poder" Verb VMfin lang:es 00:00:33 00:00:40 tt-1258 AF003_1992_EP_SU2011_AD_06 
 "<y>"
 	"y" Conjunction CC lang:es 00:00:33 00:00:40 tt-1259 AF003_1992_EP_SU2011_AD_06 
 "<le>"
-	"él" Pronoun PPC Singular lang:es 00:00:33 00:00:40 tt-1260 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:00:33 00:00:40 tt-1260 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Objeto ADD:620 
 "<agradezco>"
 	"agradecer" Verb VLfin Pres Indi Sing 1st lang:es 00:00:33 00:00:40 tt-1261 AF003_1992_EP_SU2011_AD_06 
 "<mucho>"
 	"mucho" Adverb ADV lang:es 00:00:33 00:00:40 tt-1262 AF003_1992_EP_SU2011_AD_06 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:42 00:00:45 tt-1263 AF003_1992_EP_SU2011_AD_06 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:42 00:00:45 tt-1263 AF003_1992_EP_SU2011_AD_06 @Gram:Prep ADD:580 
 "<ella>"
-	"él" Pronoun PPX Singular lang:es 00:00:42 00:00:45 tt-1264 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Singular lang:es 00:00:42 00:00:45 tt-1264 AF003_1992_EP_SU2011_AD_06 @Gram:Pron:Sujeto ADD:590 
 "<también>"
-	"también" Adverb ADV lang:es 00:00:42 00:00:45 tt-1265 AF003_1992_EP_SU2011_AD_06 @Prag:MarcadoresDisc:Igualdad 
+	"también" Adverb ADV lang:es 00:00:42 00:00:45 tt-1265 AF003_1992_EP_SU2011_AD_06 @Prag:MarcadoresDisc:Igualdad ADD:1082 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:42 00:00:45 tt-1266 AF003_1992_EP_SU2011_AD_06 
 </speaker>

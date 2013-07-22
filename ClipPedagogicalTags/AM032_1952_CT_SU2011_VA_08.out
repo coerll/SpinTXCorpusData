@@ -3,11 +3,11 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:06 tt-4631 AM032_1952_CT_SU2011_VA_08 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:00 00:00:06 tt-4632 AM032_1952_CT_SU2011_VA_08 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:00 00:00:06 tt-4632 AM032_1952_CT_SU2011_VA_08 @Gram:Pron:Objeto ADD:614 
 "<tocó>"
-	"tocar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:00 00:00:06 tt-4633 AM032_1952_CT_SU2011_VA_08 @Gram:Indefinido 
+	"tocar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:00 00:00:06 tt-4633 AM032_1952_CT_SU2011_VA_08 @Gram:Indefinido ADD:654 
 "<hacer>"
-	"hacer" Verb VLinf Infinitive lang:es 00:00:00 00:00:06 tt-4634 AM032_1952_CT_SU2011_VA_08 
+	"hacer" Verb VLinf Infinitive lang:es 00:00:00 00:00:06 tt-4634 AM032_1952_CT_SU2011_VA_08 SUBSTITUTE:309 
 "<allí>"
 	"allí" Adverb ADV lang:es 00:00:00 00:00:06 tt-4635 AM032_1952_CT_SU2011_VA_08 
 "<,>"
@@ -20,7 +20,7 @@
 	"." Punctuation FS lang:es 00:00:00 00:00:06 tt-4639 AM032_1952_CT_SU2011_VA_08 
 
 "<Mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:06 tt-4640 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:06 tt-4640 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Pos ADD:425 
 "<hermana>"
 	"hermano" Noun NC Singular lang:es 00:00:00 00:00:06 tt-4641 AM032_1952_CT_SU2011_VA_08 
 "<creo>"
@@ -28,24 +28,24 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:06 tt-4643 AM032_1952_CT_SU2011_VA_08 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:06 tt-4644 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:06 tt-4644 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf @Gram:SerEstar:Ser ADD:645 ADD:769 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:00 00:00:06 tt-4645 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:00 00:00:06 tt-4645 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art ADD:395 
 "<secretaria>"
 	"secretario" Noun NC Singular lang:es 00:00:00 00:00:06 tt-4646 AM032_1952_CT_SU2011_VA_08 
 "<o>"
 	"o" Conjunction CC lang:es 00:00:00 00:00:06 tt-4647 AM032_1952_CT_SU2011_VA_08 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:00 00:00:06 tt-4648 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:00 00:00:06 tt-4648 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art ADD:395 
 "<tesorera>"
 	"tesorero" Noun NC Singular lang:es 00:00:06 00:00:13 tt-4649 AM032_1952_CT_SU2011_VA_08 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:06 00:00:13 tt-4650 AM032_1952_CT_SU2011_VA_08 
 
 "<Ella>"
-	"él" Pronoun PPX Singular lang:es 00:00:06 00:00:13 tt-4651 AM032_1952_CT_SU2011_VA_08 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Singular lang:es 00:00:06 00:00:13 tt-4651 AM032_1952_CT_SU2011_VA_08 @Gram:Pron:Sujeto ADD:590 
 "<hubiera>"
-	"haber" Verb VHfin Past Subj Sing 1st_or_3rd lang:es 00:00:06 00:00:13 tt-4652 AM032_1952_CT_SU2011_VA_08 ID:22 R:Gram:SerEstar:Ser:23 R:Gram:MSub:Pret:23 
+	"haber" Verb VHfin Past Subj Sing 1st_or_3rd lang:es 00:00:06 00:00:13 tt-4652 AM032_1952_CT_SU2011_VA_08 ID:22 R:Gram:SerEstar:Ser:23 R:Gram:MSub:Pret:23 ADDRELATION(Gram:MSub:Pret):741 ADDRELATION(Gram:SerEstar:Ser):771 
 "<sido>"
 	"ser" Verb VSadj Participle lang:es 00:00:06 00:00:13 tt-4653 AM032_1952_CT_SU2011_VA_08 ID:23 
 "<mejor>"
@@ -53,34 +53,34 @@
 "<presidenta>"
 	"presidente" Noun NC Singular lang:es 00:00:06 00:00:13 tt-4655 AM032_1952_CT_SU2011_VA_08 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:06 00:00:13 tt-4656 AM032_1952_CT_SU2011_VA_08 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:06 00:00:13 tt-4656 AM032_1952_CT_SU2011_VA_08 @Gram:Pron:Sujeto ADD:590 
 "<creo>"
 	"crear|creer" Verb VLfin Pres Indi Sing 1st lang:es 00:00:06 00:00:13 tt-4657 AM032_1952_CT_SU2011_VA_08 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:06 00:00:13 tt-4658 AM032_1952_CT_SU2011_VA_08 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:06 00:00:13 tt-4659 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:06 00:00:13 tt-4659 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art ID:29 R:Gram:Det:DetCombi:30 ADD:395 ADDRELATION(Gram:Det:DetCombi):453 
 "<otra>"
-	"otro" Determiner QU lang:es 00:00:06 00:00:13 tt-4660 AM032_1952_CT_SU2011_VA_08 
+	"otro" Determiner QU lang:es 00:00:06 00:00:13 tt-4660 AM032_1952_CT_SU2011_VA_08 ID:30 
 "<muchacha>"
 	"muchacho" Noun NC Singular lang:es 00:00:06 00:00:13 tt-4661 AM032_1952_CT_SU2011_VA_08 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:06 00:00:13 tt-4662 AM032_1952_CT_SU2011_VA_08 
 
 "<Pero>"
-	"pero" Conjunction CCAD lang:es 00:00:06 00:00:13 tt-4663 AM032_1952_CT_SU2011_VA_08 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:00:06 00:00:13 tt-4663 AM032_1952_CT_SU2011_VA_08 @Prag:MarcadoresDisc:Revision ADD:998 
 "<se>"
-	"se" Other SE lang:es 00:00:06 00:00:13 tt-4664 AM032_1952_CT_SU2011_VA_08 @Gram:Pron:Otros 
+	"se" Other SE lang:es 00:00:06 00:00:13 tt-4664 AM032_1952_CT_SU2011_VA_08 @Gram:Pron:Otros ADD:633 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:06 00:00:13 tt-4665 AM032_1952_CT_SU2011_VA_08 
 "<se>"
 	"se" Other SE lang:es 00:00:06 00:00:13 tt-4666 AM032_1952_CT_SU2011_VA_08 
 "<conformó>"
-	"conformar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:13 00:00:20 tt-4667 AM032_1952_CT_SU2011_VA_08 @Gram:Indefinido 
+	"conformar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:13 00:00:20 tt-4667 AM032_1952_CT_SU2011_VA_08 @Gram:Indefinido ADD:654 
 "<con>"
-	"con" Preposition PREP lang:es 00:00:13 00:00:20 tt-4668 AM032_1952_CT_SU2011_VA_08 @Gram:Prep 
+	"con" Preposition PREP lang:es 00:00:13 00:00:20 tt-4668 AM032_1952_CT_SU2011_VA_08 @Gram:Prep ADD:580 
 "<eso>"
-	"ese" Determiner DM Singular lang:es 00:00:13 00:00:20 tt-4669 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Demo 
+	"ese" Determiner DM Singular lang:es 00:00:13 00:00:20 tt-4669 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Demo ADD:418 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:13 00:00:20 tt-4670 AM032_1952_CT_SU2011_VA_08 
 <lang code="en">
@@ -91,47 +91,47 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:13 00:00:20 tt-4672 AM032_1952_CT_SU2011_VA_08 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:13 00:00:20 tt-4673 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:13 00:00:20 tt-4673 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Pos ADD:425 
 "<hermana>"
 	"hermano" Noun NC Singular lang:es 00:00:13 00:00:20 tt-4674 AM032_1952_CT_SU2011_VA_08 
 "<llevaba>"
-	"llevar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:13 00:00:20 tt-4675 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf 
+	"llevar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:13 00:00:20 tt-4675 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf ADD:645 
 "<uniforme>"
 	"uniforme" Noun NC Singular lang:es 00:00:13 00:00:20 tt-4676 AM032_1952_CT_SU2011_VA_08 
 "<todos>"
 	"todo" Determiner QU lang:es 00:00:13 00:00:20 tt-4677 AM032_1952_CT_SU2011_VA_08 
 "<los>"
-	"el" Determiner ART Plural Masc lang:es 00:00:13 00:00:20 tt-4678 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:13 00:00:20 tt-4678 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art ADD:395 
 "<días>"
 	"día" Noun NC Plural lang:es 00:00:13 00:00:20 tt-4679 AM032_1952_CT_SU2011_VA_08 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:13 00:00:20 tt-4680 AM032_1952_CT_SU2011_VA_08 
 
 "<A>"
-	"a" Preposition PREP lang:es 00:00:13 00:00:20 tt-4681 AM032_1952_CT_SU2011_VA_08 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:13 00:00:20 tt-4681 AM032_1952_CT_SU2011_VA_08 @Gram:Prep ADD:580 
 "<esa>"
-	"ese" Determiner DM Singular lang:es 00:00:13 00:00:20 tt-4682 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Demo 
+	"ese" Determiner DM Singular lang:es 00:00:13 00:00:20 tt-4682 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Demo ADD:411 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:00:13 00:00:20 tt-4683 AM032_1952_CT_SU2011_VA_08 
 "<tenías>"
-	"tener" Verb VLfin Imp Indi Sing 2nd lang:es 00:00:13 00:00:20 tt-4684 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf 
+	"tener" Verb VLfin Imp Indi Sing 2nd lang:es 00:00:13 00:00:20 tt-4684 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf ADD:645 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:21 00:00:27 tt-4685 AM032_1952_CT_SU2011_VA_08 
 "<llevar>"
-	"llevar" Verb VLinf Infinitive lang:es 00:00:21 00:00:27 tt-4686 AM032_1952_CT_SU2011_VA_08 
+	"llevar" Verb VLinf Infinitive lang:es 00:00:21 00:00:27 tt-4686 AM032_1952_CT_SU2011_VA_08 SUBSTITUTE:309 
 "<uniforme>"
 	"uniforme" Noun NC Singular lang:es 00:00:21 00:00:27 tt-4687 AM032_1952_CT_SU2011_VA_08 
 "<todos>"
 	"todo" Determiner QU lang:es 00:00:21 00:00:27 tt-4688 AM032_1952_CT_SU2011_VA_08 
 "<los>"
-	"el" Determiner ART Plural Masc lang:es 00:00:21 00:00:27 tt-4689 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:21 00:00:27 tt-4689 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art ADD:395 
 "<días>"
 	"día" Noun NC Plural lang:es 00:00:21 00:00:27 tt-4690 AM032_1952_CT_SU2011_VA_08 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:21 00:00:27 tt-4691 AM032_1952_CT_SU2011_VA_08 
 
 "<Los>"
-	"el" Determiner ART Plural Masc lang:es 00:00:21 00:00:27 tt-4692 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:21 00:00:27 tt-4692 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art ADD:395 
 "<muchachos>"
 	"muchacho" Noun NC Plural lang:es 00:00:21 00:00:27 tt-4693 AM032_1952_CT_SU2011_VA_08 
 "<,>"
@@ -139,38 +139,38 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:21 00:00:27 tt-4695 AM032_1952_CT_SU2011_VA_08 
 "<llevaban>"
-	"llevar" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:21 00:00:27 tt-4696 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf 
+	"llevar" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:21 00:00:27 tt-4696 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf ADD:645 
 "<uniforme>"
 	"uniforme" Adjective ADJ Singular lang:es 00:00:21 00:00:27 tt-4697 AM032_1952_CT_SU2011_VA_08 
 "<,>"
 	"," Punctuation CM lang:es 00:00:21 00:00:27 tt-4698 AM032_1952_CT_SU2011_VA_08 
 "<pero>"
-	"pero" Conjunction CCAD lang:es 00:00:21 00:00:27 tt-4699 AM032_1952_CT_SU2011_VA_08 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:00:21 00:00:27 tt-4699 AM032_1952_CT_SU2011_VA_08 @Prag:MarcadoresDisc:Revision ADD:998 
 "<teníamos>"
-	"tener" Verb VLfin Imp Indi Plural 1st lang:es 00:00:21 00:00:27 tt-4700 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf 
+	"tener" Verb VLfin Imp Indi Plural 1st lang:es 00:00:21 00:00:27 tt-4700 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf ADD:645 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:21 00:00:27 tt-4701 AM032_1952_CT_SU2011_VA_08 
 "<llevar>"
-	"llevar" Verb VLinf Infinitive lang:es 00:00:21 00:00:27 tt-4702 AM032_1952_CT_SU2011_VA_08 
+	"llevar" Verb VLinf Infinitive lang:es 00:00:21 00:00:27 tt-4702 AM032_1952_CT_SU2011_VA_08 SUBSTITUTE:309 
 "<una>"
 	"un" Determiner ART Singular lang:es 00:00:27 00:00:34 tt-4703 AM032_1952_CT_SU2011_VA_08 
 "<camisa>"
 	"camisa" Noun NC Singular lang:es 00:00:27 00:00:34 tt-4704 AM032_1952_CT_SU2011_VA_08 
 "<con>"
-	"con" Preposition PREP lang:es 00:00:27 00:00:34 tt-4705 AM032_1952_CT_SU2011_VA_08 @Gram:Prep 
+	"con" Preposition PREP lang:es 00:00:27 00:00:34 tt-4705 AM032_1952_CT_SU2011_VA_08 @Gram:Prep ADD:580 
 "<cuello>"
 	"cuello" Noun NC Singular lang:es 00:00:27 00:00:34 tt-4706 AM032_1952_CT_SU2011_VA_08 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:27 00:00:34 tt-4707 AM032_1952_CT_SU2011_VA_08 
 
 "<En>"
-	"en" Preposition PREP lang:es 00:00:27 00:00:34 tt-4708 AM032_1952_CT_SU2011_VA_08 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:27 00:00:34 tt-4708 AM032_1952_CT_SU2011_VA_08 @Gram:Prep ADD:580 
 "<aquel>"
 	"aquel" Determiner DM Singular lang:es 00:00:27 00:00:34 tt-4709 AM032_1952_CT_SU2011_VA_08 
 "<entonces>"
 	"entonces" Adverb ADV lang:es 00:00:27 00:00:34 tt-4710 AM032_1952_CT_SU2011_VA_08 
 "<las>"
-	"el" Determiner ART Plural Fem lang:es 00:00:27 00:00:34 tt-4711 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:00:27 00:00:34 tt-4711 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art ADD:395 
 "<camisas>"
 	"camisa" Noun NC Plural lang:es 00:00:27 00:00:34 tt-4712 AM032_1952_CT_SU2011_VA_08 
 <lang code="en">
@@ -188,11 +188,11 @@
 "<camisas>"
 	"camisa" Noun NC Plural lang:es 00:00:27 00:00:34 tt-4718 AM032_1952_CT_SU2011_VA_08 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:27 00:00:34 tt-4719 AM032_1952_CT_SU2011_VA_08 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:27 00:00:34 tt-4719 AM032_1952_CT_SU2011_VA_08 @Gram:Prep ADD:580 
 "<vestir>"
-	"vestir" Verb VLinf Infinitive lang:es 00:00:27 00:00:34 tt-4720 AM032_1952_CT_SU2011_VA_08 
+	"vestir" Verb VLinf Infinitive lang:es 00:00:27 00:00:34 tt-4720 AM032_1952_CT_SU2011_VA_08 SUBSTITUTE:309 
 "<había>"
-	"haber" Verb VHfin Imp Indi Sing 1st_or_3rd lang:es 00:00:35 00:00:39 tt-4721 AM032_1952_CT_SU2011_VA_08 @Gram:Haber:Exist 
+	"haber" Verb VHfin Imp Indi Sing 1st_or_3rd lang:es 00:00:35 00:00:39 tt-4721 AM032_1952_CT_SU2011_VA_08 @Gram:Haber:Exist ADD:785 
 "<una>"
 	"un" Determiner ART Singular lang:es 00:00:35 00:00:39 tt-4722 AM032_1952_CT_SU2011_VA_08 
 "<camisa>"
@@ -200,9 +200,9 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:35 00:00:39 tt-4724 AM032_1952_CT_SU2011_VA_08 
 "<le>"
-	"él" Pronoun PPC Singular lang:es 00:00:35 00:00:39 tt-4725 AM032_1952_CT_SU2011_VA_08 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:00:35 00:00:39 tt-4725 AM032_1952_CT_SU2011_VA_08 @Gram:Pron:Objeto ADD:620 
 "<llamaban>"
-	"llamar" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:35 00:00:39 tt-4726 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf 
+	"llamar" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:35 00:00:39 tt-4726 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf ADD:645 
 "<Van-lon>"
 	"UNK" Noun NP Singular lang:es 00:00:35 00:00:39 tt-4727 AM032_1952_CT_SU2011_VA_08 
 "<van-lon>"
@@ -216,48 +216,48 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:35 00:00:39 tt-4731 AM032_1952_CT_SU2011_VA_08 
 "<tenían>"
-	"tener" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:35 00:00:39 tt-4732 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf 
+	"tener" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:35 00:00:39 tt-4732 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf ADD:645 
 "<cuello>"
 	"cuello" Noun NC Singular lang:es 00:00:35 00:00:39 tt-4733 AM032_1952_CT_SU2011_VA_08 
 "<y>"
 	"y" Conjunction CC lang:es 00:00:39 00:00:46 tt-4734 AM032_1952_CT_SU2011_VA_08 
 "<tenías>"
-	"tener" Verb VLfin Imp Indi Sing 2nd lang:es 00:00:39 00:00:46 tt-4735 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf 
+	"tener" Verb VLfin Imp Indi Sing 2nd lang:es 00:00:39 00:00:46 tt-4735 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf ADD:645 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:39 00:00:46 tt-4736 AM032_1952_CT_SU2011_VA_08 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:39 00:00:46 tt-4736 AM032_1952_CT_SU2011_VA_08 @Gram:Prep ADD:580 
 "<fuerza>"
 	"fuerza" Noun NC Singular lang:es 00:00:39 00:00:46 tt-4737 AM032_1952_CT_SU2011_VA_08 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:39 00:00:46 tt-4738 AM032_1952_CT_SU2011_VA_08 
 "<vestir>"
-	"vestir" Verb VLinf Infinitive lang:es 00:00:39 00:00:46 tt-4739 AM032_1952_CT_SU2011_VA_08 
+	"vestir" Verb VLinf Infinitive lang:es 00:00:39 00:00:46 tt-4739 AM032_1952_CT_SU2011_VA_08 SUBSTITUTE:309 
 "<con>"
-	"con" Preposition PREP lang:es 00:00:39 00:00:46 tt-4740 AM032_1952_CT_SU2011_VA_08 @Gram:Prep 
+	"con" Preposition PREP lang:es 00:00:39 00:00:46 tt-4740 AM032_1952_CT_SU2011_VA_08 @Gram:Prep ADD:580 
 "<corbata>"
 	"corbata" Noun NC Singular lang:es 00:00:39 00:00:46 tt-4741 AM032_1952_CT_SU2011_VA_08 
 "<aunque>"
-	"aunque" Conjunction CSUBX lang:es 00:00:39 00:00:46 tt-4742 AM032_1952_CT_SU2011_VA_08 @Prag:MarcadoresDisc:Revision 
+	"aunque" Conjunction CSUBX lang:es 00:00:39 00:00:46 tt-4742 AM032_1952_CT_SU2011_VA_08 @Prag:MarcadoresDisc:Revision ADD:998 
 "<fuera>"
-	"ser" Verb VSfin Past Subj Sing 1st_or_3rd lang:es 00:00:39 00:00:46 tt-4743 AM032_1952_CT_SU2011_VA_08 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Past Subj Sing 1st_or_3rd lang:es 00:00:39 00:00:46 tt-4743 AM032_1952_CT_SU2011_VA_08 @Gram:MSub:Pret @Gram:SerEstar:Ser ADD:739 ADD:769 
 "<esa>"
-	"ese" Determiner DM Singular lang:es 00:00:39 00:00:46 tt-4744 AM032_1952_CT_SU2011_VA_08 
+	"ese" Determiner DM Singular lang:es 00:00:39 00:00:46 tt-4744 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Demo ADD:411 
 "<camisa>"
 	"camisa" Noun NC Singular lang:es 00:00:39 00:00:46 tt-4745 AM032_1952_CT_SU2011_VA_08 
 "<o>"
 	"o" Conjunction CC lang:es 00:00:39 00:00:46 tt-4746 AM032_1952_CT_SU2011_VA_08 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:39 00:00:46 tt-4747 AM032_1952_CT_SU2011_VA_08 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:39 00:00:46 tt-4747 AM032_1952_CT_SU2011_VA_08 @Gram:Prep ADD:580 
 "<vestir>"
-	"vestir" Verb VLinf Infinitive lang:es 00:00:39 00:00:46 tt-4748 AM032_1952_CT_SU2011_VA_08 
+	"vestir" Verb VLinf Infinitive lang:es 00:00:39 00:00:46 tt-4748 AM032_1952_CT_SU2011_VA_08 SUBSTITUTE:309 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:39 00:00:46 tt-4749 AM032_1952_CT_SU2011_VA_08 
 
 "<Tenías>"
-	"tener" Verb VLfin Imp Indi Sing 2nd lang:es 00:00:39 00:00:46 tt-4750 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf 
+	"tener" Verb VLfin Imp Indi Sing 2nd lang:es 00:00:39 00:00:46 tt-4750 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf ADD:645 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:46 00:00:52 tt-4751 AM032_1952_CT_SU2011_VA_08 
 "<llevar>"
-	"llevar" Verb VLinf Infinitive lang:es 00:00:46 00:00:52 tt-4752 AM032_1952_CT_SU2011_VA_08 
+	"llevar" Verb VLinf Infinitive lang:es 00:00:46 00:00:52 tt-4752 AM032_1952_CT_SU2011_VA_08 SUBSTITUTE:309 
 "<corbata>"
 	"corbata" Noun NC Singular lang:es 00:00:46 00:00:52 tt-4753 AM032_1952_CT_SU2011_VA_08 
 "<$.>"
@@ -268,55 +268,55 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:46 00:00:52 tt-4756 AM032_1952_CT_SU2011_VA_08 
 "<tenían>"
-	"tener" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:46 00:00:52 tt-4757 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf 
+	"tener" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:46 00:00:52 tt-4757 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf ADD:645 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:46 00:00:52 tt-4758 AM032_1952_CT_SU2011_VA_08 
 "<tener>"
-	"tener" Verb VLinf Infinitive lang:es 00:00:46 00:00:52 tt-4759 AM032_1952_CT_SU2011_VA_08 
+	"tener" Verb VLinf Infinitive lang:es 00:00:46 00:00:52 tt-4759 AM032_1952_CT_SU2011_VA_08 SUBSTITUTE:309 
 "<cuello>"
 	"cuello" Noun NC Singular lang:es 00:00:46 00:00:52 tt-4760 AM032_1952_CT_SU2011_VA_08 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:46 00:00:52 tt-4761 AM032_1952_CT_SU2011_VA_08 
 
 "<El>"
-	"el" Determiner ART Singular Masc lang:es 00:00:46 00:00:52 tt-4762 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:46 00:00:52 tt-4762 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art ADD:395 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:46 00:00:52 tt-4763 AM032_1952_CT_SU2011_VA_08 
 "<no>"
 	"no" Adverb NEG lang:es 00:00:46 00:00:52 tt-4764 AM032_1952_CT_SU2011_VA_08 
 "<llevaba>"
-	"llevar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:46 00:00:52 tt-4765 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf 
+	"llevar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:46 00:00:52 tt-4765 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf ADD:645 
 "<corbata>"
 	"corbata" Noun NC Singular lang:es 00:00:46 00:00:52 tt-4766 AM032_1952_CT_SU2011_VA_08 
 "<,>"
 	"," Punctuation CM lang:es 00:00:46 00:00:52 tt-4767 AM032_1952_CT_SU2011_VA_08 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:46 00:00:52 tt-4768 AM032_1952_CT_SU2011_VA_08 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:46 00:00:52 tt-4768 AM032_1952_CT_SU2011_VA_08 @Gram:Prep ADD:580 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:46 00:00:52 tt-4769 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Pos 
+	"suyo" Pronoun PPO Singular lang:es 00:00:46 00:00:52 tt-4769 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Pos ADD:425 
 "<casa>"
 	"casa" Noun NC Singular lang:es 00:00:46 00:00:52 tt-4770 AM032_1952_CT_SU2011_VA_08 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:46 00:00:52 tt-4771 AM032_1952_CT_SU2011_VA_08 
 
 "<Las>"
-	"el" Determiner ART Plural Fem lang:es 00:00:52 00:00:58 tt-4772 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:00:52 00:00:58 tt-4772 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art ADD:395 
 "<muchachas>"
 	"muchacho" Noun NC Plural lang:es 00:00:52 00:00:58 tt-4773 AM032_1952_CT_SU2011_VA_08 
 "<tenían>"
-	"tener" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:52 00:00:58 tt-4774 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf 
+	"tener" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:52 00:00:58 tt-4774 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf ADD:645 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:52 00:00:58 tt-4775 AM032_1952_CT_SU2011_VA_08 
 "<vestir>"
-	"vestir" Verb VLinf Infinitive lang:es 00:00:52 00:00:58 tt-4776 AM032_1952_CT_SU2011_VA_08 
+	"vestir" Verb VLinf Infinitive lang:es 00:00:52 00:00:58 tt-4776 AM032_1952_CT_SU2011_VA_08 SUBSTITUTE:309 
 "<ese>"
 	"ese" Determiner DM Singular lang:es 00:00:52 00:00:58 tt-4777 AM032_1952_CT_SU2011_VA_08 
 "<uniforme>"
-	"uniformar" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:52 00:00:58 tt-4778 AM032_1952_CT_SU2011_VA_08 @Gram:MSub:Pres 
+	"uniformar" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:52 00:00:58 tt-4778 AM032_1952_CT_SU2011_VA_08 @Gram:MSub:Pres ADD:738 
 "<y>"
 	"y" Conjunction CC lang:es 00:00:52 00:00:58 tt-4779 AM032_1952_CT_SU2011_VA_08 
 "<tenían>"
-	"tener" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:52 00:00:58 tt-4780 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf 
+	"tener" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:52 00:00:58 tt-4780 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf ADD:645 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:52 00:00:58 tt-4781 AM032_1952_CT_SU2011_VA_08 
 "<...>"
@@ -326,15 +326,15 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:52 00:00:58 tt-4784 AM032_1952_CT_SU2011_VA_08 
 "<tenía>"
-	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:52 00:00:58 tt-4785 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf 
+	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:52 00:00:58 tt-4785 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf ADD:645 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:52 00:00:58 tt-4786 AM032_1952_CT_SU2011_VA_08 
 "<llegar>"
-	"llegar" Verb VLinf Infinitive lang:es 00:00:52 00:00:58 tt-4787 AM032_1952_CT_SU2011_VA_08 
+	"llegar" Verb VLinf Infinitive lang:es 00:00:52 00:00:58 tt-4787 AM032_1952_CT_SU2011_VA_08 SUBSTITUTE:309 
 "<hasta>"
-	"hasta" Preposition PREP lang:es 00:00:58 00:01:05 tt-4788 AM032_1952_CT_SU2011_VA_08 @Gram:Prep 
+	"hasta" Preposition PREP lang:es 00:00:58 00:01:05 tt-4788 AM032_1952_CT_SU2011_VA_08 @Gram:Prep ADD:580 
 "<las>"
-	"el" Determiner ART Plural Fem lang:es 00:00:58 00:01:05 tt-4789 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:00:58 00:01:05 tt-4789 AM032_1952_CT_SU2011_VA_08 @Gram:Det:Art ADD:395 
 "<rodillas>"
 	"rodilla" Noun NC Plural lang:es 00:00:58 00:01:05 tt-4790 AM032_1952_CT_SU2011_VA_08 
 "<o>"
@@ -357,14 +357,14 @@
 "<clases>"
 	"clase" Noun NC Plural lang:es 00:00:58 00:01:05 tt-4798 AM032_1952_CT_SU2011_VA_08 
 "<dieron>"
-	"dar" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:58 00:01:05 tt-4799 AM032_1952_CT_SU2011_VA_08 @Gram:Indefinido 
+	"dar" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:58 00:01:05 tt-4799 AM032_1952_CT_SU2011_VA_08 @Gram:Indefinido ADD:654 
 "<allí>"
 	"allí" Adverb ADV lang:es 00:00:58 00:01:05 tt-4800 AM032_1952_CT_SU2011_VA_08 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:58 00:01:05 tt-4801 AM032_1952_CT_SU2011_VA_08 
 
 "<Era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:58 00:01:05 tt-4802 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:58 00:01:05 tt-4802 AM032_1952_CT_SU2011_VA_08 @Gram:Imperf @Gram:SerEstar:Ser ADD:645 ADD:769 
 "<buena>"
 	"bueno" Adjective ADJ Singular lang:es 00:00:58 00:01:05 tt-4803 AM032_1952_CT_SU2011_VA_08 
 "<educación>"
@@ -373,9 +373,9 @@
 	"." Punctuation FS lang:es 00:00:58 00:01:05 tt-4805 AM032_1952_CT_SU2011_VA_08 
 
 "<Yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:58 00:01:05 tt-4806 AM032_1952_CT_SU2011_VA_08 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:58 00:01:05 tt-4806 AM032_1952_CT_SU2011_VA_08 @Gram:Pron:Sujeto ADD:590 
 "<estudié>"
-	"estudiar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:58 00:01:05 tt-4807 AM032_1952_CT_SU2011_VA_08 @Gram:Indefinido 
+	"estudiar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:58 00:01:05 tt-4807 AM032_1952_CT_SU2011_VA_08 @Gram:Indefinido ADD:654 
 </speaker>
 </text>
 

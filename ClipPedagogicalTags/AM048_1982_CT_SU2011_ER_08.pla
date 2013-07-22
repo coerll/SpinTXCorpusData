@@ -1,7 +1,7 @@
 AM048_1982_CT_SU2011_ER_08
-@Gram : 64
-@Gram:Det : 9
-@Gram:Det:Art : 6
+@Gram : 63
+@Gram:Det : 8
+@Gram:Det:Art : 5
 @Gram:Det:Pos : 3
 @Gram:Imperf : 4
 @Gram:Indefinido : 5
@@ -20,7 +20,9 @@ AM048_1982_CT_SU2011_ER_08
 @Prag:MarcadoresDisc:Revision : 1
 @Prag:RecuDiscurso : 2
 @Prag:RecuDiscurso:GanarTiempo : 2
-R:Gram : 3
+R:Gram : 4
+R:Gram:Det : 1
+R:Gram:Det:LoAdj : 1
 R:Gram:SerEstar : 2
 R:Gram:SerEstar:EstarAux : 2
 R:Gram:VFut : 1

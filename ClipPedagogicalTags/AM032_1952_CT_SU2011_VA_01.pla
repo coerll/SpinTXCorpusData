@@ -21,12 +21,14 @@ AM032_1952_CT_SU2011_VA_01
 @Prag:MarcadoresDisc : 6
 @Prag:MarcadoresDisc:Causa : 3
 @Prag:MarcadoresDisc:Revision : 3
-R:Gram : 3
+R:Gram : 5
 R:Gram:Aux : 1
 R:Gram:Aux:Haber : 1
+R:Gram:Det : 2
+R:Gram:Det:LoAdj : 2
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepMasc : 1
 R:Gram:PerfPerif : 1
 R:Prag : 1
 R:Prag:MarcadoresDisc : 1
-R:Prag:MarcadoresDisc:Igualdad : 1
+R:Prag:MarcadoresDisc:Probabilidad : 1

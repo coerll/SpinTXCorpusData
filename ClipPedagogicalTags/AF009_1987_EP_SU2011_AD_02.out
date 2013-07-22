@@ -15,7 +15,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-213 AF009_1987_EP_SU2011_AD_02 
 "<mis>"
-	"mío" Pronoun PPO Plural Verb VLfin Error1 lang:es 00:00:00 00:00:07 tt-214 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural Verb VLfin Error1 lang:es 00:00:00 00:00:07 tt-214 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Pos SUBSTITUTE:298 ADD:426 
 "<vecinos>"
 	"vecino" Noun NC Plural lang:es 00:00:00 00:00:07 tt-215 AF009_1987_EP_SU2011_AD_02 
 "<se>"
@@ -25,7 +25,7 @@
 "<todos>"
 	"todo" Determiner QU lang:es 00:00:00 00:00:07 tt-218 AF009_1987_EP_SU2011_AD_02 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:00 00:00:07 tt-219 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:00 00:00:07 tt-219 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Art ADD:395 
 "<veinticuatro>"
 	"veinticuatro" Determiner CARD Singular lang:es 00:00:00 00:00:07 tt-220 AF009_1987_EP_SU2011_AD_02 
 "<,>"
@@ -33,13 +33,13 @@
 "<toda>"
 	"todo" Determiner QU lang:es 00:00:00 00:00:07 tt-222 AF009_1987_EP_SU2011_AD_02 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:00 00:00:07 tt-223 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:00 00:00:07 tt-223 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Art ADD:395 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:00 00:00:07 tt-224 AF009_1987_EP_SU2011_AD_02 
 "<,>"
 	"," Punctuation CM lang:es 00:00:00 00:00:07 tt-225 AF009_1987_EP_SU2011_AD_02 
 "<con>"
-	"con" Preposition PREP lang:es 00:00:00 00:00:07 tt-226 AF009_1987_EP_SU2011_AD_02 @Gram:Prep 
+	"con" Preposition PREP lang:es 00:00:00 00:00:07 tt-226 AF009_1987_EP_SU2011_AD_02 @Gram:Prep ADD:580 
 "<comida>"
 	"comida" Noun NC Singular lang:es 00:00:00 00:00:07 tt-227 AF009_1987_EP_SU2011_AD_02 
 "<,>"
@@ -49,7 +49,7 @@
 "<viene>"
 	"venir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:08 00:00:15 tt-230 AF009_1987_EP_SU2011_AD_02 
 "<siendo>"
-	"ser" Verb VSger Gerund lang:es 00:00:08 00:00:15 tt-231 AF009_1987_EP_SU2011_AD_02 @Gram:SerEstar:Ser 
+	"ser" Verb VSger Gerund lang:es 00:00:08 00:00:15 tt-231 AF009_1987_EP_SU2011_AD_02 @Gram:SerEstar:Ser ADD:769 
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:00:08 00:00:15 tt-232 AF009_1987_EP_SU2011_AD_02 
 "<tamales>"
@@ -73,7 +73,7 @@
 "<toda>"
 	"todo" Determiner QU lang:es 00:00:08 00:00:15 tt-242 AF009_1987_EP_SU2011_AD_02 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:08 00:00:15 tt-243 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:08 00:00:15 tt-243 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Art ADD:395 
 "<noche>"
 	"noche" Noun NC Singular lang:es 00:00:08 00:00:15 tt-244 AF009_1987_EP_SU2011_AD_02 
 "<,>"
@@ -83,31 +83,31 @@
 "<luego>"
 	"luego" Adverb ADV lang:es 00:00:08 00:00:15 tt-247 AF009_1987_EP_SU2011_AD_02 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:08 00:00:15 tt-248 AF009_1987_EP_SU2011_AD_02 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:08 00:00:15 tt-248 AF009_1987_EP_SU2011_AD_02 @Gram:Prep ADD:580 
 "<las>"
-	"el" Determiner ART Plural Fem lang:es 00:00:08 00:00:15 tt-249 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:00:08 00:00:15 tt-249 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Art ADD:395 
 "<doce>"
 	"doce" Determiner CARD Singular lang:es 00:00:18 00:00:24 tt-250 AF009_1987_EP_SU2011_AD_02 
 "<se>"
-	"se" Other SE lang:es 00:00:18 00:00:24 tt-251 AF009_1987_EP_SU2011_AD_02 @Gram:Pron:Otros 
+	"se" Other SE lang:es 00:00:18 00:00:24 tt-251 AF009_1987_EP_SU2011_AD_02 @Gram:Pron:Otros ADD:633 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:18 00:00:24 tt-252 AF009_1987_EP_SU2011_AD_02 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:18 00:00:24 tt-253 AF009_1987_EP_SU2011_AD_02 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:18 00:00:24 tt-253 AF009_1987_EP_SU2011_AD_02 @Gram:SerEstar:Ser ADD:769 
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:18 00:00:24 tt-254 AF009_1987_EP_SU2011_AD_02 
 "<celebramos>"
 	"celebrar" Verb VLfin Pres_or_Pret Indi Plural 1st lang:es 00:00:18 00:00:24 tt-255 AF009_1987_EP_SU2011_AD_02 
 "<lo>"
-	"el" Determiner ART Singular lang:es 00:00:18 00:00:24 tt-256 AF009_1987_EP_SU2011_AD_02 
+	"el" Determiner ART Singular lang:es 00:00:18 00:00:24 tt-256 AF009_1987_EP_SU2011_AD_02 ID:50 R:Gram:Det:LoAdj:51 ADDRELATION(Gram:Det:LoAdj):401 
 "<que>"
-	"que" Conjunction CQUE lang:es 00:00:18 00:00:24 tt-257 AF009_1987_EP_SU2011_AD_02 
+	"que" Conjunction CQUE lang:es 00:00:18 00:00:24 tt-257 AF009_1987_EP_SU2011_AD_02 ID:51 
 "<viene>"
 	"venir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:18 00:00:24 tt-258 AF009_1987_EP_SU2011_AD_02 
 "<siendo>"
-	"ser" Verb VSger Gerund lang:es 00:00:18 00:00:24 tt-259 AF009_1987_EP_SU2011_AD_02 @Gram:SerEstar:Ser 
+	"ser" Verb VSger Gerund lang:es 00:00:18 00:00:24 tt-259 AF009_1987_EP_SU2011_AD_02 @Gram:SerEstar:Ser ADD:769 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:18 00:00:24 tt-260 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:18 00:00:24 tt-260 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Art ADD:395 
 "<Navidad>"
 	"navidad" Noun NC Singular lang:es 00:00:18 00:00:24 tt-261 AF009_1987_EP_SU2011_AD_02 
 "<,>"
@@ -115,7 +115,7 @@
 "<abrimos>"
 	"abrir" Verb VLfin Pres_or_Pret Indi Plural 1st lang:es 00:00:18 00:00:24 tt-263 AF009_1987_EP_SU2011_AD_02 
 "<los>"
-	"el" Determiner ART Plural Masc lang:es 00:00:18 00:00:24 tt-264 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:18 00:00:24 tt-264 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Art ADD:395 
 "<regalos>"
 	"regalo" Noun NC Plural lang:es 00:00:18 00:00:24 tt-265 AF009_1987_EP_SU2011_AD_02 
 "<y>"
@@ -123,7 +123,7 @@
 "<todos>"
 	"todo" Determiner QU lang:es 00:00:18 00:00:24 tt-267 AF009_1987_EP_SU2011_AD_02 
 "<nos>"
-	"nosotros" Pronoun PPX Plural lang:es 00:00:24 00:00:31 tt-268 AF009_1987_EP_SU2011_AD_02 @Gram:Pron:Objeto 
+	"nosotros" Pronoun PPX Plural lang:es 00:00:24 00:00:31 tt-268 AF009_1987_EP_SU2011_AD_02 @Gram:Pron:Objeto ADD:614 
 "<damos>"
 	"dar" Verb VLfin Pres_or_Pret Indi Plural 1st lang:es 00:00:24 00:00:31 tt-269 AF009_1987_EP_SU2011_AD_02 
 "<un>"
@@ -140,15 +140,15 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:24 00:00:31 tt-275 AF009_1987_EP_SU2011_AD_02 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:24 00:00:31 tt-276 AF009_1987_EP_SU2011_AD_02 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:24 00:00:31 tt-276 AF009_1987_EP_SU2011_AD_02 @Gram:Prep ADD:580 
 "<Año>"
 	"año" Noun NC Singular lang:es 00:00:24 00:00:31 tt-277 AF009_1987_EP_SU2011_AD_02 
 "<Nuevo>"
 	"nuevo" Adjective ADJ Singular lang:es 00:00:24 00:00:31 tt-278 AF009_1987_EP_SU2011_AD_02 
 "<lo>"
-	"el" Determiner ART Singular lang:es 00:00:24 00:00:31 tt-279 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:24 00:00:31 tt-279 AF009_1987_EP_SU2011_AD_02 ID:73 R:Gram:Det:LoAdj:74 ADDRELATION(Gram:Det:LoAdj):400 
 "<mismo>"
-	"mismo" Adjective ADJ Singular lang:es 00:00:24 00:00:31 tt-280 AF009_1987_EP_SU2011_AD_02 
+	"mismo" Adjective ADJ Singular lang:es 00:00:24 00:00:31 tt-280 AF009_1987_EP_SU2011_AD_02 ID:74 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:24 00:00:31 tt-281 AF009_1987_EP_SU2011_AD_02 
 
@@ -157,13 +157,13 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:24 00:00:31 tt-283 AF009_1987_EP_SU2011_AD_02 
 "<también>"
-	"también" Adverb ADV lang:es 00:00:24 00:00:31 tt-284 AF009_1987_EP_SU2011_AD_02 @Prag:MarcadoresDisc:Igualdad 
+	"también" Adverb ADV lang:es 00:00:24 00:00:31 tt-284 AF009_1987_EP_SU2011_AD_02 @Prag:MarcadoresDisc:Igualdad ADD:1082 
 "<día>"
 	"día" Noun NC Singular lang:es 00:00:24 00:00:31 tt-285 AF009_1987_EP_SU2011_AD_02 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:24 00:00:31 tt-286 AF009_1987_EP_SU2011_AD_02 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:24 00:00:31 tt-286 AF009_1987_EP_SU2011_AD_02 @Gram:Prep ADD:580 
 "<las>"
-	"el" Determiner ART Plural Fem lang:es 00:00:24 00:00:31 tt-287 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:00:24 00:00:31 tt-287 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Art ADD:395 
 "<madres>"
 	"madre" Noun NC Plural lang:es 00:00:24 00:00:31 tt-288 AF009_1987_EP_SU2011_AD_02 
 "<,>"
@@ -171,7 +171,7 @@
 "<día>"
 	"día" Noun NC Singular lang:es 00:00:32 00:00:37 tt-290 AF009_1987_EP_SU2011_AD_02 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:32 00:00:37 tt-291 AF009_1987_EP_SU2011_AD_02 @Gram:Prep 
+	"del" Preposition PDEL lang:es 00:00:32 00:00:37 tt-291 AF009_1987_EP_SU2011_AD_02 @Gram:Prep ADD:580 
 "<padre>"
 	"padre" Noun NC Singular lang:es 00:00:32 00:00:37 tt-292 AF009_1987_EP_SU2011_AD_02 
 "<,>"
@@ -183,13 +183,13 @@
 "<eso>"
 	"ese" Determiner DM Singular lang:es 00:00:32 00:00:37 tt-296 AF009_1987_EP_SU2011_AD_02 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:32 00:00:37 tt-297 AF009_1987_EP_SU2011_AD_02 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:32 00:00:37 tt-297 AF009_1987_EP_SU2011_AD_02 @Gram:SerEstar:Ser ADD:769 
 "<lo>"
-	"el" Determiner ART Singular lang:es 00:00:32 00:00:37 tt-298 AF009_1987_EP_SU2011_AD_02 @Gram:Det:Art 
+	"el" Determiner ART Singular lang:es 00:00:32 00:00:37 tt-298 AF009_1987_EP_SU2011_AD_02 ID:92 R:Gram:Det:LoAdj:94 ADDRELATION(Gram:Det:LoAdj):400 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:32 00:00:37 tt-299 AF009_1987_EP_SU2011_AD_02 
 "<tradicional>"
-	"tradicional" Adjective ADJ Singular lang:es 00:00:32 00:00:37 tt-300 AF009_1987_EP_SU2011_AD_02 
+	"tradicional" Adjective ADJ Singular lang:es 00:00:32 00:00:37 tt-300 AF009_1987_EP_SU2011_AD_02 ID:94 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:32 00:00:37 tt-301 AF009_1987_EP_SU2011_AD_02 
 </speaker>

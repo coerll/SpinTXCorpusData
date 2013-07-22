@@ -1,7 +1,7 @@
 MF019_1971_CT_SU2011_VA_09
-@Gram : 170
-@Gram:Det : 34
-@Gram:Det:Art : 29
+@Gram : 168
+@Gram:Det : 32
+@Gram:Det:Art : 27
 @Gram:Det:Demo : 2
 @Gram:Det:Pos : 3
 @Gram:Haber : 6
@@ -27,14 +27,17 @@ MF019_1971_CT_SU2011_VA_09
 R:Func : 1
 R:Func:Deseos : 1
 R:Func:Deseos:Ajenos : 1
-R:Gram : 4
+R:Gram : 7
+R:Gram:Det : 3
+R:Gram:Det:LoAdj : 3
 R:Gram:SerEstar : 2
 R:Gram:SerEstar:EstarAux : 2
 R:Gram:VFut : 2
 R:Gram:VFut:Perifrasis : 2
-R:Prag : 3
-R:Prag:MarcadoresDisc : 3
+R:Prag : 4
+R:Prag:MarcadoresDisc : 4
 R:Prag:MarcadoresDisc:Igualdad : 3
+R:Prag:MarcadoresDisc:Probabilidad : 1
 R:Vocab : 3
 R:Vocab:Entities : 2
 R:Vocab:Entities:Geo : 2

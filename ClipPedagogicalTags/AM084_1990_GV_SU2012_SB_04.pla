@@ -1,7 +1,7 @@
 AM084_1990_GV_SU2012_SB_04
-@Gram : 80
-@Gram:Det : 12
-@Gram:Det:Art : 9
+@Gram : 79
+@Gram:Det : 11
+@Gram:Det:Art : 8
 @Gram:Det:Pos : 3
 @Gram:Haber : 3
 @Gram:Haber:Exist : 3
@@ -22,9 +22,11 @@ AM084_1990_GV_SU2012_SB_04
 @Prag:MarcadoresDisc:Causa : 1
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:MarcadoresDisc:Revision : 4
-R:Gram : 12
+R:Gram : 18
 R:Gram:Aux : 3
 R:Gram:Aux:Haber : 3
+R:Gram:Det : 6
+R:Gram:Det:LoAdj : 6
 R:Gram:Gustar : 4
 R:Gram:Gustar:Propios : 4
 R:Gram:PerfPerif : 3

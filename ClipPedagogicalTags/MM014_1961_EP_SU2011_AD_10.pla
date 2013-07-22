@@ -1,7 +1,7 @@
 MM014_1961_EP_SU2011_AD_10
-@Gram : 74
-@Gram:Det : 13
-@Gram:Det:Art : 6
+@Gram : 71
+@Gram:Det : 10
+@Gram:Det:Art : 3
 @Gram:Det:Pos : 7
 @Gram:Imperf : 4
 @Gram:Indefinido : 7
@@ -19,12 +19,14 @@ MM014_1961_EP_SU2011_AD_10
 @Prag:MarcadoresDisc:Causa : 1
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:MarcadoresDisc:Revision : 1
-R:Gram : 1
+R:Gram : 4
+R:Gram:Det : 3
+R:Gram:Det:LoAdj : 3
 R:Gram:Gustar : 1
 R:Gram:Gustar:Propios : 1
 R:Prag : 1
 R:Prag:MarcadoresDisc : 1
-R:Prag:MarcadoresDisc:Igualdad : 1
+R:Prag:MarcadoresDisc:Probabilidad : 1
 R:Vocab : 1
 R:Vocab:Fraseol : 1
 R:Vocab:Fraseol:VerbPrep : 1

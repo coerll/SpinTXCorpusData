@@ -1,7 +1,7 @@
 AM063_1992_CT_SU2012_CL_02
-@Gram : 75
-@Gram:Det : 21
-@Gram:Det:Art : 16
+@Gram : 74
+@Gram:Det : 20
+@Gram:Det:Art : 15
 @Gram:Det:Demo : 4
 @Gram:Det:Pos : 1
 @Gram:Haber : 1
@@ -20,12 +20,15 @@ AM063_1992_CT_SU2012_CL_02
 @Prag:MarcadoresDisc : 4
 @Prag:MarcadoresDisc:Causa : 2
 @Prag:MarcadoresDisc:Revision : 2
-R:Gram : 2
+R:Gram : 3
+R:Gram:Det : 1
+R:Gram:Det:LoAdj : 1
 R:Gram:Genero : 2
 R:Gram:Genero:ExcepMasc : 2
-R:Prag : 3
-R:Prag:MarcadoresDisc : 3
+R:Prag : 4
+R:Prag:MarcadoresDisc : 4
 R:Prag:MarcadoresDisc:Igualdad : 3
+R:Prag:MarcadoresDisc:Probabilidad : 1
 R:Vocab : 5
 R:Vocab:Entities : 4
 R:Vocab:Entities:Geo : 4

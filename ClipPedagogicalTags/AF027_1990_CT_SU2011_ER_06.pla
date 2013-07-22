@@ -1,7 +1,7 @@
 AF027_1990_CT_SU2011_ER_06
-@Gram : 50
-@Gram:Det : 14
-@Gram:Det:Art : 12
+@Gram : 49
+@Gram:Det : 13
+@Gram:Det:Art : 11
 @Gram:Det:Pos : 2
 @Gram:MSub : 4
 @Gram:MSub:Pres : 3
@@ -15,11 +15,14 @@ AF027_1990_CT_SU2011_ER_06
 @Gram:SerEstar : 9
 @Gram:SerEstar:Estar : 1
 @Gram:SerEstar:Ser : 8
-@Prag : 2
-@Prag:MarcadoresDisc : 2
+@Prag : 3
+@Prag:MarcadoresDisc : 3
 @Prag:MarcadoresDisc:Causa : 1
+@Prag:MarcadoresDisc:Probabilidad : 1
 @Prag:MarcadoresDisc:Revision : 1
-R:Gram : 5
+R:Gram : 6
+R:Gram:Det : 1
+R:Gram:Det:LoAdj : 1
 R:Gram:Genero : 2
 R:Gram:Genero:ExcepMasc : 2
 R:Gram:Gustar : 1

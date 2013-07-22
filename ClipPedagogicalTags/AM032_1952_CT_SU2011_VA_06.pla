@@ -27,7 +27,9 @@ AM032_1952_CT_SU2011_VA_06
 @Prag:MarcadoresDisc : 7
 @Prag:MarcadoresDisc:Causa : 1
 @Prag:MarcadoresDisc:Revision : 6
-R:Gram : 2
+R:Gram : 3
+R:Gram:Det : 1
+R:Gram:Det:LoAdj : 1
 R:Gram:MSub : 1
 R:Gram:MSub:Pret : 1
 R:Gram:SerEstar : 1
@@ -37,7 +39,7 @@ R:Herit:Contacto : 1
 R:Herit:Contacto:Mixtas : 1
 R:Prag : 3
 R:Prag:MarcadoresDisc : 3
-R:Prag:MarcadoresDisc:Igualdad : 3
+R:Prag:MarcadoresDisc:Probabilidad : 3
 R:Vocab : 2
 R:Vocab:Entities : 2
 R:Vocab:Entities:Geo : 2

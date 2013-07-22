@@ -1,7 +1,7 @@
 OF033_1969_CT_SU2011_VA_07
-@Gram : 172
-@Gram:Det : 31
-@Gram:Det:Art : 26
+@Gram : 170
+@Gram:Det : 29
+@Gram:Det:Art : 24
 @Gram:Det:Demo : 2
 @Gram:Det:Pos : 3
 @Gram:Haber : 2
@@ -20,11 +20,14 @@ OF033_1969_CT_SU2011_VA_07
 @Gram:SerEstar : 15
 @Gram:SerEstar:Estar : 3
 @Gram:SerEstar:Ser : 12
-@Prag : 15
-@Prag:MarcadoresDisc : 15
+@Prag : 16
+@Prag:MarcadoresDisc : 16
 @Prag:MarcadoresDisc:Causa : 8
+@Prag:MarcadoresDisc:Probabilidad : 1
 @Prag:MarcadoresDisc:Revision : 7
-R:Gram : 1
+R:Gram : 4
+R:Gram:Det : 3
+R:Gram:Det:LoAdj : 3
 R:Gram:SerEstar : 1
 R:Gram:SerEstar:EstarAux : 1
 R:Herit : 1

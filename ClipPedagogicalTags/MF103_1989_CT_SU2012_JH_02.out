@@ -1,15 +1,15 @@
 <text id="MF103_1989_CT_SU2012_JH_02">
 <speaker type="int">
 "<Los>"
-	"el" Determiner ART Plural Masc lang:es 00:00:00 00:00:03 tt-188 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:00 00:00:03 tt-188 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Art ADD:395 
 "<mejores>"
 	"bueno" Adjective ADJ Plural lang:es 00:00:00 00:00:03 tt-189 MF103_1989_CT_SU2012_JH_02 
 "<recuerdos>"
 	"recuerdo" Noun NC Plural lang:es 00:00:00 00:00:03 tt-190 MF103_1989_CT_SU2012_JH_02 
 "<sería>"
-	"ser" Verb VSfin Cond Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:03 tt-191 MF103_1989_CT_SU2012_JH_02 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Cond Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:03 tt-191 MF103_1989_CT_SU2012_JH_02 @Gram:SerEstar:Ser ADD:769 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:00 00:00:03 tt-192 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:00 00:00:03 tt-192 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Art ADD:395 
 "<fútbol>"
 	"futbol" Noun NC Singular lang:es 00:00:00 00:00:03 tt-193 MF103_1989_CT_SU2012_JH_02 
 "<$.>"
@@ -21,11 +21,11 @@
 	"." Punctuation FS lang:es 00:00:03 00:00:04 tt-196 MF103_1989_CT_SU2012_JH_02 
 
 "<Me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:04 00:00:05 tt-197 MF103_1989_CT_SU2012_JH_02 @Gram:Pron:Objeto ID:10 R:Gram:Gustar:Propios:11 
+	"yo" Pronoun PPX Singular lang:es 00:00:04 00:00:05 tt-197 MF103_1989_CT_SU2012_JH_02 @Gram:Pron:Objeto ID:10 R:Gram:Gustar:Propios:11 ADD:614 ADDRELATION(Gram:Gustar:Propios):683 
 "<gusta>"
 	"gustar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:04 00:00:05 tt-198 MF103_1989_CT_SU2012_JH_02 ID:11 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:04 00:00:05 tt-199 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:04 00:00:05 tt-199 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Art ADD:395 
 "<fútbol>"
 	"futbol" Noun NC Singular lang:es 00:00:04 00:00:05 tt-200 MF103_1989_CT_SU2012_JH_02 
 "<$.>"
@@ -60,7 +60,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:08 00:00:09 tt-211 MF103_1989_CT_SU2012_JH_02 
 "<Jugabas>"
-	"jugar" Verb VLfin Imp Indi Sing 2nd lang:es 00:00:08 00:00:09 tt-212 MF103_1989_CT_SU2012_JH_02 @Gram:Imperf 
+	"jugar" Verb VLfin Imp Indi Sing 2nd lang:es 00:00:08 00:00:09 tt-212 MF103_1989_CT_SU2012_JH_02 @Gram:Imperf ADD:645 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:08 00:00:09 tt-213 MF103_1989_CT_SU2012_JH_02 
 
@@ -72,7 +72,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:10 00:00:11 tt-216 MF103_1989_CT_SU2012_JH_02 
 "<En>"
-	"en" Preposition PREP lang:es 00:00:10 00:00:11 tt-217 MF103_1989_CT_SU2012_JH_02 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:10 00:00:11 tt-217 MF103_1989_CT_SU2012_JH_02 @Gram:Prep ADD:580 
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:10 00:00:11 tt-218 MF103_1989_CT_SU2012_JH_02 
 "<posición>"
@@ -130,21 +130,21 @@
 "<Admiras>"
 	"admirar" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:16 00:00:20 tt-238 MF103_1989_CT_SU2012_JH_02 
 "<algún>"
-	"alguno" Determiner QU lang:es 00:00:16 00:00:20 tt-239 MF103_1989_CT_SU2012_JH_02 
+	"alguno" Determiner QU lang:es 00:00:16 00:00:20 tt-239 MF103_1989_CT_SU2012_JH_02 @Gram:Det:CuantIndef ADD:442 
 "<equipo>"
 	"equipo" Noun NC Singular lang:es 00:00:16 00:00:20 tt-240 MF103_1989_CT_SU2012_JH_02 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:16 00:00:20 tt-241 MF103_1989_CT_SU2012_JH_02 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:16 00:00:20 tt-241 MF103_1989_CT_SU2012_JH_02 @Gram:Prep ADD:580 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:16 00:00:20 tt-242 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:16 00:00:20 tt-242 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Art ADD:395 
 "<liga>"
 	"liga" Noun NC Singular lang:es 00:00:16 00:00:20 tt-243 MF103_1989_CT_SU2012_JH_02 
 "<aquí>"
 	"aquí" Adverb ADV lang:es 00:00:16 00:00:20 tt-244 MF103_1989_CT_SU2012_JH_02 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:16 00:00:20 tt-245 MF103_1989_CT_SU2012_JH_02 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:16 00:00:20 tt-245 MF103_1989_CT_SU2012_JH_02 @Gram:Prep ADD:580 
 "<Estados>"
-	"Estados" Noun NP Plural lang:es 00:00:16 00:00:20 tt-246 MF103_1989_CT_SU2012_JH_02 ID:59 R:Vocab:Entities:Geo:60 
+	"Estados" Noun NP Plural lang:es 00:00:16 00:00:20 tt-246 MF103_1989_CT_SU2012_JH_02 ID:59 R:Vocab:Entities:Geo:60 ADDRELATION(Vocab:Entities:Geo):1160 
 "<Unidos>"
 	"Unidos" Noun NP Plural lang:es 00:00:16 00:00:20 tt-247 MF103_1989_CT_SU2012_JH_02 ID:60 
 "<$?>"
@@ -155,7 +155,7 @@
 "<En>"
 	"en" Other PE lang:es 00:00:20 00:00:23 tt-249 MF103_1989_CT_SU2012_JH_02 
 "<Estados>"
-	"Estados" Noun NP Plural lang:es 00:00:20 00:00:23 tt-250 MF103_1989_CT_SU2012_JH_02 ID:63 R:Vocab:Entities:Geo:64 
+	"Estados" Noun NP Plural lang:es 00:00:20 00:00:23 tt-250 MF103_1989_CT_SU2012_JH_02 ID:63 R:Vocab:Entities:Geo:64 ADDRELATION(Vocab:Entities:Geo):1160 
 "<Unidos>"
 	"Unidos" Noun NP Plural lang:es 00:00:20 00:00:23 tt-251 MF103_1989_CT_SU2012_JH_02 ID:64 
 "<no>"
@@ -186,9 +186,9 @@
 "<Qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:23 00:00:25 tt-262 MF103_1989_CT_SU2012_JH_02 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:23 00:00:25 tt-263 MF103_1989_CT_SU2012_JH_02 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:23 00:00:25 tt-263 MF103_1989_CT_SU2012_JH_02 @Gram:SerEstar:Ser ADD:769 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:23 00:00:25 tt-264 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Pos 
+	"tú" Pronoun PPX Singular lang:es 00:00:23 00:00:25 tt-264 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Pos ADD:425 
 "<equipo>"
 	"equipo" Noun NC Singular lang:es 00:00:23 00:00:25 tt-265 MF103_1989_CT_SU2012_JH_02 
 "<favorito>"
@@ -199,7 +199,7 @@
 <speaker type="subj">
 
 "<El>"
-	"el" Determiner ART Singular Masc lang:es 00:00:25 00:00:26 tt-268 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:25 00:00:26 tt-268 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Art ADD:395 
 "<América>"
 	"América" Noun NP Singular lang:es 00:00:25 00:00:26 tt-269 MF103_1989_CT_SU2012_JH_02 
 "<$.>"
@@ -208,7 +208,7 @@
 <speaker type="int">
 
 "<El>"
-	"el" Determiner ART Singular Masc lang:es 00:00:26 00:00:27 tt-271 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:26 00:00:27 tt-271 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Art ADD:395 
 "<América>"
 	"América" Noun NP Singular lang:es 00:00:26 00:00:27 tt-272 MF103_1989_CT_SU2012_JH_02 
 "<$.>"
@@ -220,7 +220,7 @@
 	"." Punctuation FS lang:es 00:00:27 00:00:28 tt-275 MF103_1989_CT_SU2012_JH_02 
 
 "<El>"
-	"el" Determiner ART Singular Masc lang:es 00:00:28 00:00:29 tt-276 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:28 00:00:29 tt-276 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Art ADD:395 
 "<América>"
 	"América" Noun NP Singular lang:es 00:00:28 00:00:29 tt-277 MF103_1989_CT_SU2012_JH_02 
 "<$.>"
@@ -229,7 +229,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:28 00:00:29 tt-279 MF103_1989_CT_SU2012_JH_02 
 "<Por>"
-	"por" Preposition PREP lang:es 00:00:28 00:00:29 tt-280 MF103_1989_CT_SU2012_JH_02 @Gram:Prep:Por 
+	"por" Preposition PREP lang:es 00:00:28 00:00:29 tt-280 MF103_1989_CT_SU2012_JH_02 @Gram:Prep:Por SUBSTITUTE:251 ADD:574 
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:28 00:00:29 tt-281 MF103_1989_CT_SU2012_JH_02 
 "<$?>"
@@ -240,16 +240,16 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:29 00:00:35 tt-283 MF103_1989_CT_SU2012_JH_02 
 "<Por>"
-	"por" Preposition PREP lang:es 00:00:29 00:00:35 tt-284 MF103_1989_CT_SU2012_JH_02 @Gram:Prep:Por 
+	"por" Preposition PREP lang:es 00:00:29 00:00:35 tt-284 MF103_1989_CT_SU2012_JH_02 @Gram:Prep:Por SUBSTITUTE:251 ADD:574 
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:29 00:00:35 tt-285 MF103_1989_CT_SU2012_JH_02 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:29 00:00:35 tt-286 MF103_1989_CT_SU2012_JH_02 
 
 "<Porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:29 00:00:35 tt-287 MF103_1989_CT_SU2012_JH_02 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:00:29 00:00:35 tt-287 MF103_1989_CT_SU2012_JH_02 @Prag:MarcadoresDisc:Causa ADD:1051 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:29 00:00:35 tt-288 MF103_1989_CT_SU2012_JH_02 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:29 00:00:35 tt-288 MF103_1989_CT_SU2012_JH_02 @Gram:SerEstar:Ser ADD:769 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:00:29 00:00:35 tt-289 MF103_1989_CT_SU2012_JH_02 
 "<equipo>"
@@ -261,13 +261,13 @@
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:29 00:00:35 tt-293 MF103_1989_CT_SU2012_JH_02 
 "<lo>"
-	"él" Pronoun PPC Singular lang:es 00:00:29 00:00:35 tt-294 MF103_1989_CT_SU2012_JH_02 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:00:29 00:00:35 tt-294 MF103_1989_CT_SU2012_JH_02 @Gram:Pron:Objeto ADD:620 
 "<odia>"
 	"odiar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:29 00:00:35 tt-295 MF103_1989_CT_SU2012_JH_02 
 "<o>"
 	"o" Conjunction CC lang:es 00:00:29 00:00:35 tt-296 MF103_1989_CT_SU2012_JH_02 
 "<lo>"
-	"él" Pronoun PPC Singular lang:es 00:00:29 00:00:35 tt-297 MF103_1989_CT_SU2012_JH_02 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:00:29 00:00:35 tt-297 MF103_1989_CT_SU2012_JH_02 @Gram:Pron:Objeto ADD:620 
 "<quiere>"
 	"querer" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:29 00:00:35 tt-298 MF103_1989_CT_SU2012_JH_02 
 "<y>"
@@ -275,13 +275,13 @@
 "<principalmente>"
 	"principalmente" Adverb ADV lang:es 00:00:29 00:00:35 tt-300 MF103_1989_CT_SU2012_JH_02 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:35 00:00:37 tt-301 MF103_1989_CT_SU2012_JH_02 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:00:35 00:00:37 tt-301 MF103_1989_CT_SU2012_JH_02 @Prag:MarcadoresDisc:Causa ADD:1051 
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:00:35 00:00:37 tt-302 MF103_1989_CT_SU2012_JH_02 
 "<todos>"
 	"todo" Determiner QU lang:es 00:00:35 00:00:37 tt-303 MF103_1989_CT_SU2012_JH_02 
 "<los>"
-	"el" Determiner ART Plural Masc lang:es 00:00:35 00:00:37 tt-304 MF103_1989_CT_SU2012_JH_02 @Gram:Pron:Objeto 
+	"el" Determiner ART Plural Masc lang:es 00:00:35 00:00:37 tt-304 MF103_1989_CT_SU2012_JH_02 @Gram:Pron:Objeto ADD:608 
 "<siguen>"
 	"seguir" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:35 00:00:37 tt-305 MF103_1989_CT_SU2012_JH_02 
 "<$.>"
@@ -294,7 +294,7 @@
 "<Todos>"
 	"todo" Determiner QU lang:es 00:00:37 00:00:38 tt-308 MF103_1989_CT_SU2012_JH_02 
 "<los>"
-	"el" Determiner ART Plural Masc lang:es 00:00:37 00:00:38 tt-309 MF103_1989_CT_SU2012_JH_02 @Gram:Pron:Objeto 
+	"el" Determiner ART Plural Masc lang:es 00:00:37 00:00:38 tt-309 MF103_1989_CT_SU2012_JH_02 @Gram:Pron:Objeto ADD:608 
 "<siguen>"
 	"seguir" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:37 00:00:38 tt-310 MF103_1989_CT_SU2012_JH_02 
 "<$?>"
@@ -314,11 +314,11 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:39 00:00:40 tt-317 MF103_1989_CT_SU2012_JH_02 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:39 00:00:40 tt-318 MF103_1989_CT_SU2012_JH_02 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:39 00:00:40 tt-318 MF103_1989_CT_SU2012_JH_02 @Gram:Prep ADD:580 
 "<España>"
 	"España" Noun NP Singular lang:es 00:00:39 00:00:40 tt-319 MF103_1989_CT_SU2012_JH_02 
 "<también>"
-	"también" Adverb ADV lang:es 00:00:39 00:00:40 tt-320 MF103_1989_CT_SU2012_JH_02 @Prag:MarcadoresDisc:Igualdad 
+	"también" Adverb ADV lang:es 00:00:39 00:00:40 tt-320 MF103_1989_CT_SU2012_JH_02 @Prag:MarcadoresDisc:Igualdad ADD:1082 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:39 00:00:40 tt-321 MF103_1989_CT_SU2012_JH_02 
 </speaker>
@@ -329,17 +329,17 @@
 "<España>"
 	"España" Noun NP Singular lang:es 00:00:40 00:00:44 tt-323 MF103_1989_CT_SU2012_JH_02 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:40 00:00:44 tt-324 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:40 00:00:44 tt-324 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Art ADD:395 
 "<Barcelona>"
 	"Barcelona" Noun NP Singular lang:es 00:00:40 00:00:44 tt-325 MF103_1989_CT_SU2012_JH_02 
 "<por>"
-	"por" Preposition PREP lang:es 00:00:40 00:00:44 tt-326 MF103_1989_CT_SU2012_JH_02 @Gram:Prep:Por 
+	"por" Preposition PREP lang:es 00:00:40 00:00:44 tt-326 MF103_1989_CT_SU2012_JH_02 @Gram:Prep:Por SUBSTITUTE:251 ADD:574 
 "<su>"
-	"suyo" Pronoun PPO Singular lang:es 00:00:40 00:00:44 tt-327 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Pos 
+	"suyo" Pronoun PPO Singular lang:es 00:00:40 00:00:44 tt-327 MF103_1989_CT_SU2012_JH_02 @Gram:Det:Pos ADD:425 
 "<estilo>"
 	"estilo" Noun NC Singular lang:es 00:00:40 00:00:44 tt-328 MF103_1989_CT_SU2012_JH_02 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:40 00:00:44 tt-329 MF103_1989_CT_SU2012_JH_02 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:40 00:00:44 tt-329 MF103_1989_CT_SU2012_JH_02 @Gram:Prep ADD:580 
 "<juego>"
 	"juego" Noun NC Singular lang:es 00:00:40 00:00:44 tt-330 MF103_1989_CT_SU2012_JH_02 
 "<$.>"

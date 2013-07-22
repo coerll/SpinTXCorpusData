@@ -14,11 +14,11 @@
 "<cómo>"
 	"cómo" Adverb ADV lang:es 00:00:00 00:00:05 tt-1011 AF083_1983_GV_SU2012_SB_05 
 "<te>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:05 tt-1012 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:05 tt-1012 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto ADD:614 
 "<identifiques>"
-	"UNK" Verb VLfin Pres Subj Sing 2nd lang:es 00:00:00 00:00:05 tt-1013 AF083_1983_GV_SU2012_SB_05 @Gram:MSub:Pres 
+	"UNK" Verb VLfin Pres Subj Sing 2nd lang:es 00:00:00 00:00:05 tt-1013 AF083_1983_GV_SU2012_SB_05 @Gram:MSub:Pres ADD:738 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:05 tt-1014 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:05 tt-1014 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto ADD:590 
 "<,>"
 	"," Punctuation CM lang:es 00:00:00 00:00:05 tt-1015 AF083_1983_GV_SU2012_SB_05 
 "<Sabrina>"
@@ -45,7 +45,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:05 00:00:07 tt-1025 AF083_1983_GV_SU2012_SB_05 
 "<Este>"
-	"este" Determiner DM Singular lang:es 00:00:05 00:00:07 tt-1026 AF083_1983_GV_SU2012_SB_05 @Prag:RecuDiscurso:GanarTiempo 
+	"este" Determiner DM Singular lang:es 00:00:05 00:00:07 tt-1026 AF083_1983_GV_SU2012_SB_05 @Prag:RecuDiscurso:GanarTiempo ADD:1121 
 "<,>"
 	"," Punctuation CM lang:es 00:00:05 00:00:07 tt-1027 AF083_1983_GV_SU2012_SB_05 
 "<mexicana>"
@@ -83,19 +83,20 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:07 00:00:14 tt-1040 AF083_1983_GV_SU2012_SB_05 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:07 00:00:14 tt-1041 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:07 00:00:14 tt-1041 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto ADD:590 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:07 00:00:14 tt-1042 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:07 00:00:14 tt-1042 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto ADD:614 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:07 00:00:14 tt-1043 AF083_1983_GV_SU2012_SB_05 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:07 00:00:14 tt-1044 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:07 00:00:14 tt-1044 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto ADD:590 
 "<sabía>"
-	"saber" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:07 00:00:14 tt-1045 AF083_1983_GV_SU2012_SB_05 @Gram:Imperf 
+	"saber" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:07 00:00:14 tt-1045 AF083_1983_GV_SU2012_SB_05 @Gram:Imperf ADD:645 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:07 00:00:14 tt-1046 AF083_1983_GV_SU2012_SB_05 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:07 00:00:14 tt-1047 AF083_1983_GV_SU2012_SB_05 @Gram:Imperf @Gram:SerEstar:Ser ID:42 R:Herit:Contacto:Mixtas:43 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:07 00:00:14 tt-1047 AF083_1983_GV_SU2012_SB_05 @Gram:Imperf ID:42 R:Herit:Contacto:Mixtas:43 ADD:645 ADD:769 ADDRELATION(Herit:Contacto:Mixtas):1136 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:07 00:00:14 tt-1047 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser ID:42 R:Herit:Contacto:Mixtas:43 ADD:645 ADD:769 
 <lang code="en">
 "<Hispanic>"
 	"Hispanic" Noun NP Singular lang:en 00:00:07 00:00:14 tt-1048 AF083_1983_GV_SU2012_SB_05 ID:43 
@@ -115,19 +116,19 @@
 "<Cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:07 00:00:14 tt-1053 AF083_1983_GV_SU2012_SB_05 
 "<llegué>"
-	"llegar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:07 00:00:14 tt-1054 AF083_1983_GV_SU2012_SB_05 @Gram:Indefinido 
+	"llegar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:07 00:00:14 tt-1054 AF083_1983_GV_SU2012_SB_05 @Gram:Indefinido ADD:654 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:07 00:00:14 tt-1055 AF083_1983_GV_SU2012_SB_05 
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:17 00:00:24 tt-1056 AF083_1983_GV_SU2012_SB_05 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:17 00:00:24 tt-1057 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:17 00:00:24 tt-1057 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto ADD:614 
 "<metí>"
-	"meter" Verb VLfin Pret Indi Sing 1st lang:es 00:00:17 00:00:24 tt-1058 AF083_1983_GV_SU2012_SB_05 @Gram:Indefinido 
+	"meter" Verb VLfin Pret Indi Sing 1st lang:es 00:00:17 00:00:24 tt-1058 AF083_1983_GV_SU2012_SB_05 @Gram:Indefinido ADD:654 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:17 00:00:24 tt-1059 AF083_1983_GV_SU2012_SB_05 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:17 00:00:24 tt-1059 AF083_1983_GV_SU2012_SB_05 @Gram:Prep ADD:580 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:17 00:00:24 tt-1060 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:17 00:00:24 tt-1060 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Art ADD:395 
 <lang code="en">
 "<Army>"
 	"Army" Noun NP Singular lang:en 00:00:17 00:00:24 tt-1061 AF083_1983_GV_SU2012_SB_05 
@@ -144,9 +145,9 @@
 	"." Punctuation FS lang:es 00:00:17 00:00:24 tt-1066 AF083_1983_GV_SU2012_SB_05 
 
 "<Ellos>"
-	"él" Pronoun PPX Plural lang:es 00:00:17 00:00:24 tt-1067 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Plural lang:es 00:00:17 00:00:24 tt-1067 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto ADD:590 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:17 00:00:24 tt-1068 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:17 00:00:24 tt-1068 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto ADD:614 
 "<preguntan>"
 	"preguntar" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:17 00:00:24 tt-1069 AF083_1983_GV_SU2012_SB_05 
 "<$¿>"
@@ -154,7 +155,7 @@
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:17 00:00:24 tt-1071 AF083_1983_GV_SU2012_SB_05 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:17 00:00:24 tt-1072 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser ID:67 R:Herit:Contacto:Mixtas:68 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:17 00:00:24 tt-1072 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser ID:67 R:Herit:Contacto:Mixtas:68 ADD:769 ADDRELATION(Herit:Contacto:Mixtas):1136 
 <lang code="en">
 "<Hispanic>"
 	"Hispanic" Noun NP Singular lang:en 00:00:17 00:00:24 tt-1073 AF083_1983_GV_SU2012_SB_05 ID:68 
@@ -167,9 +168,9 @@
 "<Qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:25 00:00:31 tt-1076 AF083_1983_GV_SU2012_SB_05 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:25 00:00:31 tt-1077 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:25 00:00:31 tt-1077 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser ADD:769 
 "<eso>"
-	"ese" Determiner DM Singular lang:es 00:00:25 00:00:31 tt-1078 AF083_1983_GV_SU2012_SB_05 
+	"ese" Determiner DM Singular lang:es 00:00:25 00:00:31 tt-1078 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Demo ADD:418 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:25 00:00:31 tt-1079 AF083_1983_GV_SU2012_SB_05 
 <lang code="en">
@@ -194,7 +195,7 @@
 	"saying" Noun NN lang:en 00:00:25 00:00:31 tt-1087 AF083_1983_GV_SU2012_SB_05 
 </lang>
 "<soy>"
-	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:00:25 00:00:31 tt-1088 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:00:25 00:00:31 tt-1088 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser ADD:769 
 "<mexicana>"
 	"mexicano" Adjective ADJ Singular lang:es 00:00:25 00:00:31 tt-1089 AF083_1983_GV_SU2012_SB_05 
 "<$.>"
@@ -202,14 +203,14 @@
 <lang code="en">
 
 "<Because>"
-	"because" Preposition IN lang:en 00:00:25 00:00:31 tt-1091 AF083_1983_GV_SU2012_SB_05 @Gram:Prep 
+	"because" Preposition IN lang:en 00:00:25 00:00:31 tt-1091 AF083_1983_GV_SU2012_SB_05 @Gram:Prep ADD:580 
 "<they>"
 	"they" Pronoun PP lang:en 00:00:25 00:00:31 tt-1092 AF083_1983_GV_SU2012_SB_05 
 </lang>
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:25 00:00:31 tt-1093 AF083_1983_GV_SU2012_SB_05 
 "<ellos>"
-	"él" Pronoun PPX Plural lang:es 00:00:25 00:00:31 tt-1094 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Plural lang:es 00:00:25 00:00:31 tt-1094 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto ADD:590 
 "<no>"
 	"no" Adverb NEG lang:es 00:00:31 00:00:37 tt-1095 AF083_1983_GV_SU2012_SB_05 
 "<entienden>"
@@ -222,7 +223,7 @@
 	"." Punctuation FS lang:es 00:00:31 00:00:37 tt-1098 AF083_1983_GV_SU2012_SB_05 
 
 "<Porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:31 00:00:37 tt-1099 AF083_1983_GV_SU2012_SB_05 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:00:31 00:00:37 tt-1099 AF083_1983_GV_SU2012_SB_05 @Prag:MarcadoresDisc:Causa ADD:1051 
 "<cada>"
 	"cada" Conjunction CSUBF lang:es 00:00:31 00:00:37 tt-1100 AF083_1983_GV_SU2012_SB_05 
 "<vez>"
@@ -230,19 +231,19 @@
 "<que>"
 	"que" Conjunction CSUBF lang:es 00:00:31 00:00:37 tt-1102 AF083_1983_GV_SU2012_SB_05 
 "<decía>"
-	"decir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:31 00:00:37 tt-1103 AF083_1983_GV_SU2012_SB_05 @Gram:Imperf 
+	"decir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:31 00:00:37 tt-1103 AF083_1983_GV_SU2012_SB_05 @Gram:Imperf ADD:645 
 "<eso>"
-	"ese" Determiner DM Singular lang:es 00:00:31 00:00:37 tt-1104 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Demo 
+	"ese" Determiner DM Singular lang:es 00:00:31 00:00:37 tt-1104 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Demo ADD:418 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:31 00:00:37 tt-1105 AF083_1983_GV_SU2012_SB_05 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:31 00:00:37 tt-1105 AF083_1983_GV_SU2012_SB_05 @Gram:Prep ADD:580 
 "<los>"
-	"el" Determiner ART Plural Masc lang:es 00:00:31 00:00:37 tt-1106 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:31 00:00:37 tt-1106 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Art ADD:395 
 "<personas>"
 	"persona" Noun NC Plural lang:es 00:00:31 00:00:37 tt-1107 AF083_1983_GV_SU2012_SB_05 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:31 00:00:37 tt-1108 AF083_1983_GV_SU2012_SB_05 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:31 00:00:37 tt-1108 AF083_1983_GV_SU2012_SB_05 @Gram:Prep ADD:580 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:31 00:00:37 tt-1109 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:31 00:00:37 tt-1109 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Art ADD:395 
 <lang code="en">
 "<Army>"
 	"Army" Noun NP Singular lang:en 00:00:31 00:00:37 tt-1110 AF083_1983_GV_SU2012_SB_05 
@@ -250,25 +251,25 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:31 00:00:37 tt-1111 AF083_1983_GV_SU2012_SB_05 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:31 00:00:37 tt-1112 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:31 00:00:37 tt-1112 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto ADD:614 
 "<preguntaban>"
-	"preguntar" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:37 00:00:44 tt-1113 AF083_1983_GV_SU2012_SB_05 @Gram:Imperf 
+	"preguntar" Verb VLfin Imp Indi Plural 3rd lang:es 00:00:37 00:00:44 tt-1113 AF083_1983_GV_SU2012_SB_05 @Gram:Imperf ADD:645 
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:37 00:00:44 tt-1114 AF083_1983_GV_SU2012_SB_05 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:37 00:00:44 tt-1115 AF083_1983_GV_SU2012_SB_05 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:37 00:00:44 tt-1115 AF083_1983_GV_SU2012_SB_05 @Gram:Imperf @Gram:SerEstar:Ser ADD:645 ADD:769 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:37 00:00:44 tt-1116 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:37 00:00:44 tt-1116 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Pos ADD:425 
 "<ethnicity>"
 	"UNK" Noun NC Singular lang:es 00:00:37 00:00:44 tt-1117 AF083_1983_GV_SU2012_SB_05 
 "<,>"
 	"," Punctuation CM lang:es 00:00:37 00:00:44 tt-1118 AF083_1983_GV_SU2012_SB_05 
 "<tenía>"
-	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:37 00:00:44 tt-1119 AF083_1983_GV_SU2012_SB_05 @Gram:Imperf 
+	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:37 00:00:44 tt-1119 AF083_1983_GV_SU2012_SB_05 @Gram:Imperf ADD:645 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:37 00:00:44 tt-1120 AF083_1983_GV_SU2012_SB_05 
 "<decir>"
-	"decir" Verb VLinf Infinitive lang:es 00:00:37 00:00:44 tt-1121 AF083_1983_GV_SU2012_SB_05 
+	"decir" Verb VLinf Infinitive lang:es 00:00:37 00:00:44 tt-1121 AF083_1983_GV_SU2012_SB_05 SUBSTITUTE:309 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:37 00:00:44 tt-1122 AF083_1983_GV_SU2012_SB_05 
 <lang code="en">
@@ -278,11 +279,11 @@
 "<todo>"
 	"todo" Determiner QU lang:es 00:00:37 00:00:44 tt-1124 AF083_1983_GV_SU2012_SB_05 
 "<los>"
-	"el" Determiner ART Plural Masc lang:es 00:00:37 00:00:44 tt-1125 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:37 00:00:44 tt-1125 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Art ADD:395 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:37 00:00:44 tt-1126 AF083_1983_GV_SU2012_SB_05 
 "<los>"
-	"el" Determiner ART Plural Masc lang:es 00:00:37 00:00:44 tt-1127 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:37 00:00:44 tt-1127 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Art ADD:395 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:37 00:00:44 tt-1128 AF083_1983_GV_SU2012_SB_05 
 <lang code="en">
@@ -312,7 +313,7 @@
 	"say" Verb VBG lang:en 00:00:45 00:00:49 tt-1139 AF083_1983_GV_SU2012_SB_05 
 </lang>
 "<soy>"
-	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:00:45 00:00:49 tt-1140 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:00:45 00:00:49 tt-1140 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser ADD:769 
 "<mexicana>"
 	"mexicano" Adjective ADJ Singular lang:es 00:00:45 00:00:49 tt-1141 AF083_1983_GV_SU2012_SB_05 
 "<$.>"
@@ -332,21 +333,21 @@
 "<eso>"
 	"ese" Determiner DM Singular lang:es 00:00:49 00:00:54 tt-1147 AF083_1983_GV_SU2012_SB_05 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:49 00:00:54 tt-1148 AF083_1983_GV_SU2012_SB_05 ID:143 R:Gram:Aux:Haber:144 R:Gram:PerfPerif:144 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:49 00:00:54 tt-1148 AF083_1983_GV_SU2012_SB_05 ID:143 R:Gram:Aux:Haber:144 R:Gram:PerfPerif:144 ADDRELATION():661 
 "<cambiado>"
 	"cambiar" Verb VLadj lang:es 00:00:49 00:00:54 tt-1149 AF083_1983_GV_SU2012_SB_05 ID:144 
 "<entonces>"
 	"entonces" Adverb ADV lang:es 00:00:49 00:00:54 tt-1150 AF083_1983_GV_SU2012_SB_05 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:49 00:00:54 tt-1151 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Pos 
+	"tú" Pronoun PPX Singular lang:es 00:00:49 00:00:54 tt-1151 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Pos ADD:425 
 "<manera>"
 	"manera" Noun NC Singular lang:es 00:00:49 00:00:54 tt-1152 AF083_1983_GV_SU2012_SB_05 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:49 00:00:54 tt-1153 AF083_1983_GV_SU2012_SB_05 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:49 00:00:54 tt-1153 AF083_1983_GV_SU2012_SB_05 @Gram:Prep ADD:580 
 "<verte>"
 	"ver" Verb VLinf Pres Indi Sing 3rd lang:es 00:00:49 00:00:54 tt-1154 AF083_1983_GV_SU2012_SB_05 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:49 00:00:54 tt-1155 AF083_1983_GV_SU2012_SB_05 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:49 00:00:54 tt-1155 AF083_1983_GV_SU2012_SB_05 @Gram:Prep ADD:580 
 "<ti>"
 	"tú" Pronoun PPX Singular lang:es 00:00:49 00:00:54 tt-1156 AF083_1983_GV_SU2012_SB_05 
 "<$?>"
@@ -362,9 +363,9 @@
 "<Sí>"
 	"sí" Adverb ADV lang:es 00:00:54 00:00:59 tt-1160 AF083_1983_GV_SU2012_SB_05 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:54 00:00:59 tt-1161 AF083_1983_GV_SU2012_SB_05 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:00:54 00:00:59 tt-1161 AF083_1983_GV_SU2012_SB_05 @Prag:MarcadoresDisc:Causa ADD:1051 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:54 00:00:59 tt-1162 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:54 00:00:59 tt-1162 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Pos ADD:425 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:54 00:00:59 tt-1163 AF083_1983_GV_SU2012_SB_05 
 "<todavía>"
@@ -376,9 +377,9 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:54 00:00:59 tt-1167 AF083_1983_GV_SU2012_SB_05 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:54 00:00:59 tt-1168 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:54 00:00:59 tt-1168 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto ADD:590 
 "<eres>"
-	"ser" Verb VSfin Pres Indi Sing 2nd lang:es 00:00:54 00:00:59 tt-1169 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser ID:164 R:Herit:Contacto:Mixtas:165 
+	"ser" Verb VSfin Pres Indi Sing 2nd lang:es 00:00:54 00:00:59 tt-1169 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser ID:164 R:Herit:Contacto:Mixtas:165 ADD:769 ADDRELATION(Herit:Contacto:Mixtas):1136 
 <lang code="en">
 "<Hispanic>"
 	"Hispanic" Adjective JJ lang:en 00:00:54 00:00:59 tt-1170 AF083_1983_GV_SU2012_SB_05 ID:165 
@@ -389,44 +390,44 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:54 00:00:59 tt-1172 AF083_1983_GV_SU2012_SB_05 
 "<le>"
-	"él" Pronoun PPC Singular lang:es 00:00:54 00:00:59 tt-1173 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:00:54 00:00:59 tt-1173 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto ADD:620 
 "<dije>"
-	"decir" Verb VLfin Pret Indi Sing 1st lang:es 00:00:54 00:00:59 tt-1174 AF083_1983_GV_SU2012_SB_05 @Gram:Indefinido 
+	"decir" Verb VLfin Pret Indi Sing 1st lang:es 00:00:54 00:00:59 tt-1174 AF083_1983_GV_SU2012_SB_05 @Gram:Indefinido ADD:654 
 "<no>"
 	"no" Adverb NEG lang:es 00:00:54 00:00:59 tt-1175 AF083_1983_GV_SU2012_SB_05 
 "<,>"
 	"," Punctuation CM lang:es 00:00:54 00:00:59 tt-1176 AF083_1983_GV_SU2012_SB_05 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:54 00:00:59 tt-1177 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:54 00:00:59 tt-1177 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto ADD:590 
 "<soy>"
-	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:00:59 00:01:06 tt-1178 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:00:59 00:01:06 tt-1178 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser ADD:769 
 "<mexicana>"
 	"mexicano" Adjective ADJ Singular lang:es 00:00:59 00:01:06 tt-1179 AF083_1983_GV_SU2012_SB_05 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:59 00:01:06 tt-1180 AF083_1983_GV_SU2012_SB_05 
 
 "<Porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:59 00:01:06 tt-1181 AF083_1983_GV_SU2012_SB_05 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:00:59 00:01:06 tt-1181 AF083_1983_GV_SU2012_SB_05 @Prag:MarcadoresDisc:Causa ADD:1051 
 "<mis>"
-	"mío" Pronoun PPO Plural lang:es 00:00:59 00:01:06 tt-1182 AF083_1983_GV_SU2012_SB_05 
+	"mío" Pronoun PPO Plural lang:es 00:00:59 00:01:06 tt-1182 AF083_1983_GV_SU2012_SB_05 SUBSTITUTE:298 
 <lang code="en">
 "<ancestors>"
 	"ancestor" Noun NNS lang:en 00:00:59 00:01:06 tt-1183 AF083_1983_GV_SU2012_SB_05 
 </lang>
 "<vinieron>"
-	"venir" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:59 00:01:06 tt-1184 AF083_1983_GV_SU2012_SB_05 @Gram:Indefinido 
+	"venir" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:59 00:01:06 tt-1184 AF083_1983_GV_SU2012_SB_05 @Gram:Indefinido ADD:654 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:59 00:01:06 tt-1185 AF083_1983_GV_SU2012_SB_05 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:59 00:01:06 tt-1185 AF083_1983_GV_SU2012_SB_05 @Gram:Prep ADD:580 
 "<México>"
 	"México" Noun NP Singular lang:es 00:00:59 00:01:06 tt-1186 AF083_1983_GV_SU2012_SB_05 
 <lang code="en">
 "<so>"
-	"so" Preposition IN lang:en 00:00:59 00:01:06 tt-1187 AF083_1983_GV_SU2012_SB_05 @Gram:Prep 
+	"so" Preposition IN lang:en 00:00:59 00:01:06 tt-1187 AF083_1983_GV_SU2012_SB_05 @Gram:Prep ADD:580 
 </lang>
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:59 00:01:06 tt-1188 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:59 00:01:06 tt-1188 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto ADD:590 
 "<soy>"
-	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:00:59 00:01:06 tt-1189 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:00:59 00:01:06 tt-1189 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser ADD:769 
 "<mexicana>"
 	"mexicano" Adjective ADJ Singular lang:es 00:00:59 00:01:06 tt-1190 AF083_1983_GV_SU2012_SB_05 
 "<$.>"
@@ -441,29 +442,29 @@
 "<sí>"
 	"él" Pronoun PPX Singular lang:es 00:00:59 00:01:06 tt-1195 AF083_1983_GV_SU2012_SB_05 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:59 00:01:06 tt-1196 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:59 00:01:06 tt-1196 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto ADD:614 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:59 00:01:06 tt-1197 AF083_1983_GV_SU2012_SB_05 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:01:07 00:01:10 tt-1198 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto ID:193 R:Gram:Gustar:Propios:194 
+	"yo" Pronoun PPX Singular lang:es 00:01:07 00:01:10 tt-1198 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto ID:193 R:Gram:Gustar:Propios:194 ADD:614 ADDRELATION(Gram:Gustar:Propios):683 
 "<gusta>"
 	"gustar" Verb VLfin Pres Indi Sing 3rd lang:es 00:01:07 00:01:10 tt-1199 AF083_1983_GV_SU2012_SB_05 ID:194 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:01:07 00:01:10 tt-1200 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:01:07 00:01:10 tt-1200 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto ADD:614 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:07 00:01:10 tt-1201 AF083_1983_GV_SU2012_SB_05 
 "<no>"
 	"no" Adverb NEG lang:es 00:01:07 00:01:10 tt-1202 AF083_1983_GV_SU2012_SB_05 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:01:07 00:01:10 tt-1203 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto ID:198 R:Gram:Gustar:Propios:199 
+	"yo" Pronoun PPX Singular lang:es 00:01:07 00:01:10 tt-1203 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto ID:198 R:Gram:Gustar:Propios:199 ADD:614 ADDRELATION(Gram:Gustar:Propios):683 
 "<gusta>"
 	"gustar" Verb VLfin Pres Indi Sing 3rd lang:es 00:01:07 00:01:10 tt-1204 AF083_1983_GV_SU2012_SB_05 ID:199 
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:01:07 00:01:10 tt-1205 AF083_1983_GV_SU2012_SB_05 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:01:07 00:01:10 tt-1206 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:01:07 00:01:10 tt-1206 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto ADD:614 
 "<dicen>"
-	"decir" Verb VLfin Pres Indi Plural 3rd lang:es 00:01:07 00:01:10 tt-1207 AF083_1983_GV_SU2012_SB_05 ID:202 R:Herit:Contacto:Mixtas:203 
+	"decir" Verb VLfin Pres Indi Plural 3rd lang:es 00:01:07 00:01:10 tt-1207 AF083_1983_GV_SU2012_SB_05 ID:202 R:Herit:Contacto:Mixtas:203 ADDRELATION(Herit:Contacto:Mixtas):1136 
 <lang code="en">
 "<oh>"
 	"oh" Other UH lang:en 00:01:07 00:01:10 tt-1208 AF083_1983_GV_SU2012_SB_05 ID:203 
@@ -471,13 +472,13 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:07 00:01:10 tt-1209 AF083_1983_GV_SU2012_SB_05 
 "<eres>"
-	"ser" Verb VSfin Pres Indi Sing 2nd lang:es 00:01:07 00:01:10 tt-1210 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 2nd lang:es 00:01:07 00:01:10 tt-1210 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser ADD:769 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:07 00:01:10 tt-1211 AF083_1983_GV_SU2012_SB_05 
 "<En>"
-	"en" Preposition PREP lang:es 00:01:07 00:01:10 tt-1212 AF083_1983_GV_SU2012_SB_05 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:01:07 00:01:10 tt-1212 AF083_1983_GV_SU2012_SB_05 @Gram:Prep ADD:580 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:01:07 00:01:10 tt-1213 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:07 00:01:10 tt-1213 AF083_1983_GV_SU2012_SB_05 @Gram:Det:Art ADD:395 
 <lang code="en">
 "<Army>"
 	"army" Noun NN lang:en 00:01:07 00:01:10 tt-1214 AF083_1983_GV_SU2012_SB_05 
@@ -485,19 +486,19 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:07 00:01:10 tt-1215 AF083_1983_GV_SU2012_SB_05 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:01:07 00:01:10 tt-1216 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:01:07 00:01:10 tt-1216 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Objeto ADD:614 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:07 00:01:10 tt-1217 AF083_1983_GV_SU2012_SB_05 
 "<en>"
-	"en" Preposition PREP lang:es 00:01:07 00:01:10 tt-1218 AF083_1983_GV_SU2012_SB_05 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:01:07 00:01:10 tt-1218 AF083_1983_GV_SU2012_SB_05 @Gram:Prep ADD:580 
 "<veces>"
 	"vez" Noun NC Plural lang:es 00:01:10 00:01:15 tt-1219 AF083_1983_GV_SU2012_SB_05 
 "<creen>"
-	"creer" Verb VLfin Pres Indi Plural 3rd lang:es 00:01:10 00:01:15 tt-1220 AF083_1983_GV_SU2012_SB_05 
+	"creer" Verb VLfin Pres Indi Plural 3rd lang:es 00:01:10 00:01:15 tt-1220 AF083_1983_GV_SU2012_SB_05 SUBSTITUTE:332 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:10 00:01:15 tt-1221 AF083_1983_GV_SU2012_SB_05 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:10 00:01:15 tt-1222 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:10 00:01:15 tt-1222 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser ADD:769 
 "<puertorriqueña>"
 	"puertorriqueño" Adjective ADJ Singular lang:es 00:01:10 00:01:15 tt-1223 AF083_1983_GV_SU2012_SB_05 
 "<o>"
@@ -514,9 +515,9 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:10 00:01:15 tt-1229 AF083_1983_GV_SU2012_SB_05 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:01:10 00:01:15 tt-1230 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:01:10 00:01:15 tt-1230 AF083_1983_GV_SU2012_SB_05 @Gram:Pron:Sujeto ADD:590 
 "<soy>"
-	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:01:10 00:01:15 tt-1231 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:01:10 00:01:15 tt-1231 AF083_1983_GV_SU2012_SB_05 @Gram:SerEstar:Ser ADD:769 
 "<mexicana>"
 	"mexicano" Noun NC Singular lang:es 00:01:10 00:01:15 tt-1232 AF083_1983_GV_SU2012_SB_05 
 <lang code="en">
@@ -531,7 +532,7 @@
 "<proud>"
 	"proud" Adjective JJ lang:en 00:01:10 00:01:15 tt-1237 AF083_1983_GV_SU2012_SB_05 
 "<of>"
-	"of" Preposition IN lang:en 00:01:15 00:01:16 tt-1238 AF083_1983_GV_SU2012_SB_05 @Gram:Prep 
+	"of" Preposition IN lang:en 00:01:15 00:01:16 tt-1238 AF083_1983_GV_SU2012_SB_05 @Gram:Prep ADD:580 
 "<it>"
 	"it" Pronoun PP lang:en 00:01:15 00:01:16 tt-1239 AF083_1983_GV_SU2012_SB_05 
 </lang>

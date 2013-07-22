@@ -1,7 +1,7 @@
 OM023_1962_CT_SU2011_VA_04
-@Gram : 134
-@Gram:Det : 18
-@Gram:Det:Art : 14
+@Gram : 133
+@Gram:Det : 17
+@Gram:Det:Art : 13
 @Gram:Det:Demo : 1
 @Gram:Det:Pos : 3
 @Gram:Haber : 1
@@ -25,9 +25,11 @@ OM023_1962_CT_SU2011_VA_04
 @Prag:MarcadoresDisc:Causa : 1
 @Prag:MarcadoresDisc:Igualdad : 2
 @Prag:MarcadoresDisc:Revision : 3
-R:Gram : 9
+R:Gram : 10
 R:Gram:Aux : 3
 R:Gram:Aux:Haber : 3
+R:Gram:Det : 1
+R:Gram:Det:LoAdj : 1
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepMasc : 1
 R:Gram:PerfPerif : 3
@@ -37,7 +39,8 @@ R:Gram:VFut : 1
 R:Gram:VFut:Perifrasis : 1
 R:Prag : 12
 R:Prag:MarcadoresDisc : 12
-R:Prag:MarcadoresDisc:Igualdad : 11
+R:Prag:MarcadoresDisc:Igualdad : 8
+R:Prag:MarcadoresDisc:Probabilidad : 3
 R:Prag:MarcadoresDisc:Revision : 1
 R:Vocab : 4
 R:Vocab:Entities : 3

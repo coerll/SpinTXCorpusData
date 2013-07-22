@@ -1,7 +1,7 @@
 MF103_1989_CT_SU2012_JH_08
-@Gram : 32
-@Gram:Det : 8
-@Gram:Det:Art : 8
+@Gram : 31
+@Gram:Det : 7
+@Gram:Det:Art : 7
 @Gram:Haber : 1
 @Gram:Haber:Exist : 1
 @Gram:Indefinido : 1
@@ -15,9 +15,13 @@ MF103_1989_CT_SU2012_JH_08
 @Gram:Pron:Sujeto : 3
 @Gram:SerEstar : 3
 @Gram:SerEstar:Ser : 3
-@Prag : 1
-@Prag:MarcadoresDisc : 1
+@Prag : 2
+@Prag:MarcadoresDisc : 2
 @Prag:MarcadoresDisc:Igualdad : 1
+@Prag:MarcadoresDisc:Probabilidad : 1
+R:Gram : 1
+R:Gram:Det : 1
+R:Gram:Det:LoAdj : 1
 R:Vocab : 1
 R:Vocab:Fraseol : 1
 R:Vocab:Fraseol:VerbPrep : 1

@@ -1,7 +1,7 @@
 AM032_1952_CT_SU2011_VA_02
-@Gram : 124
-@Gram:Det : 29
-@Gram:Det:Art : 19
+@Gram : 123
+@Gram:Det : 28
+@Gram:Det:Art : 18
 @Gram:Det:Demo : 3
 @Gram:Det:Pos : 7
 @Gram:Haber : 1
@@ -24,15 +24,17 @@ AM032_1952_CT_SU2011_VA_02
 @Prag:MarcadoresDisc : 3
 @Prag:MarcadoresDisc:Causa : 2
 @Prag:MarcadoresDisc:Revision : 1
-R:Gram : 3
+R:Gram : 5
 R:Gram:Aux : 1
 R:Gram:Aux:Haber : 1
+R:Gram:Det : 2
+R:Gram:Det:LoAdj : 2
 R:Gram:PerfPerif : 1
 R:Gram:VFut : 1
 R:Gram:VFut:Perifrasis : 1
 R:Prag : 3
 R:Prag:MarcadoresDisc : 3
-R:Prag:MarcadoresDisc:Igualdad : 2
+R:Prag:MarcadoresDisc:Probabilidad : 2
 R:Prag:MarcadoresDisc:Revision : 1
 R:Vocab : 1
 R:Vocab:Fraseol : 1

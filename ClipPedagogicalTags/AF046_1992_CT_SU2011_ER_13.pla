@@ -1,7 +1,7 @@
 AF046_1992_CT_SU2011_ER_13
-@Gram : 80
-@Gram:Det : 26
-@Gram:Det:Art : 14
+@Gram : 79
+@Gram:Det : 25
+@Gram:Det:Art : 13
 @Gram:Det:Demo : 1
 @Gram:Det:Pos : 11
 @Gram:Haber : 1
@@ -20,9 +20,12 @@ AF046_1992_CT_SU2011_ER_13
 @Prag:MarcadoresDisc : 5
 @Prag:MarcadoresDisc:Igualdad : 3
 @Prag:MarcadoresDisc:Revision : 2
+R:Gram : 3
+R:Gram:Det : 3
+R:Gram:Det:LoAdj : 3
 R:Prag : 1
 R:Prag:MarcadoresDisc : 1
-R:Prag:MarcadoresDisc:Igualdad : 1
+R:Prag:MarcadoresDisc:Probabilidad : 1
 R:Vocab : 3
 R:Vocab:Entities : 2
 R:Vocab:Entities:Geo : 2

@@ -3,7 +3,7 @@
 "<Y>"
 	"Y" Other ALFS lang:es 00:00:00 00:00:05 tt-619 AF045_1988_CT_SU2011_ER_02 
 "<oye>"
-	"oír" Verb VLfin Pres Indi_Command Sing 2nd_3rd lang:es 00:00:00 00:00:05 tt-620 AF045_1988_CT_SU2011_ER_02 
+	"oír" Verb VLfin Pres Indi_Command Sing 2nd_3rd lang:es 00:00:00 00:00:05 tt-620 AF045_1988_CT_SU2011_ER_02 SUBSTITUTE:274 
 "<entonces>"
 	"entonces" Adverb ADV lang:es 00:00:00 00:00:05 tt-621 AF045_1988_CT_SU2011_ER_02 
 "<...>"
@@ -17,15 +17,15 @@
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:00:00 00:00:05 tt-626 AF045_1988_CT_SU2011_ER_02 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:00 00:00:05 tt-627 AF045_1988_CT_SU2011_ER_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:00 00:00:05 tt-627 AF045_1988_CT_SU2011_ER_02 @Gram:Det:Art ADD:395 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:00 00:00:05 tt-628 AF045_1988_CT_SU2011_ER_02 
 "<fue>"
-	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:00:00 00:00:05 tt-629 AF045_1988_CT_SU2011_ER_02 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:00:00 00:00:05 tt-629 AF045_1988_CT_SU2011_ER_02 @Gram:Indefinido @Gram:SerEstar:Ser ADD:654 ADD:769 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:05 tt-630 AF045_1988_CT_SU2011_ER_02 @Gram:Det:Pos 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:05 tt-630 AF045_1988_CT_SU2011_ER_02 @Gram:Det:Pos ADD:425 
 "<primer>"
-	"primero" Adjective ORD Singular lang:es 00:00:00 00:00:05 tt-631 AF045_1988_CT_SU2011_ER_02 Gram:Adj:Ord 
+	"primero" Adjective ORD Singular lang:es 00:00:00 00:00:05 tt-631 AF045_1988_CT_SU2011_ER_02 Gram:Adj:Ord ADD:494 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:00:00 00:00:05 tt-632 AF045_1988_CT_SU2011_ER_02 
 "<no>"
@@ -43,15 +43,15 @@
 "<Cuándo>"
 	"cuándo" Adverb ADV lang:es 00:00:06 00:00:09 tt-638 AF045_1988_CT_SU2011_ER_02 
 "<fue>"
-	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:00:06 00:00:09 tt-639 AF045_1988_CT_SU2011_ER_02 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:00:06 00:00:09 tt-639 AF045_1988_CT_SU2011_ER_02 @Gram:Indefinido @Gram:SerEstar:Ser ADD:654 ADD:769 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:06 00:00:09 tt-640 AF045_1988_CT_SU2011_ER_02 
 "<empezaste>"
-	"empezar" Verb VLfin Pret Indi Sing 2nd lang:es 00:00:06 00:00:09 tt-641 AF045_1988_CT_SU2011_ER_02 @Gram:Indefinido ID:23 R:Vocab:Fraseol:VerbPrep:24 
+	"empezar" Verb VLfin Pret Indi Sing 2nd lang:es 00:00:06 00:00:09 tt-641 AF045_1988_CT_SU2011_ER_02 @Gram:Indefinido ID:23 R:Vocab:Fraseol:VerbPrep:24 ADD:654 ADDRELATION(Vocab:Fraseol:VerbPrep):1172 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:06 00:00:09 tt-642 AF045_1988_CT_SU2011_ER_02 @Gram:Prep ID:24 
+	"a" Preposition PREP lang:es 00:00:06 00:00:09 tt-642 AF045_1988_CT_SU2011_ER_02 @Gram:Prep ID:24 ADD:580 
 "<aprender>"
-	"aprender" Verb VLinf Infinitive lang:es 00:00:06 00:00:09 tt-643 AF045_1988_CT_SU2011_ER_02 
+	"aprender" Verb VLinf Infinitive lang:es 00:00:06 00:00:09 tt-643 AF045_1988_CT_SU2011_ER_02 SUBSTITUTE:309 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:06 00:00:09 tt-644 AF045_1988_CT_SU2011_ER_02 
 "<$?>"
@@ -60,11 +60,11 @@
 "<Cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:09 00:00:16 tt-646 AF045_1988_CT_SU2011_ER_02 
 "<entré>"
-	"entrar" Verb VLfin Fut Indi Sing 1st lang:es 00:00:09 00:00:16 tt-647 AF045_1988_CT_SU2011_ER_02 @Gram:VFut:Conjugado 
+	"entrar" Verb VLfin Fut Indi Sing 1st lang:es 00:00:09 00:00:16 tt-647 AF045_1988_CT_SU2011_ER_02 @Gram:VFut:Conjugado ADD:668 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:09 00:00:16 tt-648 AF045_1988_CT_SU2011_ER_02 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:09 00:00:16 tt-648 AF045_1988_CT_SU2011_ER_02 @Gram:Prep ADD:580 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:09 00:00:16 tt-649 AF045_1988_CT_SU2011_ER_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:09 00:00:16 tt-649 AF045_1988_CT_SU2011_ER_02 @Gram:Det:Art ADD:395 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:00:09 00:00:16 tt-650 AF045_1988_CT_SU2011_ER_02 
 "<,>"
@@ -75,35 +75,35 @@
 	"." Punctuation FS lang:es 00:00:09 00:00:16 tt-653 AF045_1988_CT_SU2011_ER_02 
 
 "<Fue>"
-	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:00:09 00:00:16 tt-654 AF045_1988_CT_SU2011_ER_02 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:00:09 00:00:16 tt-654 AF045_1988_CT_SU2011_ER_02 @Gram:Indefinido @Gram:SerEstar:Ser ADD:654 ADD:769 
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:09 00:00:16 tt-655 AF045_1988_CT_SU2011_ER_02 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:09 00:00:16 tt-656 AF045_1988_CT_SU2011_ER_02 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:09 00:00:16 tt-656 AF045_1988_CT_SU2011_ER_02 @Gram:Pron:Objeto ADD:614 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:09 00:00:16 tt-657 AF045_1988_CT_SU2011_ER_02 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:09 00:00:16 tt-658 AF045_1988_CT_SU2011_ER_02 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:09 00:00:16 tt-658 AF045_1988_CT_SU2011_ER_02 @Gram:Pron:Objeto ADD:614 
 "<enseñó>"
-	"enseñar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:09 00:00:16 tt-659 AF045_1988_CT_SU2011_ER_02 @Gram:Indefinido 
+	"enseñar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:09 00:00:16 tt-659 AF045_1988_CT_SU2011_ER_02 @Gram:Indefinido ADD:654 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:09 00:00:16 tt-660 AF045_1988_CT_SU2011_ER_02 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:09 00:00:16 tt-660 AF045_1988_CT_SU2011_ER_02 @Gram:Det:Pos ADD:425 
 "<mamá>"
 	"mamá" Noun NC Singular lang:es 00:00:09 00:00:16 tt-661 AF045_1988_CT_SU2011_ER_02 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:09 00:00:16 tt-662 AF045_1988_CT_SU2011_ER_02 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:09 00:00:16 tt-662 AF045_1988_CT_SU2011_ER_02 @Gram:Prep ADD:580 
 "<contar>"
-	"contar" Verb VLinf Infinitive lang:es 00:00:09 00:00:16 tt-663 AF045_1988_CT_SU2011_ER_02 
+	"contar" Verb VLinf Infinitive lang:es 00:00:09 00:00:16 tt-663 AF045_1988_CT_SU2011_ER_02 SUBSTITUTE:309 
 "<o>"
 	"o" Conjunction CC lang:es 00:00:09 00:00:16 tt-664 AF045_1988_CT_SU2011_ER_02 
 "<tal>"
-	"tal" Adverb ADV lang:es 00:00:09 00:00:16 tt-665 AF045_1988_CT_SU2011_ER_02 ID:47 R:Prag:MarcadoresDisc:Igualdad:48 
+	"tal" Adverb ADV lang:es 00:00:09 00:00:16 tt-665 AF045_1988_CT_SU2011_ER_02 ID:47 R:Prag:MarcadoresDisc:Probabilidad:48 ADDRELATION(Prag:MarcadoresDisc:Probabilidad):1108 
 "<vez>"
 	"vez" Adverb ADV lang:es 00:00:09 00:00:16 tt-666 AF045_1988_CT_SU2011_ER_02 ID:48 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:22 00:00:28 tt-667 AF045_1988_CT_SU2011_ER_02 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:22 00:00:28 tt-667 AF045_1988_CT_SU2011_ER_02 @Gram:Imperf @Gram:SerEstar:Ser ADD:645 ADD:769 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:22 00:00:28 tt-668 AF045_1988_CT_SU2011_ER_02 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:22 00:00:28 tt-668 AF045_1988_CT_SU2011_ER_02 @Gram:Det:Pos ADD:425 
 "<papá>"
 	"papá" Noun NC Singular lang:es 00:00:22 00:00:28 tt-669 AF045_1988_CT_SU2011_ER_02 
 "<,>"
@@ -115,17 +115,17 @@
 "<alguien>"
 	"UNK" Noun NC Singular lang:es 00:00:22 00:00:28 tt-673 AF045_1988_CT_SU2011_ER_02 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:22 00:00:28 tt-674 AF045_1988_CT_SU2011_ER_02 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:22 00:00:28 tt-674 AF045_1988_CT_SU2011_ER_02 @Gram:Prep ADD:580 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:22 00:00:28 tt-675 AF045_1988_CT_SU2011_ER_02 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:22 00:00:28 tt-675 AF045_1988_CT_SU2011_ER_02 @Gram:Det:Pos ADD:425 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:22 00:00:28 tt-676 AF045_1988_CT_SU2011_ER_02 
 "<,>"
 	"," Punctuation CM lang:es 00:00:22 00:00:28 tt-677 AF045_1988_CT_SU2011_ER_02 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:22 00:00:28 tt-678 AF045_1988_CT_SU2011_ER_02 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:22 00:00:28 tt-678 AF045_1988_CT_SU2011_ER_02 @Gram:Pron:Objeto ADD:614 
 "<ense>"
-	"UNK" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:22 00:00:28 tt-679 AF045_1988_CT_SU2011_ER_02 @Gram:MSub:Pres 
+	"UNK" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:00:22 00:00:28 tt-679 AF045_1988_CT_SU2011_ER_02 @Gram:MSub:Pres ADD:738 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:22 00:00:28 tt-680 AF045_1988_CT_SU2011_ER_02 
 "<creo>"
@@ -133,23 +133,23 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:22 00:00:28 tt-682 AF045_1988_CT_SU2011_ER_02 
 "<eran>"
-	"ser" Verb VSfin Imp Indi Plural 3rd lang:es 00:00:22 00:00:28 tt-683 AF045_1988_CT_SU2011_ER_02 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Imp Indi Plural 3rd lang:es 00:00:22 00:00:28 tt-683 AF045_1988_CT_SU2011_ER_02 @Gram:Imperf @Gram:SerEstar:Ser SUBSTITUTE:293 ADD:645 ADD:769 
 "<mis>"
-	"mío" Pronoun PPO Plural Adjective ADJ lang:es 00:00:22 00:00:28 tt-684 AF045_1988_CT_SU2011_ER_02 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural Adjective ADJ lang:es 00:00:22 00:00:28 tt-684 AF045_1988_CT_SU2011_ER_02 @Gram:Det:Pos SUBSTITUTE:298 ADD:426 
 "<hermanos>"
 	"hermano" Noun NC Plural lang:es 00:00:22 00:00:28 tt-685 AF045_1988_CT_SU2011_ER_02 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:22 00:00:28 tt-686 AF045_1988_CT_SU2011_ER_02 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:00:22 00:00:28 tt-686 AF045_1988_CT_SU2011_ER_02 @Prag:MarcadoresDisc:Causa ADD:1051 
 "<ellos>"
-	"él" Pronoun PPX Plural lang:es 00:00:28 00:00:33 tt-687 AF045_1988_CT_SU2011_ER_02 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Plural lang:es 00:00:28 00:00:33 tt-687 AF045_1988_CT_SU2011_ER_02 @Gram:Pron:Sujeto ADD:590 
 "<primeros>"
 	"primero" Adjective ORD Plural lang:es 00:00:28 00:00:33 tt-688 AF045_1988_CT_SU2011_ER_02 
 "<estaban>"
-	"estar" Verb VEfin Imp Indi Plural 3rd lang:es 00:00:28 00:00:33 tt-689 AF045_1988_CT_SU2011_ER_02 @Gram:Imperf @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Imp Indi Plural 3rd lang:es 00:00:28 00:00:33 tt-689 AF045_1988_CT_SU2011_ER_02 @Gram:Imperf @Gram:SerEstar:Estar ADD:645 ADD:778 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:28 00:00:33 tt-690 AF045_1988_CT_SU2011_ER_02 
 "<eran>"
-	"ser" Verb VSfin Imp Indi Plural 3rd lang:es 00:00:28 00:00:33 tt-691 AF045_1988_CT_SU2011_ER_02 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Imp Indi Plural 3rd lang:es 00:00:28 00:00:33 tt-691 AF045_1988_CT_SU2011_ER_02 @Gram:Imperf @Gram:SerEstar:Ser SUBSTITUTE:293 ADD:645 ADD:769 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:28 00:00:33 tt-692 AF045_1988_CT_SU2011_ER_02 
 "<son>"
@@ -167,14 +167,14 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:28 00:00:33 tt-698 AF045_1988_CT_SU2011_ER_02 
 "<Son>"
-	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:00:33 00:00:35 tt-699 AF045_1988_CT_SU2011_ER_02 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:00:33 00:00:35 tt-699 AF045_1988_CT_SU2011_ER_02 @Gram:SerEstar:Ser ADD:769 
 "<mayores>"
 	"grande" Adjective ADJ Plural lang:es 00:00:33 00:00:35 tt-700 AF045_1988_CT_SU2011_ER_02 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:33 00:00:35 tt-701 AF045_1988_CT_SU2011_ER_02 
 
 "<Son>"
-	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:00:35 00:00:42 tt-702 AF045_1988_CT_SU2011_ER_02 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:00:35 00:00:42 tt-702 AF045_1988_CT_SU2011_ER_02 @Gram:SerEstar:Ser ADD:769 
 "<mayores>"
 	"grande" Adjective ADJ Plural lang:es 00:00:35 00:00:42 tt-703 AF045_1988_CT_SU2011_ER_02 
 "<,>"
@@ -184,17 +184,17 @@
 "<y>"
 	"y" Conjunction CC lang:es 00:00:35 00:00:42 tt-706 AF045_1988_CT_SU2011_ER_02 
 "<ellos>"
-	"él" Pronoun PPX Plural lang:es 00:00:35 00:00:42 tt-707 AF045_1988_CT_SU2011_ER_02 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Plural lang:es 00:00:35 00:00:42 tt-707 AF045_1988_CT_SU2011_ER_02 @Gram:Pron:Sujeto ADD:590 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:35 00:00:42 tt-708 AF045_1988_CT_SU2011_ER_02 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:35 00:00:42 tt-708 AF045_1988_CT_SU2011_ER_02 @Gram:Pron:Objeto ADD:614 
 "<enseñaron>"
-	"enseñar" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:35 00:00:42 tt-709 AF045_1988_CT_SU2011_ER_02 @Gram:Indefinido 
+	"enseñar" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:35 00:00:42 tt-709 AF045_1988_CT_SU2011_ER_02 @Gram:Indefinido ADD:654 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:35 00:00:42 tt-710 AF045_1988_CT_SU2011_ER_02 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:35 00:00:42 tt-710 AF045_1988_CT_SU2011_ER_02 @Gram:Prep ADD:580 
 "<hablar>"
-	"hablar" Verb VLinf Infinitive lang:es 00:00:35 00:00:42 tt-711 AF045_1988_CT_SU2011_ER_02 ID:93 R:Vocab:Fraseol:VerbPrep:94 
+	"hablar" Verb VLinf Infinitive lang:es 00:00:35 00:00:42 tt-711 AF045_1988_CT_SU2011_ER_02 ID:93 R:Vocab:Fraseol:VerbPrep:94 SUBSTITUTE:309 ADDRELATION(Vocab:Fraseol:VerbPrep):1170 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:35 00:00:42 tt-712 AF045_1988_CT_SU2011_ER_02 @Gram:Prep ID:94 
+	"en" Preposition PREP lang:es 00:00:35 00:00:42 tt-712 AF045_1988_CT_SU2011_ER_02 @Gram:Prep ID:94 ADD:580 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:35 00:00:42 tt-713 AF045_1988_CT_SU2011_ER_02 
 "<$.>"

@@ -1,7 +1,7 @@
 MM014_1961_EP_SU2011_AD_13
-@Gram : 15
-@Gram:Det : 4
-@Gram:Det:Art : 2
+@Gram : 14
+@Gram:Det : 3
+@Gram:Det:Art : 1
 @Gram:Det:Pos : 2
 @Gram:Prep : 6
 @Gram:Prep:Para : 1
@@ -10,10 +10,12 @@ MM014_1961_EP_SU2011_AD_13
 @Gram:SerEstar : 4
 @Gram:SerEstar:Estar : 1
 @Gram:SerEstar:Ser : 3
-R:Gram : 6
+R:Gram : 8
 R:Gram:Aux : 3
 R:Gram:Aux:Haber : 3
+R:Gram:Det : 2
+R:Gram:Det:LoAdj : 2
 R:Gram:PerfPerif : 3
 R:Prag : 1
 R:Prag:MarcadoresDisc : 1
-R:Prag:MarcadoresDisc:Igualdad : 1
+R:Prag:MarcadoresDisc:Probabilidad : 1

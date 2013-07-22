@@ -3,19 +3,19 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:07 tt-3365 MM014_1961_EP_SU2011_AD_15 
 "<Han>"
-	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:00 00:00:07 tt-3366 MM014_1961_EP_SU2011_AD_15 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pres Indi Plural 3rd lang:es 00:00:00 00:00:07 tt-3366 MM014_1961_EP_SU2011_AD_15 @Gram:Haber:Exist ADD:785 
 "<habido>"
-	"haber" Verb VHadj Participle lang:es 00:00:00 00:00:07 tt-3367 MM014_1961_EP_SU2011_AD_15 @Gram:Haber:Exist 
+	"haber" Verb VHadj Participle lang:es 00:00:00 00:00:07 tt-3367 MM014_1961_EP_SU2011_AD_15 @Gram:Haber:Exist ADD:785 
 "<ocasiones>"
 	"ocasión" Noun NC Plural lang:es 00:00:00 00:00:07 tt-3368 MM014_1961_EP_SU2011_AD_15 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-3369 MM014_1961_EP_SU2011_AD_15 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-3369 MM014_1961_EP_SU2011_AD_15 @Gram:Prep ADD:580 
 "<las>"
-	"el" Determiner ART Plural Fem lang:es 00:00:00 00:00:07 tt-3370 MM014_1961_EP_SU2011_AD_15 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:00:00 00:00:07 tt-3370 MM014_1961_EP_SU2011_AD_15 @Gram:Det:Art ADD:395 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-3371 MM014_1961_EP_SU2011_AD_15 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-3372 MM014_1961_EP_SU2011_AD_15 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-3372 MM014_1961_EP_SU2011_AD_15 @Gram:Haber:Exist ADD:785 
 "<sentido>"
 	"sentido" Noun NC Singular lang:es 00:00:00 00:00:07 tt-3373 MM014_1961_EP_SU2011_AD_15 
 "<,>"
@@ -23,7 +23,7 @@
 "<se>"
 	"se" Other SE lang:es 00:00:00 00:00:07 tt-3375 MM014_1961_EP_SU2011_AD_15 
 "<ha>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-3376 MM014_1961_EP_SU2011_AD_15 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-3376 MM014_1961_EP_SU2011_AD_15 @Gram:Haber:Exist ADD:785 
 "<sentido>"
 	"sentido" Noun NC Singular lang:es 00:00:00 00:00:07 tt-3377 MM014_1961_EP_SU2011_AD_15 
 "<avergonzado>"
@@ -31,9 +31,9 @@
 "<de>"
 	"de" Conjunction CSUBI lang:es 00:00:00 00:00:07 tt-3379 MM014_1961_EP_SU2011_AD_15 
 "<hablar>"
-	"hablar" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-3380 MM014_1961_EP_SU2011_AD_15 
+	"hablar" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-3380 MM014_1961_EP_SU2011_AD_15 SUBSTITUTE:309 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:00 00:00:07 tt-3381 MM014_1961_EP_SU2011_AD_15 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:00 00:00:07 tt-3381 MM014_1961_EP_SU2011_AD_15 @Gram:Det:Art ADD:395 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:00 00:00:07 tt-3382 MM014_1961_EP_SU2011_AD_15 
 "<$?>"
@@ -50,9 +50,9 @@
 "<nunca>"
 	"nunca" Adverb ADV lang:es 00:00:19 00:00:26 tt-3387 MM014_1961_EP_SU2011_AD_15 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:19 00:00:26 tt-3388 MM014_1961_EP_SU2011_AD_15 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:19 00:00:26 tt-3388 MM014_1961_EP_SU2011_AD_15 @Gram:Pron:Objeto ADD:614 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:19 00:00:26 tt-3389 MM014_1961_EP_SU2011_AD_15 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:19 00:00:26 tt-3389 MM014_1961_EP_SU2011_AD_15 @Gram:Haber:Exist ADD:785 
 "<sentido>"
 	"sentido" Noun NC Singular lang:es 00:00:19 00:00:26 tt-3390 MM014_1961_EP_SU2011_AD_15 
 "<avergonzado>"
@@ -60,29 +60,29 @@
 "<de>"
 	"de" Conjunction CSUBI lang:es 00:00:19 00:00:26 tt-3392 MM014_1961_EP_SU2011_AD_15 
 "<hablar>"
-	"hablar" Verb VLinf Infinitive lang:es 00:00:19 00:00:26 tt-3393 MM014_1961_EP_SU2011_AD_15 
+	"hablar" Verb VLinf Infinitive lang:es 00:00:19 00:00:26 tt-3393 MM014_1961_EP_SU2011_AD_15 SUBSTITUTE:309 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:19 00:00:26 tt-3394 MM014_1961_EP_SU2011_AD_15 
 "<,>"
 	"," Punctuation CM lang:es 00:00:19 00:00:26 tt-3395 MM014_1961_EP_SU2011_AD_15 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:19 00:00:26 tt-3396 MM014_1961_EP_SU2011_AD_15 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:19 00:00:26 tt-3396 MM014_1961_EP_SU2011_AD_15 @Gram:Pron:Objeto ADD:614 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:19 00:00:26 tt-3397 MM014_1961_EP_SU2011_AD_15 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:19 00:00:26 tt-3397 MM014_1961_EP_SU2011_AD_15 @Gram:Haber:Exist ADD:785 
 "<sentido>"
 	"sentido" Noun NC Singular lang:es 00:00:19 00:00:26 tt-3398 MM014_1961_EP_SU2011_AD_15 
 "<frustrado>"
 	"frustrar" Verb VLadj lang:es 00:00:19 00:00:26 tt-3399 MM014_1961_EP_SU2011_AD_15 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:27 00:00:32 tt-3400 MM014_1961_EP_SU2011_AD_15 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:27 00:00:32 tt-3400 MM014_1961_EP_SU2011_AD_15 @Gram:Prep ADD:580 
 "<no>"
 	"no" Adverb NEG lang:es 00:00:27 00:00:32 tt-3401 MM014_1961_EP_SU2011_AD_15 
 "<poder>"
-	"poder" Verb VLinf VMinf lang:es 00:00:27 00:00:32 tt-3402 MM014_1961_EP_SU2011_AD_15 
+	"poder" Verb VLinf VMinf lang:es 00:00:27 00:00:32 tt-3402 MM014_1961_EP_SU2011_AD_15 SUBSTITUTE:309 
 "<expresarme>"
 	"UNK" Verb VLinf Infinitive lang:es 00:00:27 00:00:32 tt-3403 MM014_1961_EP_SU2011_AD_15 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:27 00:00:32 tt-3404 MM014_1961_EP_SU2011_AD_15 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:27 00:00:32 tt-3404 MM014_1961_EP_SU2011_AD_15 @Gram:Prep ADD:580 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:27 00:00:32 tt-3405 MM014_1961_EP_SU2011_AD_15 
 "<,>"
@@ -94,13 +94,13 @@
 "<sí>"
 	"sí" Adverb ADV lang:es 00:00:27 00:00:32 tt-3409 MM014_1961_EP_SU2011_AD_15 
 "<lo>"
-	"él" Pronoun PPC Singular lang:es 00:00:27 00:00:32 tt-3410 MM014_1961_EP_SU2011_AD_15 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:00:27 00:00:32 tt-3410 MM014_1961_EP_SU2011_AD_15 @Gram:Pron:Objeto ADD:620 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:27 00:00:32 tt-3411 MM014_1961_EP_SU2011_AD_15 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:27 00:00:32 tt-3411 MM014_1961_EP_SU2011_AD_15 @Gram:Haber:Exist ADD:785 
 "<sentido>"
 	"sentido" Noun NC Singular lang:es 00:00:27 00:00:32 tt-3412 MM014_1961_EP_SU2011_AD_15 
 "<muchas>"
-	"mucho" Determiner QU lang:es 00:00:27 00:00:32 tt-3413 MM014_1961_EP_SU2011_AD_15 
+	"mucho" Determiner QU lang:es 00:00:27 00:00:32 tt-3413 MM014_1961_EP_SU2011_AD_15 @Gram:Det:CuantIndef ADD:447 
 "<veces>"
 	"vez" Noun NC Plural lang:es 00:00:27 00:00:32 tt-3414 MM014_1961_EP_SU2011_AD_15 
 "<$.>"

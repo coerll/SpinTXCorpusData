@@ -5,9 +5,9 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:00 00:00:06 tt-906 AF044_1986_CT_SU2011_ER_01 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:06 tt-907 AF044_1986_CT_SU2011_ER_01 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:06 tt-907 AF044_1986_CT_SU2011_ER_01 @Gram:Pron:Sujeto ADD:590 
 "<te>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:06 tt-908 AF044_1986_CT_SU2011_ER_01 @Gram:Pron:Objeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:06 tt-908 AF044_1986_CT_SU2011_ER_01 @Gram:Pron:Objeto ADD:614 
 "<sientes>"
 	"sentar|sentir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:06 tt-909 AF044_1986_CT_SU2011_ER_01 
 "<cómoda>"
@@ -32,7 +32,7 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:06 00:00:13 tt-918 AF044_1986_CT_SU2011_ER_01 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:06 00:00:13 tt-919 AF044_1986_CT_SU2011_ER_01 @Gram:Pron:Objeto ID:15 R:Gram:Gustar:Propios:16 
+	"yo" Pronoun PPX Singular lang:es 00:00:06 00:00:13 tt-919 AF044_1986_CT_SU2011_ER_01 @Gram:Pron:Objeto ID:15 R:Gram:Gustar:Propios:16 ADD:614 ADDRELATION(Gram:Gustar:Propios):683 
 "<gusta>"
 	"gustar" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:06 00:00:13 tt-920 AF044_1986_CT_SU2011_ER_01 ID:16 
 "<$.>"
@@ -47,17 +47,17 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:06 00:00:13 tt-925 AF044_1986_CT_SU2011_ER_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:06 00:00:13 tt-926 AF044_1986_CT_SU2011_ER_01 @Gram:Det:Pos 
+	"mío" Pronoun PPO Singular lang:es 00:00:06 00:00:13 tt-926 AF044_1986_CT_SU2011_ER_01 @Gram:Det:Pos ADD:425 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:06 00:00:13 tt-927 AF044_1986_CT_SU2011_ER_01 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:06 00:00:13 tt-928 AF044_1986_CT_SU2011_ER_01 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:06 00:00:13 tt-928 AF044_1986_CT_SU2011_ER_01 @Gram:SerEstar:Ser ADD:769 
 "<perfecto>"
 	"perfecto" Adjective ADJ Singular lang:es 00:00:06 00:00:13 tt-929 AF044_1986_CT_SU2011_ER_01 
 "<,>"
 	"," Punctuation CM lang:es 00:00:06 00:00:13 tt-930 AF044_1986_CT_SU2011_ER_01 
 "<pero>"
-	"pero" Conjunction CCAD lang:es 00:00:06 00:00:13 tt-931 AF044_1986_CT_SU2011_ER_01 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:00:06 00:00:13 tt-931 AF044_1986_CT_SU2011_ER_01 @Prag:MarcadoresDisc:Revision ADD:998 
 "<hablo>"
 	"hablar" Verb VLfin Pres Indi Sing 1st lang:es 00:00:06 00:00:13 tt-932 AF044_1986_CT_SU2011_ER_01 
 "<...>"

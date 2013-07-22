@@ -10,13 +10,13 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:00 00:00:07 tt-2818 OM075_1959_SA_SU2012_JB_06 
 "<hay>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-2819 OM075_1959_SA_SU2012_JB_06 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-2819 OM075_1959_SA_SU2012_JB_06 @Gram:Haber:Exist ADD:785 
 "<dialectos>"
 	"dialecto" Noun NC Plural lang:es 00:00:00 00:00:07 tt-2820 OM075_1959_SA_SU2012_JB_06 
 "<distintos>"
 	"distinto" Adjective ADJ Plural lang:es 00:00:00 00:00:07 tt-2821 OM075_1959_SA_SU2012_JB_06 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-2822 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"del" Preposition PDEL lang:es 00:00:00 00:00:07 tt-2822 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:00 00:00:07 tt-2823 OM075_1959_SA_SU2012_JB_06 
 "<que>"
@@ -24,9 +24,9 @@
 "<se>"
 	"se" Other SE lang:es 00:00:00 00:00:07 tt-2825 OM075_1959_SA_SU2012_JB_06 
 "<hablan>"
-	"hablar" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:00 00:00:07 tt-2826 OM075_1959_SA_SU2012_JB_06 ID:12 R:Vocab:Fraseol:VerbPrep:13 
+	"hablar" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:00 00:00:07 tt-2826 OM075_1959_SA_SU2012_JB_06 ID:12 R:Vocab:Fraseol:VerbPrep:13 ADDRELATION(Vocab:Fraseol:VerbPrep):1170 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-2827 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ID:13 
+	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-2827 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ID:13 ADD:580 
 "<Tejas>"
 	"UNK" Noun NP Plural lang:es 00:00:00 00:00:07 tt-2828 OM075_1959_SA_SU2012_JB_06 
 "<$?>"
@@ -35,7 +35,7 @@
 <speaker type="subj">
 
 "<Yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:07 00:00:14 tt-2830 OM075_1959_SA_SU2012_JB_06 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:07 00:00:14 tt-2830 OM075_1959_SA_SU2012_JB_06 @Gram:Pron:Sujeto ADD:590 
 "<no>"
 	"no" Adverb NEG lang:es 00:00:07 00:00:14 tt-2831 OM075_1959_SA_SU2012_JB_06 
 "<diría>"
@@ -43,13 +43,13 @@
 "<dialecto>"
 	"dialecto" Noun NC Singular lang:es 00:00:07 00:00:14 tt-2833 OM075_1959_SA_SU2012_JB_06 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:07 00:00:14 tt-2834 OM075_1959_SA_SU2012_JB_06 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:00:07 00:00:14 tt-2834 OM075_1959_SA_SU2012_JB_06 @Prag:MarcadoresDisc:Causa ADD:1051 
 "<dialecto>"
 	"dialecto" Noun NC Singular lang:es 00:00:07 00:00:14 tt-2835 OM075_1959_SA_SU2012_JB_06 
 "<ya>"
 	"ya" Adverb ADV lang:es 00:00:07 00:00:14 tt-2836 OM075_1959_SA_SU2012_JB_06 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:07 00:00:14 tt-2837 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:07 00:00:14 tt-2837 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser ADD:769 
 "<como>"
 	"como" Adverb ADV lang:es 00:00:07 00:00:14 tt-2838 OM075_1959_SA_SU2012_JB_06 
 "<una>"
@@ -57,9 +57,9 @@
 "<subdivisión>"
 	"subdivisión" Noun NC Singular lang:es 00:00:07 00:00:14 tt-2840 OM075_1959_SA_SU2012_JB_06 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:07 00:00:14 tt-2841 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:07 00:00:14 tt-2841 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<un>"
-	"un" Determiner ART Singular lang:es 00:00:07 00:00:14 tt-2842 OM075_1959_SA_SU2012_JB_06 ID:28 R:Gram:Genero:ExcepMasc:29 
+	"un" Determiner ART Singular lang:es 00:00:07 00:00:14 tt-2842 OM075_1959_SA_SU2012_JB_06 ID:28 R:Gram:Genero:ExcepMasc:29 ADDRELATION(Gram:Genero:ExcepMasc):478 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:00:07 00:00:14 tt-2843 OM075_1959_SA_SU2012_JB_06 ID:29 
 "<$.>"
@@ -68,7 +68,7 @@
 "<No>"
 	"no" Adverb NEG lang:es 00:00:14 00:00:21 tt-2845 OM075_1959_SA_SU2012_JB_06 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:14 00:00:21 tt-2846 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:14 00:00:21 tt-2846 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser ADD:769 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:00:14 00:00:21 tt-2847 OM075_1959_SA_SU2012_JB_06 
 "<dialecto>"
@@ -77,7 +77,7 @@
 	"." Punctuation FS lang:es 00:00:14 00:00:21 tt-2849 OM075_1959_SA_SU2012_JB_06 
 
 "<Es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:14 00:00:21 tt-2850 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:14 00:00:21 tt-2850 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser ADD:769 
 "<slang>"
 	"UNK" Noun NC Singular lang:es 00:00:14 00:00:21 tt-2851 OM075_1959_SA_SU2012_JB_06 
 "<,>"
@@ -85,44 +85,44 @@
 "<diría>"
 	"decir" Verb VLfin Cond Indi Sing 1st_or_3rd lang:es 00:00:14 00:00:21 tt-2853 OM075_1959_SA_SU2012_JB_06 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:14 00:00:21 tt-2854 OM075_1959_SA_SU2012_JB_06 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:14 00:00:21 tt-2854 OM075_1959_SA_SU2012_JB_06 @Gram:Pron:Sujeto ADD:590 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:14 00:00:21 tt-2855 OM075_1959_SA_SU2012_JB_06 
 
 "<Porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:14 00:00:21 tt-2856 OM075_1959_SA_SU2012_JB_06 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:00:14 00:00:21 tt-2856 OM075_1959_SA_SU2012_JB_06 @Prag:MarcadoresDisc:Causa ADD:1051 
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:14 00:00:21 tt-2857 OM075_1959_SA_SU2012_JB_06 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:14 00:00:21 tt-2858 OM075_1959_SA_SU2012_JB_06 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:14 00:00:21 tt-2858 OM075_1959_SA_SU2012_JB_06 @Gram:Pron:Sujeto ADD:590 
 "<,>"
 	"," Punctuation CM lang:es 00:00:14 00:00:21 tt-2859 OM075_1959_SA_SU2012_JB_06 
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:14 00:00:21 tt-2860 OM075_1959_SA_SU2012_JB_06 
 "<tú>"
-	"tú" Pronoun PPX Singular lang:es 00:00:14 00:00:21 tt-2861 OM075_1959_SA_SU2012_JB_06 @Gram:Pron:Sujeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:14 00:00:21 tt-2861 OM075_1959_SA_SU2012_JB_06 @Gram:Pron:Sujeto ADD:590 
 "<intercambias>"
 	"UNK" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:14 00:00:21 tt-2862 OM075_1959_SA_SU2012_JB_06 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:14 00:00:21 tt-2863 OM075_1959_SA_SU2012_JB_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:14 00:00:21 tt-2863 OM075_1959_SA_SU2012_JB_06 @Gram:Det:Art ADD:395 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:14 00:00:21 tt-2864 OM075_1959_SA_SU2012_JB_06 
 "<y>"
 	"y" Conjunction CC lang:es 00:00:14 00:00:21 tt-2865 OM075_1959_SA_SU2012_JB_06 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:14 00:00:21 tt-2866 OM075_1959_SA_SU2012_JB_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:14 00:00:21 tt-2866 OM075_1959_SA_SU2012_JB_06 @Gram:Det:Art ADD:395 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:14 00:00:21 tt-2867 OM075_1959_SA_SU2012_JB_06 
 "<y>"
 	"y" Conjunction CC lang:es 00:00:23 00:00:30 tt-2868 OM075_1959_SA_SU2012_JB_06 
 "<le>"
-	"él" Pronoun PPC Singular lang:es 00:00:23 00:00:30 tt-2869 OM075_1959_SA_SU2012_JB_06 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:00:23 00:00:30 tt-2869 OM075_1959_SA_SU2012_JB_06 @Gram:Pron:Objeto ADD:620 
 "<das>"
 	"dar" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:23 00:00:30 tt-2870 OM075_1959_SA_SU2012_JB_06 
 "<modismos>"
 	"UNK" Noun NC Plural lang:es 00:00:23 00:00:30 tt-2871 OM075_1959_SA_SU2012_JB_06 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:23 00:00:30 tt-2872 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:23 00:00:30 tt-2872 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<slang>"
 	"UNK" Noun NC Singular lang:es 00:00:23 00:00:30 tt-2873 OM075_1959_SA_SU2012_JB_06 
 "<que>"
@@ -134,19 +134,19 @@
 "<realmente>"
 	"realmente" Adverb ADV lang:es 00:00:23 00:00:30 tt-2877 OM075_1959_SA_SU2012_JB_06 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:23 00:00:30 tt-2878 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:23 00:00:30 tt-2878 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:23 00:00:30 tt-2879 OM075_1959_SA_SU2012_JB_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:23 00:00:30 tt-2879 OM075_1959_SA_SU2012_JB_06 @Gram:Det:Art ADD:395 
 "<Real>"
 	"UNK" Noun NP Singular lang:es 00:00:23 00:00:30 tt-2880 OM075_1959_SA_SU2012_JB_06 
 "<Academia>"
 	"UNK" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:23 00:00:30 tt-2881 OM075_1959_SA_SU2012_JB_06 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:23 00:00:30 tt-2882 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:23 00:00:30 tt-2882 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<,>"
 	"," Punctuation CM lang:es 00:00:23 00:00:30 tt-2883 OM075_1959_SA_SU2012_JB_06 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:23 00:00:30 tt-2884 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:23 00:00:30 tt-2884 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<vocabulario>"
 	"vocabulario" Noun NC Singular lang:es 00:00:23 00:00:30 tt-2885 OM075_1959_SA_SU2012_JB_06 
 "<,>"
@@ -156,42 +156,42 @@
 "<aquí>"
 	"aquí" Adverb ADV lang:es 00:00:31 00:00:38 tt-2888 OM075_1959_SA_SU2012_JB_06 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:31 00:00:38 tt-2889 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:31 00:00:38 tt-2889 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser ADD:769 
 "<uno>"
-	"uno" Determiner CARD Singular lang:es 00:00:31 00:00:38 tt-2890 OM075_1959_SA_SU2012_JB_06 @Gram:Pron:Sujeto 
+	"uno" Determiner CARD Singular lang:es 00:00:31 00:00:38 tt-2890 OM075_1959_SA_SU2012_JB_06 @Gram:Pron:Sujeto ADD:599 
 "<solo>"
 	"solo" Adjective ADJ Singular lang:es 00:00:31 00:00:38 tt-2891 OM075_1959_SA_SU2012_JB_06 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:31 00:00:38 tt-2892 OM075_1959_SA_SU2012_JB_06 
 
 "<O>"
-	"o" Adverb ADV lang:es 00:00:31 00:00:38 tt-2893 OM075_1959_SA_SU2012_JB_06 ID:79 R:Prag:MarcadoresDisc:Igualdad:80 
+	"o" Adverb ADV lang:es 00:00:31 00:00:38 tt-2893 OM075_1959_SA_SU2012_JB_06 ID:79 R:Prag:MarcadoresDisc:Igualdad:80 ADDRELATION(Prag:MarcadoresDisc:Igualdad):1093 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:00:31 00:00:38 tt-2894 OM075_1959_SA_SU2012_JB_06 ID:80 
 "<si>"
 	"si" Conjunction CSUBX lang:es 00:00:31 00:00:38 tt-2895 OM075_1959_SA_SU2012_JB_06 
 "<estás>"
-	"estar" Verb VEfin Pres Indi Sing 2nd lang:es 00:00:31 00:00:38 tt-2896 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 2nd lang:es 00:00:31 00:00:38 tt-2896 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Estar ADD:778 
 "<entre>"
-	"entre" Preposition PREP lang:es 00:00:31 00:00:38 tt-2897 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"entre" Preposition PREP lang:es 00:00:31 00:00:38 tt-2897 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:31 00:00:38 tt-2898 OM075_1959_SA_SU2012_JB_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:31 00:00:38 tt-2898 OM075_1959_SA_SU2012_JB_06 @Gram:Det:Art ADD:395 
 "<frontera>"
 	"frontera" Noun NC Singular lang:es 00:00:31 00:00:38 tt-2899 OM075_1959_SA_SU2012_JB_06 
 "<por>"
-	"por" Preposition PREP lang:es 00:00:31 00:00:38 tt-2900 OM075_1959_SA_SU2012_JB_06 @Gram:Prep:Por 
+	"por" Preposition PREP lang:es 00:00:31 00:00:38 tt-2900 OM075_1959_SA_SU2012_JB_06 @Gram:Prep:Por SUBSTITUTE:251 ADD:574 
 "<decirte>"
 	"decir" Verb VLinf Pres Indi Sing 3rd lang:es 00:00:31 00:00:38 tt-2901 OM075_1959_SA_SU2012_JB_06 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:31 00:00:38 tt-2902 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:31 00:00:38 tt-2902 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<Río>"
 	"UNK" Adjective ADJ Singular lang:es 00:00:31 00:00:38 tt-2903 OM075_1959_SA_SU2012_JB_06 
 "<Grande>"
 	"UNK" Noun NC Singular lang:es 00:00:31 00:00:38 tt-2904 OM075_1959_SA_SU2012_JB_06 
 "<hasta>"
-	"hasta" Preposition PREP lang:es 00:00:38 00:00:45 tt-2905 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"hasta" Preposition PREP lang:es 00:00:38 00:00:45 tt-2905 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<El>"
-	"el" Determiner ART Singular Masc lang:es 00:00:38 00:00:45 tt-2906 OM075_1959_SA_SU2012_JB_06 @Gram:Det:Art ID:92 R:Vocab:Entities:Geo:93 
+	"el" Determiner ART Singular Masc lang:es 00:00:38 00:00:45 tt-2906 OM075_1959_SA_SU2012_JB_06 @Gram:Det:Art ID:92 R:Vocab:Entities:Geo:93 ADD:395 ADDRELATION(Vocab:Entities:Geo):1159 
 "<Paso>"
 	"paso" Noun NC Singular lang:es 00:00:38 00:00:45 tt-2907 OM075_1959_SA_SU2012_JB_06 ID:93 
 "<,>"
@@ -203,15 +203,15 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:38 00:00:45 tt-2910 OM075_1959_SA_SU2012_JB_06 
 "<te>"
-	"tú" Pronoun PPX Singular lang:es 00:00:38 00:00:45 tt-2911 OM075_1959_SA_SU2012_JB_06 @Gram:Pron:Objeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:38 00:00:45 tt-2911 OM075_1959_SA_SU2012_JB_06 @Gram:Pron:Objeto ADD:614 
 "<comunicas>"
 	"comunicar" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:38 00:00:45 tt-2912 OM075_1959_SA_SU2012_JB_06 
 "<con>"
-	"con" Preposition PREP lang:es 00:00:38 00:00:45 tt-2913 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"con" Preposition PREP lang:es 00:00:38 00:00:45 tt-2913 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<,>"
 	"," Punctuation CM lang:es 00:00:38 00:00:45 tt-2914 OM075_1959_SA_SU2012_JB_06 
 "<con>"
-	"con" Preposition PREP lang:es 00:00:38 00:00:45 tt-2915 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"con" Preposition PREP lang:es 00:00:38 00:00:45 tt-2915 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:38 00:00:45 tt-2916 OM075_1959_SA_SU2012_JB_06 
 <lang code="en">
@@ -223,9 +223,9 @@
 "<básicamente>"
 	"básicamente" Adverb ADV lang:es 00:00:38 00:00:45 tt-2919 OM075_1959_SA_SU2012_JB_06 
 "<te>"
-	"tú" Pronoun PPX Singular lang:es 00:00:38 00:00:45 tt-2920 OM075_1959_SA_SU2012_JB_06 @Gram:Pron:Objeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:38 00:00:45 tt-2920 OM075_1959_SA_SU2012_JB_06 @Gram:Pron:Objeto ADD:614 
 "<hablan>"
-	"hablar" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:38 00:00:45 tt-2921 OM075_1959_SA_SU2012_JB_06 ID:107 R:Vocab:Fraseol:VerbPrep:111 
+	"hablar" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:38 00:00:45 tt-2921 OM075_1959_SA_SU2012_JB_06 ID:107 R:Vocab:Fraseol:VerbPrep:111 ADDRELATION(Vocab:Fraseol:VerbPrep):1170 
 "<,>"
 	"," Punctuation CM lang:es 00:00:38 00:00:45 tt-2922 OM075_1959_SA_SU2012_JB_06 
 "<básicamente>"
@@ -233,7 +233,7 @@
 "<cincuenta>"
 	"cincuenta" Determiner CARD Singular lang:es 00:00:38 00:00:45 tt-2924 OM075_1959_SA_SU2012_JB_06 
 "<por>"
-	"por" Preposition PREP lang:es 00:00:38 00:00:45 tt-2925 OM075_1959_SA_SU2012_JB_06 @Gram:Prep:Por ID:111 
+	"por" Preposition PREP lang:es 00:00:38 00:00:45 tt-2925 OM075_1959_SA_SU2012_JB_06 @Gram:Prep:Por ID:111 SUBSTITUTE:251 ADD:574 
 "<ciento>"
 	"ciento" Determiner CARD Singular lang:es 00:00:38 00:00:45 tt-2926 OM075_1959_SA_SU2012_JB_06 
 "<inglés>"
@@ -244,19 +244,19 @@
 "<O>"
 	"o" Conjunction CC lang:es 00:00:48 00:00:55 tt-2929 OM075_1959_SA_SU2012_JB_06 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:48 00:00:55 tt-2930 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:48 00:00:55 tt-2930 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<medida>"
 	"medida" Noun NC Singular lang:es 00:00:48 00:00:55 tt-2931 OM075_1959_SA_SU2012_JB_06 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:48 00:00:55 tt-2932 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:48 00:00:55 tt-2932 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:48 00:00:55 tt-2933 OM075_1959_SA_SU2012_JB_06 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:48 00:00:55 tt-2934 OM075_1959_SA_SU2012_JB_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:48 00:00:55 tt-2934 OM075_1959_SA_SU2012_JB_06 @Gram:Det:Art ADD:395 
 "<palabra>"
 	"palabra" Noun NC Singular lang:es 00:00:48 00:00:55 tt-2935 OM075_1959_SA_SU2012_JB_06 
 "<sea>"
-	"ser" Verb VSfin Pres Subj Sing 1st_or_3rd lang:es 00:00:48 00:00:55 tt-2936 OM075_1959_SA_SU2012_JB_06 @Gram:MSub:Pres @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Subj Sing 1st_or_3rd lang:es 00:00:48 00:00:55 tt-2936 OM075_1959_SA_SU2012_JB_06 @Gram:MSub:Pres @Gram:SerEstar:Ser ADD:738 ADD:769 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:48 00:00:55 tt-2937 OM075_1959_SA_SU2012_JB_06 
 "<fácil>"
@@ -264,21 +264,21 @@
 "<esa>"
 	"ese" Determiner DM Singular lang:es 00:00:48 00:00:55 tt-2939 OM075_1959_SA_SU2012_JB_06 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:48 00:00:55 tt-2940 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:48 00:00:55 tt-2940 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser ADD:769 
 "<lo>"
-	"el" Determiner ART Singular lang:es 00:00:48 00:00:55 tt-2941 OM075_1959_SA_SU2012_JB_06 
+	"el" Determiner ART Singular lang:es 00:00:48 00:00:55 tt-2941 OM075_1959_SA_SU2012_JB_06 ID:127 R:Gram:Det:LoAdj:128 ADDRELATION(Gram:Det:LoAdj):401 
 "<que>"
-	"que" Conjunction CQUE lang:es 00:00:48 00:00:55 tt-2942 OM075_1959_SA_SU2012_JB_06 
+	"que" Conjunction CQUE lang:es 00:00:48 00:00:55 tt-2942 OM075_1959_SA_SU2012_JB_06 ID:128 
 "<va>"
 	"ir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:48 00:00:55 tt-2943 OM075_1959_SA_SU2012_JB_06 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:48 00:00:55 tt-2944 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:48 00:00:55 tt-2944 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:48 00:00:55 tt-2945 OM075_1959_SA_SU2012_JB_06 
 "<o>"
 	"o" Conjunction CC lang:es 00:00:48 00:00:55 tt-2946 OM075_1959_SA_SU2012_JB_06 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:48 00:00:55 tt-2947 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:48 00:00:55 tt-2947 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:48 00:00:55 tt-2948 OM075_1959_SA_SU2012_JB_06 
 "<$.>"
@@ -291,7 +291,7 @@
 "<Y>"
 	"y" Conjunction CC lang:es 00:00:55 00:01:00 tt-2951 OM075_1959_SA_SU2012_JB_06 
 "<hay>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:55 00:01:00 tt-2952 OM075_1959_SA_SU2012_JB_06 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:55 00:01:00 tt-2952 OM075_1959_SA_SU2012_JB_06 @Gram:Haber:Exist ADD:785 
 "<palabras>"
 	"palabra" Noun NC Plural lang:es 00:00:55 00:01:00 tt-2953 OM075_1959_SA_SU2012_JB_06 
 "<o>"
@@ -305,13 +305,13 @@
 "<solo>"
 	"solo" Adjective ADJ Singular lang:es 00:00:55 00:01:00 tt-2958 OM075_1959_SA_SU2012_JB_06 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:55 00:01:00 tt-2959 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:55 00:01:00 tt-2959 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:55 00:01:00 tt-2960 OM075_1959_SA_SU2012_JB_06 
 "<o>"
 	"o" Conjunction CC lang:es 00:00:55 00:01:00 tt-2961 OM075_1959_SA_SU2012_JB_06 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:55 00:01:00 tt-2962 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:55 00:01:00 tt-2962 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:55 00:01:00 tt-2963 OM075_1959_SA_SU2012_JB_06 
 "<$?>"
@@ -322,22 +322,22 @@
 "<Sí>"
 	"sí" Adverb ADV lang:es 00:01:00 00:01:07 tt-2965 OM075_1959_SA_SU2012_JB_06 
 "<hay>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:00 00:01:07 tt-2966 OM075_1959_SA_SU2012_JB_06 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:00 00:01:07 tt-2966 OM075_1959_SA_SU2012_JB_06 @Gram:Haber:Exist ADD:785 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:00 00:01:07 tt-2967 OM075_1959_SA_SU2012_JB_06 
 
 "<Hay>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:00 00:01:07 tt-2968 OM075_1959_SA_SU2012_JB_06 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:00 00:01:07 tt-2968 OM075_1959_SA_SU2012_JB_06 @Gram:Haber:Exist ADD:785 
 "<expresiones>"
 	"expresión" Noun NC Plural lang:es 00:01:00 00:01:07 tt-2969 OM075_1959_SA_SU2012_JB_06 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:00 00:01:07 tt-2970 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:01:00 00:01:07 tt-2970 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<slang>"
 	"UNK" Noun NC Singular lang:es 00:01:00 00:01:07 tt-2971 OM075_1959_SA_SU2012_JB_06 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:00 00:01:07 tt-2972 OM075_1959_SA_SU2012_JB_06 
 "<son>"
-	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:01:00 00:01:07 tt-2973 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:01:00 00:01:07 tt-2973 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser ADD:769 
 "<única>"
 	"único" Adjective ADJ Singular lang:es 00:01:00 00:01:07 tt-2974 OM075_1959_SA_SU2012_JB_06 
 "<y>"
@@ -345,9 +345,9 @@
 "<exclusivamente>"
 	"exclusivamente" Adverb ADV lang:es 00:01:00 00:01:07 tt-2976 OM075_1959_SA_SU2012_JB_06 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:00 00:01:07 tt-2977 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:01:00 00:01:07 tt-2977 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<ese>"
-	"ese" Determiner DM Singular lang:es 00:01:00 00:01:07 tt-2978 OM075_1959_SA_SU2012_JB_06 @Gram:Det:Demo ID:164 R:Gram:Genero:ExcepMasc:165 
+	"ese" Determiner DM Singular lang:es 00:01:00 00:01:07 tt-2978 OM075_1959_SA_SU2012_JB_06 @Gram:Det:Demo ID:164 R:Gram:Genero:ExcepMasc:165 ADD:411 ADDRELATION(Gram:Genero:ExcepMasc):478 
 "<idioma>"
 	"idioma" Noun NC Singular lang:es 00:01:00 00:01:07 tt-2979 OM075_1959_SA_SU2012_JB_06 ID:165 
 "<$.>"
@@ -367,9 +367,9 @@
 "<puedes>"
 	"poder" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:07 00:01:10 tt-2985 OM075_1959_SA_SU2012_JB_06 
 "<pensar>"
-	"pensar" Verb VLinf Infinitive lang:es 00:01:07 00:01:10 tt-2986 OM075_1959_SA_SU2012_JB_06 ID:172 R:Vocab:Fraseol:VerbPrep:173 
+	"pensar" Verb VLinf Infinitive lang:es 00:01:07 00:01:10 tt-2986 OM075_1959_SA_SU2012_JB_06 ID:172 R:Vocab:Fraseol:VerbPrep:173 SUBSTITUTE:309 ADDRELATION(Vocab:Fraseol:VerbPrep):1171 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:07 00:01:10 tt-2987 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ID:173 
+	"de" Preposition PREP lang:es 00:01:07 00:01:10 tt-2987 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ID:173 ADD:580 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:01:07 00:01:10 tt-2988 OM075_1959_SA_SU2012_JB_06 
 "<ejemplo>"
@@ -396,25 +396,25 @@
 "<Caramba>"
 	"caramba" Noun NP Singular lang:es 00:01:12 00:01:19 tt-2997 OM075_1959_SA_SU2012_JB_06 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:12 00:01:19 tt-2998 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:12 00:01:19 tt-2998 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser ADD:769 
 "<,>"
 	"," Punctuation CM lang:es 00:01:12 00:01:19 tt-2999 OM075_1959_SA_SU2012_JB_06 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:12 00:01:19 tt-3000 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:12 00:01:19 tt-3000 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser ADD:769 
 "<como>"
 	"como" Adverb ADV lang:es 00:01:12 00:01:19 tt-3001 OM075_1959_SA_SU2012_JB_06 
 "<decir>"
-	"decir" Verb VLinf Infinitive lang:es 00:01:12 00:01:19 tt-3002 OM075_1959_SA_SU2012_JB_06 
+	"decir" Verb VLinf Infinitive lang:es 00:01:12 00:01:19 tt-3002 OM075_1959_SA_SU2012_JB_06 SUBSTITUTE:309 
 "<,>"
 	"," Punctuation CM lang:es 00:01:12 00:01:19 tt-3003 OM075_1959_SA_SU2012_JB_06 
 "<hay>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:12 00:01:19 tt-3004 OM075_1959_SA_SU2012_JB_06 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:12 00:01:19 tt-3004 OM075_1959_SA_SU2012_JB_06 @Gram:Haber:Exist ADD:785 
 "<muchas>"
-	"mucho" Determiner QU lang:es 00:01:12 00:01:19 tt-3005 OM075_1959_SA_SU2012_JB_06 
+	"mucho" Determiner QU lang:es 00:01:12 00:01:19 tt-3005 OM075_1959_SA_SU2012_JB_06 @Gram:Det:CuantIndef ADD:447 
 "<,>"
 	"," Punctuation CM lang:es 00:01:12 00:01:19 tt-3006 OM075_1959_SA_SU2012_JB_06 
 "<hay>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:12 00:01:19 tt-3007 OM075_1959_SA_SU2012_JB_06 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:01:12 00:01:19 tt-3007 OM075_1959_SA_SU2012_JB_06 @Gram:Haber:Exist ADD:785 
 "<cóncha>"
 	"UNK" Noun NP Singular lang:es 00:01:12 00:01:19 tt-3008 OM075_1959_SA_SU2012_JB_06 
 "<de>"
@@ -440,33 +440,33 @@
 "<depende>"
 	"depender" Verb VLfin Pres Indi Sing 3rd lang:es 00:01:12 00:01:19 tt-3019 OM075_1959_SA_SU2012_JB_06 
 "<en>"
-	"en" Preposition PREP lang:es 00:01:24 00:01:29 tt-3020 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:01:24 00:01:29 tt-3020 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:01:24 00:01:29 tt-3021 OM075_1959_SA_SU2012_JB_06 
 "<país>"
 	"país" Noun NC Plural lang:es 00:01:24 00:01:29 tt-3022 OM075_1959_SA_SU2012_JB_06 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:01:24 00:01:29 tt-3023 OM075_1959_SA_SU2012_JB_06 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:01:24 00:01:29 tt-3023 OM075_1959_SA_SU2012_JB_06 @Prag:MarcadoresDisc:Causa ADD:1051 
 "<puedes>"
 	"poder" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:24 00:01:29 tt-3024 OM075_1959_SA_SU2012_JB_06 
 "<decir>"
-	"decir" Verb VLinf Infinitive lang:es 00:01:24 00:01:29 tt-3025 OM075_1959_SA_SU2012_JB_06 
+	"decir" Verb VLinf Infinitive lang:es 00:01:24 00:01:29 tt-3025 OM075_1959_SA_SU2012_JB_06 SUBSTITUTE:309 
 "<algo>"
 	"algo" Determiner QU lang:es 00:01:24 00:01:29 tt-3026 OM075_1959_SA_SU2012_JB_06 
 "<en>"
-	"en" Preposition PREP lang:es 00:01:24 00:01:29 tt-3027 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:01:24 00:01:29 tt-3027 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<España>"
 	"España" Noun NP Singular lang:es 00:01:24 00:01:29 tt-3028 OM075_1959_SA_SU2012_JB_06 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:24 00:01:29 tt-3029 OM075_1959_SA_SU2012_JB_06 
 "<en>"
-	"en" Preposition PREP lang:es 00:01:24 00:01:29 tt-3030 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:01:24 00:01:29 tt-3030 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<México>"
 	"México" Noun NP Singular lang:es 00:01:24 00:01:29 tt-3031 OM075_1959_SA_SU2012_JB_06 
 "<puede>"
 	"poder" Verb VMfin lang:es 00:01:24 00:01:29 tt-3032 OM075_1959_SA_SU2012_JB_06 
 "<ser>"
-	"ser" Verb VLinf VSinf Infinitive lang:es 00:01:24 00:01:29 tt-3033 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser 
+	"ser" Verb VLinf VSinf Infinitive lang:es 00:01:24 00:01:29 tt-3033 OM075_1959_SA_SU2012_JB_06 @Gram:SerEstar:Ser SUBSTITUTE:309 ADD:769 
 "<totalmente>"
 	"totalmente" Adverb ADV lang:es 00:01:24 00:01:29 tt-3034 OM075_1959_SA_SU2012_JB_06 
 "<diferente>"
@@ -476,15 +476,15 @@
 "<puedes>"
 	"poder" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:29 00:01:33 tt-3037 OM075_1959_SA_SU2012_JB_06 
 "<hasta>"
-	"hasta" Preposition PREP lang:es 00:01:29 00:01:33 tt-3038 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"hasta" Preposition PREP lang:es 00:01:29 00:01:33 tt-3038 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<ofender>"
-	"ofender" Verb VLinf Infinitive lang:es 00:01:29 00:01:33 tt-3039 OM075_1959_SA_SU2012_JB_06 
+	"ofender" Verb VLinf Infinitive lang:es 00:01:29 00:01:33 tt-3039 OM075_1959_SA_SU2012_JB_06 SUBSTITUTE:309 
 "<a>"
-	"a" Preposition PREP lang:es 00:01:29 00:01:33 tt-3040 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:01:29 00:01:33 tt-3040 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<alguien>"
 	"UNK" Noun NC Singular lang:es 00:01:29 00:01:33 tt-3041 OM075_1959_SA_SU2012_JB_06 
 "<sin>"
-	"sin" Preposition PREP lang:es 00:01:29 00:01:33 tt-3042 OM075_1959_SA_SU2012_JB_06 @Gram:Prep 
+	"sin" Preposition PREP lang:es 00:01:29 00:01:33 tt-3042 OM075_1959_SA_SU2012_JB_06 @Gram:Prep ADD:580 
 "<saberlo>"
 	"saber" Verb VLinf Pres Indi Sing 1st lang:es 00:01:29 00:01:33 tt-3043 OM075_1959_SA_SU2012_JB_06 
 "<$.>"

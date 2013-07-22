@@ -1,7 +1,7 @@
 AF049_1993_CT_SU2011_ER_06
-@Gram : 47
-@Gram:Det : 9
-@Gram:Det:Art : 6
+@Gram : 46
+@Gram:Det : 8
+@Gram:Det:Art : 5
 @Gram:Det:Pos : 3
 @Gram:Imperf : 1
 @Gram:Indefinido : 1
@@ -22,10 +22,13 @@ AF049_1993_CT_SU2011_ER_06
 @Prag:MarcadoresDisc:Causa : 2
 @Prag:MarcadoresDisc:Igualdad : 2
 @Prag:MarcadoresDisc:Revision : 2
-R:Gram : 2
+R:Gram : 3
 R:Gram:Aux : 1
 R:Gram:Aux:Haber : 1
+R:Gram:Det : 1
+R:Gram:Det:LoAdj : 1
 R:Gram:PerfPerif : 1
-R:Prag : 2
-R:Prag:MarcadoresDisc : 2
+R:Prag : 3
+R:Prag:MarcadoresDisc : 3
 R:Prag:MarcadoresDisc:Igualdad : 2
+R:Prag:MarcadoresDisc:Probabilidad : 1
