@@ -32,7 +32,7 @@
 "<vida>"
 	"vida" Noun NC Singular lang:es 00:00:00 00:00:07 tt-2540 MM014_1961_EP_SU2011_AD_12 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:00 00:00:07 tt-2541 MM014_1961_EP_SU2011_AD_12 
+	"y" Conjunciton Conjunction CC lang:es 00:00:00 00:00:07 tt-2541 MM014_1961_EP_SU2011_AD_12 
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:00 00:00:07 tt-2542 MM014_1961_EP_SU2011_AD_12 
 "<me>"
@@ -48,7 +48,7 @@
 "<él>"
 	"él" Pronoun PPX Singular lang:es 00:00:12 00:00:15 tt-2548 MM014_1961_EP_SU2011_AD_12 @Gram:Pron:Sujeto 
 "<o>"
-	"o" Conjunction CC lang:es 00:00:12 00:00:15 tt-2549 MM014_1961_EP_SU2011_AD_12 
+	"o" Conjunciton Conjunction CC lang:es 00:00:12 00:00:15 tt-2549 MM014_1961_EP_SU2011_AD_12 
 "<ella>"
 	"él" Pronoun PPX Singular lang:es 00:00:12 00:00:15 tt-2550 MM014_1961_EP_SU2011_AD_12 @Gram:Pron:Sujeto 
 "<$?>"
@@ -89,7 +89,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:15 00:00:22 tt-2567 MM014_1961_EP_SU2011_AD_12 
 "<a>"
-	"a" Conjunction CSUBI lang:es 00:00:15 00:00:22 tt-2568 MM014_1961_EP_SU2011_AD_12 ID:43 R:Prag:MarcadoresDisc:Revision:45 
+	"a" Preposition PREP Conjunction CSUBI lang:es 00:00:15 00:00:22 tt-2568 MM014_1961_EP_SU2011_AD_12 @Gram:Prep ID:43 R:Prag:MarcadoresDisc:Revision:45 
 "<pesar>"
 	"pesar" Conjunction CSUBI lang:es 00:00:15 00:00:22 tt-2569 MM014_1961_EP_SU2011_AD_12 
 "<de>"
@@ -185,13 +185,13 @@
 	"." Punctuation FS lang:es 00:00:46 00:00:53 tt-2614 MM014_1961_EP_SU2011_AD_12 
 
 "<Y>"
-	"Y" Other ALFS lang:es 00:00:46 00:00:53 tt-2615 MM014_1961_EP_SU2011_AD_12 
+	"y" Conjunciton CC lang:es 00:00:46 00:00:53 tt-2615 MM014_1961_EP_SU2011_AD_12 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:46 00:00:53 tt-2616 MM014_1961_EP_SU2011_AD_12 
 "<y>"
-	"Y" Other ALFS lang:es 00:00:46 00:00:53 tt-2617 MM014_1961_EP_SU2011_AD_12 
+	"y" Conjunciton CC lang:es 00:00:46 00:00:53 tt-2617 MM014_1961_EP_SU2011_AD_12 
 "<a>"
-	"a" Other ALFS lang:es 00:00:46 00:00:53 tt-2618 MM014_1961_EP_SU2011_AD_12 
+	"a" Preposition PREP lang:es 00:00:46 00:00:53 tt-2618 MM014_1961_EP_SU2011_AD_12 @Gram:Prep 
 "<uno>"
 	"uno" Determiner CARD Singular lang:es 00:00:46 00:00:53 tt-2619 MM014_1961_EP_SU2011_AD_12 
 "<,>"
@@ -213,7 +213,7 @@
 "<guiado>"
 	"guiar" Verb VLadj lang:es 00:00:46 00:00:53 tt-2628 MM014_1961_EP_SU2011_AD_12 ID:103 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:46 00:00:53 tt-2629 MM014_1961_EP_SU2011_AD_12 
+	"y" Conjunciton Conjunction CC lang:es 00:00:46 00:00:53 tt-2629 MM014_1961_EP_SU2011_AD_12 
 "<ha>"
 	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:46 00:00:53 tt-2630 MM014_1961_EP_SU2011_AD_12 ID:105 R:Gram:SerEstar:Ser:106 R:Gram:Aux:Haber:106 R:Gram:PerfPerif:106 
 "<sido>"

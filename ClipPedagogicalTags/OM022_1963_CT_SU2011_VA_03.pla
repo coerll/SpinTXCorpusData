@@ -1,8 +1,9 @@
 OM022_1963_CT_SU2011_VA_03
-@Gram : 90
-@Gram:Det : 25
+@Gram : 91
+@Gram:Det : 26
 @Gram:Det:Art : 23
 @Gram:Det:Demo : 2
+@Gram:Det:TodoEsp : 1
 @Gram:Haber : 3
 @Gram:Haber:Exist : 3
 @Gram:Imperf : 4
@@ -21,8 +22,9 @@ OM022_1963_CT_SU2011_VA_03
 @Prag:MarcadoresDisc : 3
 @Prag:MarcadoresDisc:Causa : 1
 @Prag:MarcadoresDisc:Revision : 2
-R:Gram : 3
-R:Gram:Det : 1
+R:Gram : 6
+R:Gram:Det : 4
+R:Gram:Det:DetCombi : 3
 R:Gram:Det:LoAdj : 1
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepMasc : 1

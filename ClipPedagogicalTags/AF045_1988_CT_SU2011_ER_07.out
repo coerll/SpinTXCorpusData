@@ -3,7 +3,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:05 tt-2908 AF045_1988_CT_SU2011_ER_07 
 "<Y>"
-	"y" Conjunction CC lang:es 00:00:00 00:00:05 tt-2909 AF045_1988_CT_SU2011_ER_07 
+	"y" Conjunciton Conjunction CC lang:es 00:00:00 00:00:05 tt-2909 AF045_1988_CT_SU2011_ER_07 
 "<alguna>"
 	"alguno" Determiner QU lang:es 00:00:00 00:00:05 tt-2910 AF045_1988_CT_SU2011_ER_07 @Gram:Det:CuantIndef 
 "<vez>"
@@ -20,7 +20,7 @@
 	"?" Punctuation FS lang:es 00:00:00 00:00:05 tt-2916 AF045_1988_CT_SU2011_ER_07 
 
 "<O>"
-	"O" Other ALFS lang:es 00:00:00 00:00:05 tt-2917 AF045_1988_CT_SU2011_ER_07 
+	"o" Conjunciton CC lang:es 00:00:00 00:00:05 tt-2917 AF045_1988_CT_SU2011_ER_07 
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:05 tt-2918 AF045_1988_CT_SU2011_ER_07 
 "<qué>"
@@ -144,7 +144,7 @@
 	"." Punctuation FS lang:es 00:00:24 00:00:26 tt-2974 AF045_1988_CT_SU2011_ER_07 
 
 "<O>"
-	"o" Adverb ADV lang:es 00:00:26 00:00:29 tt-2975 AF045_1988_CT_SU2011_ER_07 ID:68 R:Prag:MarcadoresDisc:Igualdad:69 
+	"o" Conjunciton CC Adverb ADV lang:es 00:00:26 00:00:29 tt-2975 AF045_1988_CT_SU2011_ER_07 ID:68 R:Prag:MarcadoresDisc:Igualdad:69 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:00:26 00:00:29 tt-2976 AF045_1988_CT_SU2011_ER_07 ID:69 
 "<más>"
@@ -210,7 +210,7 @@
 "<sabes>"
 	"saber" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:29 00:00:36 tt-3005 AF045_1988_CT_SU2011_ER_07 
 "<todo>"
-	"todo" Determiner QU lang:es 00:00:29 00:00:36 tt-3006 AF045_1988_CT_SU2011_ER_07 
+	"todo" Determiner QU lang:es 00:00:29 00:00:36 tt-3006 AF045_1988_CT_SU2011_ER_07 ID:99 R:Gram:Det:DetCombi:100 
 "<lo>"
 	"el" Determiner ART Singular lang:es 00:00:38 00:00:45 tt-3007 AF045_1988_CT_SU2011_ER_07 ID:100 R:Gram:Det:LoAdj:101 
 "<que>"
@@ -222,7 +222,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:38 00:00:45 tt-3011 AF045_1988_CT_SU2011_ER_07 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:38 00:00:45 tt-3012 AF045_1988_CT_SU2011_ER_07 
+	"y" Conjunciton Conjunction CC lang:es 00:00:38 00:00:45 tt-3012 AF045_1988_CT_SU2011_ER_07 
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:00:38 00:00:45 tt-3013 AF045_1988_CT_SU2011_ER_07 @Gram:Pron:Sujeto 
 "<conmigo>"

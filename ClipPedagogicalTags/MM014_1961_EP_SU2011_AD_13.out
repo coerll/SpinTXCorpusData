@@ -98,9 +98,9 @@
 "<cumplido>"
 	"cumplir" Verb VLadj lang:es 00:00:24 00:00:31 tt-2688 MM014_1961_EP_SU2011_AD_13 ID:46 
 "<todos>"
-	"todo" Determiner QU lang:es 00:00:24 00:00:31 tt-2689 MM014_1961_EP_SU2011_AD_13 
+	"todo" Determiner QU lang:es 00:00:24 00:00:31 tt-2689 MM014_1961_EP_SU2011_AD_13 ID:47 R:Gram:Det:DetCombi:48 
 "<mis>"
-	"mío" Pronoun PPO Plural lang:es 00:00:24 00:00:31 tt-2690 MM014_1961_EP_SU2011_AD_13 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:00:24 00:00:31 tt-2690 MM014_1961_EP_SU2011_AD_13 @Gram:Det:Pos ID:48 
 "<sueños>"
 	"sueño" Noun NC Plural lang:es 00:00:24 00:00:31 tt-2691 MM014_1961_EP_SU2011_AD_13 
 "<,>"
@@ -167,7 +167,7 @@
 "<vez>"
 	"vez" Adverb ADV lang:es 00:00:47 00:00:54 tt-2719 MM014_1961_EP_SU2011_AD_13 ID:77 
 "<a>"
-	"a" Adverb ADV lang:es 00:00:47 00:00:54 tt-2720 MM014_1961_EP_SU2011_AD_13 
+	"a" Preposition PREP Adverb ADV lang:es 00:00:47 00:00:54 tt-2720 MM014_1961_EP_SU2011_AD_13 @Gram:Prep 
 "<veces>"
 	"veces" Adverb ADV lang:es 00:00:47 00:00:54 tt-2721 MM014_1961_EP_SU2011_AD_13 
 "<de>"
@@ -195,7 +195,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:47 00:00:54 tt-2733 MM014_1961_EP_SU2011_AD_13 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:47 00:00:54 tt-2734 MM014_1961_EP_SU2011_AD_13 
+	"y" Conjunciton Conjunction CC lang:es 00:00:47 00:00:54 tt-2734 MM014_1961_EP_SU2011_AD_13 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:57 00:01:01 tt-2735 MM014_1961_EP_SU2011_AD_13 
 "<pues>"

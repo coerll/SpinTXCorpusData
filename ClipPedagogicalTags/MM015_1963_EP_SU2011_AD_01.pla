@@ -1,9 +1,10 @@
 MM015_1963_EP_SU2011_AD_01
-@Gram : 95
-@Gram:Det : 21
+@Gram : 96
+@Gram:Det : 22
 @Gram:Det:Art : 10
 @Gram:Det:CuantIndef : 4
 @Gram:Det:Pos : 7
+@Gram:Det:TodoEsp : 1
 @Gram:Gustar : 1
 @Gram:Gustar:Interlocutor : 1
 @Gram:Haber : 1
@@ -24,8 +25,9 @@ MM015_1963_EP_SU2011_AD_01
 @Prag : 1
 @Prag:MarcadoresDisc : 1
 @Prag:MarcadoresDisc:Igualdad : 1
-R:Gram : 10
-R:Gram:Det : 3
+R:Gram : 11
+R:Gram:Det : 4
+R:Gram:Det:DetCombi : 1
 R:Gram:Det:LoAdj : 3
 R:Gram:Gustar : 6
 R:Gram:Gustar:Propios : 6

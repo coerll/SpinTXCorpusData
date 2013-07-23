@@ -89,7 +89,7 @@
 	"." Punctuation FS lang:es 00:00:16 00:00:23 tt-825 OF087_1992_CT_SU2012_OW_04 
 
 "<Y>"
-	"y" Conjunction CC lang:es 00:00:16 00:00:23 tt-826 OF087_1992_CT_SU2012_OW_04 
+	"y" Conjunciton Conjunction CC lang:es 00:00:16 00:00:23 tt-826 OF087_1992_CT_SU2012_OW_04 
 "<así>"
 	"así" Conjunction CSUBX lang:es 00:00:16 00:00:23 tt-827 OF087_1992_CT_SU2012_OW_04 
 "<era>"
@@ -125,7 +125,7 @@
 	"." Punctuation FS lang:es 00:00:25 00:00:31 tt-842 OF087_1992_CT_SU2012_OW_04 
 
 "<A>"
-	"a" Adverb ADV lang:es 00:00:25 00:00:31 tt-843 OF087_1992_CT_SU2012_OW_04 
+	"a" Preposition PREP Adverb ADV lang:es 00:00:25 00:00:31 tt-843 OF087_1992_CT_SU2012_OW_04 @Gram:Prep 
 "<veces>"
 	"veces" Adverb ADV lang:es 00:00:25 00:00:31 tt-844 OF087_1992_CT_SU2012_OW_04 
 "<ella>"
@@ -155,9 +155,9 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:31 00:00:38 tt-857 OF087_1992_CT_SU2012_OW_04 
 "<todas>"
-	"todo" Determiner QU lang:es 00:00:31 00:00:38 tt-858 OF087_1992_CT_SU2012_OW_04 
+	"todo" Determiner QU lang:es 00:00:31 00:00:38 tt-858 OF087_1992_CT_SU2012_OW_04 ID:74 R:Gram:Det:DetCombi:75 
 "<mis>"
-	"mío" Pronoun PPO Plural lang:es 00:00:31 00:00:38 tt-859 OF087_1992_CT_SU2012_OW_04 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:00:31 00:00:38 tt-859 OF087_1992_CT_SU2012_OW_04 @Gram:Det:Pos ID:75 
 "<respuestas>"
 	"respuesta" Noun NC Plural lang:es 00:00:31 00:00:38 tt-860 OF087_1992_CT_SU2012_OW_04 
 "<en>"
@@ -244,7 +244,7 @@
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:45 00:00:52 tt-900 OF087_1992_CT_SU2012_OW_04 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:45 00:00:52 tt-901 OF087_1992_CT_SU2012_OW_04 
+	"y" Conjunciton Conjunction CC lang:es 00:00:45 00:00:52 tt-901 OF087_1992_CT_SU2012_OW_04 
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:00:45 00:00:52 tt-902 OF087_1992_CT_SU2012_OW_04 @Gram:Pron:Sujeto 
 "<en>"
@@ -255,15 +255,15 @@
 	"." Punctuation FS lang:es 00:00:45 00:00:52 tt-905 OF087_1992_CT_SU2012_OW_04 
 
 "<Y>"
-	"y" Conjunction CC lang:es 00:00:45 00:00:52 tt-906 OF087_1992_CT_SU2012_OW_04 
+	"y" Conjunciton Conjunction CC lang:es 00:00:45 00:00:52 tt-906 OF087_1992_CT_SU2012_OW_04 
 "<era>"
 	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:45 00:00:52 tt-907 OF087_1992_CT_SU2012_OW_04 @Gram:Imperf @Gram:SerEstar:Ser 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:45 00:00:52 tt-908 OF087_1992_CT_SU2012_OW_04 
 "<todo>"
-	"todo" Determiner QU lang:es 00:00:45 00:00:52 tt-909 OF087_1992_CT_SU2012_OW_04 
+	"todo" Determiner QU lang:es 00:00:45 00:00:52 tt-909 OF087_1992_CT_SU2012_OW_04 ID:125 R:Gram:Det:DetCombi:126 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:45 00:00:52 tt-910 OF087_1992_CT_SU2012_OW_04 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:45 00:00:52 tt-910 OF087_1992_CT_SU2012_OW_04 @Gram:Det:Art ID:126 
 "<tiempo>"
 	"tiempo" Noun NC Singular lang:es 00:00:52 00:00:54 tt-911 OF087_1992_CT_SU2012_OW_04 
 "<dos>"
@@ -433,7 +433,7 @@
 	"." Punctuation FS lang:es 00:01:21 00:01:27 tt-990 OF087_1992_CT_SU2012_OW_04 
 
 "<Y>"
-	"y" Conjunction CC lang:es 00:01:21 00:01:27 tt-991 OF087_1992_CT_SU2012_OW_04 
+	"y" Conjunciton Conjunction CC lang:es 00:01:21 00:01:27 tt-991 OF087_1992_CT_SU2012_OW_04 
 "<era>"
 	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:21 00:01:27 tt-992 OF087_1992_CT_SU2012_OW_04 @Gram:Imperf @Gram:SerEstar:Ser 
 "<junto>"
@@ -478,7 +478,7 @@
 	"." Punctuation FS lang:es 00:01:27 00:01:34 tt-1012 OF087_1992_CT_SU2012_OW_04 
 
 "<Y>"
-	"y" Conjunction CC lang:es 00:01:27 00:01:34 tt-1013 OF087_1992_CT_SU2012_OW_04 
+	"y" Conjunciton Conjunction CC lang:es 00:01:27 00:01:34 tt-1013 OF087_1992_CT_SU2012_OW_04 
 "<estuve>"
 	"estar" Verb VEfin Pret Indi Sing 1st lang:es 00:01:27 00:01:34 tt-1014 OF087_1992_CT_SU2012_OW_04 @Gram:Indefinido @Gram:SerEstar:Estar 
 "<en>"
@@ -504,7 +504,7 @@
 "<tres>"
 	"tres" Determiner CARD Plural lang:es 00:01:36 00:01:42 tt-1025 OF087_1992_CT_SU2012_OW_04 
 "<y>"
-	"y" Conjunction CC lang:es 00:01:36 00:01:42 tt-1026 OF087_1992_CT_SU2012_OW_04 
+	"y" Conjunciton Conjunction CC lang:es 00:01:36 00:01:42 tt-1026 OF087_1992_CT_SU2012_OW_04 
 "<luego>"
 	"luego" Adverb ADV lang:es 00:01:36 00:01:42 tt-1027 OF087_1992_CT_SU2012_OW_04 
 "<el>"

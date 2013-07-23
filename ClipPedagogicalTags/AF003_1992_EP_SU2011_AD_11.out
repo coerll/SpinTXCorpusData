@@ -66,7 +66,7 @@
 	"?" Punctuation FS lang:es 00:00:10 00:00:17 tt-2311 AF003_1992_EP_SU2011_AD_11 
 
 "<O>"
-	"o" Adverb ADV lang:es 00:00:10 00:00:17 tt-2312 AF003_1992_EP_SU2011_AD_11 ID:31 R:Prag:MarcadoresDisc:Igualdad:32 
+	"o" Conjunciton CC Adverb ADV lang:es 00:00:10 00:00:17 tt-2312 AF003_1992_EP_SU2011_AD_11 ID:31 R:Prag:MarcadoresDisc:Igualdad:32 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:00:10 00:00:17 tt-2313 AF003_1992_EP_SU2011_AD_11 ID:32 
 "<,>"
@@ -165,7 +165,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:35 00:00:40 tt-2354 AF003_1992_EP_SU2011_AD_11 
 "<o>"
-	"o" Adverb ADV lang:es 00:00:35 00:00:40 tt-2355 AF003_1992_EP_SU2011_AD_11 ID:74 R:Prag:MarcadoresDisc:Igualdad:75 
+	"o" Conjunciton CC Adverb ADV lang:es 00:00:35 00:00:40 tt-2355 AF003_1992_EP_SU2011_AD_11 ID:74 R:Prag:MarcadoresDisc:Igualdad:75 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:00:35 00:00:40 tt-2356 AF003_1992_EP_SU2011_AD_11 ID:75 
 "<,>"
@@ -183,7 +183,7 @@
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:00:35 00:00:40 tt-2363 AF003_1992_EP_SU2011_AD_11 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:35 00:00:40 tt-2364 AF003_1992_EP_SU2011_AD_11 
+	"y" Conjunciton Conjunction CC lang:es 00:00:35 00:00:40 tt-2364 AF003_1992_EP_SU2011_AD_11 
 "<también>"
 	"también" Adverb ADV lang:es 00:00:35 00:00:40 tt-2365 AF003_1992_EP_SU2011_AD_11 @Prag:MarcadoresDisc:Igualdad 
 "<para>"
@@ -203,31 +203,31 @@
 "<a>"
 	"a" Preposition PREP lang:es 00:00:40 00:00:46 tt-2373 AF003_1992_EP_SU2011_AD_11 @Gram:Prep 
 "<todo>"
-	"todo" Determiner QU lang:es 00:00:40 00:00:46 tt-2374 AF003_1992_EP_SU2011_AD_11 
+	"todo" Determiner QU lang:es 00:00:40 00:00:46 tt-2374 AF003_1992_EP_SU2011_AD_11 ID:93 R:Gram:Det:DetCombi:94 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:40 00:00:46 tt-2375 AF003_1992_EP_SU2011_AD_11 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:40 00:00:46 tt-2375 AF003_1992_EP_SU2011_AD_11 @Gram:Det:Art ID:94 
 "<esfuerzo>"
 	"esfuerzo" Noun NC Singular lang:es 00:00:40 00:00:46 tt-2376 AF003_1992_EP_SU2011_AD_11 
 "<,>"
 	"," Punctuation CM lang:es 00:00:40 00:00:46 tt-2377 AF003_1992_EP_SU2011_AD_11 
 "<todas>"
-	"todo" Determiner QU lang:es 00:00:40 00:00:46 tt-2378 AF003_1992_EP_SU2011_AD_11 
+	"todo" Determiner QU lang:es 00:00:40 00:00:46 tt-2378 AF003_1992_EP_SU2011_AD_11 ID:97 R:Gram:Det:DetCombi:98 
 "<las>"
-	"el" Determiner ART Plural Fem lang:es 00:00:40 00:00:46 tt-2379 AF003_1992_EP_SU2011_AD_11 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:00:40 00:00:46 tt-2379 AF003_1992_EP_SU2011_AD_11 @Gram:Det:Art ID:98 
 "<desveladas>"
 	"UNK" Noun NC Plural lang:es 00:00:40 00:00:46 tt-2380 AF003_1992_EP_SU2011_AD_11 
 "<,>"
 	"," Punctuation CM lang:es 00:00:40 00:00:46 tt-2381 AF003_1992_EP_SU2011_AD_11 
 "<o>"
-	"o" Adverb ADV lang:es 00:00:40 00:00:46 tt-2382 AF003_1992_EP_SU2011_AD_11 ID:101 R:Prag:MarcadoresDisc:Igualdad:102 
+	"o" Conjunciton CC Adverb ADV lang:es 00:00:40 00:00:46 tt-2382 AF003_1992_EP_SU2011_AD_11 ID:101 R:Prag:MarcadoresDisc:Igualdad:102 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:00:40 00:00:46 tt-2383 AF003_1992_EP_SU2011_AD_11 ID:102 
 "<,>"
 	"," Punctuation CM lang:es 00:00:40 00:00:46 tt-2384 AF003_1992_EP_SU2011_AD_11 
 "<todo>"
-	"todo" Determiner QU lang:es 00:00:40 00:00:46 tt-2385 AF003_1992_EP_SU2011_AD_11 
+	"todo" Determiner QU lang:es 00:00:40 00:00:46 tt-2385 AF003_1992_EP_SU2011_AD_11 ID:104 R:Gram:Det:DetCombi:105 
 "<eso>"
-	"ese" Determiner DM Singular lang:es 00:00:40 00:00:46 tt-2386 AF003_1992_EP_SU2011_AD_11 
+	"ese" Determiner DM Singular lang:es 00:00:40 00:00:46 tt-2386 AF003_1992_EP_SU2011_AD_11 ID:105 
 "<,>"
 	"," Punctuation CM lang:es 00:00:40 00:00:46 tt-2387 AF003_1992_EP_SU2011_AD_11 
 "<al>"
@@ -257,7 +257,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:46 00:00:53 tt-2400 AF003_1992_EP_SU2011_AD_11 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:46 00:00:53 tt-2401 AF003_1992_EP_SU2011_AD_11 
+	"y" Conjunciton Conjunction CC lang:es 00:00:46 00:00:53 tt-2401 AF003_1992_EP_SU2011_AD_11 
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:00:46 00:00:53 tt-2402 AF003_1992_EP_SU2011_AD_11 
 "<se>"
@@ -311,7 +311,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:53 00:00:59 tt-2427 AF003_1992_EP_SU2011_AD_11 
 "<o>"
-	"o" Adverb ADV lang:es 00:00:53 00:00:59 tt-2428 AF003_1992_EP_SU2011_AD_11 ID:147 R:Prag:MarcadoresDisc:Igualdad:148 
+	"o" Conjunciton CC Adverb ADV lang:es 00:00:53 00:00:59 tt-2428 AF003_1992_EP_SU2011_AD_11 ID:147 R:Prag:MarcadoresDisc:Igualdad:148 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:00:53 00:00:59 tt-2429 AF003_1992_EP_SU2011_AD_11 ID:148 
 "<,>"
@@ -368,11 +368,11 @@
 	"?" Punctuation FS lang:es 00:00:59 00:01:04 tt-2454 AF003_1992_EP_SU2011_AD_11 
 
 "<O>"
-	"o" Conjunction CC lang:es 00:00:59 00:01:04 tt-2455 AF003_1992_EP_SU2011_AD_11 
+	"o" Conjunciton Conjunction CC lang:es 00:00:59 00:01:04 tt-2455 AF003_1992_EP_SU2011_AD_11 
 "<esto>"
 	"este" Determiner DM Singular lang:es 00:00:59 00:01:04 tt-2456 AF003_1992_EP_SU2011_AD_11 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:59 00:01:04 tt-2457 AF003_1992_EP_SU2011_AD_11 
+	"y" Conjunciton Conjunction CC lang:es 00:00:59 00:01:04 tt-2457 AF003_1992_EP_SU2011_AD_11 
 "<ya>"
 	"ya" Adverb ADV lang:es 00:01:04 00:01:10 tt-2458 AF003_1992_EP_SU2011_AD_11 
 "<te>"
@@ -384,7 +384,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:04 00:01:10 tt-2462 AF003_1992_EP_SU2011_AD_11 
 "<o>"
-	"o" Adverb ADV lang:es 00:01:04 00:01:10 tt-2463 AF003_1992_EP_SU2011_AD_11 ID:182 R:Prag:MarcadoresDisc:Igualdad:183 
+	"o" Conjunciton CC Adverb ADV lang:es 00:01:04 00:01:10 tt-2463 AF003_1992_EP_SU2011_AD_11 ID:182 R:Prag:MarcadoresDisc:Igualdad:183 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:01:04 00:01:10 tt-2464 AF003_1992_EP_SU2011_AD_11 ID:183 
 "<,>"
@@ -411,7 +411,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:04 00:01:10 tt-2475 AF003_1992_EP_SU2011_AD_11 
 "<o>"
-	"o" Adverb ADV lang:es 00:01:04 00:01:10 tt-2476 AF003_1992_EP_SU2011_AD_11 ID:195 R:Prag:MarcadoresDisc:Igualdad:196 
+	"o" Conjunciton CC Adverb ADV lang:es 00:01:04 00:01:10 tt-2476 AF003_1992_EP_SU2011_AD_11 ID:195 R:Prag:MarcadoresDisc:Igualdad:196 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:01:04 00:01:10 tt-2477 AF003_1992_EP_SU2011_AD_11 ID:196 
 "<,>"
@@ -463,7 +463,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:17 00:01:21 tt-2501 AF003_1992_EP_SU2011_AD_11 
 "<o>"
-	"o" Adverb ADV lang:es 00:01:17 00:01:21 tt-2502 AF003_1992_EP_SU2011_AD_11 ID:221 R:Prag:MarcadoresDisc:Igualdad:222 
+	"o" Conjunciton CC Adverb ADV lang:es 00:01:17 00:01:21 tt-2502 AF003_1992_EP_SU2011_AD_11 ID:221 R:Prag:MarcadoresDisc:Igualdad:222 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:01:17 00:01:21 tt-2503 AF003_1992_EP_SU2011_AD_11 ID:222 
 "<,>"
@@ -481,7 +481,7 @@
 "<eso>"
 	"ese" Determiner DM Singular lang:es 00:01:17 00:01:21 tt-2510 AF003_1992_EP_SU2011_AD_11 
 "<y>"
-	"y" Conjunction CC lang:es 00:01:17 00:01:21 tt-2511 AF003_1992_EP_SU2011_AD_11 
+	"y" Conjunciton Conjunction CC lang:es 00:01:17 00:01:21 tt-2511 AF003_1992_EP_SU2011_AD_11 
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:01:17 00:01:21 tt-2512 AF003_1992_EP_SU2011_AD_11 @Gram:Pron:Objeto 
 "<ha>"
@@ -493,7 +493,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:17 00:01:21 tt-2516 AF003_1992_EP_SU2011_AD_11 
 "<o>"
-	"o" Adverb ADV lang:es 00:01:17 00:01:21 tt-2517 AF003_1992_EP_SU2011_AD_11 ID:236 R:Prag:MarcadoresDisc:Igualdad:237 
+	"o" Conjunciton CC Adverb ADV lang:es 00:01:17 00:01:21 tt-2517 AF003_1992_EP_SU2011_AD_11 ID:236 R:Prag:MarcadoresDisc:Igualdad:237 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:01:17 00:01:21 tt-2518 AF003_1992_EP_SU2011_AD_11 ID:237 
 "<,>"
@@ -526,7 +526,7 @@
 	"?" Punctuation FS lang:es 00:01:21 00:01:27 tt-2532 AF003_1992_EP_SU2011_AD_11 
 
 "<O>"
-	"o" Adverb ADV lang:es 00:01:21 00:01:27 tt-2533 AF003_1992_EP_SU2011_AD_11 ID:252 R:Prag:MarcadoresDisc:Igualdad:253 
+	"o" Conjunciton CC Adverb ADV lang:es 00:01:21 00:01:27 tt-2533 AF003_1992_EP_SU2011_AD_11 ID:252 R:Prag:MarcadoresDisc:Igualdad:253 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:01:21 00:01:27 tt-2534 AF003_1992_EP_SU2011_AD_11 ID:253 
 "<,>"
@@ -548,7 +548,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:21 00:01:27 tt-2543 AF003_1992_EP_SU2011_AD_11 
 "<o>"
-	"o" Adverb ADV lang:es 00:01:21 00:01:27 tt-2544 AF003_1992_EP_SU2011_AD_11 ID:263 R:Prag:MarcadoresDisc:Igualdad:264 
+	"o" Conjunciton CC Adverb ADV lang:es 00:01:21 00:01:27 tt-2544 AF003_1992_EP_SU2011_AD_11 ID:263 R:Prag:MarcadoresDisc:Igualdad:264 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:01:21 00:01:27 tt-2545 AF003_1992_EP_SU2011_AD_11 ID:264 
 "<,>"
@@ -578,7 +578,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:27 00:01:32 tt-2558 AF003_1992_EP_SU2011_AD_11 
 "<o>"
-	"o" Adverb ADV lang:es 00:01:27 00:01:32 tt-2559 AF003_1992_EP_SU2011_AD_11 ID:278 R:Prag:MarcadoresDisc:Igualdad:279 
+	"o" Conjunciton CC Adverb ADV lang:es 00:01:27 00:01:32 tt-2559 AF003_1992_EP_SU2011_AD_11 ID:278 R:Prag:MarcadoresDisc:Igualdad:279 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:01:27 00:01:32 tt-2560 AF003_1992_EP_SU2011_AD_11 ID:279 
 "<,>"
@@ -612,7 +612,7 @@
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:01:32 00:01:39 tt-2575 AF003_1992_EP_SU2011_AD_11 
 "<y>"
-	"y" Conjunction CC lang:es 00:01:32 00:01:39 tt-2576 AF003_1992_EP_SU2011_AD_11 
+	"y" Conjunciton Conjunction CC lang:es 00:01:32 00:01:39 tt-2576 AF003_1992_EP_SU2011_AD_11 
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:01:32 00:01:39 tt-2577 AF003_1992_EP_SU2011_AD_11 
 "<eso>"
@@ -634,7 +634,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:32 00:01:39 tt-2586 AF003_1992_EP_SU2011_AD_11 
 "<o>"
-	"o" Adverb ADV lang:es 00:01:32 00:01:39 tt-2587 AF003_1992_EP_SU2011_AD_11 ID:306 R:Prag:MarcadoresDisc:Igualdad:307 
+	"o" Conjunciton CC Adverb ADV lang:es 00:01:32 00:01:39 tt-2587 AF003_1992_EP_SU2011_AD_11 ID:306 R:Prag:MarcadoresDisc:Igualdad:307 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:01:32 00:01:39 tt-2588 AF003_1992_EP_SU2011_AD_11 ID:307 
 "<,>"
@@ -648,7 +648,7 @@
 "<también>"
 	"también" Adverb ADV lang:es 00:01:40 00:01:46 tt-2593 AF003_1992_EP_SU2011_AD_11 @Prag:MarcadoresDisc:Igualdad 
 "<y>"
-	"y" Conjunction CC lang:es 00:01:40 00:01:46 tt-2594 AF003_1992_EP_SU2011_AD_11 
+	"y" Conjunciton Conjunction CC lang:es 00:01:40 00:01:46 tt-2594 AF003_1992_EP_SU2011_AD_11 
 "<eso>"
 	"ese" Determiner DM Singular lang:es 00:01:40 00:01:46 tt-2595 AF003_1992_EP_SU2011_AD_11 
 "<me>"

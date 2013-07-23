@@ -33,9 +33,9 @@
 "<como>"
 	"como" Conjunction CSUBX lang:es 00:00:00 00:00:05 tt-3975 AM063_1992_CT_SU2012_CL_07 
 "<toda>"
-	"todo" Determiner QU lang:es 00:00:00 00:00:05 tt-3976 AM063_1992_CT_SU2012_CL_07 
+	"todo" Determiner QU lang:es 00:00:00 00:00:05 tt-3976 AM063_1992_CT_SU2012_CL_07 ID:16 R:Gram:Det:DetCombi:17 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:05 00:00:12 tt-3977 AM063_1992_CT_SU2012_CL_07 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:05 00:00:12 tt-3977 AM063_1992_CT_SU2012_CL_07 @Gram:Det:Art ID:17 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:05 00:00:12 tt-3978 AM063_1992_CT_SU2012_CL_07 
 "<hablamos>"
@@ -96,7 +96,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:13 00:00:20 tt-4006 AM063_1992_CT_SU2012_CL_07 
 "<o>"
-	"o" Conjunction CC lang:es 00:00:13 00:00:20 tt-4007 AM063_1992_CT_SU2012_CL_07 
+	"o" Conjunciton Conjunction CC lang:es 00:00:13 00:00:20 tt-4007 AM063_1992_CT_SU2012_CL_07 
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:13 00:00:20 tt-4008 AM063_1992_CT_SU2012_CL_07 
 "<tienes>"
@@ -181,7 +181,7 @@
 "<palabra>"
 	"palabra" Noun NC Singular lang:es 00:00:32 00:00:39 tt-4046 AM063_1992_CT_SU2012_CL_07 
 "<o>"
-	"o" Conjunction CC lang:es 00:00:32 00:00:39 tt-4047 AM063_1992_CT_SU2012_CL_07 
+	"o" Conjunciton Conjunction CC lang:es 00:00:32 00:00:39 tt-4047 AM063_1992_CT_SU2012_CL_07 
 "<la>"
 	"el" Determiner ART Singular Fem lang:es 00:00:32 00:00:39 tt-4048 AM063_1992_CT_SU2012_CL_07 @Gram:Det:Art ID:88 R:Gram:Det:DetCombi:89 
 "<otra>"
@@ -195,7 +195,7 @@
 "<entiende>"
 	"entender" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:32 00:00:39 tt-4053 AM063_1992_CT_SU2012_CL_07 
 "<o>"
-	"o" Conjunction CC lang:es 00:00:32 00:00:39 tt-4054 AM063_1992_CT_SU2012_CL_07 
+	"o" Conjunciton Conjunction CC lang:es 00:00:32 00:00:39 tt-4054 AM063_1992_CT_SU2012_CL_07 
 "<hablo>"
 	"hablar" Verb VLfin Pres Indi Sing 1st lang:es 00:00:32 00:00:39 tt-4055 AM063_1992_CT_SU2012_CL_07 ID:95 R:Vocab:Fraseol:VerbPrep:96 
 "<con>"
@@ -217,7 +217,7 @@
 "<palabra>"
 	"palabra" Noun NC Singular lang:es 00:00:42 00:00:48 tt-4064 AM063_1992_CT_SU2012_CL_07 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:42 00:00:48 tt-4065 AM063_1992_CT_SU2012_CL_07 
+	"y" Conjunciton Conjunction CC lang:es 00:00:42 00:00:48 tt-4065 AM063_1992_CT_SU2012_CL_07 
 "<como>"
 	"como" Adverb ADV lang:es 00:00:42 00:00:48 tt-4066 AM063_1992_CT_SU2012_CL_07 
 "<por>"
@@ -229,7 +229,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:42 00:00:48 tt-4070 AM063_1992_CT_SU2012_CL_07 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:42 00:00:48 tt-4071 AM063_1992_CT_SU2012_CL_07 
+	"y" Conjunciton Conjunction CC lang:es 00:00:42 00:00:48 tt-4071 AM063_1992_CT_SU2012_CL_07 
 "<ellos>"
 	"él" Pronoun PPX Plural lang:es 00:00:42 00:00:48 tt-4072 AM063_1992_CT_SU2012_CL_07 @Gram:Pron:Sujeto 
 "<no>"
@@ -484,11 +484,11 @@
 	"." Punctuation FS lang:es 00:01:24 00:01:31 tt-4190 AM063_1992_CT_SU2012_CL_07 
 
 "<Y>"
-	"y" Conjunction CC lang:es 00:01:24 00:01:31 tt-4191 AM063_1992_CT_SU2012_CL_07 
+	"y" Conjunciton Conjunction CC lang:es 00:01:24 00:01:31 tt-4191 AM063_1992_CT_SU2012_CL_07 
 "<veo>"
 	"ver" Verb VLfin Pres Indi Sing 1st lang:es 00:01:24 00:01:31 tt-4192 AM063_1992_CT_SU2012_CL_07 
 "<a>"
-	"a" Adverb ADV lang:es 00:01:24 00:01:31 tt-4193 AM063_1992_CT_SU2012_CL_07 
+	"a" Preposition PREP Adverb ADV lang:es 00:01:24 00:01:31 tt-4193 AM063_1992_CT_SU2012_CL_07 @Gram:Prep 
 "<veces>"
 	"veces" Adverb ADV lang:es 00:01:24 00:01:31 tt-4194 AM063_1992_CT_SU2012_CL_07 
 "<entrevistas>"

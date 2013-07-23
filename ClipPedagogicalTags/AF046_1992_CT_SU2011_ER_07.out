@@ -16,7 +16,7 @@
 "<Spanglish>"
 	"UNK" Noun NP Singular lang:es 00:00:00 00:00:07 tt-2288 AF046_1992_CT_SU2011_ER_07 
 "<o>"
-	"o" Conjunction CC lang:es 00:00:00 00:00:07 tt-2289 AF046_1992_CT_SU2011_ER_07 
+	"o" Conjunciton Conjunction CC lang:es 00:00:00 00:00:07 tt-2289 AF046_1992_CT_SU2011_ER_07 
 "<Tex-Mex>"
 	"UNK" Noun NP Singular lang:es 00:00:00 00:00:07 tt-2290 AF046_1992_CT_SU2011_ER_07 
 "<,>"
@@ -111,7 +111,7 @@
 "<amigos>"
 	"amigo" Adjective ADJ Plural lang:es 00:00:14 00:00:19 tt-2332 AF046_1992_CT_SU2011_ER_07 ID:51 
 "<o>"
-	"o" Conjunction CC lang:es 00:00:14 00:00:19 tt-2333 AF046_1992_CT_SU2011_ER_07 
+	"o" Conjunciton Conjunction CC lang:es 00:00:14 00:00:19 tt-2333 AF046_1992_CT_SU2011_ER_07 
 "<con>"
 	"con" Preposition PREP lang:es 00:00:14 00:00:19 tt-2334 AF046_1992_CT_SU2011_ER_07 @Gram:Prep 
 "<mis>"
@@ -152,7 +152,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:19 00:00:25 tt-2352 AF046_1992_CT_SU2011_ER_07 
 "<a>"
-	"a" Adverb ADV lang:es 00:00:19 00:00:25 tt-2353 AF046_1992_CT_SU2011_ER_07 
+	"a" Preposition PREP Adverb ADV lang:es 00:00:19 00:00:25 tt-2353 AF046_1992_CT_SU2011_ER_07 @Gram:Prep 
 "<veces>"
 	"veces" Adverb ADV lang:es 00:00:19 00:00:25 tt-2354 AF046_1992_CT_SU2011_ER_07 
 "<se>"
@@ -197,19 +197,19 @@
 "<primos>"
 	"primo" Adjective ADJ Plural lang:es 00:00:25 00:00:31 tt-2374 AF046_1992_CT_SU2011_ER_07 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:25 00:00:31 tt-2375 AF046_1992_CT_SU2011_ER_07 
+	"y" Conjunciton Conjunction CC lang:es 00:00:25 00:00:31 tt-2375 AF046_1992_CT_SU2011_ER_07 
 "<todos>"
-	"todo" Determiner QU lang:es 00:00:25 00:00:31 tt-2376 AF046_1992_CT_SU2011_ER_07 
+	"todo" Determiner QU lang:es 00:00:25 00:00:31 tt-2376 AF046_1992_CT_SU2011_ER_07 ID:95 R:Gram:Det:DetCombi:96 
 "<los>"
-	"el" Determiner ART Plural Masc lang:es 00:00:25 00:00:31 tt-2377 AF046_1992_CT_SU2011_ER_07 @Gram:Pron:Objeto 
+	"el" Determiner ART Plural Masc lang:es 00:00:25 00:00:31 tt-2377 AF046_1992_CT_SU2011_ER_07 @Gram:Pron:Objeto ID:96 
 "<hacemos>"
 	"hacer" Verb VLfin Pres Indi Plural 1st lang:es 00:00:25 00:00:31 tt-2378 AF046_1992_CT_SU2011_ER_07 
 "<,>"
 	"," Punctuation CM lang:es 00:00:25 00:00:31 tt-2379 AF046_1992_CT_SU2011_ER_07 
 "<todos>"
-	"todo" Determiner QU lang:es 00:00:31 00:00:36 tt-2380 AF046_1992_CT_SU2011_ER_07 
+	"todo" Determiner QU lang:es 00:00:31 00:00:36 tt-2380 AF046_1992_CT_SU2011_ER_07 ID:99 R:Gram:Det:DetCombi:100 
 "<lo>"
-	"el" Determiner ART Singular lang:es 00:00:31 00:00:36 tt-2381 AF046_1992_CT_SU2011_ER_07 @Gram:Pron:Objeto 
+	"el" Determiner ART Singular lang:es 00:00:31 00:00:36 tt-2381 AF046_1992_CT_SU2011_ER_07 @Gram:Pron:Objeto ID:100 
 "<hacemos>"
 	"hacer" Verb VLfin Pres Indi Plural 1st lang:es 00:00:31 00:00:36 tt-2382 AF046_1992_CT_SU2011_ER_07 
 "<$.>"
@@ -238,7 +238,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:31 00:00:36 tt-2394 AF046_1992_CT_SU2011_ER_07 
 "<a>"
-	"a" Adverb ADV lang:es 00:00:31 00:00:36 tt-2395 AF046_1992_CT_SU2011_ER_07 
+	"a" Preposition PREP Adverb ADV lang:es 00:00:31 00:00:36 tt-2395 AF046_1992_CT_SU2011_ER_07 @Gram:Prep 
 "<veces>"
 	"veces" Adverb ADV lang:es 00:00:31 00:00:36 tt-2396 AF046_1992_CT_SU2011_ER_07 
 "<,>"
@@ -282,7 +282,7 @@
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:36 00:00:40 tt-2416 AF046_1992_CT_SU2011_ER_07 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:40 00:00:42 tt-2417 AF046_1992_CT_SU2011_ER_07 
+	"y" Conjunciton Conjunction CC lang:es 00:00:40 00:00:42 tt-2417 AF046_1992_CT_SU2011_ER_07 
 "<el>"
 	"el" Determiner ART Singular Masc lang:es 00:00:40 00:00:42 tt-2418 AF046_1992_CT_SU2011_ER_07 @Gram:Det:Art 
 "<inglés>"
@@ -305,7 +305,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:42 00:00:49 tt-2426 AF046_1992_CT_SU2011_ER_07 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:42 00:00:49 tt-2427 AF046_1992_CT_SU2011_ER_07 
+	"y" Conjunciton Conjunction CC lang:es 00:00:42 00:00:49 tt-2427 AF046_1992_CT_SU2011_ER_07 
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:42 00:00:49 tt-2428 AF046_1992_CT_SU2011_ER_07 @Gram:SerEstar:Ser 
 "<algo>"
@@ -427,7 +427,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:57 00:01:04 tt-2486 AF046_1992_CT_SU2011_ER_07 
 "<o>"
-	"o" Adverb ADV lang:es 00:01:05 00:01:10 tt-2487 AF046_1992_CT_SU2011_ER_07 ID:206 R:Prag:MarcadoresDisc:Igualdad:207 
+	"o" Conjunciton CC Adverb ADV lang:es 00:01:05 00:01:10 tt-2487 AF046_1992_CT_SU2011_ER_07 ID:206 R:Prag:MarcadoresDisc:Igualdad:207 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:01:05 00:01:10 tt-2488 AF046_1992_CT_SU2011_ER_07 ID:207 
 "<es>"
@@ -450,7 +450,7 @@
 	"?" Punctuation FS lang:es 00:01:05 00:01:10 tt-2497 AF046_1992_CT_SU2011_ER_07 
 
 "<O>"
-	"o" Adverb ADV lang:es 00:01:05 00:01:10 tt-2498 AF046_1992_CT_SU2011_ER_07 ID:217 R:Prag:MarcadoresDisc:Igualdad:218 
+	"o" Conjunciton CC Adverb ADV lang:es 00:01:05 00:01:10 tt-2498 AF046_1992_CT_SU2011_ER_07 ID:217 R:Prag:MarcadoresDisc:Igualdad:218 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:01:05 00:01:10 tt-2499 AF046_1992_CT_SU2011_ER_07 ID:218 
 "<,>"
@@ -508,7 +508,7 @@
 "<mal>"
 	"mal" Adverb ADV lang:es 00:01:10 00:01:15 tt-2526 AF046_1992_CT_SU2011_ER_07 
 "<o>"
-	"o" Other ALFS lang:es 00:01:10 00:01:15 tt-2527 AF046_1992_CT_SU2011_ER_07 
+	"o" Conjunciton CC lang:es 00:01:10 00:01:15 tt-2527 AF046_1992_CT_SU2011_ER_07 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:10 00:01:15 tt-2528 AF046_1992_CT_SU2011_ER_07 
 "<$?>"
@@ -574,7 +574,7 @@
 	"?" Punctuation FS lang:es 00:01:24 00:01:30 tt-2557 AF046_1992_CT_SU2011_ER_07 
 
 "<Y>"
-	"y" Conjunction CC lang:es 00:01:24 00:01:30 tt-2558 AF046_1992_CT_SU2011_ER_07 
+	"y" Conjunciton Conjunction CC lang:es 00:01:24 00:01:30 tt-2558 AF046_1992_CT_SU2011_ER_07 
 "<para>"
 	"para" Preposition PREP lang:es 00:01:24 00:01:30 tt-2559 AF046_1992_CT_SU2011_ER_07 @Gram:Prep:Para 
 "<mí>"
@@ -646,7 +646,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:34 00:01:40 tt-2593 AF046_1992_CT_SU2011_ER_07 
 "<y>"
-	"y" Conjunction CC lang:es 00:01:34 00:01:40 tt-2594 AF046_1992_CT_SU2011_ER_07 
+	"y" Conjunciton Conjunction CC lang:es 00:01:34 00:01:40 tt-2594 AF046_1992_CT_SU2011_ER_07 
 "<nos>"
 	"nosotros" Pronoun PPX Plural lang:es 00:01:34 00:01:40 tt-2595 AF046_1992_CT_SU2011_ER_07 @Gram:Pron:Objeto 
 "<trae>"
@@ -672,7 +672,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:34 00:01:40 tt-2606 AF046_1992_CT_SU2011_ER_07 
 "<y>"
-	"y" Conjunction CC lang:es 00:01:34 00:01:40 tt-2607 AF046_1992_CT_SU2011_ER_07 
+	"y" Conjunciton Conjunction CC lang:es 00:01:34 00:01:40 tt-2607 AF046_1992_CT_SU2011_ER_07 
 "<uno>"
 	"uno" Determiner CARD Singular lang:es 00:01:40 00:01:45 tt-2608 AF046_1992_CT_SU2011_ER_07 @Gram:Pron:Sujeto 
 "<no>"
@@ -797,7 +797,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:54 00:01:59 tt-2668 AF046_1992_CT_SU2011_ER_07 
 "<y>"
-	"y" Conjunction CC lang:es 00:01:54 00:01:59 tt-2669 AF046_1992_CT_SU2011_ER_07 
+	"y" Conjunciton Conjunction CC lang:es 00:01:54 00:01:59 tt-2669 AF046_1992_CT_SU2011_ER_07 
 "<especialmente>"
 	"especialmente" Adverb ADV lang:es 00:01:54 00:01:59 tt-2670 AF046_1992_CT_SU2011_ER_07 
 "<,>"
@@ -834,7 +834,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:59 00:02:05 tt-2686 AF046_1992_CT_SU2011_ER_07 
 "<y>"
-	"y" Conjunction CC lang:es 00:01:59 00:02:05 tt-2687 AF046_1992_CT_SU2011_ER_07 
+	"y" Conjunciton Conjunction CC lang:es 00:01:59 00:02:05 tt-2687 AF046_1992_CT_SU2011_ER_07 
 "<bueno>"
 	"bueno" Adjective ADJ Singular lang:es 00:01:59 00:02:05 tt-2688 AF046_1992_CT_SU2011_ER_07 
 "<,>"
@@ -884,11 +884,11 @@
 	"." Punctuation FS lang:es 00:02:05 00:02:12 tt-2710 AF046_1992_CT_SU2011_ER_07 
 
 "<A>"
-	"A" Other ALFS lang:es 00:02:05 00:02:12 tt-2711 AF046_1992_CT_SU2011_ER_07 
+	"A" "a" Preposition PREP lang:es 00:02:05 00:02:12 tt-2711 AF046_1992_CT_SU2011_ER_07 @Gram:Prep 
 "<a>"
-	"A" Other ALFS lang:es 00:02:05 00:02:12 tt-2712 AF046_1992_CT_SU2011_ER_07 
+	"A" "a" Preposition PREP lang:es 00:02:05 00:02:12 tt-2712 AF046_1992_CT_SU2011_ER_07 @Gram:Prep 
 "<a>"
-	"A" Other ALFS lang:es 00:02:05 00:02:12 tt-2713 AF046_1992_CT_SU2011_ER_07 
+	"A" "a" Preposition PREP lang:es 00:02:05 00:02:12 tt-2713 AF046_1992_CT_SU2011_ER_07 @Gram:Prep 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:02:05 00:02:12 tt-2714 AF046_1992_CT_SU2011_ER_07 
 "<nivel>"
@@ -926,7 +926,7 @@
 "<importancia>"
 	"importancia" Noun NC Singular lang:es 00:02:13 00:02:17 tt-2731 AF046_1992_CT_SU2011_ER_07 
 "<o>"
-	"o" Conjunction CC lang:es 00:02:13 00:02:17 tt-2732 AF046_1992_CT_SU2011_ER_07 
+	"o" Conjunciton Conjunction CC lang:es 00:02:13 00:02:17 tt-2732 AF046_1992_CT_SU2011_ER_07 
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:02:13 00:02:17 tt-2733 AF046_1992_CT_SU2011_ER_07 
 "<tipo>"
@@ -1083,7 +1083,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:02:35 00:02:40 tt-2808 AF046_1992_CT_SU2011_ER_07 
 "<y>"
-	"y" Conjunction CC lang:es 00:02:35 00:02:40 tt-2809 AF046_1992_CT_SU2011_ER_07 
+	"y" Conjunciton Conjunction CC lang:es 00:02:35 00:02:40 tt-2809 AF046_1992_CT_SU2011_ER_07 
 "<así>"
 	"así" Conjunction CSUBX lang:es 00:02:35 00:02:40 tt-2810 AF046_1992_CT_SU2011_ER_07 
 "<yo>"
@@ -1117,7 +1117,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:02:40 00:02:47 tt-2825 AF046_1992_CT_SU2011_ER_07 
 "<y>"
-	"y" Conjunction CC lang:es 00:02:40 00:02:47 tt-2826 AF046_1992_CT_SU2011_ER_07 
+	"y" Conjunciton Conjunction CC lang:es 00:02:40 00:02:47 tt-2826 AF046_1992_CT_SU2011_ER_07 
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:02:40 00:02:47 tt-2827 AF046_1992_CT_SU2011_ER_07 @Gram:Pron:Sujeto 
 "<puedo>"

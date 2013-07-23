@@ -104,7 +104,7 @@
 	"." Punctuation FS lang:es 00:00:15 00:00:21 tt-329 MM069_1960_CT_SU2012_CL_01 
 
 "<O>"
-	"o" Adverb ADV lang:es 00:00:15 00:00:21 tt-330 MM069_1960_CT_SU2012_CL_01 ID:50 R:Prag:MarcadoresDisc:Igualdad:51 
+	"o" Conjunciton CC Adverb ADV lang:es 00:00:15 00:00:21 tt-330 MM069_1960_CT_SU2012_CL_01 ID:50 R:Prag:MarcadoresDisc:Igualdad:51 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:00:15 00:00:21 tt-331 MM069_1960_CT_SU2012_CL_01 ID:51 
 <lang code="en">
@@ -211,7 +211,7 @@
 	"." Punctuation FS lang:es 00:00:32 00:00:38 tt-379 MM069_1960_CT_SU2012_CL_01 
 
 "<Y>"
-	"y" Conjunction CC lang:es 00:00:32 00:00:38 tt-380 MM069_1960_CT_SU2012_CL_01 
+	"y" Conjunciton Conjunction CC lang:es 00:00:32 00:00:38 tt-380 MM069_1960_CT_SU2012_CL_01 
 "<allí>"
 	"allí" Adverb ADV lang:es 00:00:32 00:00:38 tt-381 MM069_1960_CT_SU2012_CL_01 
 "<fue>"
@@ -244,7 +244,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:32 00:00:38 tt-395 MM069_1960_CT_SU2012_CL_01 
 "<o>"
-	"o" Adverb ADV lang:es 00:00:32 00:00:38 tt-396 MM069_1960_CT_SU2012_CL_01 ID:116 R:Prag:MarcadoresDisc:Igualdad:117 
+	"o" Conjunciton CC Adverb ADV lang:es 00:00:32 00:00:38 tt-396 MM069_1960_CT_SU2012_CL_01 ID:116 R:Prag:MarcadoresDisc:Igualdad:117 
 "<sea>"
 	"sea" Adverb ADV lang:es 00:00:32 00:00:38 tt-397 MM069_1960_CT_SU2012_CL_01 ID:117 
 "<mis>"
@@ -280,7 +280,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:42 00:00:48 tt-411 MM069_1960_CT_SU2012_CL_01 
 "<Y>"
-	"y" Conjunction CC lang:es 00:00:42 00:00:48 tt-412 MM069_1960_CT_SU2012_CL_01 
+	"y" Conjunciton Conjunction CC lang:es 00:00:42 00:00:48 tt-412 MM069_1960_CT_SU2012_CL_01 
 "<tienes>"
 	"tener" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:42 00:00:48 tt-413 MM069_1960_CT_SU2012_CL_01 
 "<alguna>"
@@ -429,9 +429,9 @@
 "<Ahora>"
 	"ahora" Adverb ADV lang:es 00:01:04 00:01:11 tt-482 MM069_1960_CT_SU2012_CL_01 
 "<todo>"
-	"todo" Determiner QU lang:es 00:01:04 00:01:11 tt-483 MM069_1960_CT_SU2012_CL_01 
+	"todo" Determiner QU lang:es 00:01:04 00:01:11 tt-483 MM069_1960_CT_SU2012_CL_01 ID:203 R:Gram:Det:DetCombi:204 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:01:04 00:01:11 tt-484 MM069_1960_CT_SU2012_CL_01 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:04 00:01:11 tt-484 MM069_1960_CT_SU2012_CL_01 @Gram:Det:Art ID:204 
 "<juego>"
 	"juego" Noun NC Singular lang:es 00:01:04 00:01:11 tt-485 MM069_1960_CT_SU2012_CL_01 
 "<se>"
@@ -452,7 +452,7 @@
 	"." Punctuation FS lang:es 00:01:04 00:01:11 tt-493 MM069_1960_CT_SU2012_CL_01 
 
 "<Y>"
-	"y" Conjunction CC lang:es 00:01:11 00:01:15 tt-494 MM069_1960_CT_SU2012_CL_01 
+	"y" Conjunciton Conjunction CC lang:es 00:01:11 00:01:15 tt-494 MM069_1960_CT_SU2012_CL_01 
 "<por>"
 	"por" Preposition PREP lang:es 00:01:11 00:01:15 tt-495 MM069_1960_CT_SU2012_CL_01 @Gram:Prep:Por 
 "<todo>"

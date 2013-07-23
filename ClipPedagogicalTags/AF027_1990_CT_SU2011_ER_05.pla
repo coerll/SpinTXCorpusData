@@ -20,9 +20,10 @@ AF027_1990_CT_SU2011_ER_05
 @Prag:MarcadoresDisc:Revision : 1
 @Prag:RecuDiscurso : 1
 @Prag:RecuDiscurso:GanarTiempo : 1
-R:Gram : 2
-R:Gram:Det : 2
-R:Gram:Det:LoAdj : 2
+R:Gram : 4
+R:Gram:Det : 4
+R:Gram:Det:DetCombi : 3
+R:Gram:Det:LoAdj : 1
 R:Prag : 8
 R:Prag:MarcadoresDisc : 8
 R:Prag:MarcadoresDisc:Igualdad : 8

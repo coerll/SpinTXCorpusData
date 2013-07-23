@@ -8,7 +8,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:07 tt-1924 MF073_1964_SA_SU2012_JB_06 
 "<Y>"
-	"y" Conjunction CC lang:es 00:00:00 00:00:07 tt-1925 MF073_1964_SA_SU2012_JB_06 
+	"y" Conjunciton Conjunction CC lang:es 00:00:00 00:00:07 tt-1925 MF073_1964_SA_SU2012_JB_06 
 "<cuáles>"
 	"cuál" Pronoun INT Plural lang:es 00:00:00 00:00:07 tt-1926 MF073_1964_SA_SU2012_JB_06 
 "<son>"
@@ -67,7 +67,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:09 00:00:14 tt-1951 MF073_1964_SA_SU2012_JB_06 
 "<todo>"
-	"todo" Determiner QU lang:es 00:00:09 00:00:14 tt-1952 MF073_1964_SA_SU2012_JB_06 
+	"todo" Determiner QU lang:es 00:00:09 00:00:14 tt-1952 MF073_1964_SA_SU2012_JB_06 @Gram:Det:TodoEsp 
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:09 00:00:14 tt-1953 MF073_1964_SA_SU2012_JB_06 @Gram:Pron:Objeto 
 "<...>"
@@ -136,7 +136,7 @@
 	"." Punctuation FS lang:es 00:00:20 00:00:25 tt-1982 MF073_1964_SA_SU2012_JB_06 
 
 "<Y>"
-	"y" Conjunction CC lang:es 00:00:20 00:00:25 tt-1983 MF073_1964_SA_SU2012_JB_06 
+	"y" Conjunciton Conjunction CC lang:es 00:00:20 00:00:25 tt-1983 MF073_1964_SA_SU2012_JB_06 
 "<la>"
 	"el" Determiner ART Singular Fem lang:es 00:00:20 00:00:25 tt-1984 MF073_1964_SA_SU2012_JB_06 @Gram:Det:Art 
 "<maestra>"
@@ -161,9 +161,9 @@
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:20 00:00:25 tt-1994 MF073_1964_SA_SU2012_JB_06 
 "<todo>"
-	"todo" Determiner QU lang:es 00:00:20 00:00:25 tt-1995 MF073_1964_SA_SU2012_JB_06 
+	"todo" Determiner QU lang:es 00:00:20 00:00:25 tt-1995 MF073_1964_SA_SU2012_JB_06 ID:74 R:Gram:Det:DetCombi:75 
 "<esto>"
-	"este" Determiner DM Singular lang:es 00:00:20 00:00:25 tt-1996 MF073_1964_SA_SU2012_JB_06 
+	"este" Determiner DM Singular lang:es 00:00:20 00:00:25 tt-1996 MF073_1964_SA_SU2012_JB_06 ID:75 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:20 00:00:25 tt-1997 MF073_1964_SA_SU2012_JB_06 
 <lang code="en">
@@ -202,9 +202,9 @@
 "<Entonces>"
 	"entonces" Adverb ADV lang:es 00:00:25 00:00:31 tt-2011 MF073_1964_SA_SU2012_JB_06 
 "<todo>"
-	"todo" Determiner QU lang:es 00:00:25 00:00:31 tt-2012 MF073_1964_SA_SU2012_JB_06 
+	"todo" Determiner QU lang:es 00:00:25 00:00:31 tt-2012 MF073_1964_SA_SU2012_JB_06 ID:91 R:Gram:Det:DetCombi:92 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:25 00:00:31 tt-2013 MF073_1964_SA_SU2012_JB_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:25 00:00:31 tt-2013 MF073_1964_SA_SU2012_JB_06 @Gram:Det:Art ID:92 
 "<mundo>"
 	"mundo" Noun NC Singular lang:es 00:00:25 00:00:31 tt-2014 MF073_1964_SA_SU2012_JB_06 
 "<sacó>"
@@ -250,7 +250,7 @@
 "<escribir>"
 	"escribir" Verb VLinf Infinitive lang:es 00:00:31 00:00:36 tt-2035 MF073_1964_SA_SU2012_JB_06 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:31 00:00:36 tt-2036 MF073_1964_SA_SU2012_JB_06 
+	"y" Conjunciton Conjunction CC lang:es 00:00:31 00:00:36 tt-2036 MF073_1964_SA_SU2012_JB_06 
 "<empiezan>"
 	"empezar" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:31 00:00:36 tt-2037 MF073_1964_SA_SU2012_JB_06 ID:116 R:Vocab:Fraseol:VerbPrep:117 
 "<a>"
@@ -263,7 +263,7 @@
 	"." Punctuation FS lang:es 00:00:36 00:00:42 tt-2041 MF073_1964_SA_SU2012_JB_06 
 
 "<Y>"
-	"y" Conjunction CC lang:es 00:00:36 00:00:42 tt-2042 MF073_1964_SA_SU2012_JB_06 
+	"y" Conjunciton Conjunction CC lang:es 00:00:36 00:00:42 tt-2042 MF073_1964_SA_SU2012_JB_06 
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:00:36 00:00:42 tt-2043 MF073_1964_SA_SU2012_JB_06 @Gram:Pron:Sujeto 
 "<me>"
@@ -292,17 +292,17 @@
 	"?" Punctuation FS lang:es 00:00:36 00:00:42 tt-2054 MF073_1964_SA_SU2012_JB_06 
 
 "<Y>"
-	"y" Conjunction CC lang:es 00:00:36 00:00:42 tt-2055 MF073_1964_SA_SU2012_JB_06 
+	"y" Conjunciton Conjunction CC lang:es 00:00:36 00:00:42 tt-2055 MF073_1964_SA_SU2012_JB_06 
 "<todo>"
-	"todo" Determiner QU lang:es 00:00:36 00:00:42 tt-2056 MF073_1964_SA_SU2012_JB_06 
+	"todo" Determiner QU lang:es 00:00:36 00:00:42 tt-2056 MF073_1964_SA_SU2012_JB_06 ID:135 R:Gram:Det:DetCombi:136 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:42 00:00:45 tt-2057 MF073_1964_SA_SU2012_JB_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:42 00:00:45 tt-2057 MF073_1964_SA_SU2012_JB_06 @Gram:Det:Art ID:136 
 "<mundo>"
 	"mundo" Noun NC Singular lang:es 00:00:42 00:00:45 tt-2058 MF073_1964_SA_SU2012_JB_06 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:42 00:00:45 tt-2059 MF073_1964_SA_SU2012_JB_06 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:42 00:00:45 tt-2060 MF073_1964_SA_SU2012_JB_06 
+	"y" Conjunciton Conjunction CC lang:es 00:00:42 00:00:45 tt-2060 MF073_1964_SA_SU2012_JB_06 
 "<la>"
 	"el" Determiner ART Singular Fem lang:es 00:00:42 00:00:45 tt-2061 MF073_1964_SA_SU2012_JB_06 @Gram:Det:Art 
 "<maestra>"
@@ -344,7 +344,7 @@
 	"." Punctuation FS lang:es 00:00:45 00:00:49 tt-2078 MF073_1964_SA_SU2012_JB_06 
 
 "<Y>"
-	"y" Conjunction CC lang:es 00:00:45 00:00:49 tt-2079 MF073_1964_SA_SU2012_JB_06 
+	"y" Conjunciton Conjunction CC lang:es 00:00:45 00:00:49 tt-2079 MF073_1964_SA_SU2012_JB_06 
 "<me>"
 	"yo" Pronoun PPX Singular lang:es 00:00:45 00:00:49 tt-2080 MF073_1964_SA_SU2012_JB_06 @Gram:Pron:Objeto 
 "<quedé>"
@@ -355,7 +355,7 @@
 	"." Punctuation FS lang:es 00:00:45 00:00:49 tt-2083 MF073_1964_SA_SU2012_JB_06 
 
 "<Y>"
-	"y" Conjunction CC lang:es 00:00:45 00:00:49 tt-2084 MF073_1964_SA_SU2012_JB_06 
+	"y" Conjunciton Conjunction CC lang:es 00:00:45 00:00:49 tt-2084 MF073_1964_SA_SU2012_JB_06 
 "<de>"
 	"de" Preposition PREP lang:es 00:00:45 00:00:49 tt-2085 MF073_1964_SA_SU2012_JB_06 @Gram:Prep 
 "<repente>"
@@ -446,7 +446,7 @@
 "<buena>"
 	"bueno" Adjective ADJ Singular lang:es 00:00:52 00:00:59 tt-2126 MF073_1964_SA_SU2012_JB_06 
 "<y>"
-	"y" Conjunction CC lang:es 00:00:52 00:00:59 tt-2127 MF073_1964_SA_SU2012_JB_06 
+	"y" Conjunciton Conjunction CC lang:es 00:00:52 00:00:59 tt-2127 MF073_1964_SA_SU2012_JB_06 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:52 00:00:59 tt-2128 MF073_1964_SA_SU2012_JB_06 
 "<divertida>"

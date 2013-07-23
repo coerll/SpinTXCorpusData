@@ -1,5 +1,5 @@
 AF055_1993_SA_SU2012_JB_06
-@Gram : 62
+@Gram : 64
 @Gram:Det : 20
 @Gram:Det:Art : 12
 @Gram:Det:CuantIndef : 2
@@ -11,7 +11,7 @@ AF055_1993_SA_SU2012_JB_06
 @Gram:Indefinido : 2
 @Gram:MSub : 1
 @Gram:MSub:Pres : 1
-@Gram:Prep : 19
+@Gram:Prep : 21
 @Gram:Prep:Para : 1
 @Gram:Prep:Por : 2
 @Gram:Pron : 5
@@ -24,7 +24,9 @@ AF055_1993_SA_SU2012_JB_06
 @Prag:MarcadoresDisc:Causa : 2
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:MarcadoresDisc:Revision : 6
-R:Gram : 5
+R:Gram : 6
+R:Gram:Det : 1
+R:Gram:Det:DetCombi : 1
 R:Gram:Genero : 2
 R:Gram:Genero:ExcepMasc : 2
 R:Gram:Gustar : 3
