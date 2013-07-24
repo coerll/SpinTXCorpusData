@@ -3,12 +3,12 @@
 "<día>"
 	"día" Noun NC Singular lang:es 00:00:00 00:00:07 tt-543 MF019_1971_CT_SU2011_VA_02 
 "<empezaba>"
-	"empezar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:07 tt-544 MF019_1971_CT_SU2011_VA_02 @Gram:Imperf 
+	"empezar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:07 tt-544 MF019_1971_CT_SU2011_VA_02 @Gram:Imperf ADD:679 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:00 00:00:07 tt-545 MF019_1971_CT_SU2011_VA_02 
 
 "<Y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:00 00:00:07 tt-546 MF019_1971_CT_SU2011_VA_02 
+	"y" Conjunciton Conjunction CC lang:es 00:00:00 00:00:07 tt-546 MF019_1971_CT_SU2011_VA_02 SUBSTITUTE:385 
 "<después>"
 	"después" Adverb ADV lang:es 00:00:00 00:00:07 tt-547 MF019_1971_CT_SU2011_VA_02 
 "<cuando>"
@@ -16,13 +16,13 @@
 "<ya>"
 	"ya" Adverb ADV lang:es 00:00:00 00:00:07 tt-549 MF019_1971_CT_SU2011_VA_02 
 "<crecí>"
-	"crecer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:00 00:00:07 tt-550 MF019_1971_CT_SU2011_VA_02 @Gram:Indefinido 
+	"crecer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:00 00:00:07 tt-550 MF019_1971_CT_SU2011_VA_02 @Gram:Indefinido ADD:688 
 "<,>"
 	"," Punctuation CM lang:es 00:00:00 00:00:07 tt-551 MF019_1971_CT_SU2011_VA_02 
 "<todos>"
-	"todo" Determiner QU lang:es 00:00:00 00:00:07 tt-552 MF019_1971_CT_SU2011_VA_02 ID:10 R:Gram:Det:DetCombi:11 
+	"todo" Determiner QU lang:es 00:00:00 00:00:07 tt-552 MF019_1971_CT_SU2011_VA_02 ID:10 R:Gram:Det:DetCombi:11 ADDRELATION(Gram:Det:DetCombi):489 
 "<mis>"
-	"mío" Pronoun PPO Plural lang:es 00:00:00 00:00:07 tt-553 MF019_1971_CT_SU2011_VA_02 @Gram:Det:Pos ID:11 
+	"mío" Pronoun PPO Plural lang:es 00:00:00 00:00:07 tt-553 MF019_1971_CT_SU2011_VA_02 @Gram:Det:Pos ID:11 SUBSTITUTE:309 ADD:447 
 "<hermanos>"
 	"hermano" Noun NC Plural lang:es 00:00:00 00:00:07 tt-554 MF019_1971_CT_SU2011_VA_02 
 "<tienen>"
@@ -32,27 +32,27 @@
 "<profesionales>"
 	"profesional" Adjective ADJ Plural lang:es 00:00:00 00:00:07 tt-557 MF019_1971_CT_SU2011_VA_02 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:09 00:00:14 tt-558 MF019_1971_CT_SU2011_VA_02 
+	"y" Conjunciton Conjunction CC lang:es 00:00:09 00:00:14 tt-558 MF019_1971_CT_SU2011_VA_02 SUBSTITUTE:385 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:09 00:00:14 tt-559 MF019_1971_CT_SU2011_VA_02 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:09 00:00:14 tt-559 MF019_1971_CT_SU2011_VA_02 @Gram:Prep SUBSTITUTE:389 ADD:614 
 "<mí>"
 	"yo" Pronoun PPX Singular lang:es 00:00:09 00:00:14 tt-560 MF019_1971_CT_SU2011_VA_02 
 "<se>"
-	"se" Other SE lang:es 00:00:09 00:00:14 tt-561 MF019_1971_CT_SU2011_VA_02 @Gram:Pron:Otros 
+	"se" Other SE lang:es 00:00:09 00:00:14 tt-561 MF019_1971_CT_SU2011_VA_02 @Gram:Pron:Otros ADD:667 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:09 00:00:14 tt-562 MF019_1971_CT_SU2011_VA_02 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:09 00:00:14 tt-562 MF019_1971_CT_SU2011_VA_02 @Gram:Pron:Objeto ADD:648 
 "<dio>"
-	"dar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:09 00:00:14 tt-563 MF019_1971_CT_SU2011_VA_02 @Gram:Indefinido 
+	"dar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:09 00:00:14 tt-563 MF019_1971_CT_SU2011_VA_02 @Gram:Indefinido ADD:688 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:09 00:00:14 tt-564 MF019_1971_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:09 00:00:14 tt-564 MF019_1971_CT_SU2011_VA_02 @Gram:Det:Art ADD:416 
 "<oportunidad>"
 	"oportunidad" Noun NC Singular lang:es 00:00:09 00:00:14 tt-565 MF019_1971_CT_SU2011_VA_02 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:09 00:00:14 tt-566 MF019_1971_CT_SU2011_VA_02 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:09 00:00:14 tt-566 MF019_1971_CT_SU2011_VA_02 @Gram:Prep ADD:614 
 "<venir>"
-	"venir" Verb VLinf Infinitive lang:es 00:00:09 00:00:14 tt-567 MF019_1971_CT_SU2011_VA_02 
+	"venir" Verb VLinf Infinitive lang:es 00:00:09 00:00:14 tt-567 MF019_1971_CT_SU2011_VA_02 SUBSTITUTE:320 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:09 00:00:14 tt-568 MF019_1971_CT_SU2011_VA_02 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:09 00:00:14 tt-568 MF019_1971_CT_SU2011_VA_02 @Gram:Prep SUBSTITUTE:389 ADD:614 
 "<UT>"
 	"UT" Noun NP Singular lang:es 00:00:09 00:00:14 tt-569 MF019_1971_CT_SU2011_VA_02 
 "<,>"
@@ -62,29 +62,29 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:09 00:00:14 tt-572 MF019_1971_CT_SU2011_VA_02 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:09 00:00:14 tt-573 MF019_1971_CT_SU2011_VA_02 @Prag:MarcadoresDisc:Causa 
+	"porque" Conjunction CSUBX lang:es 00:00:09 00:00:14 tt-573 MF019_1971_CT_SU2011_VA_02 @Prag:MarcadoresDisc:Causa ADD:1085 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:09 00:00:14 tt-574 MF019_1971_CT_SU2011_VA_02 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:09 00:00:14 tt-574 MF019_1971_CT_SU2011_VA_02 @Gram:Pron:Objeto ADD:648 
 "<dieron>"
-	"dar" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:09 00:00:14 tt-575 MF019_1971_CT_SU2011_VA_02 @Gram:Indefinido 
+	"dar" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:09 00:00:14 tt-575 MF019_1971_CT_SU2011_VA_02 @Gram:Indefinido ADD:688 
 "<una>"
 	"un" Determiner ART Singular lang:es 00:00:09 00:00:14 tt-576 MF019_1971_CT_SU2011_VA_02 
 "<beca>"
 	"beca" Noun NC Singular lang:es 00:00:09 00:00:14 tt-577 MF019_1971_CT_SU2011_VA_02 
 "<para>"
-	"para" Preposition PREP lang:es 00:00:09 00:00:14 tt-578 MF019_1971_CT_SU2011_VA_02 @Gram:Prep:Para 
+	"para" Preposition PREP lang:es 00:00:09 00:00:14 tt-578 MF019_1971_CT_SU2011_VA_02 @Gram:Prep:Para SUBSTITUTE:336 ADD:559 
 "<poder>"
-	"poder" Verb VLinf VMinf lang:es 00:00:14 00:00:19 tt-579 MF019_1971_CT_SU2011_VA_02 
+	"poder" Verb VLinf VMinf lang:es 00:00:14 00:00:19 tt-579 MF019_1971_CT_SU2011_VA_02 SUBSTITUTE:320 
 "<venir>"
-	"venir" Verb VLinf Infinitive lang:es 00:00:14 00:00:19 tt-580 MF019_1971_CT_SU2011_VA_02 
+	"venir" Verb VLinf Infinitive lang:es 00:00:14 00:00:19 tt-580 MF019_1971_CT_SU2011_VA_02 SUBSTITUTE:320 
 "<aquí>"
 	"aquí" Adverb ADV lang:es 00:00:14 00:00:19 tt-581 MF019_1971_CT_SU2011_VA_02 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:14 00:00:19 tt-582 MF019_1971_CT_SU2011_VA_02 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:14 00:00:19 tt-582 MF019_1971_CT_SU2011_VA_02 @Gram:Prep SUBSTITUTE:389 ADD:614 
 "<los>"
-	"el" Determiner ART Plural Masc lang:es 00:00:14 00:00:19 tt-583 MF019_1971_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Plural Masc lang:es 00:00:14 00:00:19 tt-583 MF019_1971_CT_SU2011_VA_02 @Gram:Det:Art ADD:416 
 "<Estados>"
-	"Estados" Noun NP Plural lang:es 00:00:14 00:00:19 tt-584 MF019_1971_CT_SU2011_VA_02 ID:42 R:Vocab:Entities:Geo:43 
+	"Estados" Noun NP Plural lang:es 00:00:14 00:00:19 tt-584 MF019_1971_CT_SU2011_VA_02 ID:42 R:Vocab:Entities:Geo:43 ADDRELATION(Vocab:Entities:Geo):1196 
 "<Unidos>"
 	"Unidos" Noun NP Plural lang:es 00:00:14 00:00:19 tt-585 MF019_1971_CT_SU2011_VA_02 ID:43 
 "<,>"
@@ -94,9 +94,9 @@
 "<que>"
 	"que" Conjunction CSUBF lang:es 00:00:14 00:00:19 tt-588 MF019_1971_CT_SU2011_VA_02 
 "<estudié>"
-	"estudiar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:14 00:00:19 tt-589 MF019_1971_CT_SU2011_VA_02 @Gram:Indefinido 
+	"estudiar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:14 00:00:19 tt-589 MF019_1971_CT_SU2011_VA_02 @Gram:Indefinido ADD:688 
 "<mis>"
-	"mío" Pronoun PPO Plural lang:es 00:00:14 00:00:19 tt-590 MF019_1971_CT_SU2011_VA_02 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:00:14 00:00:19 tt-590 MF019_1971_CT_SU2011_VA_02 @Gram:Det:Pos SUBSTITUTE:309 ADD:447 
 "<primeros>"
 	"primero" Adjective ORD Plural lang:es 00:00:14 00:00:19 tt-591 MF019_1971_CT_SU2011_VA_02 
 "<dos>"
@@ -104,63 +104,63 @@
 "<años>"
 	"año" Noun NC Plural lang:es 00:00:14 00:00:19 tt-593 MF019_1971_CT_SU2011_VA_02 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:14 00:00:19 tt-594 MF019_1971_CT_SU2011_VA_02 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:14 00:00:19 tt-594 MF019_1971_CT_SU2011_VA_02 @Gram:Prep ADD:614 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:14 00:00:19 tt-595 MF019_1971_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:14 00:00:19 tt-595 MF019_1971_CT_SU2011_VA_02 @Gram:Det:Art ADD:416 
 "<TEC>"
 	"UNK" Noun NC Singular lang:es 00:00:19 00:00:24 tt-596 MF019_1971_CT_SU2011_VA_02 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:19 00:00:24 tt-597 MF019_1971_CT_SU2011_VA_02 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:19 00:00:24 tt-597 MF019_1971_CT_SU2011_VA_02 @Gram:Prep ADD:614 
 "<Monterrey>"
 	"Monterrey" Noun NP Singular lang:es 00:00:19 00:00:24 tt-598 MF019_1971_CT_SU2011_VA_02 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:19 00:00:24 tt-599 MF019_1971_CT_SU2011_VA_02 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:19 00:00:24 tt-599 MF019_1971_CT_SU2011_VA_02 @Gram:Prep ADD:614 
 "<Chihuahua>"
 	"Chihuahua" Noun NP Singular lang:es 00:00:19 00:00:24 tt-600 MF019_1971_CT_SU2011_VA_02 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:19 00:00:24 tt-601 MF019_1971_CT_SU2011_VA_02 
+	"y" Conjunciton Conjunction CC lang:es 00:00:19 00:00:24 tt-601 MF019_1971_CT_SU2011_VA_02 SUBSTITUTE:385 
 "<luego>"
 	"luego" Adverb ADV lang:es 00:00:19 00:00:24 tt-602 MF019_1971_CT_SU2011_VA_02 
 "<vine>"
-	"venir" Verb VLfin Pret Indi Sing 1st lang:es 00:00:19 00:00:24 tt-603 MF019_1971_CT_SU2011_VA_02 @Gram:Indefinido 
+	"venir" Verb VLfin Pret Indi Sing 1st lang:es 00:00:19 00:00:24 tt-603 MF019_1971_CT_SU2011_VA_02 @Gram:Indefinido ADD:688 
 "<para>"
-	"para" Preposition PREP lang:es 00:00:19 00:00:24 tt-604 MF019_1971_CT_SU2011_VA_02 @Gram:Prep:Para 
+	"para" Preposition PREP lang:es 00:00:19 00:00:24 tt-604 MF019_1971_CT_SU2011_VA_02 @Gram:Prep:Para SUBSTITUTE:336 ADD:585 
 "<acá>"
 	"acá" Adverb ADV lang:es 00:00:19 00:00:24 tt-605 MF019_1971_CT_SU2011_VA_02 
 "<,>"
 	"," Punctuation CM lang:es 00:00:19 00:00:24 tt-606 MF019_1971_CT_SU2011_VA_02 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:19 00:00:24 tt-607 MF019_1971_CT_SU2011_VA_02 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:19 00:00:24 tt-607 MF019_1971_CT_SU2011_VA_02 @Gram:Pron:Objeto ADD:648 
 "<transferí>"
-	"UNK" Verb VLfin Pret Indi Sing 1st lang:es 00:00:19 00:00:24 tt-608 MF019_1971_CT_SU2011_VA_02 @Gram:Indefinido 
+	"UNK" Verb VLfin Pret Indi Sing 1st lang:es 00:00:19 00:00:24 tt-608 MF019_1971_CT_SU2011_VA_02 @Gram:Indefinido ADD:688 
 "<para>"
-	"para" Preposition PREP lang:es 00:00:19 00:00:24 tt-609 MF019_1971_CT_SU2011_VA_02 @Gram:Prep:Para 
+	"para" Preposition PREP lang:es 00:00:19 00:00:24 tt-609 MF019_1971_CT_SU2011_VA_02 @Gram:Prep:Para SUBSTITUTE:336 ADD:585 
 "<acá>"
 	"acá" Adverb ADV lang:es 00:00:19 00:00:24 tt-610 MF019_1971_CT_SU2011_VA_02 
 "<con>"
-	"con" Preposition PREP lang:es 00:00:19 00:00:24 tt-611 MF019_1971_CT_SU2011_VA_02 @Gram:Prep 
+	"con" Preposition PREP lang:es 00:00:19 00:00:24 tt-611 MF019_1971_CT_SU2011_VA_02 @Gram:Prep ADD:614 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:19 00:00:24 tt-612 MF019_1971_CT_SU2011_VA_02 
 "<con>"
-	"con" Preposition PREP lang:es 00:00:19 00:00:24 tt-613 MF019_1971_CT_SU2011_VA_02 @Gram:Prep 
+	"con" Preposition PREP lang:es 00:00:19 00:00:24 tt-613 MF019_1971_CT_SU2011_VA_02 @Gram:Prep ADD:614 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:24 00:00:31 tt-614 MF019_1971_CT_SU2011_VA_02 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:24 00:00:31 tt-614 MF019_1971_CT_SU2011_VA_02 @Gram:Det:Art ADD:416 
 "<beca>"
 	"beca" Noun NC Singular lang:es 00:00:24 00:00:31 tt-615 MF019_1971_CT_SU2011_VA_02 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:24 00:00:31 tt-616 MF019_1971_CT_SU2011_VA_02 
+	"y" Conjunciton Conjunction CC lang:es 00:00:24 00:00:31 tt-616 MF019_1971_CT_SU2011_VA_02 SUBSTITUTE:385 
 "<tuve>"
-	"tener" Verb VLfin Pret Indi Sing 1st lang:es 00:00:24 00:00:31 tt-617 MF019_1971_CT_SU2011_VA_02 @Gram:Indefinido 
+	"tener" Verb VLfin Pret Indi Sing 1st lang:es 00:00:24 00:00:31 tt-617 MF019_1971_CT_SU2011_VA_02 @Gram:Indefinido ADD:688 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:24 00:00:31 tt-618 MF019_1971_CT_SU2011_VA_02 
 "<estudiar>"
-	"estudiar" Verb VLinf Infinitive lang:es 00:00:24 00:00:31 tt-619 MF019_1971_CT_SU2011_VA_02 
+	"estudiar" Verb VLinf Infinitive lang:es 00:00:24 00:00:31 tt-619 MF019_1971_CT_SU2011_VA_02 SUBSTITUTE:320 
 "<,>"
 	"," Punctuation CM lang:es 00:00:24 00:00:31 tt-620 MF019_1971_CT_SU2011_VA_02 
 "<terminar>"
-	"terminar" Verb VLinf Infinitive lang:es 00:00:24 00:00:31 tt-621 MF019_1971_CT_SU2011_VA_02 
+	"terminar" Verb VLinf Infinitive lang:es 00:00:24 00:00:31 tt-621 MF019_1971_CT_SU2011_VA_02 SUBSTITUTE:320 
 "<mis>"
-	"mío" Pronoun PPO Plural lang:es 00:00:24 00:00:31 tt-622 MF019_1971_CT_SU2011_VA_02 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:00:24 00:00:31 tt-622 MF019_1971_CT_SU2011_VA_02 @Gram:Det:Pos SUBSTITUTE:309 ADD:447 
 "<estudios>"
 	"estudio" Noun NC Plural lang:es 00:00:24 00:00:31 tt-623 MF019_1971_CT_SU2011_VA_02 
 "<aquí>"

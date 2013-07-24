@@ -3,13 +3,13 @@
 "<otro>"
 	"otro" Determiner QU lang:es 00:00:00 00:00:04 tt-1214 AM001_1925_EP_SU2011_AD_05 
 "<hacía>"
-	"hacer" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:04 tt-1215 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf 
+	"hacer" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:04 tt-1215 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf ADD:679 
 "<mandados>"
 	"mandar" Verb VLadj lang:es 00:00:00 00:00:04 tt-1216 AM001_1925_EP_SU2011_AD_05 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:00 00:00:04 tt-1217 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:00 00:00:04 tt-1217 AM001_1925_EP_SU2011_AD_05 @Gram:Prep SUBSTITUTE:389 ADD:614 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:00 00:00:04 tt-1218 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:00 00:00:04 tt-1218 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art ADD:416 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:00 00:00:04 tt-1219 AM001_1925_EP_SU2011_AD_05 
 "<rica>"
@@ -17,13 +17,13 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:04 tt-1221 AM001_1925_EP_SU2011_AD_05 
 "<vivía>"
-	"vivir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:04 tt-1222 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf 
+	"vivir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:04 tt-1222 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf ADD:679 
 "<allí>"
 	"allí" Adverb ADV lang:es 00:00:00 00:00:04 tt-1223 AM001_1925_EP_SU2011_AD_05 
 "<,>"
 	"," Punctuation CM lang:es 00:00:00 00:00:04 tt-1224 AM001_1925_EP_SU2011_AD_05 
 "<había>"
-	"haber" Verb VHfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:04 tt-1225 AM001_1925_EP_SU2011_AD_05 @Gram:Haber:Exist 
+	"haber" Verb VHfin Imp Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:04 tt-1225 AM001_1925_EP_SU2011_AD_05 @Gram:Haber:Exist ADD:819 
 "<gente>"
 	"gente" Noun NC Singular lang:es 00:00:00 00:00:04 tt-1226 AM001_1925_EP_SU2011_AD_05 
 "<muy>"
@@ -35,9 +35,9 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:00 00:00:04 tt-1230 AM001_1925_EP_SU2011_AD_05 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:00 00:00:04 tt-1231 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:00 00:00:04 tt-1231 AM001_1925_EP_SU2011_AD_05 @Gram:Prep ADD:614 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:00 00:00:04 tt-1232 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:00 00:00:04 tt-1232 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art ADD:416 
 "<calle>"
 	"calle" Noun NC Singular lang:es 00:00:04 00:00:11 tt-1233 AM001_1925_EP_SU2011_AD_05 
 "<esa>"
@@ -46,27 +46,27 @@
 	"." Punctuation FS lang:es 00:00:04 00:00:11 tt-1235 AM001_1925_EP_SU2011_AD_05 
 
 "<Y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:04 00:00:11 tt-1236 AM001_1925_EP_SU2011_AD_05 
+	"y" Conjunciton Conjunction CC lang:es 00:00:04 00:00:11 tt-1236 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:385 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:04 00:00:11 tt-1237 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:04 00:00:11 tt-1237 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Sujeto ADD:624 
 "<,>"
 	"," Punctuation CM lang:es 00:00:04 00:00:11 tt-1238 AM001_1925_EP_SU2011_AD_05 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:04 00:00:11 tt-1239 AM001_1925_EP_SU2011_AD_05 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:04 00:00:11 tt-1240 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:04 00:00:11 tt-1240 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf @Gram:SerEstar:Ser ADD:679 ADD:803 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:04 00:00:11 tt-1241 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:04 00:00:11 tt-1241 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art ADD:416 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:04 00:00:11 tt-1242 AM001_1925_EP_SU2011_AD_05 
 "<chico>"
 	"chico" Adjective ADJ Singular lang:es 00:00:04 00:00:11 tt-1243 AM001_1925_EP_SU2011_AD_05 
 "<iba>"
-	"ir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:04 00:00:11 tt-1244 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf ID:31 R:Gram:VFut:Perifrasis:33 
+	"ir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:04 00:00:11 tt-1244 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf ID:31 R:Gram:VFut:Perifrasis:33 ADD:679 ADDRELATION(Gram:VFut:Perifrasis):707 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:04 00:00:11 tt-1245 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:04 00:00:11 tt-1245 AM001_1925_EP_SU2011_AD_05 @Gram:Prep SUBSTITUTE:389 ADD:614 
 "<dar>"
-	"dar" Verb VLinf Infinitive lang:es 00:00:04 00:00:11 tt-1246 AM001_1925_EP_SU2011_AD_05 ID:33 
+	"dar" Verb VLinf Infinitive lang:es 00:00:04 00:00:11 tt-1246 AM001_1925_EP_SU2011_AD_05 ID:33 SUBSTITUTE:320 
 <lang code="en">
 "<shine>"
 	"shine" Noun NN lang:en 00:00:04 00:00:11 tt-1247 AM001_1925_EP_SU2011_AD_05 
@@ -74,13 +74,13 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:04 00:00:11 tt-1248 AM001_1925_EP_SU2011_AD_05 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:04 00:00:11 tt-1249 AM001_1925_EP_SU2011_AD_05 @Gram:Prep ID:36 R:Prag:MarcadoresDisc:Probabilidad:38 
+	"a" Preposition PREP lang:es 00:00:04 00:00:11 tt-1249 AM001_1925_EP_SU2011_AD_05 @Gram:Prep ID:36 R:Prag:MarcadoresDisc:Probabilidad:38 SUBSTITUTE:389 ADD:614 ADDRELATION(Prag:MarcadoresDisc:Probabilidad):1147 
 "<lo>"
 	"el" Determiner ART Singular lang:es 00:00:04 00:00:11 tt-1250 AM001_1925_EP_SU2011_AD_05 
 "<mejor>"
 	"bueno" Adjective ADJ Singular lang:es 00:00:04 00:00:11 tt-1251 AM001_1925_EP_SU2011_AD_05 ID:38 
 "<tenía>"
-	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:04 00:00:11 tt-1252 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf 
+	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:04 00:00:11 tt-1252 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf ADD:679 
 "<como>"
 	"como" Adverb ADV lang:es 00:00:04 00:00:11 tt-1253 AM001_1925_EP_SU2011_AD_05 
 "<siete>"
@@ -95,9 +95,9 @@
 	"." Punctuation FS lang:es 00:00:12 00:00:19 tt-1258 AM001_1925_EP_SU2011_AD_05 
 
 "<Iba>"
-	"ir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:12 00:00:19 tt-1259 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf 
+	"ir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:12 00:00:19 tt-1259 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf ADD:679 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:12 00:00:19 tt-1260 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:12 00:00:19 tt-1260 AM001_1925_EP_SU2011_AD_05 @Gram:Prep SUBSTITUTE:389 ADD:614 
 "<shiny>"
 	"UNK" Noun NC Singular lang:es 00:00:12 00:00:19 tt-1261 AM001_1925_EP_SU2011_AD_05 
 <lang code="en">
@@ -105,15 +105,15 @@
 	"shoe" Noun NNS lang:en 00:00:12 00:00:19 tt-1262 AM001_1925_EP_SU2011_AD_05 
 </lang>
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:12 00:00:19 tt-1263 AM001_1925_EP_SU2011_AD_05 
+	"y" Conjunciton Conjunction CC lang:es 00:00:12 00:00:19 tt-1263 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:385 
 "<también>"
-	"también" Adverb ADV lang:es 00:00:12 00:00:19 tt-1264 AM001_1925_EP_SU2011_AD_05 @Prag:MarcadoresDisc:Igualdad 
+	"también" Adverb ADV lang:es 00:00:12 00:00:19 tt-1264 AM001_1925_EP_SU2011_AD_05 @Prag:MarcadoresDisc:Igualdad ADD:1116 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:12 00:00:19 tt-1265 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:12 00:00:19 tt-1265 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Objeto ADD:648 
 "<traía>"
-	"traer" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:12 00:00:19 tt-1266 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf 
+	"traer" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:12 00:00:19 tt-1266 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf ADD:679 
 "<mis>"
-	"mío" Pronoun PPO Plural lang:es 00:00:12 00:00:19 tt-1267 AM001_1925_EP_SU2011_AD_05 
+	"mío" Pronoun PPO Plural lang:es 00:00:12 00:00:19 tt-1267 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:309 
 "<centavitos>"
 	"UNK" Adjective ADJ Plural lang:es 00:00:12 00:00:19 tt-1268 AM001_1925_EP_SU2011_AD_05 
 "<,>"
@@ -121,7 +121,7 @@
 "<veinte>"
 	"veinte" Determiner CARD Singular lang:es 00:00:12 00:00:19 tt-1270 AM001_1925_EP_SU2011_AD_05 
 "<o>"
-	"o" Conjunciton Conjunction CC lang:es 00:00:12 00:00:19 tt-1271 AM001_1925_EP_SU2011_AD_05 
+	"o" Conjunciton Conjunction CC lang:es 00:00:12 00:00:19 tt-1271 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:387 
 "<treinta>"
 	"treinta" Determiner CARD Singular lang:es 00:00:12 00:00:19 tt-1272 AM001_1925_EP_SU2011_AD_05 
 "<centavos>"
@@ -129,32 +129,32 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:12 00:00:19 tt-1274 AM001_1925_EP_SU2011_AD_05 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:12 00:00:19 tt-1275 AM001_1925_EP_SU2011_AD_05 
+	"y" Conjunciton Conjunction CC lang:es 00:00:12 00:00:19 tt-1275 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:385 
 "<todos>"
 	"todo" Determiner QU lang:es 00:00:12 00:00:19 tt-1276 AM001_1925_EP_SU2011_AD_05 
 "<traíamos>"
 	"UNK" Verb VLfin Pres_or_Pret Indi Plural 1st lang:es 00:00:20 00:00:27 tt-1277 AM001_1925_EP_SU2011_AD_05 
 "<poquito>"
-	"poco" Adverb ADV lang:es 00:00:20 00:00:27 tt-1278 AM001_1925_EP_SU2011_AD_05 
+	"poco" Adverb ADV lang:es 00:00:20 00:00:27 tt-1278 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:378 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:20 00:00:27 tt-1279 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:20 00:00:27 tt-1279 AM001_1925_EP_SU2011_AD_05 @Gram:Prep SUBSTITUTE:389 ADD:614 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:20 00:00:27 tt-1280 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:20 00:00:27 tt-1280 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art ADD:416 
 "<casa>"
 	"casa" Noun NC Singular lang:es 00:00:20 00:00:27 tt-1281 AM001_1925_EP_SU2011_AD_05 
 "<,>"
 	"," Punctuation CM lang:es 00:00:20 00:00:27 tt-1282 AM001_1925_EP_SU2011_AD_05 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:20 00:00:27 tt-1283 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:20 00:00:27 tt-1283 AM001_1925_EP_SU2011_AD_05 @Gram:Prep ADD:614 
 "<esos>"
-	"ese" Determiner DM Plural lang:es 00:00:20 00:00:27 tt-1284 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Demo 
+	"ese" Determiner DM Plural lang:es 00:00:20 00:00:27 tt-1284 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Demo ADD:432 
 "<años>"
 	"año" Noun NC Plural lang:es 00:00:20 00:00:27 tt-1285 AM001_1925_EP_SU2011_AD_05 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:20 00:00:27 tt-1286 AM001_1925_EP_SU2011_AD_05 
 
 "<Hasta>"
-	"hasta" Preposition PREP lang:es 00:00:20 00:00:27 tt-1287 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"hasta" Preposition PREP lang:es 00:00:20 00:00:27 tt-1287 AM001_1925_EP_SU2011_AD_05 @Gram:Prep ADD:614 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:20 00:00:27 tt-1288 AM001_1925_EP_SU2011_AD_05 
 "<ya>"
@@ -164,7 +164,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:20 00:00:27 tt-1291 AM001_1925_EP_SU2011_AD_05 
 "<hubo>"
-	"haber" Verb VHfin Pret Indi Sing 3rd lang:es 00:00:20 00:00:27 tt-1292 AM001_1925_EP_SU2011_AD_05 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pret Indi Sing 3rd lang:es 00:00:20 00:00:27 tt-1292 AM001_1925_EP_SU2011_AD_05 @Gram:Haber:Exist ADD:819 
 "<mucha>"
 	"mucho" Adjective ADJ Singular lang:es 00:00:20 00:00:27 tt-1293 AM001_1925_EP_SU2011_AD_05 
 "<depresión>"
@@ -187,7 +187,7 @@
 "<Ninguno>"
 	"ninguno" Determiner QU lang:es 00:00:30 00:00:37 tt-1302 AM001_1925_EP_SU2011_AD_05 
 "<tomó>"
-	"tomar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:30 00:00:37 tt-1303 AM001_1925_EP_SU2011_AD_05 @Gram:Indefinido 
+	"tomar" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:30 00:00:37 tt-1303 AM001_1925_EP_SU2011_AD_05 @Gram:Indefinido ADD:688 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:00:30 00:00:37 tt-1304 AM001_1925_EP_SU2011_AD_05 
 "<,>"
@@ -195,19 +195,19 @@
 "<ninguno>"
 	"ninguno" Determiner QU lang:es 00:00:30 00:00:37 tt-1306 AM001_1925_EP_SU2011_AD_05 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:30 00:00:37 tt-1307 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:30 00:00:37 tt-1307 AM001_1925_EP_SU2011_AD_05 @Gram:Prep ADD:614 
 "<ellos>"
-	"él" Pronoun PPX Plural lang:es 00:00:30 00:00:37 tt-1308 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Plural lang:es 00:00:30 00:00:37 tt-1308 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Sujeto ADD:624 
 "<ni>"
 	"ni" Conjunction CCNEG lang:es 00:00:30 00:00:37 tt-1309 AM001_1925_EP_SU2011_AD_05 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:30 00:00:37 tt-1310 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:30 00:00:37 tt-1310 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Sujeto ADD:624 
 "<,>"
 	"," Punctuation CM lang:es 00:00:30 00:00:37 tt-1311 AM001_1925_EP_SU2011_AD_05 
 "<menos>"
 	"menos" Adverb ADV lang:es 00:00:30 00:00:37 tt-1312 AM001_1925_EP_SU2011_AD_05 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:30 00:00:37 tt-1313 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:30 00:00:37 tt-1313 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Sujeto ADD:624 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:30 00:00:37 tt-1314 AM001_1925_EP_SU2011_AD_05 
 
@@ -220,26 +220,26 @@
 "<ni>"
 	"ni" Conjunction CCNEG lang:es 00:00:38 00:00:45 tt-1318 AM001_1925_EP_SU2011_AD_05 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:38 00:00:45 tt-1319 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:38 00:00:45 tt-1319 AM001_1925_EP_SU2011_AD_05 @Gram:Prep ADD:614 
 "<inglés>"
 	"inglés" Noun NC Plural lang:es 00:00:38 00:00:45 tt-1320 AM001_1925_EP_SU2011_AD_05 
 "<ni>"
 	"ni" Conjunction CCNEG lang:es 00:00:38 00:00:45 tt-1321 AM001_1925_EP_SU2011_AD_05 
 "<nada>"
-	"nada" Determiner QU lang:es 00:00:38 00:00:45 tt-1322 AM001_1925_EP_SU2011_AD_05 
+	"nada" Determiner QU lang:es 00:00:38 00:00:45 tt-1322 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Pron ADD:476 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:38 00:00:45 tt-1323 AM001_1925_EP_SU2011_AD_05 
 
 "<Y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:38 00:00:45 tt-1324 AM001_1925_EP_SU2011_AD_05 
+	"y" Conjunciton Conjunction CC lang:es 00:00:38 00:00:45 tt-1324 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:385 
 "<todos>"
 	"todo" Determiner QU lang:es 00:00:38 00:00:45 tt-1325 AM001_1925_EP_SU2011_AD_05 
 "<aprendimos>"
 	"aprender" Verb VLfin Pres_or_Pret Indi Plural 1st lang:es 00:00:38 00:00:45 tt-1326 AM001_1925_EP_SU2011_AD_05 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:38 00:00:45 tt-1327 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:38 00:00:45 tt-1327 AM001_1925_EP_SU2011_AD_05 @Gram:Prep SUBSTITUTE:389 ADD:614 
 "<hablar>"
-	"hablar" Verb VLinf Infinitive lang:es 00:00:38 00:00:45 tt-1328 AM001_1925_EP_SU2011_AD_05 
+	"hablar" Verb VLinf Infinitive lang:es 00:00:38 00:00:45 tt-1328 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:320 
 "<poco>"
 	"pocos" Determiner QU lang:es 00:00:38 00:00:45 tt-1329 AM001_1925_EP_SU2011_AD_05 
 "<inglés>"
@@ -247,19 +247,19 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:38 00:00:45 tt-1331 AM001_1925_EP_SU2011_AD_05 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:38 00:00:45 tt-1332 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:38 00:00:45 tt-1332 AM001_1925_EP_SU2011_AD_05 @Gram:Prep SUBSTITUTE:389 ADD:614 
 "<leer>"
-	"leer" Verb VLinf Infinitive lang:es 00:00:38 00:00:45 tt-1333 AM001_1925_EP_SU2011_AD_05 
+	"leer" Verb VLinf Infinitive lang:es 00:00:38 00:00:45 tt-1333 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:320 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:38 00:00:45 tt-1334 AM001_1925_EP_SU2011_AD_05 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:38 00:00:45 tt-1335 AM001_1925_EP_SU2011_AD_05 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:48 00:00:55 tt-1336 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:48 00:00:55 tt-1336 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Sujeto ADD:624 
 "<fui>"
-	"ir|ser" Verb VLfin Pret Indi Sing 1st lang:es 00:00:48 00:00:55 tt-1337 AM001_1925_EP_SU2011_AD_05 @Gram:Indefinido 
+	"ir|ser" Verb VLfin Pret Indi Sing 1st lang:es 00:00:48 00:00:55 tt-1337 AM001_1925_EP_SU2011_AD_05 @Gram:Indefinido ADD:688 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:48 00:00:55 tt-1338 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:48 00:00:55 tt-1338 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art ADD:416 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:48 00:00:55 tt-1339 AM001_1925_EP_SU2011_AD_05 
 "<tuvo>"
@@ -271,24 +271,24 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:48 00:00:55 tt-1343 AM001_1925_EP_SU2011_AD_05 
 "<ellos>"
-	"él" Pronoun PPX Plural lang:es 00:00:48 00:00:55 tt-1344 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Plural lang:es 00:00:48 00:00:55 tt-1344 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Sujeto ADD:624 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:48 00:00:55 tt-1345 AM001_1925_EP_SU2011_AD_05 
 
 "<Hubo>"
-	"haber" Verb VHfin Pret Indi Sing 3rd lang:es 00:00:48 00:00:55 tt-1346 AM001_1925_EP_SU2011_AD_05 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pret Indi Sing 3rd lang:es 00:00:48 00:00:55 tt-1346 AM001_1925_EP_SU2011_AD_05 @Gram:Haber:Exist ADD:819 
 "<uno>"
-	"uno" Determiner CARD Singular lang:es 00:00:48 00:00:55 tt-1347 AM001_1925_EP_SU2011_AD_05 @Gram:Det:CuantIndef 
+	"uno" Determiner CARD Singular lang:es 00:00:48 00:00:55 tt-1347 AM001_1925_EP_SU2011_AD_05 @Gram:Det:CuantIndef ADD:458 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:48 00:00:55 tt-1348 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:48 00:00:55 tt-1348 AM001_1925_EP_SU2011_AD_05 @Gram:Prep ADD:614 
 "<mis>"
-	"mío" Pronoun PPO Plural lang:es 00:00:48 00:00:55 tt-1349 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Pos 
+	"mío" Pronoun PPO Plural lang:es 00:00:48 00:00:55 tt-1349 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Pos SUBSTITUTE:309 ADD:447 
 "<hermanos>"
 	"hermano" Noun NC Plural lang:es 00:00:48 00:00:55 tt-1350 AM001_1925_EP_SU2011_AD_05 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:48 00:00:55 tt-1351 AM001_1925_EP_SU2011_AD_05 
 "<nada>"
-	"nada" Determiner QU lang:es 00:00:48 00:00:55 tt-1352 AM001_1925_EP_SU2011_AD_05 
+	"nada" Determiner QU lang:es 00:00:48 00:00:55 tt-1352 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Pron ADD:476 
 "<,>"
 	"," Punctuation CM lang:es 00:00:48 00:00:55 tt-1353 AM001_1925_EP_SU2011_AD_05 
 "<ni>"
@@ -302,16 +302,16 @@
 "<español>"
 	"español" Adjective ADJ Singular lang:es 00:00:55 00:01:02 tt-1358 AM001_1925_EP_SU2011_AD_05 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:55 00:01:02 tt-1359 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:55 00:01:02 tt-1359 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art ADD:416 
 "<pobrecito>"
 	"pobre" Adjective ADJ Singular lang:es 00:00:55 00:01:02 tt-1360 AM001_1925_EP_SU2011_AD_05 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:55 00:01:02 tt-1361 AM001_1925_EP_SU2011_AD_05 
 
 "<Pero>"
-	"pero" Conjunction CCAD lang:es 00:00:55 00:01:02 tt-1362 AM001_1925_EP_SU2011_AD_05 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:00:55 00:01:02 tt-1362 AM001_1925_EP_SU2011_AD_05 @Prag:MarcadoresDisc:Revision ADD:1032 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:55 00:01:02 tt-1363 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:55 00:01:02 tt-1363 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf @Gram:SerEstar:Ser ADD:679 ADD:803 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:55 00:01:02 tt-1364 AM001_1925_EP_SU2011_AD_05 
 "<vivo>"
@@ -323,7 +323,7 @@
 "<inteligente>"
 	"inteligente" Adjective ADJ Singular lang:es 00:00:55 00:01:02 tt-1368 AM001_1925_EP_SU2011_AD_05 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:55 00:01:02 tt-1369 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:55 00:01:02 tt-1369 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art ADD:416 
 "<sinvergüenza>"
 	"sinvergüenza" Noun NC Singular lang:es 00:00:55 00:01:02 tt-1370 AM001_1925_EP_SU2011_AD_05 
 "<$.>"
@@ -334,7 +334,7 @@
 "<cantina>"
 	"cantina" Noun NC Singular lang:es 00:00:55 00:01:02 tt-1373 AM001_1925_EP_SU2011_AD_05 
 "<en>"
-	"en" Preposition PREP lang:es 00:01:06 00:01:13 tt-1374 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:01:06 00:01:13 tt-1374 AM001_1925_EP_SU2011_AD_05 @Gram:Prep ADD:614 
 "<Juárez>"
 	"Juárez" Noun NP Singular lang:es 00:01:06 00:01:13 tt-1375 AM001_1925_EP_SU2011_AD_05 
 "<$.>"
@@ -347,104 +347,104 @@
 "<se>"
 	"se" Other SE lang:es 00:01:06 00:01:13 tt-1379 AM001_1925_EP_SU2011_AD_05 
 "<acostaba>"
-	"acostar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:06 00:01:13 tt-1380 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf 
+	"acostar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:06 00:01:13 tt-1380 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf ADD:679 
 "<a>"
-	"a" Preposition PREP lang:es 00:01:06 00:01:13 tt-1381 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:01:06 00:01:13 tt-1381 AM001_1925_EP_SU2011_AD_05 @Gram:Prep SUBSTITUTE:389 ADD:614 
 "<dormir>"
-	"dormir" Verb VLinf Infinitive lang:es 00:01:06 00:01:13 tt-1382 AM001_1925_EP_SU2011_AD_05 
+	"dormir" Verb VLinf Infinitive lang:es 00:01:06 00:01:13 tt-1382 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:320 
 "<como>"
 	"como" Adverb ADV lang:es 00:01:06 00:01:13 tt-1383 AM001_1925_EP_SU2011_AD_05 
 "<a>"
-	"a" Preposition PREP lang:es 00:01:06 00:01:13 tt-1384 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:01:06 00:01:13 tt-1384 AM001_1925_EP_SU2011_AD_05 @Gram:Prep SUBSTITUTE:389 ADD:614 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:01:06 00:01:13 tt-1385 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:06 00:01:13 tt-1385 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art ADD:416 
 "<una>"
 	"un" Determiner ART Singular lang:es 00:01:06 00:01:13 tt-1386 AM001_1925_EP_SU2011_AD_05 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:01:06 00:01:13 tt-1387 AM001_1925_EP_SU2011_AD_05 
+	"y" Conjunciton Conjunction CC lang:es 00:01:06 00:01:13 tt-1387 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:385 
 "<se>"
 	"se" Other SE lang:es 00:01:06 00:01:13 tt-1388 AM001_1925_EP_SU2011_AD_05 
 "<levantaba>"
-	"levantar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:06 00:01:13 tt-1389 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf 
+	"levantar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:06 00:01:13 tt-1389 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf ADD:679 
 "<otro>"
 	"otro" Determiner QU lang:es 00:01:06 00:01:13 tt-1390 AM001_1925_EP_SU2011_AD_05 
 "<día>"
 	"día" Noun NC Singular lang:es 00:01:06 00:01:13 tt-1391 AM001_1925_EP_SU2011_AD_05 
 "<a>"
-	"a" Preposition PREP lang:es 00:01:06 00:01:13 tt-1392 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:01:06 00:01:13 tt-1392 AM001_1925_EP_SU2011_AD_05 @Gram:Prep SUBSTITUTE:389 ADD:614 
 "<revisar>"
-	"revisar" Verb VLinf Infinitive lang:es 00:01:06 00:01:13 tt-1393 AM001_1925_EP_SU2011_AD_05 
+	"revisar" Verb VLinf Infinitive lang:es 00:01:06 00:01:13 tt-1393 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:320 
 "<las>"
-	"el" Determiner ART Plural Fem lang:es 00:01:14 00:01:20 tt-1394 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:01:14 00:01:20 tt-1394 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art ADD:416 
 "<botellas>"
 	"botella" Noun NC Plural lang:es 00:01:14 00:01:20 tt-1395 AM001_1925_EP_SU2011_AD_05 
 "<fíjate>"
-	"fijar" Verb VLfin Pres Command Sing 2nd lang:es 00:01:14 00:01:20 tt-1396 AM001_1925_EP_SU2011_AD_05 @Gram:MImp:Informal 
+	"fijar" Verb VLfin Pres Command Sing 2nd lang:es 00:01:14 00:01:20 tt-1396 AM001_1925_EP_SU2011_AD_05 @Gram:MImp:Informal ADD:783 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:14 00:01:20 tt-1397 AM001_1925_EP_SU2011_AD_05 
 
 "<No>"
 	"no" Adverb NEG lang:es 00:01:14 00:01:20 tt-1398 AM001_1925_EP_SU2011_AD_05 
 "<las>"
-	"él" Pronoun PPC Plural lang:es 00:01:14 00:01:20 tt-1399 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Plural lang:es 00:01:14 00:01:20 tt-1399 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Objeto ADD:654 
 "<apuntaba>"
-	"apuntar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:14 00:01:20 tt-1400 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf 
+	"apuntar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:14 00:01:20 tt-1400 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf ADD:679 
 "<ni>"
 	"ni" Conjunction CCNEG lang:es 00:01:14 00:01:20 tt-1401 AM001_1925_EP_SU2011_AD_05 
 "<nada>"
-	"nada" Determiner QU lang:es 00:01:14 00:01:20 tt-1402 AM001_1925_EP_SU2011_AD_05 
+	"nada" Determiner QU lang:es 00:01:14 00:01:20 tt-1402 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Pron ADD:476 
 "<,>"
 	"," Punctuation CM lang:es 00:01:14 00:01:20 tt-1403 AM001_1925_EP_SU2011_AD_05 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:01:14 00:01:20 tt-1404 AM001_1925_EP_SU2011_AD_05 
+	"y" Conjunciton Conjunction CC lang:es 00:01:14 00:01:20 tt-1404 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:385 
 "<luego>"
 	"luego" Conjunction CSUBF lang:es 00:01:14 00:01:20 tt-1405 AM001_1925_EP_SU2011_AD_05 
 "<luego>"
 	"luego" Conjunction CSUBF lang:es 00:01:14 00:01:20 tt-1406 AM001_1925_EP_SU2011_AD_05 
 "<le>"
-	"él" Pronoun PPC Singular lang:es 00:01:14 00:01:20 tt-1407 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Singular lang:es 00:01:14 00:01:20 tt-1407 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Objeto ADD:654 
 "<decía>"
-	"decir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:14 00:01:20 tt-1408 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf 
+	"decir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:14 00:01:20 tt-1408 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf ADD:679 
 "<al>"
-	"al" Preposition PAL lang:es 00:01:14 00:01:20 tt-1409 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"al" Preposition PAL lang:es 00:01:14 00:01:20 tt-1409 AM001_1925_EP_SU2011_AD_05 @Gram:Prep ADD:614 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:14 00:01:20 tt-1410 AM001_1925_EP_SU2011_AD_05 
 "<se>"
 	"se" Other SE lang:es 00:01:14 00:01:20 tt-1411 AM001_1925_EP_SU2011_AD_05 
 "<quedaba>"
-	"quedar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:14 00:01:20 tt-1412 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf 
+	"quedar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:14 00:01:20 tt-1412 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf ADD:679 
 "<cuidando>"
 	"cuidar" Verb VLger lang:es 00:01:20 00:01:27 tt-1413 AM001_1925_EP_SU2011_AD_05 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:01:20 00:01:27 tt-1414 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:20 00:01:27 tt-1414 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art ADD:416 
 "<cantina>"
 	"cantina" Noun NC Singular lang:es 00:01:20 00:01:27 tt-1415 AM001_1925_EP_SU2011_AD_05 
 "<no>"
 	"no" Adverb NEG lang:es 00:01:20 00:01:27 tt-1416 AM001_1925_EP_SU2011_AD_05 
 "<te>"
-	"tú" Pronoun PPX Singular lang:es 00:01:20 00:01:27 tt-1417 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Objeto 
+	"tú" Pronoun PPX Singular lang:es 00:01:20 00:01:27 tt-1417 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Objeto ADD:648 
 "<vayas>"
-	"ir" Verb VLfin Pres Subj Sing 2nd lang:es 00:01:20 00:01:27 tt-1418 AM001_1925_EP_SU2011_AD_05 @Gram:MSub:Pres 
+	"ir" Verb VLfin Pres Subj Sing 2nd lang:es 00:01:20 00:01:27 tt-1418 AM001_1925_EP_SU2011_AD_05 @Gram:MSub:Pres ADD:772 
 "<,>"
 	"," Punctuation CM lang:es 00:01:20 00:01:27 tt-1419 AM001_1925_EP_SU2011_AD_05 
 "<espérate>"
-	"esperar" Verb VLfin Pres Command Sing 2nd lang:es 00:01:20 00:01:27 tt-1420 AM001_1925_EP_SU2011_AD_05 @Gram:MImp:Informal 
+	"esperar" Verb VLfin Pres Command Sing 2nd lang:es 00:01:20 00:01:27 tt-1420 AM001_1925_EP_SU2011_AD_05 @Gram:MImp:Informal ADD:783 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:20 00:01:27 tt-1421 AM001_1925_EP_SU2011_AD_05 
 "<oye>"
-	"oír" Verb VLfin Pres Indi_Command Sing 2nd_3rd lang:es 00:01:20 00:01:27 tt-1422 AM001_1925_EP_SU2011_AD_05 
+	"oír" Verb VLfin Pres Indi_Command Sing 2nd_3rd lang:es 00:01:20 00:01:27 tt-1422 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:285 
 "<,>"
 	"," Punctuation CM lang:es 00:01:20 00:01:27 tt-1423 AM001_1925_EP_SU2011_AD_05 
 "<aquí>"
 	"aquí" Adverb ADV lang:es 00:01:20 00:01:27 tt-1424 AM001_1925_EP_SU2011_AD_05 
 "<vendiste>"
-	"UNK" Verb VLfin Pret Indi Sing 2nd lang:es 00:01:20 00:01:27 tt-1425 AM001_1925_EP_SU2011_AD_05 @Gram:Indefinido 
+	"UNK" Verb VLfin Pret Indi Sing 2nd lang:es 00:01:20 00:01:27 tt-1425 AM001_1925_EP_SU2011_AD_05 @Gram:Indefinido ADD:688 
 "<mucho>"
 	"mucho" Adverb ADV lang:es 00:01:20 00:01:27 tt-1426 AM001_1925_EP_SU2011_AD_05 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:20 00:01:27 tt-1427 AM001_1925_EP_SU2011_AD_05 
 "<vendiste>"
-	"UNK" Verb VLfin Pret Indi Sing 2nd lang:es 00:01:20 00:01:27 tt-1428 AM001_1925_EP_SU2011_AD_05 @Gram:Indefinido 
+	"UNK" Verb VLfin Pret Indi Sing 2nd lang:es 00:01:20 00:01:27 tt-1428 AM001_1925_EP_SU2011_AD_05 @Gram:Indefinido ADD:688 
 "<como>"
 	"como" Adverb ADV lang:es 00:01:20 00:01:27 tt-1429 AM001_1925_EP_SU2011_AD_05 
 "<,>"
@@ -456,7 +456,7 @@
 "<copas>"
 	"copa" Noun NC Plural lang:es 00:01:29 00:01:34 tt-1433 AM001_1925_EP_SU2011_AD_05 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:29 00:01:34 tt-1434 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:01:29 00:01:34 tt-1434 AM001_1925_EP_SU2011_AD_05 @Gram:Prep ADD:614 
 "<güisqui>"
 	"güisqui" Noun NC Singular lang:es 00:01:29 00:01:34 tt-1435 AM001_1925_EP_SU2011_AD_05 
 "<,>"
@@ -464,13 +464,13 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:01:29 00:01:34 tt-1437 AM001_1925_EP_SU2011_AD_05 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:01:29 00:01:34 tt-1438 AM001_1925_EP_SU2011_AD_05 
+	"y" Conjunciton Conjunction CC lang:es 00:01:29 00:01:34 tt-1438 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:385 
 "<dónde>"
 	"dónde" Adverb ADV lang:es 00:01:29 00:01:34 tt-1439 AM001_1925_EP_SU2011_AD_05 
 "<está>"
-	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:01:29 00:01:34 tt-1440 AM001_1925_EP_SU2011_AD_05 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:01:29 00:01:34 tt-1440 AM001_1925_EP_SU2011_AD_05 @Gram:SerEstar:Estar ADD:812 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:01:29 00:01:34 tt-1441 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:01:29 00:01:34 tt-1441 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art ADD:416 
 "<dinero>"
 	"dinero" Noun NC Singular lang:es 00:01:29 00:01:34 tt-1442 AM001_1925_EP_SU2011_AD_05 
 "<$?>"
@@ -487,20 +487,20 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:01:29 00:01:34 tt-1447 AM001_1925_EP_SU2011_AD_05 
 "<por>"
-	"por" Preposition PREP lang:es 00:01:29 00:01:34 tt-1448 AM001_1925_EP_SU2011_AD_05 @Gram:Prep:Por 
+	"por" Preposition PREP lang:es 00:01:29 00:01:34 tt-1448 AM001_1925_EP_SU2011_AD_05 @Gram:Prep:Por SUBSTITUTE:262 ADD:608 
 "<qué>"
 	"qué" Adverb ADV lang:es 00:01:29 00:01:34 tt-1449 AM001_1925_EP_SU2011_AD_05 
 "<no>"
 	"no" Adverb NEG lang:es 00:01:29 00:01:34 tt-1450 AM001_1925_EP_SU2011_AD_05 
 "<está>"
-	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:01:29 00:01:34 tt-1451 AM001_1925_EP_SU2011_AD_05 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:01:29 00:01:34 tt-1451 AM001_1925_EP_SU2011_AD_05 @Gram:SerEstar:Estar ADD:812 
 "<$?>"
 	"?" Punctuation FS lang:es 00:01:29 00:01:34 tt-1452 AM001_1925_EP_SU2011_AD_05 
 
 "<No>"
 	"no" Adverb NEG lang:es 00:01:29 00:01:34 tt-1453 AM001_1925_EP_SU2011_AD_05 
 "<está>"
-	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:01:34 00:01:41 tt-1454 AM001_1925_EP_SU2011_AD_05 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:01:34 00:01:41 tt-1454 AM001_1925_EP_SU2011_AD_05 @Gram:SerEstar:Estar ADD:812 
 "<,>"
 	"," Punctuation CM lang:es 00:01:34 00:01:41 tt-1455 AM001_1925_EP_SU2011_AD_05 
 "<aquí>"
@@ -514,7 +514,7 @@
 "<copas>"
 	"copa" Noun NC Plural lang:es 00:01:34 00:01:41 tt-1460 AM001_1925_EP_SU2011_AD_05 
 "<de>"
-	"de" Preposition PREP lang:es 00:01:34 00:01:41 tt-1461 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:01:34 00:01:41 tt-1461 AM001_1925_EP_SU2011_AD_05 @Gram:Prep ADD:614 
 "<güisqui>"
 	"güisqui" Noun NC Singular lang:es 00:01:34 00:01:41 tt-1462 AM001_1925_EP_SU2011_AD_05 
 "<$.>"
@@ -523,9 +523,9 @@
 "<No>"
 	"no" Adverb NEG lang:es 00:01:34 00:01:41 tt-1464 AM001_1925_EP_SU2011_AD_05 
 "<las>"
-	"él" Pronoun PPC Plural lang:es 00:01:34 00:01:41 tt-1465 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Objeto 
+	"él" Pronoun PPC Plural lang:es 00:01:34 00:01:41 tt-1465 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Objeto ADD:654 
 "<apuntaste>"
-	"apuntar" Verb VLfin Pret Indi Sing 2nd lang:es 00:01:34 00:01:41 tt-1466 AM001_1925_EP_SU2011_AD_05 @Gram:Indefinido 
+	"apuntar" Verb VLfin Pret Indi Sing 2nd lang:es 00:01:34 00:01:41 tt-1466 AM001_1925_EP_SU2011_AD_05 @Gram:Indefinido ADD:688 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:34 00:01:41 tt-1467 AM001_1925_EP_SU2011_AD_05 
 <lang code="en">
@@ -564,11 +564,11 @@
 "<Si>"
 	"si" Conjunction CSUBX lang:es 00:01:42 00:01:49 tt-1482 AM001_1925_EP_SU2011_AD_05 
 "<vas>"
-	"ir" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:42 00:01:49 tt-1483 AM001_1925_EP_SU2011_AD_05 ID:270 R:Gram:VFut:Perifrasis:272 
+	"ir" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:42 00:01:49 tt-1483 AM001_1925_EP_SU2011_AD_05 ID:270 R:Gram:VFut:Perifrasis:272 ADDRELATION(Gram:VFut:Perifrasis):707 
 "<a>"
-	"a" Preposition PREP lang:es 00:01:42 00:01:49 tt-1484 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:01:42 00:01:49 tt-1484 AM001_1925_EP_SU2011_AD_05 @Gram:Prep SUBSTITUTE:389 ADD:614 
 "<seguir>"
-	"seguir" Verb VLinf Infinitive lang:es 00:01:42 00:01:49 tt-1485 AM001_1925_EP_SU2011_AD_05 ID:272 
+	"seguir" Verb VLinf Infinitive lang:es 00:01:42 00:01:49 tt-1485 AM001_1925_EP_SU2011_AD_05 ID:272 SUBSTITUTE:320 
 "<así>"
 	"así" Adverb ADV lang:es 00:01:42 00:01:49 tt-1486 AM001_1925_EP_SU2011_AD_05 
 "<mejor>"
@@ -576,7 +576,7 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:01:42 00:01:49 tt-1488 AM001_1925_EP_SU2011_AD_05 
 "<venga>"
-	"vengar|venir" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:01:42 00:01:49 tt-1489 AM001_1925_EP_SU2011_AD_05 @Gram:MSub:Pres 
+	"vengar|venir" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:01:42 00:01:49 tt-1489 AM001_1925_EP_SU2011_AD_05 @Gram:MSub:Pres ADD:772 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:42 00:01:49 tt-1490 AM001_1925_EP_SU2011_AD_05 
 
@@ -587,13 +587,13 @@
 "<ponerte>"
 	"poner" Verb VLinf Pres Indi Sing 3rd lang:es 00:01:42 00:01:49 tt-1493 AM001_1925_EP_SU2011_AD_05 
 "<en>"
-	"en" Preposition PREP lang:es 00:01:42 00:01:49 tt-1494 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:01:42 00:01:49 tt-1494 AM001_1925_EP_SU2011_AD_05 @Gram:Prep ADD:614 
 "<mala>"
 	"malo" Adjective ADJ Singular lang:es 00:01:42 00:01:49 tt-1495 AM001_1925_EP_SU2011_AD_05 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:42 00:01:49 tt-1496 AM001_1925_EP_SU2011_AD_05 
 "<en>"
-	"en" Preposition PREP lang:es 00:01:42 00:01:49 tt-1497 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:01:42 00:01:49 tt-1497 AM001_1925_EP_SU2011_AD_05 @Gram:Prep ADD:614 
 "<mala>"
 	"malo" Adjective ADJ Singular lang:es 00:01:50 00:01:57 tt-1498 AM001_1925_EP_SU2011_AD_05 
 "<racha>"
@@ -601,23 +601,23 @@
 "<,>"
 	"," Punctuation CM lang:es 00:01:50 00:01:57 tt-1500 AM001_1925_EP_SU2011_AD_05 
 "<vete>"
-	"ir|ver|vetar" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:01:50 00:01:57 tt-1501 AM001_1925_EP_SU2011_AD_05 @Gram:MSub:Pres 
+	"ir|ver|vetar" Verb VLfin Pres Subj Sing 1st_or_3rd lang:es 00:01:50 00:01:57 tt-1501 AM001_1925_EP_SU2011_AD_05 @Gram:MSub:Pres ADD:772 
 "<mejor>"
 	"bueno" Adjective ADJ Singular lang:es 00:01:50 00:01:57 tt-1502 AM001_1925_EP_SU2011_AD_05 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:01:50 00:01:57 tt-1503 AM001_1925_EP_SU2011_AD_05 
+	"y" Conjunciton Conjunction CC lang:es 00:01:50 00:01:57 tt-1503 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:385 
 "<se>"
 	"se" Other SE lang:es 00:01:50 00:01:57 tt-1504 AM001_1925_EP_SU2011_AD_05 
 "<acaba>"
-	"acabar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:50 00:01:57 tt-1505 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf 
+	"acabar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:50 00:01:57 tt-1505 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf ADD:679 
 "<todo>"
 	"todo" Determiner QU lang:es 00:01:50 00:01:57 tt-1506 AM001_1925_EP_SU2011_AD_05 
 "<,>"
 	"," Punctuation CM lang:es 00:01:50 00:01:57 tt-1507 AM001_1925_EP_SU2011_AD_05 
 "<pero>"
-	"pero" Conjunction CCAD lang:es 00:01:50 00:01:57 tt-1508 AM001_1925_EP_SU2011_AD_05 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:01:50 00:01:57 tt-1508 AM001_1925_EP_SU2011_AD_05 @Prag:MarcadoresDisc:Revision ADD:1032 
 "<fue>"
-	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:01:50 00:01:57 tt-1509 AM001_1925_EP_SU2011_AD_05 @Gram:Indefinido @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pret Indi Sing 3rd lang:es 00:01:50 00:01:57 tt-1509 AM001_1925_EP_SU2011_AD_05 @Gram:Indefinido @Gram:SerEstar:Ser ADD:688 ADD:803 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:01:50 00:01:57 tt-1510 AM001_1925_EP_SU2011_AD_05 
 "<...>"
@@ -625,7 +625,7 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:01:50 00:01:57 tt-1512 AM001_1925_EP_SU2011_AD_05 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:50 00:01:57 tt-1513 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:50 00:01:57 tt-1513 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf @Gram:SerEstar:Ser ADD:679 ADD:803 
 "<inteligente>"
 	"inteligente" Adjective ADJ Singular lang:es 00:01:50 00:01:57 tt-1514 AM001_1925_EP_SU2011_AD_05 
 "<,>"
@@ -633,21 +633,21 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:01:50 00:01:57 tt-1516 AM001_1925_EP_SU2011_AD_05 
 "<sabía>"
-	"saber" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:50 00:01:57 tt-1517 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf 
+	"saber" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:50 00:01:57 tt-1517 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf ADD:679 
 "<escribir>"
-	"escribir" Verb VLinf Infinitive lang:es 00:01:50 00:01:57 tt-1518 AM001_1925_EP_SU2011_AD_05 
+	"escribir" Verb VLinf Infinitive lang:es 00:01:50 00:01:57 tt-1518 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:320 
 "<,>"
 	"," Punctuation CM lang:es 00:01:50 00:01:57 tt-1519 AM001_1925_EP_SU2011_AD_05 
 "<ni>"
 	"ni" Conjunction CCNEG lang:es 00:01:59 00:02:06 tt-1520 AM001_1925_EP_SU2011_AD_05 
 "<leer>"
-	"leer" Verb VLinf Infinitive lang:es 00:01:59 00:02:06 tt-1521 AM001_1925_EP_SU2011_AD_05 
+	"leer" Verb VLinf Infinitive lang:es 00:01:59 00:02:06 tt-1521 AM001_1925_EP_SU2011_AD_05 SUBSTITUTE:320 
 "<,>"
 	"," Punctuation CM lang:es 00:01:59 00:02:06 tt-1522 AM001_1925_EP_SU2011_AD_05 
 "<pero>"
-	"pero" Conjunction CCAD lang:es 00:01:59 00:02:06 tt-1523 AM001_1925_EP_SU2011_AD_05 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:01:59 00:02:06 tt-1523 AM001_1925_EP_SU2011_AD_05 @Prag:MarcadoresDisc:Revision ADD:1032 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:01:59 00:02:06 tt-1524 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:01:59 00:02:06 tt-1524 AM001_1925_EP_SU2011_AD_05 @Gram:Pron:Sujeto ADD:624 
 "<no>"
 	"no" Adverb NEG lang:es 00:01:59 00:02:06 tt-1525 AM001_1925_EP_SU2011_AD_05 
 "<sé>"
@@ -659,9 +659,9 @@
 "<cómo>"
 	"cómo" Adverb ADV lang:es 00:01:59 00:02:06 tt-1529 AM001_1925_EP_SU2011_AD_05 
 "<usaba>"
-	"usar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:59 00:02:06 tt-1530 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf 
+	"usar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:01:59 00:02:06 tt-1530 AM001_1925_EP_SU2011_AD_05 @Gram:Imperf ADD:679 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:01:59 00:02:06 tt-1531 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:01:59 00:02:06 tt-1531 AM001_1925_EP_SU2011_AD_05 @Gram:Det:Art ADD:416 
 "<cabeza>"
 	"cabeza" Noun NC Singular lang:es 00:01:59 00:02:06 tt-1532 AM001_1925_EP_SU2011_AD_05 
 "<,>"
@@ -682,7 +682,7 @@
 "<dinero>"
 	"dinero" Noun NC Singular lang:es 00:01:59 00:02:06 tt-1540 AM001_1925_EP_SU2011_AD_05 
 "<en>"
-	"en" Preposition PREP lang:es 00:01:59 00:02:06 tt-1541 AM001_1925_EP_SU2011_AD_05 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:01:59 00:02:06 tt-1541 AM001_1925_EP_SU2011_AD_05 @Gram:Prep ADD:614 
 "<Juárez>"
 	"Juárez" Noun NP Singular lang:es 00:01:59 00:02:06 tt-1542 AM001_1925_EP_SU2011_AD_05 
 "<,>"

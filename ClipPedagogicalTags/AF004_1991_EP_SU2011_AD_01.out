@@ -12,11 +12,11 @@
 "<Cómo>"
 	"cómo" Adverb ADV lang:es 00:00:00 00:00:04 tt-969 AF004_1991_EP_SU2011_AD_01 
 "<te>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:04 tt-970 AF004_1991_EP_SU2011_AD_01 @Gram:Pron:Objeto 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:04 tt-970 AF004_1991_EP_SU2011_AD_01 @Gram:Pron:Objeto ADD:648 
 "<recordarán>"
-	"recordar" Verb VLfin Fut Indi Plural 3rd lang:es 00:00:00 00:00:04 tt-971 AF004_1991_EP_SU2011_AD_01 @Gram:VFut:Conjugado 
+	"recordar" Verb VLfin Fut Indi Plural 3rd lang:es 00:00:00 00:00:04 tt-971 AF004_1991_EP_SU2011_AD_01 @Gram:VFut:Conjugado ADD:702 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:00 00:00:04 tt-972 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Pos 
+	"UNK" Noun NC Plural lang:es 00:00:00 00:00:04 tt-972 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Pos ADD:447 
 "<compañeros>"
 	"compañero" Noun NC Plural lang:es 00:00:00 00:00:04 tt-973 AF004_1991_EP_SU2011_AD_01 
 "<$?>"
@@ -31,7 +31,7 @@
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:00:04 00:00:11 tt-977 AF004_1991_EP_SU2011_AD_01 
 "<gané>"
-	"ganar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:04 00:00:11 tt-978 AF004_1991_EP_SU2011_AD_01 @Gram:Indefinido 
+	"ganar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:04 00:00:11 tt-978 AF004_1991_EP_SU2011_AD_01 @Gram:Indefinido ADD:688 
 <lang code="en">
 "<most>"
 	"most" Adverb RBS lang:en 00:00:04 00:00:11 tt-979 AF004_1991_EP_SU2011_AD_01 
@@ -39,7 +39,7 @@
 	"shy" Adjective JJ lang:en 00:00:04 00:00:11 tt-980 AF004_1991_EP_SU2011_AD_01 
 </lang>
 "<en>"
-	"en" Preposition PREP lang:es 00:00:04 00:00:11 tt-981 AF004_1991_EP_SU2011_AD_01 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:04 00:00:11 tt-981 AF004_1991_EP_SU2011_AD_01 @Gram:Prep ADD:614 
 <lang code="en">
 "<high>"
 	"high" Adjective JJ lang:en 00:00:04 00:00:11 tt-982 AF004_1991_EP_SU2011_AD_01 
@@ -53,7 +53,7 @@
 	"so" Adverb RB lang:en 00:00:04 00:00:11 tt-985 AF004_1991_EP_SU2011_AD_01 
 </lang>
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:04 00:00:11 tt-986 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:04 00:00:11 tt-986 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art ADD:416 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:04 00:00:11 tt-987 AF004_1991_EP_SU2011_AD_01 
 "<tímida>"
@@ -68,7 +68,7 @@
 	"." Punctuation FS lang:es 00:00:04 00:00:11 tt-991 AF004_1991_EP_SU2011_AD_01 
 
 "<Y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:04 00:00:11 tt-992 AF004_1991_EP_SU2011_AD_01 
+	"y" Conjunciton Conjunction CC lang:es 00:00:04 00:00:11 tt-992 AF004_1991_EP_SU2011_AD_01 SUBSTITUTE:385 
 <lang code="en">
 "<friendly>"
 	"friendly" Adjective JJ lang:en 00:00:04 00:00:11 tt-993 AF004_1991_EP_SU2011_AD_01 
@@ -85,7 +85,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:14 00:00:21 tt-997 AF004_1991_EP_SU2011_AD_01 
 "<Ganaste>"
-	"ganar" Verb VLfin Pret Indi Sing 2nd lang:es 00:00:14 00:00:21 tt-998 AF004_1991_EP_SU2011_AD_01 @Gram:Indefinido 
+	"ganar" Verb VLfin Pret Indi Sing 2nd lang:es 00:00:14 00:00:21 tt-998 AF004_1991_EP_SU2011_AD_01 @Gram:Indefinido ADD:688 
 <lang code="en">
 "<most>"
 	"most" Adverb RBS lang:en 00:00:14 00:00:21 tt-999 AF004_1991_EP_SU2011_AD_01 
@@ -99,9 +99,9 @@
 "<que>"
 	"que" Conjunction CSUBF lang:es 00:00:14 00:00:21 tt-1003 AF004_1991_EP_SU2011_AD_01 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:14 00:00:21 tt-1004 AF004_1991_EP_SU2011_AD_01 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:14 00:00:21 tt-1004 AF004_1991_EP_SU2011_AD_01 @Gram:SerEstar:Ser ADD:803 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:14 00:00:21 tt-1005 AF004_1991_EP_SU2011_AD_01 @Gram:Prep 
+	"del" Preposition PDEL lang:es 00:00:14 00:00:21 tt-1005 AF004_1991_EP_SU2011_AD_01 @Gram:Prep ADD:614 
 "<yearbook>"
 	"UNK" Noun NC Singular lang:es 00:00:14 00:00:21 tt-1006 AF004_1991_EP_SU2011_AD_01 
 "<$?>"
@@ -125,7 +125,7 @@
 	"." Punctuation FS lang:es 00:00:21 00:00:27 tt-1013 AF004_1991_EP_SU2011_AD_01 
 
 "<Gané>"
-	"ganar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:21 00:00:27 tt-1014 AF004_1991_EP_SU2011_AD_01 @Gram:Indefinido 
+	"ganar" Verb VLfin Pret Indi Sing 1st lang:es 00:00:21 00:00:27 tt-1014 AF004_1991_EP_SU2011_AD_01 @Gram:Indefinido ADD:688 
 <lang code="en">
 "<most>"
 	"most" Adjective JJS lang:en 00:00:21 00:00:27 tt-1015 AF004_1991_EP_SU2011_AD_01 
@@ -164,13 +164,13 @@
 	"cause" Verb VB lang:en 00:00:21 00:00:27 tt-1028 AF004_1991_EP_SU2011_AD_01 
 </lang>
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:27 00:00:33 tt-1029 AF004_1991_EP_SU2011_AD_01 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:27 00:00:33 tt-1029 AF004_1991_EP_SU2011_AD_01 @Gram:Imperf @Gram:SerEstar:Ser ADD:679 ADD:803 
 "<porrista>"
 	"UNK" Noun NC Singular lang:es 00:00:27 00:00:33 tt-1030 AF004_1991_EP_SU2011_AD_01 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:27 00:00:33 tt-1031 AF004_1991_EP_SU2011_AD_01 
+	"y" Conjunciton Conjunction CC lang:es 00:00:27 00:00:33 tt-1031 AF004_1991_EP_SU2011_AD_01 SUBSTITUTE:385 
 "<las>"
-	"el" Determiner ART Plural Fem lang:es 00:00:27 00:00:33 tt-1032 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art 
+	"el" Determiner ART Plural Fem lang:es 00:00:27 00:00:33 tt-1032 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art ADD:416 
 "<porristas>"
 	"UNK" Noun NC Plural lang:es 00:00:27 00:00:33 tt-1033 AF004_1991_EP_SU2011_AD_01 
 "<tienen>"
@@ -178,7 +178,7 @@
 "<que>"
 	"que" Verb VMfin lang:es 00:00:27 00:00:33 tt-1035 AF004_1991_EP_SU2011_AD_01 
 "<estar>"
-	"estar" Verb VLinf VEinf Infinitive lang:es 00:00:27 00:00:33 tt-1036 AF004_1991_EP_SU2011_AD_01 @Gram:SerEstar:Estar 
+	"estar" Verb VLinf VEinf Infinitive lang:es 00:00:27 00:00:33 tt-1036 AF004_1991_EP_SU2011_AD_01 @Gram:SerEstar:Estar SUBSTITUTE:320 ADD:812 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:27 00:00:33 tt-1037 AF004_1991_EP_SU2011_AD_01 
 "<hyper>"
@@ -194,15 +194,15 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:27 00:00:33 tt-1042 AF004_1991_EP_SU2011_AD_01 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:27 00:00:33 tt-1043 AF004_1991_EP_SU2011_AD_01 
+	"y" Conjunciton Conjunction CC lang:es 00:00:27 00:00:33 tt-1043 AF004_1991_EP_SU2011_AD_01 SUBSTITUTE:385 
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:00:27 00:00:33 tt-1044 AF004_1991_EP_SU2011_AD_01 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:27 00:00:33 tt-1045 AF004_1991_EP_SU2011_AD_01 @Gram:Pron:Sujeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:27 00:00:33 tt-1045 AF004_1991_EP_SU2011_AD_01 @Gram:Pron:Sujeto ADD:624 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:27 00:00:33 tt-1046 AF004_1991_EP_SU2011_AD_01 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:27 00:00:33 tt-1046 AF004_1991_EP_SU2011_AD_01 @Gram:Imperf @Gram:SerEstar:Ser ADD:679 ADD:803 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:27 00:00:33 tt-1047 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:27 00:00:33 tt-1047 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art ADD:416 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:27 00:00:33 tt-1048 AF004_1991_EP_SU2011_AD_01 
 "<tímida>"

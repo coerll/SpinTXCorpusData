@@ -7,17 +7,17 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:07 tt-2159 MF016_1965_EP_SU2011_AD_06 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-2160 MF016_1965_EP_SU2011_AD_06 @Gram:Pron:Objeto 
+	"yo" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-2160 MF016_1965_EP_SU2011_AD_06 @Gram:Pron:Objeto ADD:648 
 "<puedes>"
 	"poder" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2161 MF016_1965_EP_SU2011_AD_06 
 "<contar>"
-	"contar" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-2162 MF016_1965_EP_SU2011_AD_06 
+	"contar" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-2162 MF016_1965_EP_SU2011_AD_06 SUBSTITUTE:320 
 "<uhm>"
 	"UNK" Noun NC Singular lang:es 00:00:00 00:00:07 tt-2163 MF016_1965_EP_SU2011_AD_06 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:00 00:00:07 tt-2164 MF016_1965_EP_SU2011_AD_06 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:00 00:00:07 tt-2165 MF016_1965_EP_SU2011_AD_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:00 00:00:07 tt-2165 MF016_1965_EP_SU2011_AD_06 @Gram:Det:Art ADD:416 
 "<mayor>"
 	"grande" Adjective ADJ Singular lang:es 00:00:00 00:00:07 tt-2166 MF016_1965_EP_SU2011_AD_06 
 "<reto>"
@@ -25,17 +25,17 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-2168 MF016_1965_EP_SU2011_AD_06 
 "<has>"
-	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2169 MF016_1965_EP_SU2011_AD_06 ID:13 R:Gram:Aux:Haber:14 R:Gram:PerfPerif:14 
+	"haber" Verb VHfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2169 MF016_1965_EP_SU2011_AD_06 ID:13 R:Gram:Aux:Haber:14 R:Gram:PerfPerif:14 ADDRELATION():695 
 "<enfrentado>"
 	"enfrentar" Verb VLadj lang:es 00:00:00 00:00:07 tt-2170 MF016_1965_EP_SU2011_AD_06 ID:14 
 "<al>"
 	"al" Conjunction CSUBI lang:es 00:00:00 00:00:07 tt-2171 MF016_1965_EP_SU2011_AD_06 
 "<vivir>"
-	"vivir" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-2172 MF016_1965_EP_SU2011_AD_06 
+	"vivir" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-2172 MF016_1965_EP_SU2011_AD_06 SUBSTITUTE:320 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-2173 MF016_1965_EP_SU2011_AD_06 @Gram:Prep 
+	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-2173 MF016_1965_EP_SU2011_AD_06 @Gram:Prep ADD:614 
 "<este>"
-	"este" Determiner DM Singular lang:es 00:00:00 00:00:07 tt-2174 MF016_1965_EP_SU2011_AD_06 @Gram:Det:Demo 
+	"este" Determiner DM Singular lang:es 00:00:00 00:00:07 tt-2174 MF016_1965_EP_SU2011_AD_06 @Gram:Det:Demo ADD:432 
 "<país>"
 	"país" Noun NC Plural lang:es 00:00:00 00:00:07 tt-2175 MF016_1965_EP_SU2011_AD_06 
 "<$?>"
@@ -44,7 +44,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:13 00:00:20 tt-2177 MF016_1965_EP_SU2011_AD_06 
 "<El>"
-	"el" Determiner ART Singular Masc lang:es 00:00:13 00:00:20 tt-2178 MF016_1965_EP_SU2011_AD_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:13 00:00:20 tt-2178 MF016_1965_EP_SU2011_AD_06 @Gram:Det:Art ADD:416 
 "<mayor>"
 	"grande" Adjective ADJ Singular lang:es 00:00:13 00:00:20 tt-2179 MF016_1965_EP_SU2011_AD_06 
 "<reto>"
@@ -52,7 +52,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:13 00:00:20 tt-2181 MF016_1965_EP_SU2011_AD_06 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:13 00:00:20 tt-2182 MF016_1965_EP_SU2011_AD_06 ID:26 R:Gram:Aux:Haber:27 R:Gram:PerfPerif:27 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:13 00:00:20 tt-2182 MF016_1965_EP_SU2011_AD_06 ID:26 R:Gram:Aux:Haber:27 R:Gram:PerfPerif:27 ADDRELATION():695 
 "<enfrentado>"
 	"enfrentar" Verb VLadj lang:es 00:00:13 00:00:20 tt-2183 MF016_1965_EP_SU2011_AD_06 ID:27 
 "<aquí>"
@@ -61,23 +61,23 @@
 	"?" Punctuation FS lang:es 00:00:13 00:00:20 tt-2185 MF016_1965_EP_SU2011_AD_06 
 
 "<Es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:13 00:00:20 tt-2186 MF016_1965_EP_SU2011_AD_06 @Gram:SerEstar:Ser 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:13 00:00:20 tt-2186 MF016_1965_EP_SU2011_AD_06 @Gram:SerEstar:Ser ADD:803 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:13 00:00:20 tt-2187 MF016_1965_EP_SU2011_AD_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:13 00:00:20 tt-2187 MF016_1965_EP_SU2011_AD_06 @Gram:Det:Art ADD:416 
 "<esfuerzo>"
 	"esfuerzo" Noun NC Singular lang:es 00:00:13 00:00:20 tt-2188 MF016_1965_EP_SU2011_AD_06 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:13 00:00:20 tt-2189 MF016_1965_EP_SU2011_AD_06 
 "<hemos>"
-	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:13 00:00:20 tt-2190 MF016_1965_EP_SU2011_AD_06 ID:34 R:Gram:Aux:Haber:35 R:Gram:PerfPerif:35 
+	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:13 00:00:20 tt-2190 MF016_1965_EP_SU2011_AD_06 ID:34 R:Gram:Aux:Haber:35 R:Gram:PerfPerif:35 ADDRELATION():695 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:13 00:00:20 tt-2191 MF016_1965_EP_SU2011_AD_06 ID:35 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:13 00:00:20 tt-2192 MF016_1965_EP_SU2011_AD_06 
 "<tener>"
-	"tener" Verb VLinf Infinitive lang:es 00:00:13 00:00:20 tt-2193 MF016_1965_EP_SU2011_AD_06 
+	"tener" Verb VLinf Infinitive lang:es 00:00:13 00:00:20 tt-2193 MF016_1965_EP_SU2011_AD_06 SUBSTITUTE:320 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:13 00:00:20 tt-2194 MF016_1965_EP_SU2011_AD_06 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:13 00:00:20 tt-2194 MF016_1965_EP_SU2011_AD_06 @Gram:Prep ADD:614 
 "<,>"
 	"," Punctuation CM lang:es 00:00:13 00:00:20 tt-2195 MF016_1965_EP_SU2011_AD_06 
 "<esta>"
@@ -87,27 +87,27 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:23 00:00:30 tt-2198 MF016_1965_EP_SU2011_AD_06 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:23 00:00:30 tt-2199 MF016_1965_EP_SU2011_AD_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Masc lang:es 00:00:23 00:00:30 tt-2199 MF016_1965_EP_SU2011_AD_06 @Gram:Det:Art ADD:416 
 "<reto>"
 	"reto" Noun NC Singular lang:es 00:00:23 00:00:30 tt-2200 MF016_1965_EP_SU2011_AD_06 
 "<también>"
-	"también" Adverb ADV lang:es 00:00:23 00:00:30 tt-2201 MF016_1965_EP_SU2011_AD_06 @Prag:MarcadoresDisc:Igualdad 
+	"también" Adverb ADV lang:es 00:00:23 00:00:30 tt-2201 MF016_1965_EP_SU2011_AD_06 @Prag:MarcadoresDisc:Igualdad ADD:1116 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:23 00:00:30 tt-2202 MF016_1965_EP_SU2011_AD_06 
 "<hemos>"
-	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:23 00:00:30 tt-2203 MF016_1965_EP_SU2011_AD_06 ID:47 R:Gram:Aux:Haber:48 R:Gram:PerfPerif:48 
+	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:23 00:00:30 tt-2203 MF016_1965_EP_SU2011_AD_06 ID:47 R:Gram:Aux:Haber:48 R:Gram:PerfPerif:48 ADDRELATION():695 
 "<tenido>"
 	"tener" Verb VLadj lang:es 00:00:23 00:00:30 tt-2204 MF016_1965_EP_SU2011_AD_06 ID:48 
 "<de>"
 	"de" Conjunction CSUBI lang:es 00:00:23 00:00:30 tt-2205 MF016_1965_EP_SU2011_AD_06 
 "<haber>"
-	"haber" Verb VLinf VHinf Infinitive lang:es 00:00:23 00:00:30 tt-2206 MF016_1965_EP_SU2011_AD_06 
+	"haber" Verb VLinf VHinf Infinitive lang:es 00:00:23 00:00:30 tt-2206 MF016_1965_EP_SU2011_AD_06 SUBSTITUTE:320 
 "<formado>"
 	"formar" Verb VLadj lang:es 00:00:23 00:00:30 tt-2207 MF016_1965_EP_SU2011_AD_06 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:23 00:00:30 tt-2208 MF016_1965_EP_SU2011_AD_06 @Gram:Prep 
+	"a" Preposition PREP lang:es 00:00:23 00:00:30 tt-2208 MF016_1965_EP_SU2011_AD_06 @Gram:Prep SUBSTITUTE:389 ADD:614 
 "<nuestros>"
-	"nuestro" Pronoun PPO Plural Adjective ADJ lang:es 00:00:23 00:00:30 tt-2209 MF016_1965_EP_SU2011_AD_06 @Gram:Det:Pos 
+	"nuestro" Pronoun PPO Plural Adjective ADJ lang:es 00:00:23 00:00:30 tt-2209 MF016_1965_EP_SU2011_AD_06 @Gram:Det:Pos SUBSTITUTE:310 ADD:449 
 "<hijos>"
 	"hijo" Noun NC Plural lang:es 00:00:23 00:00:30 tt-2210 MF016_1965_EP_SU2011_AD_06 
 "<que>"
@@ -135,7 +135,7 @@
 "<estudio>"
 	"estudio" Noun NC Singular lang:es 00:00:31 00:00:38 tt-2222 MF016_1965_EP_SU2011_AD_06 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:31 00:00:38 tt-2223 MF016_1965_EP_SU2011_AD_06 
+	"y" Conjunciton Conjunction CC lang:es 00:00:31 00:00:38 tt-2223 MF016_1965_EP_SU2011_AD_06 SUBSTITUTE:385 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:31 00:00:38 tt-2224 MF016_1965_EP_SU2011_AD_06 
 "<haigan>"
@@ -143,27 +143,27 @@
 "<llegado>"
 	"llegar" Verb VLadj lang:es 00:00:31 00:00:38 tt-2226 MF016_1965_EP_SU2011_AD_06 
 "<hasta>"
-	"hasta" Preposition PREP lang:es 00:00:31 00:00:38 tt-2227 MF016_1965_EP_SU2011_AD_06 @Gram:Prep 
+	"hasta" Preposition PREP lang:es 00:00:31 00:00:38 tt-2227 MF016_1965_EP_SU2011_AD_06 @Gram:Prep ADD:614 
 "<ahorita>"
 	"ahora" Adverb ADV lang:es 00:00:31 00:00:38 tt-2228 MF016_1965_EP_SU2011_AD_06 
 "<donde>"
 	"donde" Adverb ADV lang:es 00:00:39 00:00:46 tt-2229 MF016_1965_EP_SU2011_AD_06 
 "<están>"
-	"estar" Verb VEfin Pres Indi Plural 3rd lang:es 00:00:39 00:00:46 tt-2230 MF016_1965_EP_SU2011_AD_06 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Plural 3rd lang:es 00:00:39 00:00:46 tt-2230 MF016_1965_EP_SU2011_AD_06 @Gram:SerEstar:Estar ADD:812 
 "<ellos>"
-	"él" Pronoun PPX Plural lang:es 00:00:39 00:00:46 tt-2231 MF016_1965_EP_SU2011_AD_06 @Gram:Pron:Sujeto 
+	"él" Pronoun PPX Plural lang:es 00:00:39 00:00:46 tt-2231 MF016_1965_EP_SU2011_AD_06 @Gram:Pron:Sujeto ADD:624 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:39 00:00:46 tt-2232 MF016_1965_EP_SU2011_AD_06 
+	"y" Conjunciton Conjunction CC lang:es 00:00:39 00:00:46 tt-2232 MF016_1965_EP_SU2011_AD_06 SUBSTITUTE:385 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:39 00:00:46 tt-2233 MF016_1965_EP_SU2011_AD_06 
 "<hay>"
-	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:39 00:00:46 tt-2234 MF016_1965_EP_SU2011_AD_06 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pres Indi Sing 3rd lang:es 00:00:39 00:00:46 tt-2234 MF016_1965_EP_SU2011_AD_06 @Gram:Haber:Exist ADD:819 
 "<retos>"
 	"reto" Noun NC Plural lang:es 00:00:39 00:00:46 tt-2235 MF016_1965_EP_SU2011_AD_06 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:39 00:00:46 tt-2236 MF016_1965_EP_SU2011_AD_06 
 "<muchos>"
-	"mucho" Determiner QU lang:es 00:00:39 00:00:46 tt-2237 MF016_1965_EP_SU2011_AD_06 @Gram:Det:CuantIndef 
+	"mucho" Determiner QU lang:es 00:00:39 00:00:46 tt-2237 MF016_1965_EP_SU2011_AD_06 @Gram:Det:CuantIndef ADD:468 
 "<dicen>"
 	"decir" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:39 00:00:46 tt-2238 MF016_1965_EP_SU2011_AD_06 
 "<que>"
@@ -181,27 +181,27 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:39 00:00:46 tt-2245 MF016_1965_EP_SU2011_AD_06 
 "<pero>"
-	"pero" Conjunction CCAD lang:es 00:00:39 00:00:46 tt-2246 MF016_1965_EP_SU2011_AD_06 @Prag:MarcadoresDisc:Revision 
+	"pero" Conjunction CCAD lang:es 00:00:39 00:00:46 tt-2246 MF016_1965_EP_SU2011_AD_06 @Prag:MarcadoresDisc:Revision ADD:1032 
 "<sí>"
 	"sí" Adverb ADV lang:es 00:00:39 00:00:46 tt-2247 MF016_1965_EP_SU2011_AD_06 
 "<hasta>"
-	"hasta" Preposition PREP lang:es 00:00:39 00:00:46 tt-2248 MF016_1965_EP_SU2011_AD_06 @Gram:Prep 
+	"hasta" Preposition PREP lang:es 00:00:39 00:00:46 tt-2248 MF016_1965_EP_SU2011_AD_06 @Gram:Prep ADD:614 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:39 00:00:46 tt-2249 MF016_1965_EP_SU2011_AD_06 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:39 00:00:46 tt-2249 MF016_1965_EP_SU2011_AD_06 @Gram:Det:Art ADD:416 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:39 00:00:46 tt-2250 MF016_1965_EP_SU2011_AD_06 
 "<hasta>"
-	"hasta" Preposition PREP lang:es 00:00:47 00:00:53 tt-2251 MF016_1965_EP_SU2011_AD_06 @Gram:Prep 
+	"hasta" Preposition PREP lang:es 00:00:47 00:00:53 tt-2251 MF016_1965_EP_SU2011_AD_06 @Gram:Prep ADD:614 
 "<ahorita>"
 	"ahora" Adverb ADV lang:es 00:00:47 00:00:53 tt-2252 MF016_1965_EP_SU2011_AD_06 
 "<hemos>"
-	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:47 00:00:53 tt-2253 MF016_1965_EP_SU2011_AD_06 @Gram:Haber:Exist 
+	"haber" Verb VHfin Pres Indi Plural 1st lang:es 00:00:47 00:00:53 tt-2253 MF016_1965_EP_SU2011_AD_06 @Gram:Haber:Exist ADD:819 
 "<podido>"
 	"poder" Verb VMadj lang:es 00:00:47 00:00:53 tt-2254 MF016_1965_EP_SU2011_AD_06 
 "<vencer>"
-	"vencer" Verb VLinf Infinitive lang:es 00:00:47 00:00:53 tt-2255 MF016_1965_EP_SU2011_AD_06 
+	"vencer" Verb VLinf Infinitive lang:es 00:00:47 00:00:53 tt-2255 MF016_1965_EP_SU2011_AD_06 SUBSTITUTE:320 
 "<todo>"
-	"todo" Determiner QU lang:es 00:00:47 00:00:53 tt-2256 MF016_1965_EP_SU2011_AD_06 ID:100 R:Gram:Det:DetCombi:101 
+	"todo" Determiner QU lang:es 00:00:47 00:00:53 tt-2256 MF016_1965_EP_SU2011_AD_06 ID:100 R:Gram:Det:DetCombi:101 ADDRELATION(Gram:Det:DetCombi):489 
 "<esto>"
 	"este" Determiner DM Singular lang:es 00:00:47 00:00:53 tt-2257 MF016_1965_EP_SU2011_AD_06 ID:101 
 "<$.>"
