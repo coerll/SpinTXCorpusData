@@ -1,10 +1,11 @@
 AF027_1990_CT_SU2011_ER_02
-@Gram : 69
-@Gram:Det : 11
+@Gram : 70
+@Gram:Det : 12
 @Gram:Det:Art : 7
 @Gram:Det:CuantIndef : 1
 @Gram:Det:Demo : 1
 @Gram:Det:Pos : 2
+@Gram:Det:Pron : 1
 @Gram:Haber : 2
 @Gram:Haber:Exist : 2
 @Gram:Indefinido : 3
@@ -36,6 +37,9 @@ R:Gram:SerEstar : 1
 R:Gram:SerEstar:EstarAux : 1
 R:Gram:VFut : 1
 R:Gram:VFut:Perifrasis : 1
+R:Herit : 1
+R:Herit:Contacto : 1
+R:Herit:Contacto:Mixtas : 1
 R:Prag : 6
 R:Prag:MarcadoresDisc : 6
 R:Prag:MarcadoresDisc:Igualdad : 6

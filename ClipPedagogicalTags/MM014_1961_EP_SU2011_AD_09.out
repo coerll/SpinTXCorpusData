@@ -19,9 +19,9 @@
 "<pudiera>"
 	"poder" Verb VMfin lang:es 00:00:00 00:00:07 tt-1992 MM014_1961_EP_SU2011_AD_09 
 "<elegir>"
-	"elegir" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-1993 MM014_1961_EP_SU2011_AD_09 SUBSTITUTE:320 
+	"elegir" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-1993 MM014_1961_EP_SU2011_AD_09 SUBSTITUTE:329 
 "<cualquier>"
-	"cualquier" Determiner QU lang:es 00:00:00 00:00:07 tt-1994 MM014_1961_EP_SU2011_AD_09 @Gram:Det:CuantIndef ADD:463 
+	"cualquier" Determiner QU lang:es 00:00:00 00:00:07 tt-1994 MM014_1961_EP_SU2011_AD_09 @Gram:Det:CuantIndef ADD:473 
 "<trabajo>"
 	"trabajo" Noun NC Singular lang:es 00:00:00 00:00:07 tt-1995 MM014_1961_EP_SU2011_AD_09 
 "<ahora>"
@@ -35,9 +35,9 @@
 "<haría>"
 	"hacer" Verb VLfin Cond Indi Sing 1st_or_3rd lang:es 00:00:00 00:00:07 tt-2000 MM014_1961_EP_SU2011_AD_09 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:00 00:00:07 tt-2001 MM014_1961_EP_SU2011_AD_09 SUBSTITUTE:385 
+	"y" Conjunciton Conjunction CC lang:es 00:00:00 00:00:07 tt-2001 MM014_1961_EP_SU2011_AD_09 SUBSTITUTE:394 
 "<por>"
-	"por" Preposition PREP lang:es 00:00:00 00:00:07 tt-2002 MM014_1961_EP_SU2011_AD_09 @Gram:Prep:Por SUBSTITUTE:262 ADD:608 
+	"por" Preposition PREP lang:es 00:00:00 00:00:07 tt-2002 MM014_1961_EP_SU2011_AD_09 @Gram:Prep:Por SUBSTITUTE:269 SUBSTITUTE:270 ADD:618 
 "<qué>"
 	"qué" Adverb ADV lang:es 00:00:00 00:00:07 tt-2003 MM014_1961_EP_SU2011_AD_09 
 "<$?>"
@@ -46,19 +46,19 @@
 <speaker type="subj">
 
 "<He>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:12 00:00:19 tt-2005 MM014_1961_EP_SU2011_AD_09 ID:21 R:Gram:Aux:Haber:22 R:Gram:PerfPerif:22 ADDRELATION():695 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:12 00:00:19 tt-2005 MM014_1961_EP_SU2011_AD_09 ID:21 R:Gram:Aux:Haber:22 R:Gram:PerfPerif:22 ADDRELATION():705 
 "<visto>"
 	"ver" Verb VLadj lang:es 00:00:12 00:00:19 tt-2006 MM014_1961_EP_SU2011_AD_09 ID:22 
 "<muchas>"
-	"mucho" Determiner QU lang:es 00:00:12 00:00:19 tt-2007 MM014_1961_EP_SU2011_AD_09 @Gram:Det:CuantIndef ADD:468 
+	"mucho" Determiner QU lang:es 00:00:12 00:00:19 tt-2007 MM014_1961_EP_SU2011_AD_09 @Gram:Det:CuantIndef ADD:478 
 "<,>"
 	"," Punctuation CM lang:es 00:00:12 00:00:19 tt-2008 MM014_1961_EP_SU2011_AD_09 
 "<he>"
-	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:12 00:00:19 tt-2009 MM014_1961_EP_SU2011_AD_09 ID:25 R:Gram:Aux:Haber:26 R:Gram:PerfPerif:26 ADDRELATION():695 
+	"haber" Verb VHfin Pres Indi Sing 1st lang:es 00:00:12 00:00:19 tt-2009 MM014_1961_EP_SU2011_AD_09 ID:25 R:Gram:Aux:Haber:26 R:Gram:PerfPerif:26 ADDRELATION():705 
 "<visto>"
 	"ver" Verb VLadj lang:es 00:00:12 00:00:19 tt-2010 MM014_1961_EP_SU2011_AD_09 ID:26 
 "<muchas>"
-	"mucho" Determiner QU lang:es 00:00:12 00:00:19 tt-2011 MM014_1961_EP_SU2011_AD_09 @Gram:Det:CuantIndef ADD:468 
+	"mucho" Determiner QU lang:es 00:00:12 00:00:19 tt-2011 MM014_1961_EP_SU2011_AD_09 @Gram:Det:CuantIndef ADD:478 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:12 00:00:19 tt-2012 MM014_1961_EP_SU2011_AD_09 
 <lang code="en">
@@ -68,7 +68,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:12 00:00:19 tt-2014 MM014_1961_EP_SU2011_AD_09 
 "<muchas>"
-	"mucho" Determiner QU lang:es 00:00:12 00:00:19 tt-2015 MM014_1961_EP_SU2011_AD_09 @Gram:Det:CuantIndef ADD:468 
+	"mucho" Determiner QU lang:es 00:00:12 00:00:19 tt-2015 MM014_1961_EP_SU2011_AD_09 @Gram:Det:CuantIndef ADD:478 
 "<cosas>"
 	"cosa" Noun NC Plural lang:es 00:00:12 00:00:19 tt-2016 MM014_1961_EP_SU2011_AD_09 
 "<mal>"
@@ -85,45 +85,45 @@
 "<si>"
 	"si" Conjunction CSUBX lang:es 00:00:12 00:00:19 tt-2022 MM014_1961_EP_SU2011_AD_09 
 "<tuviera>"
-	"tener" Verb VLfin Past Subj Sing 1st_or_3rd lang:es 00:00:12 00:00:19 tt-2023 MM014_1961_EP_SU2011_AD_09 @Gram:MSub:Pret ADD:773 
+	"tener" Verb VLfin Past Subj Sing 1st_or_3rd lang:es 00:00:12 00:00:19 tt-2023 MM014_1961_EP_SU2011_AD_09 @Gram:MSub:Pret ADD:783 
 "<oportunidad>"
 	"oportunidad" Noun NC Singular lang:es 00:00:27 00:00:34 tt-2024 MM014_1961_EP_SU2011_AD_09 
 "<algún>"
-	"alguno" Determiner QU lang:es 00:00:27 00:00:34 tt-2025 MM014_1961_EP_SU2011_AD_09 @Gram:Det:CuantIndef ADD:463 
+	"alguno" Determiner QU lang:es 00:00:27 00:00:34 tt-2025 MM014_1961_EP_SU2011_AD_09 @Gram:Det:CuantIndef ADD:473 
 "<día>"
 	"día" Noun NC Singular lang:es 00:00:27 00:00:34 tt-2026 MM014_1961_EP_SU2011_AD_09 
 "<,>"
 	"," Punctuation CM lang:es 00:00:27 00:00:34 tt-2027 MM014_1961_EP_SU2011_AD_09 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:27 00:00:34 tt-2028 MM014_1961_EP_SU2011_AD_09 @Gram:Pron:Objeto ID:44 R:Gram:Gustar:Propios:45 ADD:648 ADDRELATION(Gram:Gustar:Propios):717 
+	"yo" Pronoun PPX Singular lang:es 00:00:27 00:00:34 tt-2028 MM014_1961_EP_SU2011_AD_09 @Gram:Pron:Objeto ID:44 R:Gram:Gustar:Propios:45 ADD:658 ADDRELATION(Gram:Gustar:Propios):727 
 "<gustaría>"
 	"gustar" Verb VLfin Cond Indi Sing 1st_or_3rd lang:es 00:00:27 00:00:34 tt-2029 MM014_1961_EP_SU2011_AD_09 ID:45 
 "<dedicarme>"
-	"dedicar" Verb VLinf Pres Subj Sing 1st_or_3rd lang:es 00:00:27 00:00:34 tt-2030 MM014_1961_EP_SU2011_AD_09 @Gram:MSub:Pres ADD:772 
+	"dedicar" Verb VLinf Pres Subj Sing 1st_or_3rd lang:es 00:00:27 00:00:34 tt-2030 MM014_1961_EP_SU2011_AD_09 @Gram:MSub:Pres ADD:782 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:27 00:00:34 tt-2031 MM014_1961_EP_SU2011_AD_09 @Gram:Prep SUBSTITUTE:389 ADD:614 
+	"a" Preposition PREP lang:es 00:00:27 00:00:34 tt-2031 MM014_1961_EP_SU2011_AD_09 @Gram:Prep SUBSTITUTE:398 ADD:624 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:27 00:00:34 tt-2032 MM014_1961_EP_SU2011_AD_09 @Gram:Det:Art ADD:416 
+	"el" Determiner ART Singular Fem lang:es 00:00:27 00:00:34 tt-2032 MM014_1961_EP_SU2011_AD_09 @Gram:Det:Art ADD:426 
 "<política>"
 	"política" Noun NC Singular lang:es 00:00:27 00:00:34 tt-2033 MM014_1961_EP_SU2011_AD_09 
 "<,>"
 	"," Punctuation CM lang:es 00:00:27 00:00:34 tt-2034 MM014_1961_EP_SU2011_AD_09 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:27 00:00:34 tt-2035 MM014_1961_EP_SU2011_AD_09 @Prag:MarcadoresDisc:Causa ADD:1085 
+	"porque" Conjunction CSUBX lang:es 00:00:27 00:00:34 tt-2035 MM014_1961_EP_SU2011_AD_09 @Prag:MarcadoresDisc:Causa ADD:1099 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:27 00:00:34 tt-2036 MM014_1961_EP_SU2011_AD_09 @Gram:Pron:Sujeto ADD:624 
+	"yo" Pronoun PPX Singular lang:es 00:00:27 00:00:34 tt-2036 MM014_1961_EP_SU2011_AD_09 @Gram:Pron:Sujeto ADD:634 
 "<pienso>"
 	"pensar" Verb VLfin Pres Indi Sing 1st lang:es 00:00:27 00:00:34 tt-2037 MM014_1961_EP_SU2011_AD_09 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:27 00:00:34 tt-2038 MM014_1961_EP_SU2011_AD_09 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:27 00:00:34 tt-2039 MM014_1961_EP_SU2011_AD_09 @Gram:SerEstar:Ser ADD:803 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:27 00:00:34 tt-2039 MM014_1961_EP_SU2011_AD_09 @Gram:SerEstar:Ser ADD:813 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:00:27 00:00:34 tt-2040 MM014_1961_EP_SU2011_AD_09 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:27 00:00:34 tt-2041 MM014_1961_EP_SU2011_AD_09 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:27 00:00:34 tt-2042 MM014_1961_EP_SU2011_AD_09 @Gram:SerEstar:Ser ADD:803 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:27 00:00:34 tt-2042 MM014_1961_EP_SU2011_AD_09 @Gram:SerEstar:Ser ADD:813 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:00:40 00:00:46 tt-2043 MM014_1961_EP_SU2011_AD_09 
 "<privilegio>"
@@ -133,7 +133,7 @@
 "<tienen>"
 	"tener" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:40 00:00:46 tt-2046 MM014_1961_EP_SU2011_AD_09 
 "<las>"
-	"el" Determiner ART Plural Fem lang:es 00:00:40 00:00:46 tt-2047 MM014_1961_EP_SU2011_AD_09 @Gram:Det:Art ADD:416 
+	"el" Determiner ART Plural Fem lang:es 00:00:40 00:00:46 tt-2047 MM014_1961_EP_SU2011_AD_09 @Gram:Det:Art ADD:426 
 "<personas>"
 	"persona" Noun NC Plural lang:es 00:00:40 00:00:46 tt-2048 MM014_1961_EP_SU2011_AD_09 
 "<que>"
@@ -141,7 +141,7 @@
 "<llegan>"
 	"llegar" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:40 00:00:46 tt-2050 MM014_1961_EP_SU2011_AD_09 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:40 00:00:46 tt-2051 MM014_1961_EP_SU2011_AD_09 @Gram:Prep SUBSTITUTE:389 ADD:614 
+	"a" Preposition PREP lang:es 00:00:40 00:00:46 tt-2051 MM014_1961_EP_SU2011_AD_09 @Gram:Prep SUBSTITUTE:398 ADD:624 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:00:40 00:00:46 tt-2052 MM014_1961_EP_SU2011_AD_09 
 "<puesto>"
@@ -157,15 +157,15 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:40 00:00:46 tt-2058 MM014_1961_EP_SU2011_AD_09 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:46 00:00:53 tt-2059 MM014_1961_EP_SU2011_AD_09 SUBSTITUTE:385 
+	"y" Conjunciton Conjunction CC lang:es 00:00:46 00:00:53 tt-2059 MM014_1961_EP_SU2011_AD_09 SUBSTITUTE:394 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:46 00:00:53 tt-2060 MM014_1961_EP_SU2011_AD_09 
 "<algunos>"
-	"alguno" Determiner QU lang:es 00:00:46 00:00:53 tt-2061 MM014_1961_EP_SU2011_AD_09 @Gram:Det:CuantIndef ADD:463 
+	"alguno" Determiner QU lang:es 00:00:46 00:00:53 tt-2061 MM014_1961_EP_SU2011_AD_09 @Gram:Det:CuantIndef ADD:473 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:46 00:00:53 tt-2062 MM014_1961_EP_SU2011_AD_09 @Gram:Prep ADD:614 
+	"de" Preposition PREP lang:es 00:00:46 00:00:53 tt-2062 MM014_1961_EP_SU2011_AD_09 @Gram:Prep ADD:624 
 "<ellos>"
-	"él" Pronoun PPX Plural lang:es 00:00:46 00:00:53 tt-2063 MM014_1961_EP_SU2011_AD_09 @Gram:Pron:Sujeto ADD:624 
+	"él" Pronoun PPX Plural lang:es 00:00:46 00:00:53 tt-2063 MM014_1961_EP_SU2011_AD_09 @Gram:Pron:Sujeto ADD:634 
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:00:46 00:00:53 tt-2064 MM014_1961_EP_SU2011_AD_09 
 "<...>"
@@ -173,37 +173,37 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:46 00:00:53 tt-2066 MM014_1961_EP_SU2011_AD_09 
 "<lo>"
-	"él" Pronoun PPC Singular lang:es 00:00:46 00:00:53 tt-2067 MM014_1961_EP_SU2011_AD_09 @Gram:Pron:Objeto ADD:654 
+	"él" Pronoun PPC Singular lang:es 00:00:46 00:00:53 tt-2067 MM014_1961_EP_SU2011_AD_09 @Gram:Pron:Objeto ADD:664 
 "<aprovechan>"
 	"aprovechar" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:46 00:00:53 tt-2068 MM014_1961_EP_SU2011_AD_09 
 "<,>"
 	"," Punctuation CM lang:es 00:00:46 00:00:53 tt-2069 MM014_1961_EP_SU2011_AD_09 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:46 00:00:53 tt-2070 MM014_1961_EP_SU2011_AD_09 SUBSTITUTE:385 
+	"y" Conjunciton Conjunction CC lang:es 00:00:46 00:00:53 tt-2070 MM014_1961_EP_SU2011_AD_09 SUBSTITUTE:394 
 "<se>"
-	"se" Other SE lang:es 00:00:46 00:00:53 tt-2071 MM014_1961_EP_SU2011_AD_09 @Gram:Pron:Otros ADD:667 
+	"se" Other SE lang:es 00:00:46 00:00:53 tt-2071 MM014_1961_EP_SU2011_AD_09 @Gram:Pron:Otros ADD:677 
 "<les>"
-	"él" Pronoun PPC Plural lang:es 00:00:46 00:00:53 tt-2072 MM014_1961_EP_SU2011_AD_09 @Gram:Pron:Objeto ADD:654 
+	"él" Pronoun PPC Plural lang:es 00:00:46 00:00:53 tt-2072 MM014_1961_EP_SU2011_AD_09 @Gram:Pron:Objeto ADD:664 
 "<va>"
 	"ir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:46 00:00:53 tt-2073 MM014_1961_EP_SU2011_AD_09 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:46 00:00:53 tt-2074 MM014_1961_EP_SU2011_AD_09 @Gram:Det:Art ADD:416 
+	"el" Determiner ART Singular Fem lang:es 00:00:46 00:00:53 tt-2074 MM014_1961_EP_SU2011_AD_09 @Gram:Det:Art ADD:426 
 "<oportunidad>"
 	"oportunidad" Noun NC Singular lang:es 00:00:46 00:00:53 tt-2075 MM014_1961_EP_SU2011_AD_09 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:46 00:00:53 tt-2076 MM014_1961_EP_SU2011_AD_09 @Gram:Prep ADD:614 
+	"de" Preposition PREP lang:es 00:00:46 00:00:53 tt-2076 MM014_1961_EP_SU2011_AD_09 @Gram:Prep ADD:624 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:46 00:00:53 tt-2077 MM014_1961_EP_SU2011_AD_09 
 "<tienen>"
 	"tener" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:46 00:00:53 tt-2078 MM014_1961_EP_SU2011_AD_09 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:46 00:00:53 tt-2079 MM014_1961_EP_SU2011_AD_09 @Gram:Prep ADD:614 
+	"de" Preposition PREP lang:es 00:00:46 00:00:53 tt-2079 MM014_1961_EP_SU2011_AD_09 @Gram:Prep ADD:624 
 "<ayudar>"
-	"ayudar" Verb VLinf Infinitive lang:es 00:00:53 00:00:54 tt-2080 MM014_1961_EP_SU2011_AD_09 SUBSTITUTE:320 
+	"ayudar" Verb VLinf Infinitive lang:es 00:00:53 00:00:54 tt-2080 MM014_1961_EP_SU2011_AD_09 SUBSTITUTE:329 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:53 00:00:54 tt-2081 MM014_1961_EP_SU2011_AD_09 @Gram:Prep SUBSTITUTE:389 ADD:614 
+	"a" Preposition PREP lang:es 00:00:53 00:00:54 tt-2081 MM014_1961_EP_SU2011_AD_09 @Gram:Prep SUBSTITUTE:398 ADD:624 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:53 00:00:54 tt-2082 MM014_1961_EP_SU2011_AD_09 @Gram:Det:Art ID:98 R:Gram:Det:DetCombi:99 ADD:416 ADDRELATION(Gram:Det:DetCombi):481 
+	"el" Determiner ART Singular Fem lang:es 00:00:53 00:00:54 tt-2082 MM014_1961_EP_SU2011_AD_09 @Gram:Det:Art ID:98 R:Gram:Det:Combi:99 ADD:426 ADDRELATION(Gram:Det:Combi):491 
 "<demás>"
 	"demás" Determiner QU lang:es 00:00:53 00:00:54 tt-2083 MM014_1961_EP_SU2011_AD_09 ID:99 
 "<gente>"

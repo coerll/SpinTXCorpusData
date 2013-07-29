@@ -1,8 +1,9 @@
 AM063_1992_CT_SU2012_CL_07
-@Gram : 63
-@Gram:Det : 10
+@Gram : 64
+@Gram:Det : 11
 @Gram:Det:Art : 9
 @Gram:Det:Demo : 1
+@Gram:Det:Pron : 1
 @Gram:Imperf : 3
 @Gram:Indefinido : 2
 @Gram:MSub : 1
@@ -24,13 +25,15 @@ AM063_1992_CT_SU2012_CL_07
 @Prag:RecuDiscurso : 1
 @Prag:RecuDiscurso:GanarTiempo : 1
 R:Func : 1
-R:Func:Expresar : 1
-R:Func:Expresar:Sugerencias : 1
+R:Func:Sugerencias : 1
 R:Gram : 5
 R:Gram:Det : 3
 R:Gram:Det:DetCombi : 3
 R:Gram:Gustar : 2
 R:Gram:Gustar:Propios : 2
+R:Herit : 2
+R:Herit:Contacto : 2
+R:Herit:Contacto:Mixtas : 2
 R:Prag : 5
 R:Prag:MarcadoresDisc : 5
 R:Prag:MarcadoresDisc:Igualdad : 2

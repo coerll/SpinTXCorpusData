@@ -1,9 +1,10 @@
 OF087_1992_CT_SU2012_OW_01
-@Gram : 73
-@Gram:Det : 10
+@Gram : 76
+@Gram:Det : 13
 @Gram:Det:Art : 5
 @Gram:Det:CuantIndef : 1
 @Gram:Det:Pos : 4
+@Gram:Det:Pron : 3
 @Gram:Imperf : 2
 @Gram:Indefinido : 11
 @Gram:Prep : 34
@@ -21,6 +22,9 @@ OF087_1992_CT_SU2012_OW_01
 R:Gram : 1
 R:Gram:Det : 1
 R:Gram:Det:LoAdj : 1
+R:Herit : 1
+R:Herit:Contacto : 1
+R:Herit:Contacto:Mixtas : 1
 R:Vocab : 1
 R:Vocab:Entities : 1
 R:Vocab:Entities:Geo : 1

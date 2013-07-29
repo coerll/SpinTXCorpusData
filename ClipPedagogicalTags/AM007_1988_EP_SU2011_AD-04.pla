@@ -1,10 +1,11 @@
 AM007_1988_EP_SU2011_AD-04
-@Gram : 253
-@Gram:Det : 54
+@Gram : 255
+@Gram:Det : 56
 @Gram:Det:Art : 42
 @Gram:Det:CuantIndef : 3
 @Gram:Det:Demo : 1
 @Gram:Det:Pos : 8
+@Gram:Det:Pron : 2
 @Gram:Haber : 3
 @Gram:Haber:Exist : 3
 @Gram:Imperf : 42
@@ -45,9 +46,9 @@ R:Gram:SerEstar : 4
 R:Gram:SerEstar:EstarAux : 4
 R:Gram:VFut : 1
 R:Gram:VFut:Perifrasis : 1
-R:Herit : 1
-R:Herit:Contacto : 1
-R:Herit:Contacto:Mixtas : 1
+R:Herit : 2
+R:Herit:Contacto : 2
+R:Herit:Contacto:Mixtas : 2
 R:Prag : 3
 R:Prag:MarcadoresDisc : 3
 R:Prag:MarcadoresDisc:Igualdad : 1

@@ -1,10 +1,11 @@
 AM048_1982_CT_SU2011_ER_05
-@Gram : 138
-@Gram:Det : 26
+@Gram : 139
+@Gram:Det : 27
 @Gram:Det:Art : 14
 @Gram:Det:CuantIndef : 7
 @Gram:Det:Demo : 2
 @Gram:Det:Pos : 3
+@Gram:Det:Pron : 1
 @Gram:Imperf : 11
 @Gram:Indefinido : 19
 @Gram:MImp : 1
@@ -36,6 +37,9 @@ R:Gram:Genero:ExcepMasc : 1
 R:Gram:PerfPerif : 2
 R:Gram:SerEstar : 1
 R:Gram:SerEstar:EstarAux : 1
+R:Herit : 1
+R:Herit:Contacto : 1
+R:Herit:Contacto:Mixtas : 1
 R:Prag : 5
 R:Prag:MarcadoresDisc : 5
 R:Prag:MarcadoresDisc:Igualdad : 5

@@ -14,7 +14,7 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:06 tt-1790 MM012_1925_EP_SU2011_AD_06 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:06 tt-1791 MM012_1925_EP_SU2011_AD_06 @Gram:SerEstar:Ser ADD:803 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:06 tt-1791 MM012_1925_EP_SU2011_AD_06 @Gram:SerEstar:Ser ADD:813 
 "<importante>"
 	"importante" Adjective ADJ Singular lang:es 00:00:00 00:00:06 tt-1792 MM012_1925_EP_SU2011_AD_06 
 "<ser>"
@@ -32,7 +32,7 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:08 00:00:12 tt-1798 MM012_1925_EP_SU2011_AD_06 
 "<Por>"
-	"por" Preposition PREP lang:es 00:00:08 00:00:12 tt-1799 MM012_1925_EP_SU2011_AD_06 @Gram:Prep:Por SUBSTITUTE:262 ADD:608 
+	"por" Preposition PREP lang:es 00:00:08 00:00:12 tt-1799 MM012_1925_EP_SU2011_AD_06 @Gram:Prep:Por SUBSTITUTE:269 SUBSTITUTE:270 ADD:618 
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:08 00:00:12 tt-1800 MM012_1925_EP_SU2011_AD_06 
 "<$?>"
@@ -45,19 +45,19 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:12 00:00:19 tt-1803 MM012_1925_EP_SU2011_AD_06 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:12 00:00:19 tt-1804 MM012_1925_EP_SU2011_AD_06 @Prag:MarcadoresDisc:Causa ADD:1085 
+	"porque" Conjunction CSUBX lang:es 00:00:12 00:00:19 tt-1804 MM012_1925_EP_SU2011_AD_06 @Prag:MarcadoresDisc:Causa ADD:1099 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:12 00:00:19 tt-1805 MM012_1925_EP_SU2011_AD_06 @Gram:SerEstar:Ser ADD:803 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:12 00:00:19 tt-1805 MM012_1925_EP_SU2011_AD_06 @Gram:SerEstar:Ser ADD:813 
 "<lo>"
-	"el" Determiner ART Singular lang:es 00:00:12 00:00:19 tt-1806 MM012_1925_EP_SU2011_AD_06 ID:22 R:Gram:Det:LoAdj:23 ADDRELATION(Gram:Det:LoAdj):421 
+	"el" Determiner ART Singular lang:es 00:00:12 00:00:19 tt-1806 MM012_1925_EP_SU2011_AD_06 ID:22 R:Gram:Det:LoAdj:23 ADDRELATION(Gram:Det:LoAdj):431 
 "<principal>"
 	"principal" Adjective ADJ Singular lang:es 00:00:12 00:00:19 tt-1807 MM012_1925_EP_SU2011_AD_06 ID:23 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:12 00:00:19 tt-1808 MM012_1925_EP_SU2011_AD_06 @Gram:Prep ADD:614 
+	"de" Preposition PREP lang:es 00:00:12 00:00:19 tt-1808 MM012_1925_EP_SU2011_AD_06 @Gram:Prep ADD:624 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:12 00:00:19 tt-1809 MM012_1925_EP_SU2011_AD_06 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:12 00:00:19 tt-1810 MM012_1925_EP_SU2011_AD_06 @Gram:Prep ADD:614 
+	"de" Preposition PREP lang:es 00:00:12 00:00:19 tt-1810 MM012_1925_EP_SU2011_AD_06 @Gram:Prep ADD:624 
 "<uno>"
 	"uno" Determiner CARD Singular lang:es 00:00:12 00:00:19 tt-1811 MM012_1925_EP_SU2011_AD_06 
 "<$.>"

@@ -1,10 +1,11 @@
 AF049_1993_CT_SU2011_ER_01
-@Gram : 62
-@Gram:Det : 12
+@Gram : 66
+@Gram:Det : 16
 @Gram:Det:Art : 6
 @Gram:Det:CuantIndef : 3
 @Gram:Det:Demo : 1
 @Gram:Det:Pos : 2
+@Gram:Det:Pron : 4
 @Gram:Indefinido : 1
 @Gram:MSub : 3
 @Gram:MSub:Pres : 1
@@ -29,6 +30,9 @@ R:Gram:SerEstar : 2
 R:Gram:SerEstar:EstarAux : 2
 R:Gram:VFut : 2
 R:Gram:VFut:Perifrasis : 2
+R:Herit : 1
+R:Herit:Contacto : 1
+R:Herit:Contacto:Mixtas : 1
 R:Prag : 2
 R:Prag:MarcadoresDisc : 2
 R:Prag:MarcadoresDisc:Igualdad : 1

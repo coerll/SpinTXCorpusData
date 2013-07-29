@@ -1,10 +1,11 @@
 MF085_1956_GV_SU2012_SB_02
-@Gram : 238
-@Gram:Det : 58
+@Gram : 239
+@Gram:Det : 59
 @Gram:Det:Art : 42
 @Gram:Det:CuantIndef : 3
 @Gram:Det:Demo : 2
 @Gram:Det:Pos : 11
+@Gram:Det:Pron : 1
 @Gram:Haber : 1
 @Gram:Haber:Exist : 1
 @Gram:Imperf : 20
@@ -44,6 +45,9 @@ R:Gram:SerEstar:EstarAux : 2
 R:Gram:SerEstar:Ser : 1
 R:Gram:VFut : 3
 R:Gram:VFut:Perifrasis : 3
+R:Herit : 2
+R:Herit:Contacto : 2
+R:Herit:Contacto:Mixtas : 2
 R:Prag : 4
 R:Prag:MarcadoresDisc : 4
 R:Prag:MarcadoresDisc:Igualdad : 4

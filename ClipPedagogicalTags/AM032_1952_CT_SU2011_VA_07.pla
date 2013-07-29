@@ -1,10 +1,11 @@
 AM032_1952_CT_SU2011_VA_07
-@Gram : 206
-@Gram:Det : 44
+@Gram : 210
+@Gram:Det : 48
 @Gram:Det:Art : 28
 @Gram:Det:CuantIndef : 1
 @Gram:Det:Demo : 5
 @Gram:Det:Pos : 10
+@Gram:Det:Pron : 4
 @Gram:Haber : 3
 @Gram:Haber:Exist : 3
 @Gram:Imperf : 20
@@ -36,6 +37,9 @@ R:Gram:MSub : 1
 R:Gram:MSub:Pret : 1
 R:Gram:SerEstar : 1
 R:Gram:SerEstar:EstarAux : 1
+R:Herit : 2
+R:Herit:Contacto : 2
+R:Herit:Contacto:Mixtas : 2
 R:Vocab : 4
 R:Vocab:Entities : 3
 R:Vocab:Entities:Geo : 3
