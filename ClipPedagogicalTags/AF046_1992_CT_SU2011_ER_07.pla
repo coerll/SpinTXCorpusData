@@ -1,11 +1,11 @@
 AF046_1992_CT_SU2011_ER_07
-@Gram : 161
-@Gram:Det : 41
+@Gram : 164
+@Gram:Det : 44
 @Gram:Det:Art : 21
 @Gram:Det:CuantIndef : 4
 @Gram:Det:Demo : 4
 @Gram:Det:Pos : 5
-@Gram:Det:Pron : 7
+@Gram:Det:Pron : 10
 @Gram:Haber : 1
 @Gram:Haber:Exist : 1
 @Gram:Indefinido : 1
@@ -32,7 +32,7 @@ R:Gram : 15
 R:Gram:Aux : 3
 R:Gram:Aux:Haber : 3
 R:Gram:Det : 4
-R:Gram:Det:DetCombi : 2
+R:Gram:Det:Combi : 2
 R:Gram:Det:LoAdj : 2
 R:Gram:Genero : 2
 R:Gram:Genero:ExcepMasc : 2
@@ -45,8 +45,9 @@ R:Prag : 3
 R:Prag:MarcadoresDisc : 3
 R:Prag:MarcadoresDisc:Igualdad : 2
 R:Prag:MarcadoresDisc:Revision : 1
-R:Vocab : 7
+R:Vocab : 9
 R:Vocab:Entities : 3
 R:Vocab:Entities:Geo : 3
-R:Vocab:Fraseol : 4
+R:Vocab:Fraseol : 6
+R:Vocab:Fraseol:LocAdv : 2
 R:Vocab:Fraseol:VerbPrep : 4

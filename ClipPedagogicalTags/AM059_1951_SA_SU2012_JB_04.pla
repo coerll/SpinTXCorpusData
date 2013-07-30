@@ -1,5 +1,5 @@
 AM059_1951_SA_SU2012_JB_04
-@Gram : 141
+@Gram : 140
 @Gram:Det : 36
 @Gram:Det:Art : 27
 @Gram:Det:CuantIndef : 5
@@ -8,7 +8,7 @@ AM059_1951_SA_SU2012_JB_04
 @Gram:Indefinido : 3
 @Gram:MSub : 1
 @Gram:MSub:Pret : 1
-@Gram:Prep : 45
+@Gram:Prep : 44
 @Gram:Prep:Para : 2
 @Gram:Prep:Por : 2
 @Gram:Pron : 31
@@ -24,11 +24,13 @@ AM059_1951_SA_SU2012_JB_04
 @Prag:MarcadoresDisc:Revision : 7
 @Prag:RecuDiscurso : 7
 @Prag:RecuDiscurso:GanarTiempo : 7
+R:Func : 1
+R:Func:Agradecer : 1
 R:Gram : 18
 R:Gram:Aux : 3
 R:Gram:Aux:Haber : 3
 R:Gram:Det : 4
-R:Gram:Det:DetCombi : 2
+R:Gram:Det:Combi : 2
 R:Gram:Det:LoAdj : 2
 R:Gram:Genero : 2
 R:Gram:Genero:ExcepMasc : 2
@@ -40,8 +42,9 @@ R:Gram:VFut:Perifrasis : 5
 R:Herit : 1
 R:Herit:Contacto : 1
 R:Herit:Contacto:Mixtas : 1
-R:Prag : 5
-R:Prag:MarcadoresDisc : 5
+R:Prag : 6
+R:Prag:MarcadoresDisc : 6
+R:Prag:MarcadoresDisc:Causa : 1
 R:Prag:MarcadoresDisc:Igualdad : 5
 R:Vocab : 3
 R:Vocab:Entities : 2

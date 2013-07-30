@@ -37,7 +37,7 @@ R:Gram : 8
 R:Gram:Aux : 1
 R:Gram:Aux:Haber : 1
 R:Gram:Det : 1
-R:Gram:Det:DetCombi : 1
+R:Gram:Det:Combi : 1
 R:Gram:Gustar : 2
 R:Gram:Gustar:Propios : 2
 R:Gram:PerfPerif : 1
@@ -48,8 +48,9 @@ R:Gram:VFut:Perifrasis : 2
 R:Prag : 2
 R:Prag:MarcadoresDisc : 2
 R:Prag:MarcadoresDisc:Igualdad : 2
-R:Vocab : 9
+R:Vocab : 10
 R:Vocab:Entities : 8
 R:Vocab:Entities:Geo : 8
-R:Vocab:Fraseol : 1
+R:Vocab:Fraseol : 2
+R:Vocab:Fraseol:LocAdv : 1
 R:Vocab:Fraseol:VerbPrep : 1

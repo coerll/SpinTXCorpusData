@@ -1,5 +1,5 @@
 MF025_1967_CT_SU2011_VA_04
-@Gram : 137
+@Gram : 136
 @Gram:Det : 31
 @Gram:Det:Art : 18
 @Gram:Det:CuantIndef : 2
@@ -10,7 +10,7 @@ MF025_1967_CT_SU2011_VA_04
 @Gram:MSub : 5
 @Gram:MSub:Pres : 1
 @Gram:MSub:Pret : 4
-@Gram:Prep : 47
+@Gram:Prep : 46
 @Gram:Prep:Para : 6
 @Gram:Prep:Por : 1
 @Gram:Pron : 33
@@ -24,7 +24,8 @@ MF025_1967_CT_SU2011_VA_04
 @Prag:MarcadoresDisc:Causa : 6
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:MarcadoresDisc:Revision : 2
-R:Func : 1
+R:Func : 3
+R:Func:Agradecer : 2
 R:Func:Sugerencias : 1
 R:Gram : 17
 R:Gram:Aux : 2
@@ -36,6 +37,9 @@ R:Gram:SerEstar : 1
 R:Gram:SerEstar:EstarAux : 1
 R:Gram:VFut : 7
 R:Gram:VFut:Perifrasis : 7
+R:Prag : 1
+R:Prag:MarcadoresDisc : 1
+R:Prag:MarcadoresDisc:Causa : 1
 R:Vocab : 2
 R:Vocab:Fraseol : 2
 R:Vocab:Fraseol:VerbPrep : 2

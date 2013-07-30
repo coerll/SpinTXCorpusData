@@ -35,7 +35,7 @@
 	"." Punctuation FS lang:es 00:00:03 00:00:06 tt-4143 MF018_1963_EP_SU2011_AD_08 
 
 "<Está>"
-	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:00:03 00:00:06 tt-4144 MF018_1963_EP_SU2011_AD_08 @Gram:SerEstar:Estar ADD:822 
+	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:00:03 00:00:06 tt-4144 MF018_1963_EP_SU2011_AD_08 @Gram:SerEstar:Estar 
 "<bien>"
 	"bien" Adverb ADV lang:es 00:00:03 00:00:06 tt-4145 MF018_1963_EP_SU2011_AD_08 
 "<$.>"
@@ -44,11 +44,11 @@
 <speaker type="int">
 
 "<La>"
-	"el" Determiner ART Singular Fem lang:es 00:00:06 00:00:09 tt-4147 MF018_1963_EP_SU2011_AD_08 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Singular Fem lang:es 00:00:06 00:00:09 tt-4147 MF018_1963_EP_SU2011_AD_08 @Gram:Det:Art 
 "<falta>"
 	"falta" Noun NC Singular lang:es 00:00:06 00:00:09 tt-4148 MF018_1963_EP_SU2011_AD_08 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:06 00:00:09 tt-4149 MF018_1963_EP_SU2011_AD_08 @Gram:Prep ADD:624 
+	"del" Preposition PDEL lang:es 00:00:06 00:00:09 tt-4149 MF018_1963_EP_SU2011_AD_08 @Gram:Prep 
 "<estudio>"
 	"estudio" Noun NC Singular lang:es 00:00:06 00:00:09 tt-4150 MF018_1963_EP_SU2011_AD_08 
 "<$.>"
@@ -64,7 +64,7 @@
 	"." Punctuation FS lang:es 00:00:09 00:00:12 tt-4155 MF018_1963_EP_SU2011_AD_08 
 
 "<Este>"
-	"este" Determiner DM Singular lang:es 00:00:09 00:00:12 tt-4156 MF018_1963_EP_SU2011_AD_08 @Prag:RecuDiscurso:GanarTiempo ADD:1169 
+	"este" Determiner DM Singular lang:es 00:00:09 00:00:12 tt-4156 MF018_1963_EP_SU2011_AD_08 @Prag:RecuDiscurso:GanarTiempo 
 "<,>"
 	"," Punctuation CM lang:es 00:00:09 00:00:12 tt-4157 MF018_1963_EP_SU2011_AD_08 
 "<tengo>"
@@ -72,7 +72,7 @@
 "<cuarenta>"
 	"cuarenta" Determiner CARD Singular lang:es 00:00:09 00:00:12 tt-4159 MF018_1963_EP_SU2011_AD_08 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:09 00:00:12 tt-4160 MF018_1963_EP_SU2011_AD_08 SUBSTITUTE:394 
+	"y" Conjunciton Conjunction CC lang:es 00:00:09 00:00:12 tt-4160 MF018_1963_EP_SU2011_AD_08 
 "<ocho>"
 	"ocho" Determiner CARD Singular lang:es 00:00:09 00:00:12 tt-4161 MF018_1963_EP_SU2011_AD_08 
 "<años>"
@@ -124,7 +124,7 @@
 "<mero>"
 	"merar" Verb VLfin Pres Indi Sing 1st lang:es 00:00:17 00:00:19 tt-4182 MF018_1963_EP_SU2011_AD_08 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:17 00:00:19 tt-4183 MF018_1963_EP_SU2011_AD_08 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Singular Masc lang:es 00:00:17 00:00:19 tt-4183 MF018_1963_EP_SU2011_AD_08 @Gram:Det:Art 
 "<tostón>"
 	"UNK" Noun NC Singular lang:es 00:00:17 00:00:19 tt-4184 MF018_1963_EP_SU2011_AD_08 
 "<$.>"
@@ -142,13 +142,13 @@
 "<sabes>"
 	"saber" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:20 00:00:23 tt-4190 MF018_1963_EP_SU2011_AD_08 
 "<lo>"
-	"el" Determiner ART Singular lang:es 00:00:20 00:00:23 tt-4191 MF018_1963_EP_SU2011_AD_08 ID:62 R:Gram:Det:LoAdj:63 ADDRELATION(Gram:Det:LoAdj):432 
+	"el" Determiner ART Singular lang:es 00:00:20 00:00:23 tt-4191 MF018_1963_EP_SU2011_AD_08 ID:62 R:Gram:Det:LoAdj:63 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:20 00:00:23 tt-4192 MF018_1963_EP_SU2011_AD_08 ID:63 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:20 00:00:23 tt-4193 MF018_1963_EP_SU2011_AD_08 @Gram:SerEstar:Ser ADD:813 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:20 00:00:23 tt-4193 MF018_1963_EP_SU2011_AD_08 @Gram:SerEstar:Ser 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:20 00:00:23 tt-4194 MF018_1963_EP_SU2011_AD_08 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Singular Masc lang:es 00:00:20 00:00:23 tt-4194 MF018_1963_EP_SU2011_AD_08 @Gram:Det:Art 
 "<tostón>"
 	"UNK" Noun NC Singular lang:es 00:00:20 00:00:23 tt-4195 MF018_1963_EP_SU2011_AD_08 
 "<,>"
@@ -174,7 +174,7 @@
 <speaker type="subj">
 
 "<Los>"
-	"el" Determiner ART Plural Masc lang:es 00:00:24 00:00:25 tt-4205 MF018_1963_EP_SU2011_AD_08 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Plural Masc lang:es 00:00:24 00:00:25 tt-4205 MF018_1963_EP_SU2011_AD_08 @Gram:Det:Art 
 "<cincuenta>"
 	"cincuenta" Determiner CARD Singular lang:es 00:00:24 00:00:25 tt-4206 MF018_1963_EP_SU2011_AD_08 
 "<años>"
@@ -190,7 +190,7 @@
 	"." Punctuation FS lang:es 00:00:25 00:00:26 tt-4210 MF018_1963_EP_SU2011_AD_08 
 
 "<Es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:26 00:00:27 tt-4211 MF018_1963_EP_SU2011_AD_08 @Gram:SerEstar:Ser ADD:813 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:26 00:00:27 tt-4211 MF018_1963_EP_SU2011_AD_08 @Gram:SerEstar:Ser 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:00:26 00:00:27 tt-4212 MF018_1963_EP_SU2011_AD_08 
 "<tostón>"
@@ -201,13 +201,13 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:27 00:00:29 tt-4215 MF018_1963_EP_SU2011_AD_08 
 "<Por>"
-	"por" Preposition PREP lang:es 00:00:27 00:00:29 tt-4216 MF018_1963_EP_SU2011_AD_08 @Gram:Prep:Por SUBSTITUTE:269 SUBSTITUTE:270 ADD:618 
+	"por" Preposition PREP lang:es 00:00:27 00:00:29 tt-4216 MF018_1963_EP_SU2011_AD_08 @Gram:Prep:Por 
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:27 00:00:29 tt-4217 MF018_1963_EP_SU2011_AD_08 
 "<se>"
-	"se" Other SE lang:es 00:00:27 00:00:29 tt-4218 MF018_1963_EP_SU2011_AD_08 @Gram:Pron:Otros ADD:677 
+	"se" Other SE lang:es 00:00:27 00:00:29 tt-4218 MF018_1963_EP_SU2011_AD_08 @Gram:Pron:Otros 
 "<le>"
-	"él" Pronoun PPC Singular lang:es 00:00:27 00:00:29 tt-4219 MF018_1963_EP_SU2011_AD_08 @Gram:Pron:Objeto ADD:664 
+	"él" Pronoun PPC Singular lang:es 00:00:27 00:00:29 tt-4219 MF018_1963_EP_SU2011_AD_08 @Gram:Pron:Objeto 
 "<dice>"
 	"decir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:27 00:00:29 tt-4220 MF018_1963_EP_SU2011_AD_08 
 "<así>"
@@ -218,9 +218,9 @@
 <speaker type="subj">
 
 "<Porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:29 00:00:33 tt-4223 MF018_1963_EP_SU2011_AD_08 @Prag:MarcadoresDisc:Causa ADD:1099 
+	"porque" Conjunction CSUBX lang:es 00:00:29 00:00:33 tt-4223 MF018_1963_EP_SU2011_AD_08 @Prag:MarcadoresDisc:Causa 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:29 00:00:33 tt-4224 MF018_1963_EP_SU2011_AD_08 @Gram:SerEstar:Ser ADD:813 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:29 00:00:33 tt-4224 MF018_1963_EP_SU2011_AD_08 @Gram:SerEstar:Ser 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:00:29 00:00:33 tt-4225 MF018_1963_EP_SU2011_AD_08 
 "<cincuenta>"
@@ -233,9 +233,9 @@
 "<moneda>"
 	"moneda" Noun NC Singular lang:es 00:00:29 00:00:33 tt-4229 MF018_1963_EP_SU2011_AD_08 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:29 00:00:33 tt-4230 MF018_1963_EP_SU2011_AD_08 @Gram:Prep ADD:624 
+	"de" Preposition PREP lang:es 00:00:29 00:00:33 tt-4230 MF018_1963_EP_SU2011_AD_08 @Gram:Prep 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:29 00:00:33 tt-4231 MF018_1963_EP_SU2011_AD_08 @Gram:Prep SUBSTITUTE:398 ADD:624 
+	"a" Preposition PREP lang:es 00:00:29 00:00:33 tt-4231 MF018_1963_EP_SU2011_AD_08 @Gram:Prep 
 "<cincuenta>"
 	"cincuenta" Determiner CARD Singular lang:es 00:00:29 00:00:33 tt-4232 MF018_1963_EP_SU2011_AD_08 
 "<$.>"
@@ -257,19 +257,19 @@
 "<Allá>"
 	"allá" Adverb ADV lang:es 00:00:35 00:00:39 tt-4238 MF018_1963_EP_SU2011_AD_08 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:35 00:00:39 tt-4239 MF018_1963_EP_SU2011_AD_08 @Gram:Prep ADD:624 
+	"en" Preposition PREP lang:es 00:00:35 00:00:39 tt-4239 MF018_1963_EP_SU2011_AD_08 @Gram:Prep 
 "<México>"
 	"México" Noun NP Singular lang:es 00:00:35 00:00:39 tt-4240 MF018_1963_EP_SU2011_AD_08 
 "<así>"
 	"así" Conjunction CSUBX lang:es 00:00:35 00:00:39 tt-4241 MF018_1963_EP_SU2011_AD_08 
 "<se>"
-	"se" Other SE lang:es 00:00:35 00:00:39 tt-4242 MF018_1963_EP_SU2011_AD_08 @Gram:Pron:Otros ADD:677 
+	"se" Other SE lang:es 00:00:35 00:00:39 tt-4242 MF018_1963_EP_SU2011_AD_08 @Gram:Pron:Otros 
 "<les>"
-	"él" Pronoun PPC Plural lang:es 00:00:35 00:00:39 tt-4243 MF018_1963_EP_SU2011_AD_08 @Gram:Pron:Objeto ADD:664 
+	"él" Pronoun PPC Plural lang:es 00:00:35 00:00:39 tt-4243 MF018_1963_EP_SU2011_AD_08 @Gram:Pron:Objeto 
 "<dice>"
 	"decir" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:35 00:00:39 tt-4244 MF018_1963_EP_SU2011_AD_08 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:35 00:00:39 tt-4245 MF018_1963_EP_SU2011_AD_08 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Singular Masc lang:es 00:00:35 00:00:39 tt-4245 MF018_1963_EP_SU2011_AD_08 @Gram:Det:Art 
 "<tostón>"
 	"UNK" Noun NC Singular lang:es 00:00:35 00:00:39 tt-4246 MF018_1963_EP_SU2011_AD_08 
 "<$.>"

@@ -28,7 +28,7 @@ MM005_1967_EP_SU2011_AD_02
 @Prag:RecuDiscurso:GanarTiempo : 2
 R:Gram : 6
 R:Gram:Det : 1
-R:Gram:Det:DetCombi : 1
+R:Gram:Det:Combi : 1
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepMasc : 1
 R:Gram:Gustar : 2
@@ -38,6 +38,7 @@ R:Gram:SerEstar : 1
 R:Gram:SerEstar:EstarAux : 1
 R:Gram:VFut : 1
 R:Gram:VFut:Perifrasis : 1
-R:Vocab : 1
-R:Vocab:Fraseol : 1
+R:Vocab : 2
+R:Vocab:Fraseol : 2
+R:Vocab:Fraseol:LocAdv : 1
 R:Vocab:Fraseol:VerbPrep : 1

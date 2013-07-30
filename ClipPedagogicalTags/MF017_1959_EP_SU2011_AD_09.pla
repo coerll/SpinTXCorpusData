@@ -23,7 +23,7 @@ MF017_1959_EP_SU2011_AD_09
 @Prag:RecuDiscurso:GanarTiempo : 1
 R:Gram : 3
 R:Gram:Det : 1
-R:Gram:Det:DetCombi : 1
+R:Gram:Det:Combi : 1
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepMasc : 1
 R:Gram:SerEstar : 1
@@ -34,6 +34,7 @@ R:Herit:Contacto:Mixtas : 1
 R:Prag : 5
 R:Prag:MarcadoresDisc : 5
 R:Prag:MarcadoresDisc:Igualdad : 5
-R:Vocab : 1
-R:Vocab:Fraseol : 1
+R:Vocab : 2
+R:Vocab:Fraseol : 2
+R:Vocab:Fraseol:LocAdv : 1
 R:Vocab:Fraseol:VerbPrep : 1

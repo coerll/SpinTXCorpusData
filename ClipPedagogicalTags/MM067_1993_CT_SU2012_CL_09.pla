@@ -1,5 +1,5 @@
 MM067_1993_CT_SU2012_CL_09
-@Gram : 118
+@Gram : 117
 @Gram:Det : 21
 @Gram:Det:Art : 16
 @Gram:Det:Demo : 2
@@ -10,7 +10,7 @@ MM067_1993_CT_SU2012_CL_09
 @Gram:Indefinido : 14
 @Gram:MSub : 2
 @Gram:MSub:Pres : 2
-@Gram:Prep : 50
+@Gram:Prep : 49
 @Gram:Prep:Para : 3
 @Gram:Prep:Por : 2
 @Gram:Pron : 17
@@ -27,9 +27,11 @@ MM067_1993_CT_SU2012_CL_09
 @Prag:MarcadoresDisc:Revision : 7
 @Prag:RecuDiscurso : 1
 @Prag:RecuDiscurso:GanarTiempo : 1
+R:Func : 1
+R:Func:Agradecer : 1
 R:Gram : 4
 R:Gram:Det : 2
-R:Gram:Det:DetCombi : 1
+R:Gram:Det:Combi : 1
 R:Gram:Det:LoAdj : 1
 R:Gram:MSub : 1
 R:Gram:MSub:Pret : 1
@@ -38,8 +40,9 @@ R:Gram:SerEstar:EstarAux : 1
 R:Herit : 1
 R:Herit:Contacto : 1
 R:Herit:Contacto:Mixtas : 1
-R:Prag : 1
-R:Prag:MarcadoresDisc : 1
+R:Prag : 2
+R:Prag:MarcadoresDisc : 2
+R:Prag:MarcadoresDisc:Causa : 1
 R:Prag:MarcadoresDisc:Igualdad : 1
 R:Vocab : 3
 R:Vocab:Entities : 2

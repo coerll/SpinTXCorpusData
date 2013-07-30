@@ -26,12 +26,13 @@ MF019_1971_CT_SU2011_VA_09
 @Prag:MarcadoresDisc : 5
 @Prag:MarcadoresDisc:Causa : 4
 @Prag:MarcadoresDisc:Revision : 1
-R:Func : 1
+R:Func : 2
 R:Func:Deseos : 1
 R:Func:Deseos:Ajenos : 1
+R:Func:Necesidades : 1
 R:Gram : 13
 R:Gram:Det : 9
-R:Gram:Det:DetCombi : 6
+R:Gram:Det:Combi : 6
 R:Gram:Det:LoAdj : 3
 R:Gram:SerEstar : 2
 R:Gram:SerEstar:EstarAux : 2
@@ -41,8 +42,9 @@ R:Prag : 4
 R:Prag:MarcadoresDisc : 4
 R:Prag:MarcadoresDisc:Igualdad : 3
 R:Prag:MarcadoresDisc:Probabilidad : 1
-R:Vocab : 3
+R:Vocab : 4
 R:Vocab:Entities : 2
 R:Vocab:Entities:Geo : 2
-R:Vocab:Fraseol : 1
+R:Vocab:Fraseol : 2
+R:Vocab:Fraseol:LocAdv : 1
 R:Vocab:Fraseol:VerbPrep : 1

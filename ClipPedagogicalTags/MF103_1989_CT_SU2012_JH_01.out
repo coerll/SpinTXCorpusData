@@ -7,24 +7,24 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:00 00:00:07 tt-31 MF103_1989_CT_SU2012_JH_01 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-32 MF103_1989_CT_SU2012_JH_01 @Gram:Det:Pos ADD:456 
+	"mío" Pronoun PPO Singular lang:es 00:00:00 00:00:07 tt-32 MF103_1989_CT_SU2012_JH_01 @Gram:Det:Pos 
 "<nombre>"
 	"nombre" Noun NC Singular lang:es 00:00:00 00:00:07 tt-33 MF103_1989_CT_SU2012_JH_01 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-34 MF103_1989_CT_SU2012_JH_01 @Gram:SerEstar:Ser ADD:813 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-34 MF103_1989_CT_SU2012_JH_01 @Gram:SerEstar:Ser 
 "<Humberto>"
 	"Humberto" Noun NP Singular lang:es 00:00:00 00:00:07 tt-35 MF103_1989_CT_SU2012_JH_01 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:00 00:00:07 tt-36 MF103_1989_CT_SU2012_JH_01 
 
 "<Soy>"
-	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:00:00 00:00:07 tt-37 MF103_1989_CT_SU2012_JH_01 @Gram:SerEstar:Ser ADD:813 
+	"ser" Verb VSfin Pres Indi Sing 1st lang:es 00:00:00 00:00:07 tt-37 MF103_1989_CT_SU2012_JH_01 @Gram:SerEstar:Ser 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:00 00:00:07 tt-38 MF103_1989_CT_SU2012_JH_01 
 "<nací>"
-	"nacer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:00 00:00:07 tt-39 MF103_1989_CT_SU2012_JH_01 @Gram:Indefinido ADD:698 
+	"nacer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:00 00:00:07 tt-39 MF103_1989_CT_SU2012_JH_01 @Gram:Indefinido 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-40 MF103_1989_CT_SU2012_JH_01 @Gram:Prep ADD:624 
+	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-40 MF103_1989_CT_SU2012_JH_01 @Gram:Prep 
 "<San>"
 	"Santo" Noun NP Singular lang:es 00:00:00 00:00:07 tt-41 MF103_1989_CT_SU2012_JH_01 
 "<Juan>"
@@ -41,17 +41,17 @@
 "<actualmente>"
 	"actualmente" Adverb ADV lang:es 00:00:00 00:00:07 tt-47 MF103_1989_CT_SU2012_JH_01 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:00 00:00:07 tt-48 MF103_1989_CT_SU2012_JH_01 @Gram:SerEstar:Estar ID:19 R:Gram:SerEstar:EstarAux:20 ADD:822 ADDRELATION(Gram:SerEstar:EstarAux):838 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:00 00:00:07 tt-48 MF103_1989_CT_SU2012_JH_01 @Gram:SerEstar:Estar ID:19 R:Gram:SerEstar:EstarAux:20 
 "<viviendo>"
 	"vivir" Verb VLger lang:es 00:00:07 00:00:12 tt-49 MF103_1989_CT_SU2012_JH_01 ID:20 
 "<con>"
-	"con" Preposition PREP lang:es 00:00:07 00:00:12 tt-50 MF103_1989_CT_SU2012_JH_01 @Gram:Prep ADD:624 
+	"con" Preposition PREP lang:es 00:00:07 00:00:12 tt-50 MF103_1989_CT_SU2012_JH_01 @Gram:Prep 
 "<mis>"
-	"mío" Pronoun PPO Plural lang:es 00:00:07 00:00:12 tt-51 MF103_1989_CT_SU2012_JH_01 @Gram:Det:Pos SUBSTITUTE:318 ADD:457 
+	"mío" Pronoun PPO Plural lang:es 00:00:07 00:00:12 tt-51 MF103_1989_CT_SU2012_JH_01 @Gram:Det:Pos 
 "<papás>"
 	"papá" Noun NC Plural lang:es 00:00:07 00:00:12 tt-52 MF103_1989_CT_SU2012_JH_01 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:07 00:00:12 tt-53 MF103_1989_CT_SU2012_JH_01 @Gram:Prep ADD:624 
+	"en" Preposition PREP lang:es 00:00:07 00:00:12 tt-53 MF103_1989_CT_SU2012_JH_01 @Gram:Prep 
 <lang code="en">
 "<Mission>"
 	"Mission" Noun NP Singular lang:en 00:00:07 00:00:12 tt-54 MF103_1989_CT_SU2012_JH_01 
@@ -60,9 +60,9 @@
 	"." Punctuation FS lang:es 00:00:07 00:00:12 tt-55 MF103_1989_CT_SU2012_JH_01 
 
 "<Y>"
-	"y" Conjunciton CC lang:es 00:00:07 00:00:12 tt-56 MF103_1989_CT_SU2012_JH_01 SUBSTITUTE:394 SUBSTITUTE:395 
+	"y" Conjunciton CC lang:es 00:00:07 00:00:12 tt-56 MF103_1989_CT_SU2012_JH_01 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:07 00:00:12 tt-57 MF103_1989_CT_SU2012_JH_01 @Gram:SerEstar:Ser ADD:813 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:07 00:00:12 tt-57 MF103_1989_CT_SU2012_JH_01 @Gram:SerEstar:Ser 
 "<todo>"
 	"todo" Determiner QU lang:es 00:00:07 00:00:12 tt-58 MF103_1989_CT_SU2012_JH_01 
 "<$.>"
@@ -83,13 +83,13 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:12 00:00:15 tt-64 MF103_1989_CT_SU2012_JH_01 
 "<Y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:12 00:00:15 tt-65 MF103_1989_CT_SU2012_JH_01 SUBSTITUTE:394 
+	"y" Conjunciton Conjunction CC lang:es 00:00:12 00:00:15 tt-65 MF103_1989_CT_SU2012_JH_01 
 "<vienes>"
 	"venir" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:12 00:00:15 tt-66 MF103_1989_CT_SU2012_JH_01 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:12 00:00:15 tt-67 MF103_1989_CT_SU2012_JH_01 @Gram:Prep SUBSTITUTE:398 ADD:624 
+	"a" Preposition PREP lang:es 00:00:12 00:00:15 tt-67 MF103_1989_CT_SU2012_JH_01 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:12 00:00:15 tt-68 MF103_1989_CT_SU2012_JH_01 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Singular Fem lang:es 00:00:12 00:00:15 tt-68 MF103_1989_CT_SU2012_JH_01 @Gram:Det:Art 
 "<universidad>"
 	"universidad" Noun NC Singular lang:es 00:00:12 00:00:15 tt-69 MF103_1989_CT_SU2012_JH_01 
 "<aquí>"
@@ -108,9 +108,9 @@
 "<aquí>"
 	"aquí" Adverb ADV lang:es 00:00:15 00:00:22 tt-75 MF103_1989_CT_SU2012_JH_01 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:15 00:00:22 tt-76 MF103_1989_CT_SU2012_JH_01 @Gram:Prep SUBSTITUTE:398 ADD:624 
+	"a" Preposition PREP lang:es 00:00:15 00:00:22 tt-76 MF103_1989_CT_SU2012_JH_01 @Gram:Prep 
 "<estudiar>"
-	"estudiar" Verb VLinf Infinitive lang:es 00:00:15 00:00:22 tt-77 MF103_1989_CT_SU2012_JH_01 SUBSTITUTE:329 
+	"estudiar" Verb VLinf Infinitive lang:es 00:00:15 00:00:22 tt-77 MF103_1989_CT_SU2012_JH_01 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:15 00:00:22 tt-78 MF103_1989_CT_SU2012_JH_01 
 
@@ -119,7 +119,7 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:15 00:00:22 tt-80 MF103_1989_CT_SU2012_JH_01 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:15 00:00:22 tt-81 MF103_1989_CT_SU2012_JH_01 @Gram:SerEstar:Estar ID:52 R:Gram:SerEstar:EstarAux:53 ADD:822 ADDRELATION(Gram:SerEstar:EstarAux):838 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:15 00:00:22 tt-81 MF103_1989_CT_SU2012_JH_01 @Gram:SerEstar:Estar ID:52 R:Gram:SerEstar:EstarAux:53 
 "<estudiando>"
 	"estudiar" Verb VLger lang:es 00:00:15 00:00:22 tt-82 MF103_1989_CT_SU2012_JH_01 ID:53 
 <lang code="en">
@@ -129,13 +129,13 @@
 	"justice" Noun NN lang:en 00:00:15 00:00:22 tt-84 MF103_1989_CT_SU2012_JH_01 
 </lang>
 "<con>"
-	"con" Preposition PREP lang:es 00:00:15 00:00:22 tt-85 MF103_1989_CT_SU2012_JH_01 @Gram:Prep ADD:624 
+	"con" Preposition PREP lang:es 00:00:15 00:00:22 tt-85 MF103_1989_CT_SU2012_JH_01 @Gram:Prep 
 "<una>"
 	"un" Determiner ART Singular lang:es 00:00:15 00:00:22 tt-86 MF103_1989_CT_SU2012_JH_01 
 "<minoría>"
 	"minoría" Noun NC Singular lang:es 00:00:15 00:00:22 tt-87 MF103_1989_CT_SU2012_JH_01 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:22 00:00:23 tt-88 MF103_1989_CT_SU2012_JH_01 @Gram:Prep ADD:624 
+	"en" Preposition PREP lang:es 00:00:22 00:00:23 tt-88 MF103_1989_CT_SU2012_JH_01 @Gram:Prep 
 "<español>"
 	"español" Noun NC Singular lang:es 00:00:22 00:00:23 tt-89 MF103_1989_CT_SU2012_JH_01 
 "<$.>"
@@ -155,15 +155,15 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:23 00:00:26 tt-95 MF103_1989_CT_SU2012_JH_01 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:23 00:00:26 tt-96 MF103_1989_CT_SU2012_JH_01 @Gram:Prep ADD:624 
+	"de" Preposition PREP lang:es 00:00:23 00:00:26 tt-96 MF103_1989_CT_SU2012_JH_01 @Gram:Prep 
 "<chico>"
 	"chico" Adjective ADJ Singular lang:es 00:00:23 00:00:26 tt-97 MF103_1989_CT_SU2012_JH_01 
 "<te>"
-	"tú" Pronoun PPX Singular lang:es 00:00:23 00:00:26 tt-98 MF103_1989_CT_SU2012_JH_01 @Gram:Pron:Objeto ADD:658 
+	"tú" Pronoun PPX Singular lang:es 00:00:23 00:00:26 tt-98 MF103_1989_CT_SU2012_JH_01 @Gram:Pron:Objeto 
 "<gustaba>"
-	"gustar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:23 00:00:26 tt-99 MF103_1989_CT_SU2012_JH_01 @Gram:Imperf @Gram:Gustar:Interlocutor ADD:689 ADD:739 
+	"gustar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:23 00:00:26 tt-99 MF103_1989_CT_SU2012_JH_01 @Gram:Imperf @Gram:Gustar:Interlocutor 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:23 00:00:26 tt-100 MF103_1989_CT_SU2012_JH_01 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Singular Fem lang:es 00:00:23 00:00:26 tt-100 MF103_1989_CT_SU2012_JH_01 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:00:23 00:00:26 tt-101 MF103_1989_CT_SU2012_JH_01 
 "<$?>"
@@ -179,25 +179,25 @@
 "<Siempre>"
 	"siempre" Adverb ADV lang:es 00:00:26 00:00:30 tt-105 MF103_1989_CT_SU2012_JH_01 
 "<fui>"
-	"ir|ser" Verb VLfin Pret Indi Sing 1st lang:es 00:00:26 00:00:30 tt-106 MF103_1989_CT_SU2012_JH_01 @Gram:Indefinido ADD:698 
+	"ir|ser" Verb VLfin Pret Indi Sing 1st lang:es 00:00:26 00:00:30 tt-106 MF103_1989_CT_SU2012_JH_01 @Gram:Indefinido 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:26 00:00:30 tt-107 MF103_1989_CT_SU2012_JH_01 
 "<atento>"
 	"atento" Adjective ADJ Singular lang:es 00:00:26 00:00:30 tt-108 MF103_1989_CT_SU2012_JH_01 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:26 00:00:30 tt-109 MF103_1989_CT_SU2012_JH_01 SUBSTITUTE:394 
+	"y" Conjunciton Conjunction CC lang:es 00:00:26 00:00:30 tt-109 MF103_1989_CT_SU2012_JH_01 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:26 00:00:30 tt-110 MF103_1989_CT_SU2012_JH_01 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:26 00:00:30 tt-111 MF103_1989_CT_SU2012_JH_01 @Gram:Prep SUBSTITUTE:398 ADD:624 
+	"a" Preposition PREP lang:es 00:00:26 00:00:30 tt-111 MF103_1989_CT_SU2012_JH_01 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:26 00:00:30 tt-112 MF103_1989_CT_SU2012_JH_01 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Singular Fem lang:es 00:00:26 00:00:30 tt-112 MF103_1989_CT_SU2012_JH_01 @Gram:Det:Art 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:26 00:00:30 tt-113 MF103_1989_CT_SU2012_JH_01 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:26 00:00:30 tt-114 MF103_1989_CT_SU2012_JH_01 @Gram:Prep SUBSTITUTE:398 ADD:624 
+	"a" Preposition PREP lang:es 00:00:26 00:00:30 tt-114 MF103_1989_CT_SU2012_JH_01 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:26 00:00:30 tt-115 MF103_1989_CT_SU2012_JH_01 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Singular Fem lang:es 00:00:26 00:00:30 tt-115 MF103_1989_CT_SU2012_JH_01 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:00:26 00:00:30 tt-116 MF103_1989_CT_SU2012_JH_01 
 "<$.>"
@@ -212,7 +212,7 @@
 "<tipo>"
 	"tipo" Noun NC Singular lang:es 00:00:30 00:00:36 tt-120 MF103_1989_CT_SU2012_JH_01 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:30 00:00:36 tt-121 MF103_1989_CT_SU2012_JH_01 @Gram:Prep ADD:624 
+	"de" Preposition PREP lang:es 00:00:30 00:00:36 tt-121 MF103_1989_CT_SU2012_JH_01 @Gram:Prep 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:30 00:00:36 tt-122 MF103_1989_CT_SU2012_JH_01 
 <lang code="en">
@@ -228,13 +228,13 @@
 "<ya>"
 	"ya" Adverb ADV lang:es 00:00:30 00:00:36 tt-127 MF103_1989_CT_SU2012_JH_01 
 "<nos>"
-	"nosotros" Pronoun PPX Plural lang:es 00:00:30 00:00:36 tt-128 MF103_1989_CT_SU2012_JH_01 @Gram:Pron:Objeto ADD:658 
+	"nosotros" Pronoun PPX Plural lang:es 00:00:30 00:00:36 tt-128 MF103_1989_CT_SU2012_JH_01 @Gram:Pron:Objeto 
 "<contaste>"
-	"contar" Verb VLfin Pret Indi Sing 2nd lang:es 00:00:30 00:00:36 tt-129 MF103_1989_CT_SU2012_JH_01 @Gram:Indefinido ADD:698 
+	"contar" Verb VLfin Pret Indi Sing 2nd lang:es 00:00:30 00:00:36 tt-129 MF103_1989_CT_SU2012_JH_01 @Gram:Indefinido 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:30 00:00:36 tt-130 MF103_1989_CT_SU2012_JH_01 
 "<eras>"
-	"ser" Verb VSfin Imp Indi Sing 2nd lang:es 00:00:30 00:00:36 tt-131 MF103_1989_CT_SU2012_JH_01 @Gram:Imperf @Gram:SerEstar:Ser SUBSTITUTE:311 ADD:689 ADD:813 
+	"ser" Verb VSfin Imp Indi Sing 2nd lang:es 00:00:30 00:00:36 tt-131 MF103_1989_CT_SU2012_JH_01 @Gram:Imperf @Gram:SerEstar:Ser 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:30 00:00:36 tt-132 MF103_1989_CT_SU2012_JH_01 
 "<atento>"
@@ -257,11 +257,11 @@
 "<cómo>"
 	"cómo" Adverb ADV lang:es 00:00:30 00:00:36 tt-141 MF103_1989_CT_SU2012_JH_01 
 "<te>"
-	"tú" Pronoun PPX Singular lang:es 00:00:36 00:00:38 tt-142 MF103_1989_CT_SU2012_JH_01 @Gram:Pron:Objeto ADD:658 
+	"tú" Pronoun PPX Singular lang:es 00:00:36 00:00:38 tt-142 MF103_1989_CT_SU2012_JH_01 @Gram:Pron:Objeto 
 "<recordarían>"
 	"UNK" Verb VLfin Cond Indi Plural 3rd lang:es 00:00:36 00:00:38 tt-143 MF103_1989_CT_SU2012_JH_01 
 "<tus>"
-	"UNK" Noun NC Plural lang:es 00:00:36 00:00:38 tt-144 MF103_1989_CT_SU2012_JH_01 @Gram:Det:Pos ADD:457 
+	"UNK" Noun NC Plural lang:es 00:00:36 00:00:38 tt-144 MF103_1989_CT_SU2012_JH_01 @Gram:Det:Pos 
 "<compañeros>"
 	"compañero" Noun NC Plural lang:es 00:00:36 00:00:38 tt-145 MF103_1989_CT_SU2012_JH_01 
 "<$?>"
@@ -294,11 +294,11 @@
 "<nunca>"
 	"nunca" Adverb ADV lang:es 00:00:40 00:00:46 tt-155 MF103_1989_CT_SU2012_JH_01 
 "<tuve>"
-	"tener" Verb VLfin Pret Indi Sing 1st lang:es 00:00:40 00:00:46 tt-156 MF103_1989_CT_SU2012_JH_01 @Gram:Indefinido ADD:698 
+	"tener" Verb VLfin Pret Indi Sing 1st lang:es 00:00:40 00:00:46 tt-156 MF103_1989_CT_SU2012_JH_01 @Gram:Indefinido 
 "<problemas>"
 	"problema" Noun NC Plural lang:es 00:00:40 00:00:46 tt-157 MF103_1989_CT_SU2012_JH_01 
 "<con>"
-	"con" Preposition PREP lang:es 00:00:40 00:00:46 tt-158 MF103_1989_CT_SU2012_JH_01 @Gram:Prep ADD:624 
+	"con" Preposition PREP lang:es 00:00:40 00:00:46 tt-158 MF103_1989_CT_SU2012_JH_01 @Gram:Prep 
 "<nadie>"
 	"nadie" Noun NC Singular lang:es 00:00:40 00:00:46 tt-159 MF103_1989_CT_SU2012_JH_01 
 "<$.>"
@@ -307,19 +307,19 @@
 "<Siempre>"
 	"siempre" Adverb ADV lang:es 00:00:40 00:00:46 tt-161 MF103_1989_CT_SU2012_JH_01 
 "<fui>"
-	"ir|ser" Verb VLfin Pret Indi Sing 1st lang:es 00:00:40 00:00:46 tt-162 MF103_1989_CT_SU2012_JH_01 @Gram:Indefinido ADD:698 
+	"ir|ser" Verb VLfin Pret Indi Sing 1st lang:es 00:00:40 00:00:46 tt-162 MF103_1989_CT_SU2012_JH_01 @Gram:Indefinido 
 "<respetuoso>"
 	"respetuoso" Adjective ADJ Singular lang:es 00:00:40 00:00:46 tt-163 MF103_1989_CT_SU2012_JH_01 
 "<como>"
 	"como" Conjunction CSUBX lang:es 00:00:40 00:00:46 tt-164 MF103_1989_CT_SU2012_JH_01 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:40 00:00:46 tt-165 MF103_1989_CT_SU2012_JH_01 @Gram:Pron:Objeto ADD:658 
+	"yo" Pronoun PPX Singular lang:es 00:00:40 00:00:46 tt-165 MF103_1989_CT_SU2012_JH_01 @Gram:Pron:Objeto 
 "<enseñaron>"
-	"enseñar" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:40 00:00:46 tt-166 MF103_1989_CT_SU2012_JH_01 @Gram:Indefinido ADD:698 
+	"enseñar" Verb VLfin Pret Indi Plural 3rd lang:es 00:00:40 00:00:46 tt-166 MF103_1989_CT_SU2012_JH_01 @Gram:Indefinido 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:46 00:00:46 tt-167 MF103_1989_CT_SU2012_JH_01 @Gram:Prep ADD:624 
+	"en" Preposition PREP lang:es 00:00:46 00:00:46 tt-167 MF103_1989_CT_SU2012_JH_01 @Gram:Prep 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:46 00:00:46 tt-168 MF103_1989_CT_SU2012_JH_01 @Gram:Det:Pos ADD:456 
+	"mío" Pronoun PPO Singular lang:es 00:00:46 00:00:46 tt-168 MF103_1989_CT_SU2012_JH_01 @Gram:Det:Pos 
 "<casa>"
 	"casa" Noun NC Singular lang:es 00:00:46 00:00:46 tt-169 MF103_1989_CT_SU2012_JH_01 
 "<$.>"

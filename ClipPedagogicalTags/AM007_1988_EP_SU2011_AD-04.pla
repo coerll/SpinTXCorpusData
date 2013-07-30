@@ -36,7 +36,7 @@ AM007_1988_EP_SU2011_AD-04
 @Prag:RecuDiscurso:GanarTiempo : 3
 R:Gram : 15
 R:Gram:Det : 5
-R:Gram:Det:DetCombi : 3
+R:Gram:Det:Combi : 3
 R:Gram:Det:LoAdj : 2
 R:Gram:Genero : 2
 R:Gram:Genero:ExcepMasc : 2
@@ -53,6 +53,7 @@ R:Prag : 3
 R:Prag:MarcadoresDisc : 3
 R:Prag:MarcadoresDisc:Igualdad : 1
 R:Prag:MarcadoresDisc:Probabilidad : 2
-R:Vocab : 2
-R:Vocab:Fraseol : 2
+R:Vocab : 3
+R:Vocab:Fraseol : 3
+R:Vocab:Fraseol:LocAdv : 1
 R:Vocab:Fraseol:VerbPrep : 2

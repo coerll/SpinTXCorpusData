@@ -31,8 +31,10 @@ R:Gram : 3
 R:Gram:Aux : 1
 R:Gram:Aux:Haber : 1
 R:Gram:Det : 1
-R:Gram:Det:DetCombi : 1
+R:Gram:Det:Combi : 1
 R:Gram:PerfPerif : 1
-R:Vocab : 2
+R:Vocab : 3
 R:Vocab:Entities : 2
 R:Vocab:Entities:Geo : 2
+R:Vocab:Fraseol : 1
+R:Vocab:Fraseol:LocAdv : 1

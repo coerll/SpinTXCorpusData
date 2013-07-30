@@ -3,13 +3,13 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:05 tt-2252 MF066_1973_CT_SU2012_CL_06 
 "<Y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:00 00:00:05 tt-2253 MF066_1973_CT_SU2012_CL_06 SUBSTITUTE:394 
+	"y" Conjunciton Conjunction CC lang:es 00:00:00 00:00:05 tt-2253 MF066_1973_CT_SU2012_CL_06 
 "<uno>"
-	"uno" Determiner CARD Singular lang:es 00:00:00 00:00:05 tt-2254 MF066_1973_CT_SU2012_CL_06 @Gram:Det:CuantIndef ADD:468 
+	"uno" Determiner CARD Singular lang:es 00:00:00 00:00:05 tt-2254 MF066_1973_CT_SU2012_CL_06 @Gram:Det:CuantIndef 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:00 00:00:05 tt-2255 MF066_1973_CT_SU2012_CL_06 @Gram:Prep ADD:624 
+	"de" Preposition PREP lang:es 00:00:00 00:00:05 tt-2255 MF066_1973_CT_SU2012_CL_06 @Gram:Prep 
 "<los>"
-	"el" Determiner ART Plural Masc lang:es 00:00:00 00:00:05 tt-2256 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Plural Masc lang:es 00:00:00 00:00:05 tt-2256 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Art 
 "<recuerdos>"
 	"recuerdo" Noun NC Plural lang:es 00:00:00 00:00:05 tt-2257 MF066_1973_CT_SU2012_CL_06 
 "<más>"
@@ -34,11 +34,11 @@
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:05 00:00:11 tt-2266 MF066_1973_CT_SU2012_CL_06 
 "<estaba>"
-	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:05 00:00:11 tt-2267 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf @Gram:SerEstar:Estar ADD:689 ADD:822 
+	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:05 00:00:11 tt-2267 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf @Gram:SerEstar:Estar 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:05 00:00:11 tt-2268 MF066_1973_CT_SU2012_CL_06 
 "<tenía>"
-	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:05 00:00:11 tt-2269 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf ADD:689 
+	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:05 00:00:11 tt-2269 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf 
 "<como>"
 	"como" Adverb ADV lang:es 00:00:05 00:00:11 tt-2270 MF066_1973_CT_SU2012_CL_06 
 "<doce>"
@@ -49,7 +49,7 @@
 	"." Punctuation FS lang:es 00:00:05 00:00:11 tt-2273 MF066_1973_CT_SU2012_CL_06 
 
 "<Había>"
-	"haber" Verb VHfin Imp Indi Sing 1st_or_3rd lang:es 00:00:05 00:00:11 tt-2274 MF066_1973_CT_SU2012_CL_06 @Gram:Haber:Exist ADD:829 
+	"haber" Verb VHfin Imp Indi Sing 1st_or_3rd lang:es 00:00:05 00:00:11 tt-2274 MF066_1973_CT_SU2012_CL_06 @Gram:Haber:Exist 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:00:05 00:00:11 tt-2275 MF066_1973_CT_SU2012_CL_06 
 "<niño>"
@@ -57,21 +57,21 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:05 00:00:11 tt-2277 MF066_1973_CT_SU2012_CL_06 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:05 00:00:11 tt-2278 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Objeto ADD:658 
+	"yo" Pronoun PPX Singular lang:es 00:00:05 00:00:11 tt-2278 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Objeto 
 "<hacía>"
-	"hacer" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:05 00:00:11 tt-2279 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf ADD:689 
+	"hacer" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:05 00:00:11 tt-2279 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf 
 "<mucho>"
 	"mucho" Determiner QU lang:es 00:00:05 00:00:11 tt-2280 MF066_1973_CT_SU2012_CL_06 
 "<bullying>"
 	"UNK" Noun NC Singular lang:es 00:00:05 00:00:11 tt-2281 MF066_1973_CT_SU2012_CL_06 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:05 00:00:11 tt-2282 MF066_1973_CT_SU2012_CL_06 @Prag:MarcadoresDisc:Causa ADD:1099 
+	"porque" Conjunction CSUBX lang:es 00:00:05 00:00:11 tt-2282 MF066_1973_CT_SU2012_CL_06 @Prag:MarcadoresDisc:Causa 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:11 00:00:17 tt-2283 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Pos ADD:456 
+	"mío" Pronoun PPO Singular lang:es 00:00:11 00:00:17 tt-2283 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Pos 
 "<pelo>"
 	"pelo" Noun NC Singular lang:es 00:00:11 00:00:17 tt-2284 MF066_1973_CT_SU2012_CL_06 
 "<estaba>"
-	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:11 00:00:17 tt-2285 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf @Gram:SerEstar:Estar ADD:689 ADD:822 
+	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:11 00:00:17 tt-2285 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf @Gram:SerEstar:Estar 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:11 00:00:17 tt-2286 MF066_1973_CT_SU2012_CL_06 
 "<,>"
@@ -84,19 +84,19 @@
 	"." Punctuation FS lang:es 00:00:11 00:00:17 tt-2290 MF066_1973_CT_SU2012_CL_06 
 
 "<Y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:11 00:00:17 tt-2291 MF066_1973_CT_SU2012_CL_06 SUBSTITUTE:394 
+	"y" Conjunciton Conjunction CC lang:es 00:00:11 00:00:17 tt-2291 MF066_1973_CT_SU2012_CL_06 
 "<él>"
-	"él" Pronoun PPX Singular lang:es 00:00:11 00:00:17 tt-2292 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Sujeto ADD:634 
+	"él" Pronoun PPX Singular lang:es 00:00:11 00:00:17 tt-2292 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Sujeto 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:11 00:00:17 tt-2293 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Objeto ADD:658 
+	"yo" Pronoun PPX Singular lang:es 00:00:11 00:00:17 tt-2293 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Objeto 
 "<decía>"
-	"decir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:11 00:00:17 tt-2294 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf ADD:689 
+	"decir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:11 00:00:17 tt-2294 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:11 00:00:17 tt-2295 MF066_1973_CT_SU2012_CL_06 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:11 00:00:17 tt-2296 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Sujeto ADD:634 
+	"yo" Pronoun PPX Singular lang:es 00:00:11 00:00:17 tt-2296 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Sujeto 
 "<aparecía>"
-	"aparecer" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:11 00:00:17 tt-2297 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf ADD:689 
+	"aparecer" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:11 00:00:17 tt-2297 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf 
 "<un>"
 	"un" Determiner ART Singular lang:es 00:00:11 00:00:17 tt-2298 MF066_1973_CT_SU2012_CL_06 
 "<...>"
@@ -118,29 +118,29 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:17 00:00:21 tt-2307 MF066_1973_CT_SU2012_CL_06 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:17 00:00:21 tt-2308 MF066_1973_CT_SU2012_CL_06 @Prag:MarcadoresDisc:Causa ADD:1099 
+	"porque" Conjunction CSUBX lang:es 00:00:17 00:00:21 tt-2308 MF066_1973_CT_SU2012_CL_06 @Prag:MarcadoresDisc:Causa 
 "<mi>"
-	"mío" Pronoun PPO Singular lang:es 00:00:17 00:00:21 tt-2309 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Pos ADD:456 
+	"mío" Pronoun PPO Singular lang:es 00:00:17 00:00:21 tt-2309 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Pos 
 "<pelo>"
 	"pelo" Noun NC Singular lang:es 00:00:17 00:00:21 tt-2310 MF066_1973_CT_SU2012_CL_06 
 "<estaba>"
-	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:17 00:00:21 tt-2311 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf @Gram:SerEstar:Estar ADD:689 ADD:822 
+	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:17 00:00:21 tt-2311 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf @Gram:SerEstar:Estar 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:17 00:00:21 tt-2312 MF066_1973_CT_SU2012_CL_06 
 "<largo>"
 	"largo" Adjective ADJ Singular lang:es 00:00:17 00:00:21 tt-2313 MF066_1973_CT_SU2012_CL_06 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:17 00:00:21 tt-2314 MF066_1973_CT_SU2012_CL_06 SUBSTITUTE:394 
+	"y" Conjunciton Conjunction CC lang:es 00:00:17 00:00:21 tt-2314 MF066_1973_CT_SU2012_CL_06 
 "<todo>"
-	"todo" Determiner QU lang:es 00:00:17 00:00:21 tt-2315 MF066_1973_CT_SU2012_CL_06 ID:64 R:Gram:Det:Combi:65 ADDRELATION(Gram:Det:Combi):499 
+	"todo" Determiner QU lang:es 00:00:17 00:00:21 tt-2315 MF066_1973_CT_SU2012_CL_06 ID:64 R:Gram:Det:Combi:65 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:17 00:00:21 tt-2316 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Art ID:65 ADD:426 
+	"el" Determiner ART Singular Masc lang:es 00:00:17 00:00:21 tt-2316 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Art ID:65 
 "<tiempo>"
 	"tiempo" Noun NC Singular lang:es 00:00:17 00:00:21 tt-2317 MF066_1973_CT_SU2012_CL_06 
 "<lo>"
-	"él" Pronoun PPC Singular lang:es 00:00:17 00:00:21 tt-2318 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Objeto ADD:664 
+	"él" Pronoun PPC Singular lang:es 00:00:17 00:00:21 tt-2318 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Objeto 
 "<tenía>"
-	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:17 00:00:21 tt-2319 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf ADD:689 
+	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:17 00:00:21 tt-2319 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf 
 "<largo>"
 	"largo" Adjective ADJ Singular lang:es 00:00:17 00:00:21 tt-2320 MF066_1973_CT_SU2012_CL_06 
 "<$.>"
@@ -149,30 +149,30 @@
 "<Entonces>"
 	"entonces" Adverb ADV lang:es 00:00:17 00:00:21 tt-2322 MF066_1973_CT_SU2012_CL_06 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:21 00:00:28 tt-2323 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Sujeto ADD:634 
+	"yo" Pronoun PPX Singular lang:es 00:00:21 00:00:28 tt-2323 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Sujeto 
 "<no>"
 	"no" Adverb NEG lang:es 00:00:21 00:00:28 tt-2324 MF066_1973_CT_SU2012_CL_06 
 "<lo>"
-	"él" Pronoun PPC Singular lang:es 00:00:21 00:00:28 tt-2325 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Objeto ADD:664 
+	"él" Pronoun PPC Singular lang:es 00:00:21 00:00:28 tt-2325 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Objeto 
 "<quería>"
-	"querer" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:21 00:00:28 tt-2326 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf ADD:689 
+	"querer" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:21 00:00:28 tt-2326 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf 
 "<nada>"
-	"nada" Determiner QU lang:es 00:00:21 00:00:28 tt-2327 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Pron ADD:485 
+	"nada" Determiner QU lang:es 00:00:21 00:00:28 tt-2327 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Pron 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:21 00:00:28 tt-2328 MF066_1973_CT_SU2012_CL_06 @Gram:Prep SUBSTITUTE:398 ADD:624 
+	"a" Preposition PREP lang:es 00:00:21 00:00:28 tt-2328 MF066_1973_CT_SU2012_CL_06 @Gram:Prep 
 "<ese>"
-	"ese" Determiner DM Singular lang:es 00:00:21 00:00:28 tt-2329 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Demo ADD:442 
+	"ese" Determiner DM Singular lang:es 00:00:21 00:00:28 tt-2329 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Demo 
 "<muchachito>"
 	"muchacho" Noun NC Singular lang:es 00:00:21 00:00:28 tt-2330 MF066_1973_CT_SU2012_CL_06 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:21 00:00:28 tt-2331 MF066_1973_CT_SU2012_CL_06 
 
 "<Y>"
-	"y" Conjunciton CC lang:es 00:00:21 00:00:28 tt-2332 MF066_1973_CT_SU2012_CL_06 SUBSTITUTE:394 SUBSTITUTE:395 
+	"y" Conjunciton CC lang:es 00:00:21 00:00:28 tt-2332 MF066_1973_CT_SU2012_CL_06 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:21 00:00:28 tt-2333 MF066_1973_CT_SU2012_CL_06 
 "<y>"
-	"y" Conjunciton CC lang:es 00:00:21 00:00:28 tt-2334 MF066_1973_CT_SU2012_CL_06 SUBSTITUTE:394 SUBSTITUTE:395 
+	"y" Conjunciton CC lang:es 00:00:21 00:00:28 tt-2334 MF066_1973_CT_SU2012_CL_06 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:21 00:00:28 tt-2335 MF066_1973_CT_SU2012_CL_06 
 "<no>"
@@ -183,39 +183,39 @@
 	"." Punctuation FS lang:es 00:00:21 00:00:28 tt-2338 MF066_1973_CT_SU2012_CL_06 
 
 "<Quería>"
-	"querer" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:21 00:00:28 tt-2339 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf ADD:689 
+	"querer" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:21 00:00:28 tt-2339 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf 
 "<arrancarle>"
-	"arrancar" Verb VLinf Pres Subj Sing 1st_or_3rd lang:es 00:00:21 00:00:28 tt-2340 MF066_1973_CT_SU2012_CL_06 @Gram:MSub:Pres ADD:782 
+	"arrancar" Verb VLinf Pres Subj Sing 1st_or_3rd lang:es 00:00:21 00:00:28 tt-2340 MF066_1973_CT_SU2012_CL_06 @Gram:MSub:Pres 
 "<los>"
-	"el" Determiner ART Plural Masc lang:es 00:00:21 00:00:28 tt-2341 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Plural Masc lang:es 00:00:21 00:00:28 tt-2341 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Art 
 "<pelos>"
 	"pelo" Noun NC Plural lang:es 00:00:21 00:00:28 tt-2342 MF066_1973_CT_SU2012_CL_06 
 "<cuando>"
 	"cuando" Conjunction CSUBX lang:es 00:00:28 00:00:35 tt-2343 MF066_1973_CT_SU2012_CL_06 
 "<lo>"
-	"él" Pronoun PPC Singular lang:es 00:00:28 00:00:35 tt-2344 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Objeto ADD:664 
+	"él" Pronoun PPC Singular lang:es 00:00:28 00:00:35 tt-2344 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Objeto 
 "<veía>"
-	"ver" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:28 00:00:35 tt-2345 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf ADD:689 
+	"ver" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:28 00:00:35 tt-2345 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:28 00:00:35 tt-2346 MF066_1973_CT_SU2012_CL_06 
 
 "<Pero>"
-	"pero" Conjunction CCAD lang:es 00:00:28 00:00:35 tt-2347 MF066_1973_CT_SU2012_CL_06 @Prag:MarcadoresDisc:Revision ADD:1046 
+	"pero" Conjunction CCAD lang:es 00:00:28 00:00:35 tt-2347 MF066_1973_CT_SU2012_CL_06 @Prag:MarcadoresDisc:Revision 
 "<cayó>"
-	"caer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:28 00:00:35 tt-2348 MF066_1973_CT_SU2012_CL_06 @Gram:Indefinido ADD:698 
+	"caer" Verb VLfin Pret Indi Sing 1st lang:es 00:00:28 00:00:35 tt-2348 MF066_1973_CT_SU2012_CL_06 @Gram:Indefinido 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:28 00:00:35 tt-2349 MF066_1973_CT_SU2012_CL_06 @Gram:Prep ADD:624 
+	"en" Preposition PREP lang:es 00:00:28 00:00:35 tt-2349 MF066_1973_CT_SU2012_CL_06 @Gram:Prep 
 "<cama>"
 	"cama" Noun NC Singular lang:es 00:00:28 00:00:35 tt-2350 MF066_1973_CT_SU2012_CL_06 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:28 00:00:35 tt-2351 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Singular Masc lang:es 00:00:28 00:00:35 tt-2351 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Art 
 "<muchacho>"
 	"muchacho" Noun NC Singular lang:es 00:00:28 00:00:35 tt-2352 MF066_1973_CT_SU2012_CL_06 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:28 00:00:35 tt-2353 MF066_1973_CT_SU2012_CL_06 
 
 "<Tenía>"
-	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:28 00:00:35 tt-2354 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf ADD:689 
+	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:28 00:00:35 tt-2354 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf 
 "<como>"
 	"como" Adverb ADV lang:es 00:00:28 00:00:35 tt-2355 MF066_1973_CT_SU2012_CL_06 
 "<doce>"
@@ -231,22 +231,22 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:28 00:00:35 tt-2361 MF066_1973_CT_SU2012_CL_06 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:28 00:00:35 tt-2362 MF066_1973_CT_SU2012_CL_06 SUBSTITUTE:394 
+	"y" Conjunciton Conjunction CC lang:es 00:00:28 00:00:35 tt-2362 MF066_1973_CT_SU2012_CL_06 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:28 00:00:35 tt-2363 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Singular Masc lang:es 00:00:28 00:00:35 tt-2363 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Art 
 "<muchachito>"
 	"muchacho" Noun NC Singular lang:es 00:00:28 00:00:35 tt-2364 MF066_1973_CT_SU2012_CL_06 
 "<se>"
 	"se" Other SE lang:es 00:00:35 00:00:40 tt-2365 MF066_1973_CT_SU2012_CL_06 
 "<murió>"
-	"morir" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:35 00:00:40 tt-2366 MF066_1973_CT_SU2012_CL_06 @Gram:Indefinido ADD:698 
+	"morir" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:35 00:00:40 tt-2366 MF066_1973_CT_SU2012_CL_06 @Gram:Indefinido 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:35 00:00:40 tt-2367 MF066_1973_CT_SU2012_CL_06 
 
 "<Y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:35 00:00:40 tt-2368 MF066_1973_CT_SU2012_CL_06 SUBSTITUTE:394 
+	"y" Conjunciton Conjunction CC lang:es 00:00:35 00:00:40 tt-2368 MF066_1973_CT_SU2012_CL_06 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:35 00:00:40 tt-2369 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Sujeto ADD:634 
+	"yo" Pronoun PPX Singular lang:es 00:00:35 00:00:40 tt-2369 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Sujeto 
 "<no>"
 	"no" Adverb NEG lang:es 00:00:35 00:00:40 tt-2370 MF066_1973_CT_SU2012_CL_06 
 "<...>"
@@ -256,17 +256,17 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:35 00:00:40 tt-2373 MF066_1973_CT_SU2012_CL_06 
 "<a>"
-	"a" Preposition PREP lang:es 00:00:35 00:00:40 tt-2374 MF066_1973_CT_SU2012_CL_06 @Gram:Prep SUBSTITUTE:398 ADD:624 
+	"a" Preposition PREP lang:es 00:00:35 00:00:40 tt-2374 MF066_1973_CT_SU2012_CL_06 @Gram:Prep 
 "<esa>"
-	"ese" Determiner DM Singular lang:es 00:00:35 00:00:40 tt-2375 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Demo ADD:442 
+	"ese" Determiner DM Singular lang:es 00:00:35 00:00:40 tt-2375 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Demo 
 "<edad>"
 	"edad" Noun NC Singular lang:es 00:00:35 00:00:40 tt-2376 MF066_1973_CT_SU2012_CL_06 
 "<,>"
 	"," Punctuation CM lang:es 00:00:35 00:00:40 tt-2377 MF066_1973_CT_SU2012_CL_06 
 "<yo>"
-	"yo" Pronoun PPX Singular lang:es 00:00:35 00:00:40 tt-2378 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Sujeto ADD:634 
+	"yo" Pronoun PPX Singular lang:es 00:00:35 00:00:40 tt-2378 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Sujeto 
 "<estaba>"
-	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:35 00:00:40 tt-2379 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf @Gram:SerEstar:Estar ADD:689 ADD:822 
+	"estar" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:35 00:00:40 tt-2379 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf @Gram:SerEstar:Estar 
 "<joven>"
 	"joven" Adjective ADJ Singular lang:es 00:00:35 00:00:40 tt-2380 MF066_1973_CT_SU2012_CL_06 
 "<$.>"
@@ -275,63 +275,63 @@
 "<No>"
 	"no" Adverb NEG lang:es 00:00:35 00:00:40 tt-2382 MF066_1973_CT_SU2012_CL_06 
 "<sabía>"
-	"saber" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:35 00:00:40 tt-2383 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf ADD:689 
+	"saber" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:35 00:00:40 tt-2383 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:35 00:00:40 tt-2384 MF066_1973_CT_SU2012_CL_06 
 "<tenía>"
-	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:35 00:00:40 tt-2385 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf ADD:689 
+	"tener" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:35 00:00:40 tt-2385 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:35 00:00:40 tt-2386 MF066_1973_CT_SU2012_CL_06 
 "<lo>"
-	"el" Determiner ART Singular lang:es 00:00:35 00:00:40 tt-2387 MF066_1973_CT_SU2012_CL_06 ID:136 R:Gram:Det:LoAdj:137 ADDRELATION(Gram:Det:LoAdj):431 
+	"el" Determiner ART Singular lang:es 00:00:35 00:00:40 tt-2387 MF066_1973_CT_SU2012_CL_06 ID:136 R:Gram:Det:LoAdj:137 
 "<único>"
 	"único" Adjective ADJ Singular lang:es 00:00:40 00:00:44 tt-2388 MF066_1973_CT_SU2012_CL_06 ID:137 
 "<recuerdo>"
 	"recuerdo" Noun NC Singular lang:es 00:00:40 00:00:44 tt-2389 MF066_1973_CT_SU2012_CL_06 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:40 00:00:44 tt-2390 MF066_1973_CT_SU2012_CL_06 @Gram:SerEstar:Ser ADD:813 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:40 00:00:44 tt-2390 MF066_1973_CT_SU2012_CL_06 @Gram:SerEstar:Ser 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:40 00:00:44 tt-2391 MF066_1973_CT_SU2012_CL_06 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:40 00:00:44 tt-2392 MF066_1973_CT_SU2012_CL_06 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:40 00:00:44 tt-2393 MF066_1973_CT_SU2012_CL_06 SUBSTITUTE:394 
+	"y" Conjunciton Conjunction CC lang:es 00:00:40 00:00:44 tt-2393 MF066_1973_CT_SU2012_CL_06 
 "<después>"
 	"después" Adverb ADV lang:es 00:00:40 00:00:44 tt-2394 MF066_1973_CT_SU2012_CL_06 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:40 00:00:44 tt-2395 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Objeto ADD:658 
+	"yo" Pronoun PPX Singular lang:es 00:00:40 00:00:44 tt-2395 MF066_1973_CT_SU2012_CL_06 @Gram:Pron:Objeto 
 "<arrepentía>"
-	"arrepentir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:40 00:00:44 tt-2396 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf ADD:689 
+	"arrepentir" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:40 00:00:44 tt-2396 MF066_1973_CT_SU2012_CL_06 @Gram:Imperf 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:40 00:00:44 tt-2397 MF066_1973_CT_SU2012_CL_06 @Gram:Prep ADD:624 
+	"de" Preposition PREP lang:es 00:00:40 00:00:44 tt-2397 MF066_1973_CT_SU2012_CL_06 @Gram:Prep 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:40 00:00:44 tt-2398 MF066_1973_CT_SU2012_CL_06 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:40 00:00:44 tt-2399 MF066_1973_CT_SU2012_CL_06 @Gram:Prep ADD:624 
+	"de" Preposition PREP lang:es 00:00:40 00:00:44 tt-2399 MF066_1973_CT_SU2012_CL_06 @Gram:Prep 
 "<decirle>"
 	"decir" Verb VLinf Pres Indi Sing 3rd lang:es 00:00:40 00:00:44 tt-2400 MF066_1973_CT_SU2012_CL_06 
 "<tantas>"
-	"tanto" Determiner QU lang:es 00:00:40 00:00:44 tt-2401 MF066_1973_CT_SU2012_CL_06 @Gram:Det:CuantIndef ADD:478 
+	"tanto" Determiner QU lang:es 00:00:40 00:00:44 tt-2401 MF066_1973_CT_SU2012_CL_06 @Gram:Det:CuantIndef 
 "<cosas>"
 	"cosa" Noun NC Plural lang:es 00:00:40 00:00:44 tt-2402 MF066_1973_CT_SU2012_CL_06 
 "<feas>"
 	"feo" Adjective ADJ Plural lang:es 00:00:40 00:00:44 tt-2403 MF066_1973_CT_SU2012_CL_06 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:40 00:00:44 tt-2404 MF066_1973_CT_SU2012_CL_06 @Prag:MarcadoresDisc:Causa ADD:1099 
+	"porque" Conjunction CSUBX lang:es 00:00:40 00:00:44 tt-2404 MF066_1973_CT_SU2012_CL_06 @Prag:MarcadoresDisc:Causa 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:44 00:00:45 tt-2405 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Singular Masc lang:es 00:00:44 00:00:45 tt-2405 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Art 
 "<niño>"
 	"niño" Noun NC Singular lang:es 00:00:44 00:00:45 tt-2406 MF066_1973_CT_SU2012_CL_06 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:44 00:00:45 tt-2407 MF066_1973_CT_SU2012_CL_06 
 "<el>"
-	"el" Determiner ART Singular Masc lang:es 00:00:44 00:00:45 tt-2408 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Singular Masc lang:es 00:00:44 00:00:45 tt-2408 MF066_1973_CT_SU2012_CL_06 @Gram:Det:Art 
 "<muchachito>"
 	"muchacho" Noun NC Singular lang:es 00:00:44 00:00:45 tt-2409 MF066_1973_CT_SU2012_CL_06 
 "<se>"
 	"se" Other SE lang:es 00:00:44 00:00:45 tt-2410 MF066_1973_CT_SU2012_CL_06 
 "<murió>"
-	"morir" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:44 00:00:45 tt-2411 MF066_1973_CT_SU2012_CL_06 @Gram:Indefinido ADD:698 
+	"morir" Verb VLfin Pret Indi Sing 3rd lang:es 00:00:44 00:00:45 tt-2411 MF066_1973_CT_SU2012_CL_06 @Gram:Indefinido 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:44 00:00:45 tt-2412 MF066_1973_CT_SU2012_CL_06 
 </speaker>

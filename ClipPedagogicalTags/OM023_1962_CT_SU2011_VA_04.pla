@@ -31,7 +31,7 @@ R:Gram : 11
 R:Gram:Aux : 3
 R:Gram:Aux:Haber : 3
 R:Gram:Det : 2
-R:Gram:Det:DetCombi : 1
+R:Gram:Det:Combi : 1
 R:Gram:Det:LoAdj : 1
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepMasc : 1
@@ -45,8 +45,9 @@ R:Prag:MarcadoresDisc : 12
 R:Prag:MarcadoresDisc:Igualdad : 8
 R:Prag:MarcadoresDisc:Probabilidad : 3
 R:Prag:MarcadoresDisc:Revision : 1
-R:Vocab : 4
+R:Vocab : 5
 R:Vocab:Entities : 3
 R:Vocab:Entities:Geo : 3
-R:Vocab:Fraseol : 1
+R:Vocab:Fraseol : 2
+R:Vocab:Fraseol:LocAdv : 1
 R:Vocab:Fraseol:VerbPrep : 1

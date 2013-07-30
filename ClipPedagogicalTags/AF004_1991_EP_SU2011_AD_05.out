@@ -8,7 +8,7 @@
 	"." Punctuation FS lang:es 00:00:00 00:00:07 tt-3657 AF004_1991_EP_SU2011_AD_05 
 
 "<Cuéntame>"
-	"contar" Verb VLfin Pres Command Sing 2nd lang:es 00:00:00 00:00:07 tt-3658 AF004_1991_EP_SU2011_AD_05 @Gram:MImp:Informal ADD:793 
+	"contar" Verb VLfin Pres Command Sing 2nd lang:es 00:00:00 00:00:07 tt-3658 AF004_1991_EP_SU2011_AD_05 @Gram:MImp:Informal 
 "<,>"
 	"," Punctuation CM lang:es 00:00:00 00:00:07 tt-3659 AF004_1991_EP_SU2011_AD_05 
 "<$¿>"
@@ -16,15 +16,15 @@
 "<qué>"
 	"qué" Pronoun INT Singular lang:es 00:00:00 00:00:07 tt-3661 AF004_1991_EP_SU2011_AD_05 
 "<estás>"
-	"estar" Verb VEfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-3662 AF004_1991_EP_SU2011_AD_05 @Gram:SerEstar:Estar ID:8 R:Gram:SerEstar:EstarAux:9 ADD:822 ADDRELATION(Gram:SerEstar:EstarAux):838 
+	"estar" Verb VEfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-3662 AF004_1991_EP_SU2011_AD_05 @Gram:SerEstar:Estar ID:8 R:Gram:SerEstar:EstarAux:9 
 "<estudiando>"
 	"estudiar" Verb VLger lang:es 00:00:00 00:00:07 tt-3663 AF004_1991_EP_SU2011_AD_05 ID:9 
 "<ahora>"
 	"ahora" Adverb ADV lang:es 00:00:00 00:00:07 tt-3664 AF004_1991_EP_SU2011_AD_05 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-3665 AF004_1991_EP_SU2011_AD_05 @Gram:Prep ADD:624 
+	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-3665 AF004_1991_EP_SU2011_AD_05 @Gram:Prep 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:00 00:00:07 tt-3666 AF004_1991_EP_SU2011_AD_05 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Singular Fem lang:es 00:00:00 00:00:07 tt-3666 AF004_1991_EP_SU2011_AD_05 @Gram:Det:Art 
 "<universidad>"
 	"universidad" Noun NC Singular lang:es 00:00:00 00:00:07 tt-3667 AF004_1991_EP_SU2011_AD_05 
 "<$?>"
@@ -45,7 +45,7 @@
 "<decirlo>"
 	"decir" Verb VLinf Pres Indi Sing 1st lang:es 00:00:07 00:00:14 tt-3674 AF004_1991_EP_SU2011_AD_05 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:07 00:00:14 tt-3675 AF004_1991_EP_SU2011_AD_05 @Gram:Prep ADD:624 
+	"en" Preposition PREP lang:es 00:00:07 00:00:14 tt-3675 AF004_1991_EP_SU2011_AD_05 @Gram:Prep 
 <lang code="en">
 "<Spanish>"
 	"Spanish" Noun NP Singular lang:en 00:00:07 00:00:14 tt-3676 AF004_1991_EP_SU2011_AD_05 
@@ -59,7 +59,7 @@
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:00:07 00:00:14 tt-3679 AF004_1991_EP_SU2011_AD_05 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:07 00:00:14 tt-3680 AF004_1991_EP_SU2011_AD_05 @Gram:Pron:Objeto ADD:658 
+	"yo" Pronoun PPX Singular lang:es 00:00:07 00:00:14 tt-3680 AF004_1991_EP_SU2011_AD_05 @Gram:Pron:Objeto 
 "<trabo>"
 	"UNK" Verb VLfin Pres Indi Sing 1st lang:es 00:00:07 00:00:14 tt-3681 AF004_1991_EP_SU2011_AD_05 
 "<,>"

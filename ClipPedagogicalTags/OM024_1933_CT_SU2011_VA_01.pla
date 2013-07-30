@@ -23,7 +23,7 @@ OM024_1933_CT_SU2011_VA_01
 @Prag:MarcadoresDisc:Revision : 1
 R:Gram : 1
 R:Gram:Det : 1
-R:Gram:Det:DetCombi : 1
+R:Gram:Det:Combi : 1
 R:Herit : 1
 R:Herit:Contacto : 1
 R:Herit:Contacto:Mixtas : 1
@@ -31,8 +31,9 @@ R:Prag : 2
 R:Prag:MarcadoresDisc : 2
 R:Prag:MarcadoresDisc:Igualdad : 1
 R:Prag:MarcadoresDisc:Revision : 1
-R:Vocab : 3
+R:Vocab : 4
 R:Vocab:Entities : 1
 R:Vocab:Entities:Geo : 1
-R:Vocab:Fraseol : 2
+R:Vocab:Fraseol : 3
+R:Vocab:Fraseol:LocAdv : 1
 R:Vocab:Fraseol:VerbPrep : 2

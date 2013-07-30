@@ -33,7 +33,7 @@ R:Func : 1
 R:Func:Sugerencias : 1
 R:Gram : 10
 R:Gram:Det : 6
-R:Gram:Det:DetCombi : 2
+R:Gram:Det:Combi : 2
 R:Gram:Det:LoAdj : 4
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepMasc : 1
@@ -44,6 +44,8 @@ R:Gram:VFut:Perifrasis : 2
 R:Prag : 1
 R:Prag:MarcadoresDisc : 1
 R:Prag:MarcadoresDisc:Igualdad : 1
-R:Vocab : 2
+R:Vocab : 4
 R:Vocab:Entities : 2
 R:Vocab:Entities:Geo : 2
+R:Vocab:Fraseol : 2
+R:Vocab:Fraseol:LocAdv : 2

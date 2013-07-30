@@ -32,7 +32,7 @@ R:Gram : 10
 R:Gram:Aux : 1
 R:Gram:Aux:Haber : 1
 R:Gram:Det : 4
-R:Gram:Det:DetCombi : 2
+R:Gram:Det:Combi : 2
 R:Gram:Det:LoAdj : 2
 R:Gram:Genero : 2
 R:Gram:Genero:ExcepMasc : 2
@@ -41,3 +41,6 @@ R:Gram:Gustar:Propios : 1
 R:Gram:PerfPerif : 1
 R:Gram:SerEstar : 1
 R:Gram:SerEstar:EstarAux : 1
+R:Vocab : 2
+R:Vocab:Fraseol : 2
+R:Vocab:Fraseol:LocAdv : 2

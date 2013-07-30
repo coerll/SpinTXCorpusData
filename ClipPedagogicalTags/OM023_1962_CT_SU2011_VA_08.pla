@@ -27,7 +27,7 @@ R:Gram : 7
 R:Gram:Aux : 1
 R:Gram:Aux:Haber : 1
 R:Gram:Det : 3
-R:Gram:Det:DetCombi : 1
+R:Gram:Det:Combi : 1
 R:Gram:Det:LoAdj : 2
 R:Gram:Genero : 2
 R:Gram:Genero:ExcepMasc : 2
@@ -39,3 +39,6 @@ R:Prag : 6
 R:Prag:MarcadoresDisc : 6
 R:Prag:MarcadoresDisc:Igualdad : 5
 R:Prag:MarcadoresDisc:Probabilidad : 1
+R:Vocab : 3
+R:Vocab:Fraseol : 3
+R:Vocab:Fraseol:LocAdv : 3

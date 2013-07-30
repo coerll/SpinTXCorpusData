@@ -1,5 +1,5 @@
 MM005_1967_EP_SU2011_AD_11
-@Gram : 179
+@Gram : 178
 @Gram:Det : 34
 @Gram:Det:Art : 22
 @Gram:Det:CuantIndef : 3
@@ -14,7 +14,7 @@ MM005_1967_EP_SU2011_AD_11
 @Gram:MSub : 3
 @Gram:MSub:Pres : 2
 @Gram:MSub:Pret : 1
-@Gram:Prep : 49
+@Gram:Prep : 48
 @Gram:Prep:Para : 3
 @Gram:Prep:Por : 3
 @Gram:Pron : 44
@@ -29,11 +29,13 @@ MM005_1967_EP_SU2011_AD_11
 @Prag:MarcadoresDisc : 8
 @Prag:MarcadoresDisc:Causa : 2
 @Prag:MarcadoresDisc:Revision : 6
+R:Func : 1
+R:Func:Agradecer : 1
 R:Gram : 26
 R:Gram:Aux : 8
 R:Gram:Aux:Haber : 8
 R:Gram:Det : 3
-R:Gram:Det:DetCombi : 2
+R:Gram:Det:Combi : 2
 R:Gram:Det:LoAdj : 1
 R:Gram:Gustar : 1
 R:Gram:Gustar:Propios : 1
@@ -46,6 +48,9 @@ R:Gram:VFut:Perifrasis : 2
 R:Herit : 1
 R:Herit:Contacto : 1
 R:Herit:Contacto:Mixtas : 1
+R:Prag : 1
+R:Prag:MarcadoresDisc : 1
+R:Prag:MarcadoresDisc:Causa : 1
 R:Vocab : 3
 R:Vocab:Fraseol : 3
 R:Vocab:Fraseol:VerbPrep : 3

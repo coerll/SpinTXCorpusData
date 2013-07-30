@@ -31,7 +31,7 @@ MF019_1971_CT_SU2011_VA_01
 @Prag:MarcadoresDisc:Revision : 5
 R:Gram : 6
 R:Gram:Det : 4
-R:Gram:Det:DetCombi : 3
+R:Gram:Det:Combi : 3
 R:Gram:Det:LoAdj : 1
 R:Gram:SerEstar : 1
 R:Gram:SerEstar:EstarAux : 1
@@ -40,6 +40,7 @@ R:Gram:VFut:Perifrasis : 1
 R:Prag : 2
 R:Prag:MarcadoresDisc : 2
 R:Prag:MarcadoresDisc:Igualdad : 2
-R:Vocab : 1
-R:Vocab:Fraseol : 1
+R:Vocab : 2
+R:Vocab:Fraseol : 2
+R:Vocab:Fraseol:LocAdv : 1
 R:Vocab:Fraseol:VerbPrep : 1

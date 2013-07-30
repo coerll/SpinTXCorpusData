@@ -29,11 +29,13 @@ OM023_1962_CT_SU2011_VA_05
 @Prag:MarcadoresDisc:Causa : 2
 @Prag:MarcadoresDisc:Igualdad : 3
 @Prag:MarcadoresDisc:Revision : 2
+R:Func : 1
+R:Func:Necesidades : 1
 R:Gram : 15
 R:Gram:Aux : 5
 R:Gram:Aux:Haber : 5
 R:Gram:Det : 4
-R:Gram:Det:DetCombi : 3
+R:Gram:Det:Combi : 3
 R:Gram:Det:LoAdj : 1
 R:Gram:Gustar : 1
 R:Gram:Gustar:Otros : 1
@@ -43,6 +45,8 @@ R:Prag:MarcadoresDisc : 6
 R:Prag:MarcadoresDisc:Igualdad : 3
 R:Prag:MarcadoresDisc:Probabilidad : 1
 R:Prag:MarcadoresDisc:Revision : 2
-R:Vocab : 2
+R:Vocab : 3
 R:Vocab:Entities : 2
 R:Vocab:Entities:Geo : 2
+R:Vocab:Fraseol : 1
+R:Vocab:Fraseol:LocAdv : 1

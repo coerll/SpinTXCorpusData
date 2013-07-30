@@ -3,17 +3,17 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:07 tt-346 AF006_1968_EP_SU2011_AD_05 
 "<Nos>"
-	"nosotros" Pronoun PPX Plural lang:es 00:00:00 00:00:07 tt-347 AF006_1968_EP_SU2011_AD_05 @Gram:Pron:Objeto ADD:658 
+	"nosotros" Pronoun PPX Plural lang:es 00:00:00 00:00:07 tt-347 AF006_1968_EP_SU2011_AD_05 @Gram:Pron:Objeto 
 "<puedes>"
 	"poder" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-348 AF006_1968_EP_SU2011_AD_05 
 "<contar>"
-	"contar" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-349 AF006_1968_EP_SU2011_AD_05 SUBSTITUTE:329 
+	"contar" Verb VLinf Infinitive lang:es 00:00:00 00:00:07 tt-349 AF006_1968_EP_SU2011_AD_05 
 "<historias>"
 	"historia" Noun NC Plural lang:es 00:00:00 00:00:07 tt-350 AF006_1968_EP_SU2011_AD_05 
 "<sobre>"
-	"sobre" Preposition PREP lang:es 00:00:00 00:00:07 tt-351 AF006_1968_EP_SU2011_AD_05 @Gram:Prep ADD:624 
+	"sobre" Preposition PREP lang:es 00:00:00 00:00:07 tt-351 AF006_1968_EP_SU2011_AD_05 @Gram:Prep 
 "<las>"
-	"el" Determiner ART Plural Fem lang:es 00:00:00 00:00:07 tt-352 AF006_1968_EP_SU2011_AD_05 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Plural Fem lang:es 00:00:00 00:00:07 tt-352 AF006_1968_EP_SU2011_AD_05 @Gram:Det:Art 
 "<tradiciones>"
 	"tradición" Noun NC Plural lang:es 00:00:00 00:00:07 tt-353 AF006_1968_EP_SU2011_AD_05 
 "<culturales>"
@@ -23,9 +23,9 @@
 "<celebras>"
 	"UNK" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-356 AF006_1968_EP_SU2011_AD_05 
 "<en>"
-	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-357 AF006_1968_EP_SU2011_AD_05 @Gram:Prep ADD:624 
+	"en" Preposition PREP lang:es 00:00:00 00:00:07 tt-357 AF006_1968_EP_SU2011_AD_05 @Gram:Prep 
 "<tu>"
-	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-358 AF006_1968_EP_SU2011_AD_05 @Gram:Det:Pos ADD:456 
+	"tú" Pronoun PPX Singular lang:es 00:00:00 00:00:07 tt-358 AF006_1968_EP_SU2011_AD_05 @Gram:Det:Pos 
 "<familia>"
 	"familia" Noun NC Singular lang:es 00:00:07 00:00:08 tt-359 AF006_1968_EP_SU2011_AD_05 
 "<$?>"
@@ -36,9 +36,9 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:08 00:00:15 tt-362 AF006_1968_EP_SU2011_AD_05 
 "<se>"
-	"se" Other SE lang:es 00:00:08 00:00:15 tt-363 AF006_1968_EP_SU2011_AD_05 @Gram:Pron:Otros ADD:677 
+	"se" Other SE lang:es 00:00:08 00:00:15 tt-363 AF006_1968_EP_SU2011_AD_05 @Gram:Pron:Otros 
 "<me>"
-	"yo" Pronoun PPX Singular lang:es 00:00:08 00:00:15 tt-364 AF006_1968_EP_SU2011_AD_05 @Gram:Pron:Objeto ADD:658 
+	"yo" Pronoun PPX Singular lang:es 00:00:08 00:00:15 tt-364 AF006_1968_EP_SU2011_AD_05 @Gram:Pron:Objeto 
 "<hace>"
 	"hacer" Verb VLfin Pres Indi Sing 3rd lang:es 00:00:08 00:00:15 tt-365 AF006_1968_EP_SU2011_AD_05 
 "<que>"
@@ -61,7 +61,7 @@
 	"." Punctuation FS lang:es 00:00:08 00:00:15 tt-374 AF006_1968_EP_SU2011_AD_05 
 
 "<Lo>"
-	"el" Determiner ART Singular lang:es 00:00:08 00:00:15 tt-375 AF006_1968_EP_SU2011_AD_05 ID:30 R:Gram:Det:LoAdj:31 ADDRELATION(Gram:Det:LoAdj):432 
+	"el" Determiner ART Singular lang:es 00:00:08 00:00:15 tt-375 AF006_1968_EP_SU2011_AD_05 ID:30 R:Gram:Det:LoAdj:31 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:08 00:00:15 tt-376 AF006_1968_EP_SU2011_AD_05 ID:31 
 "<más>"
@@ -69,7 +69,7 @@
 "<recordamos>"
 	"recordar" Verb VLfin Pres_or_Pret Indi Plural 1st lang:es 00:00:08 00:00:15 tt-378 AF006_1968_EP_SU2011_AD_05 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:08 00:00:15 tt-379 AF006_1968_EP_SU2011_AD_05 @Gram:SerEstar:Ser ID:34 R:Herit:Contacto:Mixtas:35 ADD:813 ADDRELATION(Herit:Contacto:Mixtas):1184 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:08 00:00:15 tt-379 AF006_1968_EP_SU2011_AD_05 @Gram:SerEstar:Ser ID:34 R:Herit:Contacto:Mixtas:35 
 <lang code="en">
 "<Thanksgiving>"
 	"Thanksgiving" Noun NP Singular lang:en 00:00:08 00:00:15 tt-380 AF006_1968_EP_SU2011_AD_05 ID:35 
@@ -77,13 +77,13 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:08 00:00:15 tt-381 AF006_1968_EP_SU2011_AD_05 
 "<porque>"
-	"porque" Conjunction CSUBX lang:es 00:00:20 00:00:26 tt-382 AF006_1968_EP_SU2011_AD_05 @Prag:MarcadoresDisc:Causa ADD:1099 
+	"porque" Conjunction CSUBX lang:es 00:00:20 00:00:26 tt-382 AF006_1968_EP_SU2011_AD_05 @Prag:MarcadoresDisc:Causa 
 "<siempre>"
 	"siempre" Adverb ADV lang:es 00:00:20 00:00:26 tt-383 AF006_1968_EP_SU2011_AD_05 
 "<tenemos>"
 	"tener" Verb VLfin Pres Indi Plural 1st lang:es 00:00:20 00:00:26 tt-384 AF006_1968_EP_SU2011_AD_05 
 "<un>"
-	"un" Determiner ART Singular lang:es 00:00:20 00:00:26 tt-385 AF006_1968_EP_SU2011_AD_05 ID:40 R:Herit:Contacto:Mixtas:41 ADDRELATION(Herit:Contacto:Mixtas):1189 
+	"un" Determiner ART Singular lang:es 00:00:20 00:00:26 tt-385 AF006_1968_EP_SU2011_AD_05 ID:40 R:Herit:Contacto:Mixtas:41 
 <lang code="en">
 "<Mexican>"
 	"Mexican" Noun NP Singular lang:en 00:00:20 00:00:26 tt-386 AF006_1968_EP_SU2011_AD_05 ID:41 
@@ -99,19 +99,19 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:20 00:00:26 tt-391 AF006_1968_EP_SU2011_AD_05 
 "<haber>"
-	"haber" Verb VLinf VHinf Infinitive lang:es 00:00:20 00:00:26 tt-392 AF006_1968_EP_SU2011_AD_05 SUBSTITUTE:329 
+	"haber" Verb VLinf VHinf Infinitive lang:es 00:00:20 00:00:26 tt-392 AF006_1968_EP_SU2011_AD_05 
 "<nachos>"
 	"UNK" Verb VLadj lang:es 00:00:20 00:00:26 tt-393 AF006_1968_EP_SU2011_AD_05 
 "<,>"
 	"," Punctuation CM lang:es 00:00:20 00:00:26 tt-394 AF006_1968_EP_SU2011_AD_05 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:20 00:00:26 tt-395 AF006_1968_EP_SU2011_AD_05 SUBSTITUTE:394 
+	"y" Conjunciton Conjunction CC lang:es 00:00:20 00:00:26 tt-395 AF006_1968_EP_SU2011_AD_05 
 "<tiene>"
 	"tener" Verb VMfin lang:es 00:00:20 00:00:26 tt-396 AF006_1968_EP_SU2011_AD_05 
 "<que>"
 	"que" Verb VMfin lang:es 00:00:20 00:00:26 tt-397 AF006_1968_EP_SU2011_AD_05 
 "<haber>"
-	"haber" Verb VLinf VHinf Infinitive lang:es 00:00:20 00:00:26 tt-398 AF006_1968_EP_SU2011_AD_05 @Gram:Haber:Exist SUBSTITUTE:329 ADD:829 
+	"haber" Verb VLinf VHinf Infinitive lang:es 00:00:20 00:00:26 tt-398 AF006_1968_EP_SU2011_AD_05 @Gram:Haber:Exist 
 "<frijoles>"
 	"frijol" Noun NC Plural lang:es 00:00:26 00:00:32 tt-399 AF006_1968_EP_SU2011_AD_05 
 "<,>"
@@ -119,7 +119,7 @@
 "<eso>"
 	"ese" Determiner DM Singular lang:es 00:00:26 00:00:32 tt-401 AF006_1968_EP_SU2011_AD_05 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:26 00:00:32 tt-402 AF006_1968_EP_SU2011_AD_05 @Gram:SerEstar:Ser ADD:813 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:26 00:00:32 tt-402 AF006_1968_EP_SU2011_AD_05 @Gram:SerEstar:Ser 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:26 00:00:32 tt-403 AF006_1968_EP_SU2011_AD_05 
 <lang code="en">
@@ -127,16 +127,16 @@
 	"traditional" Adjective JJ lang:en 00:00:26 00:00:32 tt-404 AF006_1968_EP_SU2011_AD_05 
 </lang>
 "<para>"
-	"para" Preposition PREP lang:es 00:00:26 00:00:32 tt-405 AF006_1968_EP_SU2011_AD_05 @Gram:Prep:Para SUBSTITUTE:345 ADD:588 
+	"para" Preposition PREP lang:es 00:00:26 00:00:32 tt-405 AF006_1968_EP_SU2011_AD_05 @Gram:Prep:Para 
 "<nosotros>"
-	"nosotros" Pronoun PPX Plural lang:es 00:00:26 00:00:32 tt-406 AF006_1968_EP_SU2011_AD_05 @Gram:Pron:Sujeto ADD:634 
+	"nosotros" Pronoun PPX Plural lang:es 00:00:26 00:00:32 tt-406 AF006_1968_EP_SU2011_AD_05 @Gram:Pron:Sujeto 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:26 00:00:32 tt-407 AF006_1968_EP_SU2011_AD_05 
 
 "<Aparte>"
 	"aparte" Adverb ADV lang:es 00:00:26 00:00:32 tt-408 AF006_1968_EP_SU2011_AD_05 
 "<del>"
-	"del" Preposition PDEL lang:es 00:00:26 00:00:32 tt-409 AF006_1968_EP_SU2011_AD_05 @Gram:Prep ADD:624 
+	"del" Preposition PDEL lang:es 00:00:26 00:00:32 tt-409 AF006_1968_EP_SU2011_AD_05 @Gram:Prep 
 <lang code="en">
 "<turkey>"
 	"turkey" Noun NN lang:en 00:00:26 00:00:32 tt-410 AF006_1968_EP_SU2011_AD_05 
@@ -148,11 +148,11 @@
 "<que>"
 	"que" Verb VMfin lang:es 00:00:26 00:00:32 tt-413 AF006_1968_EP_SU2011_AD_05 
 "<haber>"
-	"haber" Verb VLinf VHinf Infinitive lang:es 00:00:26 00:00:32 tt-414 AF006_1968_EP_SU2011_AD_05 @Gram:Haber:Exist SUBSTITUTE:329 ADD:829 
+	"haber" Verb VLinf VHinf Infinitive lang:es 00:00:26 00:00:32 tt-414 AF006_1968_EP_SU2011_AD_05 @Gram:Haber:Exist 
 "<frijoles>"
 	"frijol" Noun NC Plural lang:es 00:00:26 00:00:32 tt-415 AF006_1968_EP_SU2011_AD_05 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:32 00:00:33 tt-416 AF006_1968_EP_SU2011_AD_05 SUBSTITUTE:394 
+	"y" Conjunciton Conjunction CC lang:es 00:00:32 00:00:33 tt-416 AF006_1968_EP_SU2011_AD_05 
 "<nachos>"
 	"UNK" Noun NC Plural lang:es 00:00:32 00:00:33 tt-417 AF006_1968_EP_SU2011_AD_05 
 "<$.>"
@@ -172,11 +172,11 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:33 00:00:40 tt-424 AF006_1968_EP_SU2011_AD_05 
 "<te>"
-	"tú" Pronoun PPX Singular lang:es 00:00:33 00:00:40 tt-425 AF006_1968_EP_SU2011_AD_05 @Gram:Pron:Objeto ADD:658 
+	"tú" Pronoun PPX Singular lang:es 00:00:33 00:00:40 tt-425 AF006_1968_EP_SU2011_AD_05 @Gram:Pron:Objeto 
 "<gustaba>"
-	"gustar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:33 00:00:40 tt-426 AF006_1968_EP_SU2011_AD_05 @Gram:Imperf @Gram:Gustar:Interlocutor ADD:689 ADD:739 
+	"gustar" Verb VLfin Imp Indi Sing 1st_or_3rd lang:es 00:00:33 00:00:40 tt-426 AF006_1968_EP_SU2011_AD_05 @Gram:Imperf @Gram:Gustar:Interlocutor 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:33 00:00:40 tt-427 AF006_1968_EP_SU2011_AD_05 @Gram:Det:Art ADD:426 
+	"el" Determiner ART Singular Fem lang:es 00:00:33 00:00:40 tt-427 AF006_1968_EP_SU2011_AD_05 @Gram:Det:Art 
 "<escuela>"
 	"escuela" Noun NC Singular lang:es 00:00:33 00:00:40 tt-428 AF006_1968_EP_SU2011_AD_05 
 "<$?>"

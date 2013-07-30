@@ -1,10 +1,10 @@
 MM043_1986_CT_SU2011_ER_16
-@Gram : 150
-@Gram:Det : 31
+@Gram : 151
+@Gram:Det : 32
 @Gram:Det:Art : 20
 @Gram:Det:CuantIndef : 4
 @Gram:Det:Demo : 4
-@Gram:Det:Pron : 3
+@Gram:Det:Pron : 4
 @Gram:Haber : 3
 @Gram:Haber:Exist : 3
 @Gram:Imperf : 7
@@ -44,8 +44,9 @@ R:Herit:Contacto:Mixtas : 1
 R:Prag : 6
 R:Prag:MarcadoresDisc : 6
 R:Prag:MarcadoresDisc:Igualdad : 6
-R:Vocab : 3
+R:Vocab : 5
 R:Vocab:Entities : 2
 R:Vocab:Entities:Geo : 2
-R:Vocab:Fraseol : 1
+R:Vocab:Fraseol : 3
+R:Vocab:Fraseol:LocAdv : 2
 R:Vocab:Fraseol:VerbPrep : 1

@@ -1,5 +1,5 @@
 AM032_1952_CT_SU2011_VA_03
-@Gram : 266
+@Gram : 265
 @Gram:Det : 55
 @Gram:Det:Art : 37
 @Gram:Det:Demo : 2
@@ -11,7 +11,7 @@ AM032_1952_CT_SU2011_VA_03
 @Gram:Indefinido : 25
 @Gram:MSub : 7
 @Gram:MSub:Pres : 7
-@Gram:Prep : 66
+@Gram:Prep : 65
 @Gram:Prep:Para : 2
 @Gram:Prep:Por : 6
 @Gram:Pron : 42
@@ -28,9 +28,11 @@ AM032_1952_CT_SU2011_VA_03
 @Prag:MarcadoresDisc:Causa : 5
 @Prag:MarcadoresDisc:Igualdad : 1
 @Prag:MarcadoresDisc:Revision : 7
+R:Func : 1
+R:Func:Agradecer : 1
 R:Gram : 13
 R:Gram:Det : 8
-R:Gram:Det:DetCombi : 2
+R:Gram:Det:Combi : 2
 R:Gram:Det:LoAdj : 6
 R:Gram:Genero : 1
 R:Gram:Genero:ExcepMasc : 1
@@ -41,12 +43,14 @@ R:Gram:VFut:Perifrasis : 3
 R:Herit : 2
 R:Herit:Contacto : 2
 R:Herit:Contacto:Mixtas : 2
-R:Prag : 3
-R:Prag:MarcadoresDisc : 3
+R:Prag : 4
+R:Prag:MarcadoresDisc : 4
+R:Prag:MarcadoresDisc:Causa : 1
 R:Prag:MarcadoresDisc:Probabilidad : 2
 R:Prag:MarcadoresDisc:Revision : 1
-R:Vocab : 4
+R:Vocab : 5
 R:Vocab:Entities : 1
 R:Vocab:Entities:Geo : 1
-R:Vocab:Fraseol : 3
+R:Vocab:Fraseol : 4
+R:Vocab:Fraseol:LocAdv : 1
 R:Vocab:Fraseol:VerbPrep : 3
