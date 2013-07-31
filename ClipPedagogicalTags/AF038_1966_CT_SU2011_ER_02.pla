@@ -1,5 +1,5 @@
 AF038_1966_CT_SU2011_ER_02
-@Gram : 109
+@Gram : 110
 @Gram:Det : 40
 @Gram:Det:Art : 31
 @Gram:Det:CuantIndef : 3
@@ -8,7 +8,7 @@ AF038_1966_CT_SU2011_ER_02
 @Gram:Det:Pron : 2
 @Gram:Haber : 1
 @Gram:Haber:Exist : 1
-@Gram:Indefinido : 4
+@Gram:Indefinido : 5
 @Gram:MSub : 9
 @Gram:MSub:Pres : 2
 @Gram:MSub:Pret : 7
@@ -27,6 +27,9 @@ AF038_1966_CT_SU2011_ER_02
 @Prag:MarcadoresDisc:Revision : 3
 @Prag:RecuDiscurso : 2
 @Prag:RecuDiscurso:GanarTiempo : 2
+R:Func : 1
+R:Func:Referir : 1
+R:Func:Referir:Otros : 1
 R:Gram : 9
 R:Gram:Aux : 1
 R:Gram:Aux:Haber : 1
