@@ -3,11 +3,11 @@
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:00 00:00:07 tt-2115 MF013_1937_EP_SU2011_AD_05 
 "<Cuál>"
-	"cuál" Pronoun INT Singular lang:es 00:00:00 00:00:07 tt-2116 MF013_1937_EP_SU2011_AD_05 
+	"cuál" Pronoun INT Singular lang:es 00:00:00 00:00:07 tt-2116 MF013_1937_EP_SU2011_AD_05 ID:2 R:Func:Opiniones:Pedir:4 
 "<crees>"
-	"crear|creer" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2117 MF013_1937_EP_SU2011_AD_05 
+	"creer" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2117 MF013_1937_EP_SU2011_AD_05 
 "<que>"
-	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-2118 MF013_1937_EP_SU2011_AD_05 
+	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-2118 MF013_1937_EP_SU2011_AD_05 ID:4 
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:00 00:00:07 tt-2119 MF013_1937_EP_SU2011_AD_05 @Gram:SerEstar:Ser 
 "<la>"
@@ -17,7 +17,7 @@
 "<cúal>"
 	"UNK" Noun NC Singular lang:es 00:00:00 00:00:07 tt-2122 MF013_1937_EP_SU2011_AD_05 
 "<crees>"
-	"crear|creer" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2123 MF013_1937_EP_SU2011_AD_05 
+	"creer" Verb VLfin Pres Indi Sing 2nd lang:es 00:00:00 00:00:07 tt-2123 MF013_1937_EP_SU2011_AD_05 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:00:00 00:00:07 tt-2124 MF013_1937_EP_SU2011_AD_05 
 "<es>"
@@ -105,13 +105,13 @@
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:00:29 00:00:36 tt-2164 MF013_1937_EP_SU2011_AD_05 @Gram:Pron:Sujeto 
 "<estoy>"
-	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:29 00:00:36 tt-2165 MF013_1937_EP_SU2011_AD_05 @Gram:SerEstar:Estar 
+	"estar" Verb VEfin Pres Indi Sing 1st lang:es 00:00:29 00:00:36 tt-2165 MF013_1937_EP_SU2011_AD_05 @Gram:SerEstar:Estar ID:51 R:Func:DescribirPersonas:FormaDeSer:54 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:29 00:00:36 tt-2166 MF013_1937_EP_SU2011_AD_05 
 "<orgullosa>"
 	"orgulloso" Adjective ADJ Singular lang:es 00:00:29 00:00:36 tt-2167 MF013_1937_EP_SU2011_AD_05 
 "<de>"
-	"de" Preposition PREP lang:es 00:00:29 00:00:36 tt-2168 MF013_1937_EP_SU2011_AD_05 @Gram:Prep 
+	"de" Preposition PREP lang:es 00:00:29 00:00:36 tt-2168 MF013_1937_EP_SU2011_AD_05 @Gram:Prep ID:54 
 "<ellos>"
 	"él" Pronoun PPX Plural lang:es 00:00:29 00:00:36 tt-2169 MF013_1937_EP_SU2011_AD_05 @Gram:Pron:Sujeto 
 "<porque>"
@@ -434,11 +434,11 @@
 <speaker type="int">
 
 "<$¿>"
-	"¿" Punctuation FS lang:es 00:01:37 00:01:44 tt-2324 MF013_1937_EP_SU2011_AD_05 
+	"¿" Punctuation FS lang:es 00:01:37 00:01:44 tt-2324 MF013_1937_EP_SU2011_AD_05 ID:210 R:Func:Opiniones:Pedir:212 
 "<Crees>"
-	"crear|creer" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:37 00:01:44 tt-2325 MF013_1937_EP_SU2011_AD_05 
+	"creer" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:37 00:01:44 tt-2325 MF013_1937_EP_SU2011_AD_05 
 "<que>"
-	"que" Conjunction CQUE lang:es 00:01:37 00:01:44 tt-2326 MF013_1937_EP_SU2011_AD_05 
+	"que" Conjunction CQUE lang:es 00:01:37 00:01:44 tt-2326 MF013_1937_EP_SU2011_AD_05 ID:212 
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:37 00:01:44 tt-2327 MF013_1937_EP_SU2011_AD_05 @Gram:SerEstar:Ser 
 "<de>"
@@ -515,11 +515,11 @@
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:51 00:01:58 tt-2360 MF013_1937_EP_SU2011_AD_05 
 "<cómo>"
-	"cómo" Adverb ADV lang:es 00:01:51 00:01:58 tt-2361 MF013_1937_EP_SU2011_AD_05 
+	"cómo" Adverb ADV lang:es 00:01:51 00:01:58 tt-2361 MF013_1937_EP_SU2011_AD_05 ID:247 R:Func:Opiniones:Pedir:249 
 "<crees>"
-	"crear|creer" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:51 00:01:58 tt-2362 MF013_1937_EP_SU2011_AD_05 
+	"creer" Verb VLfin Pres Indi Sing 2nd lang:es 00:01:51 00:01:58 tt-2362 MF013_1937_EP_SU2011_AD_05 
 "<que>"
-	"que" Conjunction CQUE lang:es 00:01:51 00:01:58 tt-2363 MF013_1937_EP_SU2011_AD_05 
+	"que" Conjunction CQUE lang:es 00:01:51 00:01:58 tt-2363 MF013_1937_EP_SU2011_AD_05 ID:249 
 "<les>"
 	"él" Pronoun PPC Plural lang:es 00:01:51 00:01:58 tt-2364 MF013_1937_EP_SU2011_AD_05 @Gram:Pron:Objeto 
 "<ha>"

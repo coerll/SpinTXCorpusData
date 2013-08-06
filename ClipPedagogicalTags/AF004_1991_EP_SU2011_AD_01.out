@@ -53,11 +53,11 @@
 	"so" Adverb RB lang:en 00:00:04 00:00:11 tt-985 AF004_1991_EP_SU2011_AD_01 
 </lang>
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:04 00:00:11 tt-986 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:04 00:00:11 tt-986 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art ID:22 R:Func:DescribirPersonas:FormaDeSer:24 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:04 00:00:11 tt-987 AF004_1991_EP_SU2011_AD_01 
 "<tímida>"
-	"tímido" Adjective ADJ Singular lang:es 00:00:04 00:00:11 tt-988 AF004_1991_EP_SU2011_AD_01 
+	"tímido" Adjective ADJ Singular lang:es 00:00:04 00:00:11 tt-988 AF004_1991_EP_SU2011_AD_01 ID:24 
 <lang code="en">
 "<I>"
 	"I" Pronoun PP lang:en 00:00:04 00:00:11 tt-989 AF004_1991_EP_SU2011_AD_01 
@@ -93,7 +93,7 @@
 	"shy" Adjective JJ lang:en 00:00:14 00:00:21 tt-1000 AF004_1991_EP_SU2011_AD_01 
 </lang>
 "<en>"
-	"en" Conjunction CSUBF lang:es 00:00:14 00:00:21 tt-1001 AF004_1991_EP_SU2011_AD_01 
+	"en" Preposition PREP Conjunction CSUBF lang:es 00:00:14 00:00:21 tt-1001 AF004_1991_EP_SU2011_AD_01 @Gram:Prep 
 "<lo>"
 	"lo" Conjunction CSUBF lang:es 00:00:14 00:00:21 tt-1002 AF004_1991_EP_SU2011_AD_01 
 "<que>"
@@ -114,7 +114,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:21 00:00:27 tt-1009 AF004_1991_EP_SU2011_AD_01 
 "<en>"
-	"en" Other PE lang:es 00:00:21 00:00:27 tt-1010 AF004_1991_EP_SU2011_AD_01 
+	"en" Preposition PREP Other PE lang:es 00:00:21 00:00:27 tt-1010 AF004_1991_EP_SU2011_AD_01 @Gram:Prep 
 <lang code="en">
 "<high>"
 	"high" Adjective JJ lang:en 00:00:21 00:00:27 tt-1011 AF004_1991_EP_SU2011_AD_01 
@@ -200,15 +200,15 @@
 "<yo>"
 	"yo" Pronoun PPX Singular lang:es 00:00:27 00:00:33 tt-1045 AF004_1991_EP_SU2011_AD_01 @Gram:Pron:Sujeto 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:27 00:00:33 tt-1046 AF004_1991_EP_SU2011_AD_01 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:27 00:00:33 tt-1046 AF004_1991_EP_SU2011_AD_01 @Gram:Imperf @Gram:SerEstar:Ser ID:82 R:Func:DescribirPersonas:FormaDeSer:86 
 "<la>"
-	"el" Determiner ART Singular Fem lang:es 00:00:27 00:00:33 tt-1047 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art 
+	"el" Determiner ART Singular Fem lang:es 00:00:27 00:00:33 tt-1047 AF004_1991_EP_SU2011_AD_01 @Gram:Det:Art ID:83 R:Func:DescribirPersonas:FormaDeSer:85 
 "<más>"
 	"más" Adverb ADV lang:es 00:00:27 00:00:33 tt-1048 AF004_1991_EP_SU2011_AD_01 
 "<tímida>"
-	"tímido" Adjective ADJ Singular lang:es 00:00:33 00:00:34 tt-1049 AF004_1991_EP_SU2011_AD_01 
+	"tímido" Adjective ADJ Singular lang:es 00:00:33 00:00:34 tt-1049 AF004_1991_EP_SU2011_AD_01 ID:85 
 "<$.>"
-	"." Punctuation FS lang:es 00:00:33 00:00:34 tt-1050 AF004_1991_EP_SU2011_AD_01 
+	"." Punctuation FS lang:es 00:00:33 00:00:34 tt-1050 AF004_1991_EP_SU2011_AD_01 ID:86 
 </speaker>
 </text>
 

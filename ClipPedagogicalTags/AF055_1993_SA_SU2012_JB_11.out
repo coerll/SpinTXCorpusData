@@ -58,7 +58,7 @@
 "<dicen>"
 	"decir" Verb VLfin Pres Indi Plural 3rd lang:es 00:00:07 00:00:14 tt-4652 AF055_1993_SA_SU2012_JB_11 
 "<es>"
-	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:07 00:00:14 tt-4653 AF055_1993_SA_SU2012_JB_11 @Gram:SerEstar:Ser ID:29 R:Func:Sugerencias:33 
+	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:07 00:00:14 tt-4653 AF055_1993_SA_SU2012_JB_11 @Gram:SerEstar:Ser 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:00:07 00:00:14 tt-4654 AF055_1993_SA_SU2012_JB_11 
 "<importante>"
@@ -66,7 +66,7 @@
 "<no>"
 	"no" Adverb NEG lang:es 00:00:07 00:00:14 tt-4656 AF055_1993_SA_SU2012_JB_11 
 "<olvidar>"
-	"olvidar" Verb VLinf Infinitive lang:es 00:00:07 00:00:14 tt-4657 AF055_1993_SA_SU2012_JB_11 ID:33 
+	"olvidar" Verb VLinf Infinitive lang:es 00:00:07 00:00:14 tt-4657 AF055_1993_SA_SU2012_JB_11 
 "<quien>"
 	"quien" Pronoun REL Singular lang:es 00:00:07 00:00:14 tt-4658 AF055_1993_SA_SU2012_JB_11 
 "<eres>"
@@ -286,7 +286,7 @@
 "<,>"
 	"," Punctuation CM lang:es 00:00:46 00:00:53 tt-4763 AF055_1993_SA_SU2012_JB_11 
 "<en>"
-	"en" Conjunction CSUBF lang:es 00:00:46 00:00:53 tt-4764 AF055_1993_SA_SU2012_JB_11 
+	"en" Preposition PREP Conjunction CSUBF lang:es 00:00:46 00:00:53 tt-4764 AF055_1993_SA_SU2012_JB_11 @Gram:Prep 
 "<lo>"
 	"lo" Conjunction CSUBF lang:es 00:00:46 00:00:53 tt-4765 AF055_1993_SA_SU2012_JB_11 
 "<que>"

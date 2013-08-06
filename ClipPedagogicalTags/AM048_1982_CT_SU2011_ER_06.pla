@@ -30,9 +30,11 @@ AM048_1982_CT_SU2011_ER_06
 @Prag:MarcadoresDisc:Revision : 3
 @Prag:RecuDiscurso : 2
 @Prag:RecuDiscurso:GanarTiempo : 2
-R:Func : 1
+R:Func : 2
 R:Func:Deseos : 1
 R:Func:Deseos:Ajenos : 1
+R:Func:Opiniones : 1
+R:Func:Opiniones:Pedir : 1
 R:Gram : 8
 R:Gram:Aux : 1
 R:Gram:Aux:Haber : 1

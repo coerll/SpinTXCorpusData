@@ -15,6 +15,11 @@ AM011_1963_EP_SU2011_AD_01
 @Gram:SerEstar : 7
 @Gram:SerEstar:Estar : 1
 @Gram:SerEstar:Ser : 6
+R:Func : 2
+R:Func:DescribirPersonas : 1
+R:Func:DescribirPersonas:FormaDeSer : 1
+R:Func:Opiniones : 1
+R:Func:Opiniones:Pedir : 1
 R:Herit : 1
 R:Herit:Contacto : 1
 R:Herit:Contacto:Mixtas : 1

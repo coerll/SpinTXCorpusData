@@ -281,7 +281,7 @@
 "<maestra>"
 	"maestro" Plural Singular Noun NC lang:es 00:00:46 00:00:53 tt-3758 MM005_1967_EP_SU2011_AD_12 
 "<le>"
-	"él" Pronoun PPC Singular lang:es 00:00:53 00:00:58 tt-3759 MM005_1967_EP_SU2011_AD_12 @Gram:Pron:Objeto ID:136 R:Func:Referir:Propias:138 
+	"él" Pronoun PPC Singular lang:es 00:00:53 00:00:58 tt-3759 MM005_1967_EP_SU2011_AD_12 @Gram:Pron:Objeto ID:136 R:Func:Referir:138 
 "<pedí>"
 	"pedir" Verb VLfin Pret Indi Sing 1st lang:es 00:00:53 00:00:58 tt-3760 MM005_1967_EP_SU2011_AD_12 @Gram:Indefinido 
 "<que>"
@@ -600,11 +600,11 @@
 "<En>"
 	"en" Preposition PREP lang:es 00:01:46 00:01:51 tt-3912 MM005_1967_EP_SU2011_AD_12 @Gram:Prep 
 "<qué>"
-	"qué" Pronoun INT Singular lang:es 00:01:46 00:01:51 tt-3913 MM005_1967_EP_SU2011_AD_12 
+	"qué" Pronoun INT Singular lang:es 00:01:46 00:01:51 tt-3913 MM005_1967_EP_SU2011_AD_12 ID:290 R:Func:Opiniones:Pedir:292 
 "<pensabas>"
 	"pensar" Verb VLfin Imp Indi Sing 2nd lang:es 00:01:46 00:01:51 tt-3914 MM005_1967_EP_SU2011_AD_12 @Gram:Imperf 
 "<que>"
-	"que" Conjunction CQUE lang:es 00:01:46 00:01:51 tt-3915 MM005_1967_EP_SU2011_AD_12 
+	"que" Conjunction CQUE lang:es 00:01:46 00:01:51 tt-3915 MM005_1967_EP_SU2011_AD_12 ID:292 
 "<trabajarías>"
 	"UNK" Verb VLfin Cond Indi Sing 2nd lang:es 00:01:46 00:01:51 tt-3916 MM005_1967_EP_SU2011_AD_12 
 "<al>"
@@ -665,13 +665,13 @@
 "<pero>"
 	"pero" Conjunction CCAD lang:es 00:01:59 00:02:05 tt-3943 MM005_1967_EP_SU2011_AD_12 @Prag:MarcadoresDisc:Revision 
 "<en>"
-	"en" Adverb ADV lang:es 00:01:59 00:02:05 tt-3944 MM005_1967_EP_SU2011_AD_12 ID:321 R:Prag:MarcadoresDisc:Revision:322 
+	"en" Preposition PREP lang:es 00:01:59 00:02:05 tt-3944 MM005_1967_EP_SU2011_AD_12 @Gram:Prep ID:321 R:Prag:MarcadoresDisc:Revision:322 
 "<realidad>"
-	"realidad" Adverb ADV lang:es 00:01:59 00:02:05 tt-3945 MM005_1967_EP_SU2011_AD_12 ID:322 
+	"realidad" Noun NC Singular Fem lang:es 00:01:59 00:02:05 tt-3945 MM005_1967_EP_SU2011_AD_12 ID:322 
 "<en>"
-	"en" Adverb ADV lang:es 00:01:59 00:02:05 tt-3946 MM005_1967_EP_SU2011_AD_12 
+	"en" Preposition PREP lang:es 00:01:59 00:02:05 tt-3946 MM005_1967_EP_SU2011_AD_12 @Gram:Prep 
 "<ese>"
-	"ese" Determiner DM Singular lang:es 00:01:59 00:02:05 tt-3947 MM005_1967_EP_SU2011_AD_12 
+	"ese" Determiner DM Singular lang:es 00:01:59 00:02:05 tt-3947 MM005_1967_EP_SU2011_AD_12 @Gram:Det:Demo 
 "<momento>"
 	"momento" Noun NC Singular lang:es 00:01:59 00:02:05 tt-3948 MM005_1967_EP_SU2011_AD_12 
 "<yo>"
@@ -816,11 +816,11 @@
 "<gusta>"
 	"gustar" Verb VLfin Pres Indi Sing 3rd lang:es 00:02:27 00:02:34 tt-4016 MM005_1967_EP_SU2011_AD_12 ID:393 
 "<ser>"
-	"ser" Verb VLinf VSinf Infinitive lang:es 00:02:27 00:02:34 tt-4017 MM005_1967_EP_SU2011_AD_12 @Gram:SerEstar:Ser 
+	"ser" Verb VLinf VSinf Infinitive lang:es 00:02:27 00:02:34 tt-4017 MM005_1967_EP_SU2011_AD_12 @Gram:SerEstar:Ser ID:394 R:Func:DescribirPersonas:FormaDeSer:396 
 "<chistoso>"
 	"chistoso" Adjective ADJ Singular lang:es 00:02:27 00:02:34 tt-4018 MM005_1967_EP_SU2011_AD_12 
 "<,>"
-	"," Punctuation CM lang:es 00:02:27 00:02:34 tt-4019 MM005_1967_EP_SU2011_AD_12 
+	"," Punctuation CM lang:es 00:02:27 00:02:34 tt-4019 MM005_1967_EP_SU2011_AD_12 ID:396 
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:02:27 00:02:34 tt-4020 MM005_1967_EP_SU2011_AD_12 
 "<verdad>"

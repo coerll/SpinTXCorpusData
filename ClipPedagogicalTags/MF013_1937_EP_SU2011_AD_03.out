@@ -80,7 +80,7 @@
 "<ser>"
 	"ser" Verb VLinf VSinf Infinitive lang:es 00:00:19 00:00:26 tt-1517 MF013_1937_EP_SU2011_AD_03 @Gram:SerEstar:Ser 
 "<uno>"
-	"uno" Determiner CARD Singular lang:es 00:00:19 00:00:26 tt-1518 MF013_1937_EP_SU2011_AD_03 
+	"uno" Determiner CARD Singular lang:es 00:00:19 00:00:26 tt-1518 MF013_1937_EP_SU2011_AD_03 @Gram:Pron:Sujeto 
 "<para>"
 	"para" Preposition PREP lang:es 00:00:19 00:00:26 tt-1519 MF013_1937_EP_SU2011_AD_03 @Gram:Prep:Para 
 "<el>"
@@ -126,11 +126,11 @@
 "<como>"
 	"como" Conjunction CSUBX lang:es 00:00:37 00:00:38 tt-1540 MF013_1937_EP_SU2011_AD_03 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:37 00:00:38 tt-1541 MF013_1937_EP_SU2011_AD_03 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:00:37 00:00:38 tt-1541 MF013_1937_EP_SU2011_AD_03 @Gram:Imperf @Gram:SerEstar:Ser ID:61 R:Func:DescribirPersonas:FormaDeSer:63 
 "<amable>"
 	"amable" Adjective ADJ Singular lang:es 00:00:37 00:00:38 tt-1542 MF013_1937_EP_SU2011_AD_03 
 "<y>"
-	"y" Conjunciton Conjunction CC lang:es 00:00:37 00:00:38 tt-1543 MF013_1937_EP_SU2011_AD_03 
+	"y" Conjunciton Conjunction CC lang:es 00:00:37 00:00:38 tt-1543 MF013_1937_EP_SU2011_AD_03 ID:63 
 "<todo>"
 	"todo" Determiner QU lang:es 00:00:37 00:00:38 tt-1544 MF013_1937_EP_SU2011_AD_03 
 "<$.>"
@@ -452,13 +452,13 @@
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:42 00:01:49 tt-1693 MF013_1937_EP_SU2011_AD_03 
 "<era>"
-	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:42 00:01:49 tt-1694 MF013_1937_EP_SU2011_AD_03 @Gram:Imperf @Gram:SerEstar:Ser 
+	"ser" Verb VEfin Imp Indi Sing 1st_or_3rd lang:es 00:01:42 00:01:49 tt-1694 MF013_1937_EP_SU2011_AD_03 @Gram:Imperf @Gram:SerEstar:Ser ID:214 R:Func:DescribirPersonas:FormaDeSer:217 
 "<muy>"
 	"muy" Adverb ADV lang:es 00:01:42 00:01:49 tt-1695 MF013_1937_EP_SU2011_AD_03 
 "<trabajador>"
 	"trabajador" Adjective ADJ Singular lang:es 00:01:42 00:01:49 tt-1696 MF013_1937_EP_SU2011_AD_03 
 "<,>"
-	"," Punctuation CM lang:es 00:01:42 00:01:49 tt-1697 MF013_1937_EP_SU2011_AD_03 
+	"," Punctuation CM lang:es 00:01:42 00:01:49 tt-1697 MF013_1937_EP_SU2011_AD_03 ID:217 
 "<que>"
 	"que" Conjunction CQUE lang:es 00:01:42 00:01:49 tt-1698 MF013_1937_EP_SU2011_AD_03 
 "<no>"
