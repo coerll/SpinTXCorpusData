@@ -130,6 +130,8 @@
 	"hacerlo" Verb VCLIinf lang:es 00:00:21 00:00:26 tt-4021 AM063_1992_CT_SU2012_CL_07 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:21 00:00:26 tt-4022 AM063_1992_CT_SU2012_CL_07 
+</speaker>
+<speaker type="subj">
 
 "<Trato>"
 	"trato" Noun NC Singular lang:es 00:00:26 00:00:32 tt-4023 AM063_1992_CT_SU2012_CL_07 
@@ -268,6 +270,8 @@
 	"Perú" Noun NP Singular lang:es 00:00:48 00:00:53 tt-4089 AM063_1992_CT_SU2012_CL_07 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:48 00:00:53 tt-4090 AM063_1992_CT_SU2012_CL_07 
+</speaker>
+<speaker type="int">
 
 "<Muy>"
 	"muy" Adverb ADV lang:es 00:00:53 00:00:58 tt-4091 AM063_1992_CT_SU2012_CL_07 
@@ -343,6 +347,8 @@
 	"ahora" Adverb ADV lang:es 00:00:58 00:01:03 tt-4125 AM063_1992_CT_SU2012_CL_07 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:58 00:01:03 tt-4126 AM063_1992_CT_SU2012_CL_07 
+</speaker>
+<speaker type="subj">
 
 "<No>"
 	"no" Adverb NEG lang:es 00:01:03 00:01:07 tt-4127 AM063_1992_CT_SU2012_CL_07 
@@ -364,6 +370,8 @@
 	"demás" Determiner QU lang:es 00:01:03 00:01:07 tt-4135 AM063_1992_CT_SU2012_CL_07 ID:175 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:03 00:01:07 tt-4136 AM063_1992_CT_SU2012_CL_07 
+</speaker>
+<speaker type="int">
 
 "<Bien>"
 	"bien" Adverb ADV lang:es 00:01:07 00:01:10 tt-4137 AM063_1992_CT_SU2012_CL_07 
@@ -382,12 +390,14 @@
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:01:07 00:01:10 tt-4143 AM063_1992_CT_SU2012_CL_07 @Gram:SerEstar:Ser 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:01:07 00:01:10 tt-4144 AM063_1992_CT_SU2012_CL_07 
-<lang code="en">
+</speaker>
+<speaker type="subj">
 "<Sorry>"
 	"sorry" Adjective JJ lang:en 00:01:10 00:01:11 tt-4145 AM063_1992_CT_SU2012_CL_07 
-</lang>
 "<$.>"
 	"." Punctuation FS lang:es 00:01:10 00:01:11 tt-4146 AM063_1992_CT_SU2012_CL_07 
+</speaker>
+<speaker type="int">
 
 "<Está>"
 	"estar" Verb VEfin Pres Indi Sing 3rd lang:es 00:01:11 00:01:17 tt-4147 AM063_1992_CT_SU2012_CL_07 @Gram:SerEstar:Estar 

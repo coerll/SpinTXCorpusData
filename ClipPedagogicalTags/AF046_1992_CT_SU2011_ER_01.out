@@ -1,5 +1,5 @@
 <text id="AF046_1992_CT_SU2011_ER_01">
-<speaker type="int">
+<speaker type="subj">
 "<Yo>"
 	"yo" Pronoun PPX Singular lang:es 00:00:00 00:00:02 tt-44 AF046_1992_CT_SU2011_ER_01 @Gram:Pron:Sujeto 
 "<soy>"
@@ -16,6 +16,8 @@
 </lang>
 "<$.>"
 	"." Punctuation FS lang:es 00:00:00 00:00:02 tt-50 AF046_1992_CT_SU2011_ER_01 
+</speaker>
+<speaker type="int">
 
 "<Eh>"
 	"eh" Noun NP Singular lang:es 00:00:02 00:00:04 tt-51 AF046_1992_CT_SU2011_ER_01 
@@ -160,6 +162,8 @@
 	"ser" Verb VSfin Pres Indi Plural 3rd lang:es 00:00:19 00:00:21 tt-114 AF046_1992_CT_SU2011_ER_01 @Gram:SerEstar:Ser 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:19 00:00:21 tt-115 AF046_1992_CT_SU2011_ER_01 
+</speaker>
+<speaker type="subj">
 "<Sí>"
 	"sí" Adverb ADV lang:es 00:00:21 00:00:22 tt-116 AF046_1992_CT_SU2011_ER_01 
 "<,>"
@@ -178,6 +182,8 @@
 	"Salvador" Noun NP Singular lang:es 00:00:21 00:00:22 tt-123 AF046_1992_CT_SU2011_ER_01 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:21 00:00:22 tt-124 AF046_1992_CT_SU2011_ER_01 
+</speaker>
+<speaker type="int">
 
 "<Y>"
 	"y" Conjunciton CC lang:es 00:00:22 00:00:25 tt-125 AF046_1992_CT_SU2011_ER_01 
@@ -285,6 +291,8 @@
 	"hermano" Noun NC Plural lang:es 00:00:33 00:00:35 tt-170 AF046_1992_CT_SU2011_ER_01 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:33 00:00:35 tt-171 AF046_1992_CT_SU2011_ER_01 
+</speaker>
+<speaker type="subj">
 
 "<Sí>"
 	"sí" Adverb ADV lang:es 00:00:35 00:00:38 tt-172 AF046_1992_CT_SU2011_ER_01 
@@ -308,6 +316,8 @@
 	"pequeño" Adjective ADJ Singular lang:es 00:00:35 00:00:38 tt-181 AF046_1992_CT_SU2011_ER_01 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:35 00:00:38 tt-182 AF046_1992_CT_SU2011_ER_01 
+</speaker>
+<speaker type="int">
 
 "<Y>"
 	"y" Conjunciton CC lang:es 00:00:38 00:00:43 tt-183 AF046_1992_CT_SU2011_ER_01 
@@ -556,11 +566,15 @@
 	"Unidos" Noun NP Plural lang:es 00:01:07 00:01:12 tt-295 AF046_1992_CT_SU2011_ER_01 ID:252 
 "<$?>"
 	"?" Punctuation FS lang:es 00:01:07 00:01:12 tt-296 AF046_1992_CT_SU2011_ER_01 
+</speaker>
+<speaker type="subj">
 
 "<Sí>"
 	"sí" Adverb ADV lang:es 00:01:12 00:01:13 tt-297 AF046_1992_CT_SU2011_ER_01 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:12 00:01:13 tt-298 AF046_1992_CT_SU2011_ER_01 
+</speaker>
+<speaker type="int">
 
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:01:13 00:01:18 tt-299 AF046_1992_CT_SU2011_ER_01 
@@ -797,8 +811,10 @@
 	"universidad" Noun NC Singular lang:es 00:01:39 00:01:42 tt-399 AF046_1992_CT_SU2011_ER_01 
 "<de>"
 	"de" Preposition PREP lang:es 00:01:39 00:01:42 tt-400 AF046_1992_CT_SU2011_ER_01 @Gram:Prep 
-"<Tejas>"
-	"UNK" Noun NP Plural lang:es 00:01:39 00:01:42 tt-401 AF046_1992_CT_SU2011_ER_01 
+<lang code="en">
+"<Texas>"
+	"Texas" Noun NP Plural lang:en 00:01:39 00:01:42 tt-401 AF046_1992_CT_SU2011_ER_01 
+</lang>
 "<,>"
 	"," Punctuation CM lang:es 00:01:39 00:01:42 tt-402 AF046_1992_CT_SU2011_ER_01 
 "<en>"

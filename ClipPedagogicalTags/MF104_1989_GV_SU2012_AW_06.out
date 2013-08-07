@@ -52,6 +52,8 @@
 	"qué" Adverb ADV lang:es 00:00:11 00:00:13 tt-1971 MF104_1989_GV_SU2012_AW_06 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:11 00:00:13 tt-1972 MF104_1989_GV_SU2012_AW_06 
+</speaker>
+<speaker type="subj">
 
 "<Porque>"
 	"porque" Conjunction CSUBX lang:es 00:00:13 00:00:20 tt-1973 MF104_1989_GV_SU2012_AW_06 @Prag:MarcadoresDisc:Causa 
@@ -82,6 +84,8 @@
 	"siempre" Adverb ADV lang:es 00:00:13 00:00:20 tt-1984 MF104_1989_GV_SU2012_AW_06 
 "<...>"
 	"..." Punctuation DOTS lang:es 00:00:13 00:00:20 tt-1985 MF104_1989_GV_SU2012_AW_06 
+</speaker>
+<speaker type="int">
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:20 00:00:23 tt-1986 MF104_1989_GV_SU2012_AW_06 
 "<Y>"
@@ -210,8 +214,10 @@
 	"clásico" Adjective ADJ Plural lang:es 00:00:36 00:00:43 tt-2042 MF104_1989_GV_SU2012_AW_06 
 "<de>"
 	"de" Preposition PREP lang:es 00:00:36 00:00:43 tt-2043 MF104_1989_GV_SU2012_AW_06 @Gram:Prep 
-"<Tejas>"
-	"UNK" Noun NP Plural lang:es 00:00:36 00:00:43 tt-2044 MF104_1989_GV_SU2012_AW_06 
+<lang code="en">
+"<Texas>"
+	"Texas" Noun NP Plural lang:en 00:00:36 00:00:43 tt-2044 MF104_1989_GV_SU2012_AW_06 
+</lang>
 "<$.>"
 	"." Punctuation FS lang:es 00:00:36 00:00:43 tt-2045 MF104_1989_GV_SU2012_AW_06 
 
@@ -379,11 +385,15 @@
 	"competencia" Noun NC Plural lang:es 00:01:23 00:01:25 tt-2116 MF104_1989_GV_SU2012_AW_06 
 "<$?>"
 	"?" Punctuation FS lang:es 00:01:23 00:01:25 tt-2117 MF104_1989_GV_SU2012_AW_06 
+</speaker>
+<speaker type="subj">
 
 "<Sí>"
 	"sí" Adverb ADV lang:es 00:01:25 00:01:26 tt-2118 MF104_1989_GV_SU2012_AW_06 
 "<$.>"
 	"." Punctuation FS lang:es 00:01:25 00:01:26 tt-2119 MF104_1989_GV_SU2012_AW_06 
+</speaker>
+<speaker type="int">
 
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:01:26 00:01:28 tt-2120 MF104_1989_GV_SU2012_AW_06 
@@ -566,6 +576,8 @@
 	"sentir" Verb VLfin Imp Indi Sing 2nd lang:es 00:02:02 00:02:05 tt-2203 MF104_1989_GV_SU2012_AW_06 @Gram:Imperf 
 "<$?>"
 	"?" Punctuation FS lang:es 00:02:02 00:02:05 tt-2204 MF104_1989_GV_SU2012_AW_06 
+</speaker>
+<speaker type="subj">
 
 "<Me>"
 	"yo" Pronoun PPX Singular lang:es 00:02:05 00:02:12 tt-2205 MF104_1989_GV_SU2012_AW_06 @Gram:Pron:Objeto 

@@ -66,6 +66,8 @@
 	"tú" Pronoun PPX Singular lang:es 00:00:06 00:00:10 tt-350 AF050_1955_GV_FA2011_JT_03 @Gram:Pron:Sujeto 
 "<$?>"
 	"?" Punctuation FS lang:es 00:00:06 00:00:10 tt-351 AF050_1955_GV_FA2011_JT_03 
+</speaker>
+<speaker type="subj">
 
 "<Este>"
 	"este" Noun NC Singular lang:es 00:00:10 00:00:11 tt-352 AF050_1955_GV_FA2011_JT_03 
@@ -75,16 +77,22 @@
 	"UNK" Noun NC Singular lang:es 00:00:10 00:00:11 tt-354 AF050_1955_GV_FA2011_JT_03 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:10 00:00:11 tt-355 AF050_1955_GV_FA2011_JT_03 
+</speaker>
+<speaker type="int">
 
 "<Tejana>"
 	"UNK" Noun NC Singular lang:es 00:00:11 00:00:12 tt-356 AF050_1955_GV_FA2011_JT_03 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:11 00:00:12 tt-357 AF050_1955_GV_FA2011_JT_03 
+</speaker>
+<speaker type="subj">
 
 "<Sí>"
 	"sí" Adverb ADV lang:es 00:00:12 00:00:13 tt-358 AF050_1955_GV_FA2011_JT_03 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:12 00:00:13 tt-359 AF050_1955_GV_FA2011_JT_03 
+</speaker>
+<speaker type="int">
 
 "<$¿>"
 	"¿" Punctuation FS lang:es 00:00:13 00:00:19 tt-360 AF050_1955_GV_FA2011_JT_03 
@@ -140,8 +148,10 @@
 	"aquí" Adverb ADV lang:es 00:00:19 00:00:26 tt-383 AF050_1955_GV_FA2011_JT_03 
 "<en>"
 	"en" Preposition PREP lang:es 00:00:19 00:00:26 tt-384 AF050_1955_GV_FA2011_JT_03 @Gram:Prep 
-"<Tejas>"
-	"UNK" Noun NP Plural lang:es 00:00:19 00:00:26 tt-385 AF050_1955_GV_FA2011_JT_03 
+<lang code="en">
+"<Texas>"
+	"Texas" Noun NP Plural lang:en 00:00:19 00:00:26 tt-385 AF050_1955_GV_FA2011_JT_03 
+</lang>
 "<$.>"
 	"." Punctuation FS lang:es 00:00:19 00:00:26 tt-386 AF050_1955_GV_FA2011_JT_03 
 
@@ -149,8 +159,10 @@
 	"y" Conjunciton Conjunction CC lang:es 00:00:19 00:00:26 tt-387 AF050_1955_GV_FA2011_JT_03 
 "<pues>"
 	"pues" Conjunction CSUBF lang:es 00:00:19 00:00:26 tt-388 AF050_1955_GV_FA2011_JT_03 
-"<Tejas>"
-	"UNK" Noun NP Plural lang:es 00:00:19 00:00:26 tt-389 AF050_1955_GV_FA2011_JT_03 
+<lang code="en">
+"<Texas>"
+	"Texas" Noun NP Plural lang:en 00:00:19 00:00:26 tt-389 AF050_1955_GV_FA2011_JT_03 
+</lang>
 "<es>"
 	"ser" Verb VSfin Pres Indi Sing 3rd lang:es 00:00:30 00:00:37 tt-390 AF050_1955_GV_FA2011_JT_03 @Gram:SerEstar:Ser 
 "<en>"
@@ -237,6 +249,8 @@
 	"UNK" Noun NC Singular lang:es 00:00:44 00:00:47 tt-429 AF050_1955_GV_FA2011_JT_03 
 "<$.>"
 	"." Punctuation FS lang:es 00:00:44 00:00:47 tt-430 AF050_1955_GV_FA2011_JT_03 
+</speaker>
+<speaker type="subj">
 
 "<Sí>"
 	"sí" Adverb ADV lang:es 00:00:47 00:00:48 tt-431 AF050_1955_GV_FA2011_JT_03 
